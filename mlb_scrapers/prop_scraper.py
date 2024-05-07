@@ -13,21 +13,22 @@ def link_scraper():
     prop_extension = "?category=odds&subcategory=batter-props"
     response = requests.get(f"{link}/leagues/baseball/mlb")
     soup = BeautifulSoup(response.text, 'html.parser')
-    table = soup.find('tbody', class_="sportsbook-table__body").find_all('tr')
-
+    tables = soup.find_all('tbody', class_="sportsbook-table__body")
     home = []
     away = []
     links = []
     i = 0
-    for tr in table:
-        a_element = tr.find('a', class_="event-cell-link")
-        team_name = a_element.find('div', class_ = "event-cell__name-text").text
-        if i % 2 == 0:
-            away.append(team_name)
-            links.append(link + a_element.get('href') + prop_extension)
-        else:
-            home.append(team_name)
-        i+=1
+    for table in tables:
+        table = table.find_all('tr')
+        for tr in table:
+            a_element = tr.find('a', class_="event-cell-link")
+            team_name = a_element.find('div', class_ = "event-cell__name-text").text
+            if i % 2 == 0:
+                away.append(team_name)
+                links.append(link + a_element.get('href') + prop_extension)
+            else:
+                home.append(team_name)
+            i+=1
 
     data_dict = {"away":away, "home":home, "link":links}
     data = pd.DataFrame(data_dict)
@@ -88,14 +89,31 @@ def scrape_props(page_source):
 
     return df
 
+def calculate_hold(df):
+    hold_list = []
+    for i, row in df.iterrows():
+        if (row['over_odds'] is not None) & (row['under_odds'] is not None):
+            if row['over_odds'].str[0] == '+':
+                over_prob = 100 / (100 +int(row['over_odds'].str[1:]) )
+                under_prob = int(row['under_odds'].str[1:]) / (100 + int(row['under_odds'].str[1:]))
+            else:
+                over_prob = int(row['over_odds'].str[1:]) / (100 + int(row['over_odds'].str[1:]))
+                under_prob = 100 / (100 +int(row['under_odds'].str[1:]))
+            hold = over_prob + under_prob - 1
+        hold_list.append(hold)
+    df['hold'] = hold_list
+    return df
+
 if __name__ == "__main__":
     all_data = []
     link_df = link_scraper()
     for _, row in link_df.iterrows():
-        page_source = initialize_driver(row['link'])
         if check_avail(row['link']):
+            page_source = initialize_driver(row['link'])
             game_df = scrape_props(page_source)
             game_df['home_tm'] = row['home']
             game_df['away_tm'] = row['away']
-        all_data.append(game_df)
-    pd.concat(all_data, ignore_index=True).to_csv('test2.csv')
+            all_data.append(game_df)
+    if len(all_data) > 1:
+        master_df = pd.concat(all_data, ignore_index=True)
+        master_df.to_csv('6pm_572024.csv')

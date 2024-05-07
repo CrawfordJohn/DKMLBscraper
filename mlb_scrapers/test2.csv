@@ -1,0 +1,206 @@
+,players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm
+0,Alec Bohm,0.5,+1000,0.5,−5000,Home Runs,PHI Phillies,SF Giants
+1,Blake Sabol,0.5,+800,0.5,−2000,Home Runs,PHI Phillies,SF Giants
+2,Brandon Marsh,0.5,+900,0.5,−3500,Home Runs,PHI Phillies,SF Giants
+3,Bryce Harper,0.5,+500,0.5,−1000,Home Runs,PHI Phillies,SF Giants
+4,Bryson Stott,0.5,+1200,0.5,−20000,Home Runs,PHI Phillies,SF Giants
+5,Edmundo Sosa,0.5,+1200,0.5,−10000,Home Runs,PHI Phillies,SF Giants
+6,J.T. Realmuto,0.5,+650,0.5,−1400,Home Runs,PHI Phillies,SF Giants
+7,Jung Hoo Lee,0.5,+950,0.5,−4000,Home Runs,PHI Phillies,SF Giants
+8,Kyle Schwarber,0.5,+380,0.5,−600,Home Runs,PHI Phillies,SF Giants
+9,LaMonte Wade Jr.,0.5,+650,0.5,−1400,Home Runs,PHI Phillies,SF Giants
+10,Matt Chapman,0.5,+425,0.5,−750,Home Runs,PHI Phillies,SF Giants
+11,Michael Conforto,0.5,+600,0.5,−1200,Home Runs,PHI Phillies,SF Giants
+12,Mike Yastrzemski,0.5,+600,0.5,−1200,Home Runs,PHI Phillies,SF Giants
+13,Nick Ahmed,0.5,+1200,0.5,−10000,Home Runs,PHI Phillies,SF Giants
+14,Nick Castellanos,0.5,+800,0.5,−2500,Home Runs,PHI Phillies,SF Giants
+15,Thairo Estrada,0.5,+900,0.5,−3000,Home Runs,PHI Phillies,SF Giants
+16,Wilmer Flores (SF),0.5,+700,0.5,−1600,Home Runs,PHI Phillies,SF Giants
+17,Alec Bohm,,+1700,,,1st Home Run,PHI Phillies,SF Giants
+18,Blake Sabol,,+1300,,,1st Home Run,PHI Phillies,SF Giants
+19,Brandon Marsh,,+1500,,,1st Home Run,PHI Phillies,SF Giants
+20,Bryce Harper,,+950,,−4000,1st Home Run,PHI Phillies,SF Giants
+21,Bryson Stott,,+2000,,,1st Home Run,PHI Phillies,SF Giants
+22,Edmundo Sosa,,+1900,,,1st Home Run,PHI Phillies,SF Giants
+23,J.T. Realmuto,,+1200,,−10000,1st Home Run,PHI Phillies,SF Giants
+24,Johan Rojas,,+2200,,,1st Home Run,PHI Phillies,SF Giants
+25,Jung Hoo Lee,,+1300,,,1st Home Run,PHI Phillies,SF Giants
+26,Kyle Schwarber,,+700,,−1600,1st Home Run,PHI Phillies,SF Giants
+27,LaMonte Wade Jr.,,+900,,−3500,1st Home Run,PHI Phillies,SF Giants
+28,Matt Chapman,,+800,,−2500,1st Home Run,PHI Phillies,SF Giants
+29,Michael Conforto,,+900,,−3000,1st Home Run,PHI Phillies,SF Giants
+30,Mike Yastrzemski,,+950,,−4000,1st Home Run,PHI Phillies,SF Giants
+31,Nick Ahmed,,+1800,,,1st Home Run,PHI Phillies,SF Giants
+32,Nick Castellanos,,+1400,,,1st Home Run,PHI Phillies,SF Giants
+33,Thairo Estrada,,+1400,,,1st Home Run,PHI Phillies,SF Giants
+34,Wilmer Flores (SF),,+1000,,−5000,1st Home Run,PHI Phillies,SF Giants
+35,Alec Bohm,1.5,+185,1.5,−255,Hits,PHI Phillies,SF Giants
+36,Blake Sabol,0.5,−130,0.5,+100,Hits,PHI Phillies,SF Giants
+37,Brandon Marsh,0.5,−210,0.5,+155,Hits,PHI Phillies,SF Giants
+38,Bryce Harper,0.5,−215,0.5,+160,Hits,PHI Phillies,SF Giants
+39,Bryson Stott,0.5,−225,0.5,+165,Hits,PHI Phillies,SF Giants
+40,Edmundo Sosa,0.5,−165,0.5,+120,Hits,PHI Phillies,SF Giants
+41,J.T. Realmuto,0.5,−275,0.5,+200,Hits,PHI Phillies,SF Giants
+42,Johan Rojas,0.5,−170,0.5,+125,Hits,PHI Phillies,SF Giants
+43,Jung Hoo Lee,1.5,+180,1.5,−250,Hits,PHI Phillies,SF Giants
+44,Kyle Schwarber,0.5,−185,0.5,+135,Hits,PHI Phillies,SF Giants
+45,LaMonte Wade Jr.,0.5,−165,0.5,+125,Hits,PHI Phillies,SF Giants
+46,Matt Chapman,0.5,−210,0.5,+155,Hits,PHI Phillies,SF Giants
+47,Michael Conforto,0.5,−195,0.5,+145,Hits,PHI Phillies,SF Giants
+48,Mike Yastrzemski,0.5,−145,0.5,+110,Hits,PHI Phillies,SF Giants
+49,Nick Ahmed,0.5,−130,0.5,+100,Hits,PHI Phillies,SF Giants
+50,Nick Castellanos,0.5,−200,0.5,+150,Hits,PHI Phillies,SF Giants
+51,Thairo Estrada,0.5,−205,0.5,+150,Hits,PHI Phillies,SF Giants
+52,Wilmer Flores (SF),0.5,−190,0.5,+140,Hits,PHI Phillies,SF Giants
+53,Alec Bohm,1.5,+110,1.5,−145,Total Bases,PHI Phillies,SF Giants
+54,Blake Sabol,0.5,−130,0.5,+100,Total Bases,PHI Phillies,SF Giants
+55,Brandon Marsh,1.5,+160,1.5,−215,Total Bases,PHI Phillies,SF Giants
+56,Bryce Harper,1.5,+130,1.5,−170,Total Bases,PHI Phillies,SF Giants
+57,Bryson Stott,1.5,+160,1.5,−215,Total Bases,PHI Phillies,SF Giants
+58,Edmundo Sosa,0.5,−165,0.5,+120,Total Bases,PHI Phillies,SF Giants
+59,J.T. Realmuto,1.5,+125,1.5,−165,Total Bases,PHI Phillies,SF Giants
+60,Johan Rojas,0.5,−170,0.5,+125,Total Bases,PHI Phillies,SF Giants
+61,Jung Hoo Lee,1.5,+110,1.5,−145,Total Bases,PHI Phillies,SF Giants
+62,Kyle Schwarber,1.5,+135,1.5,−185,Total Bases,PHI Phillies,SF Giants
+63,LaMonte Wade Jr.,0.5,−165,0.5,+125,Total Bases,PHI Phillies,SF Giants
+64,Matt Chapman,1.5,+125,1.5,−170,Total Bases,PHI Phillies,SF Giants
+65,Michael Conforto,0.5,−195,0.5,+145,Total Bases,PHI Phillies,SF Giants
+66,Mike Yastrzemski,0.5,−145,0.5,+110,Total Bases,PHI Phillies,SF Giants
+67,Nick Ahmed,0.5,−130,0.5,+100,Total Bases,PHI Phillies,SF Giants
+68,Nick Castellanos,0.5,−200,0.5,+150,Total Bases,PHI Phillies,SF Giants
+69,Thairo Estrada,0.5,−205,0.5,+150,Total Bases,PHI Phillies,SF Giants
+70,Wilmer Flores (SF),0.5,−190,0.5,+140,Total Bases,PHI Phillies,SF Giants
+71,Alec Bohm,0.5,+155,0.5,−210,RBIs,PHI Phillies,SF Giants
+72,Blake Sabol,0.5,+255,0.5,−370,RBIs,PHI Phillies,SF Giants
+73,Brandon Marsh,0.5,+190,0.5,−265,RBIs,PHI Phillies,SF Giants
+74,Bryce Harper,0.5,+165,0.5,−225,RBIs,PHI Phillies,SF Giants
+75,Bryson Stott,0.5,+200,0.5,−275,RBIs,PHI Phillies,SF Giants
+76,Edmundo Sosa,0.5,+235,0.5,−340,RBIs,PHI Phillies,SF Giants
+77,J.T. Realmuto,0.5,+205,0.5,−285,RBIs,PHI Phillies,SF Giants
+78,Johan Rojas,0.5,+275,0.5,−400,RBIs,PHI Phillies,SF Giants
+79,Jung Hoo Lee,0.5,+235,0.5,−340,RBIs,PHI Phillies,SF Giants
+80,Kyle Schwarber,0.5,+185,0.5,−255,RBIs,PHI Phillies,SF Giants
+81,LaMonte Wade Jr.,0.5,+255,0.5,−370,RBIs,PHI Phillies,SF Giants
+82,Matt Chapman,0.5,+160,0.5,−215,RBIs,PHI Phillies,SF Giants
+83,Michael Conforto,0.5,+180,0.5,−245,RBIs,PHI Phillies,SF Giants
+84,Mike Yastrzemski,0.5,+225,0.5,−320,RBIs,PHI Phillies,SF Giants
+85,Nick Ahmed,0.5,+310,0.5,−475,RBIs,PHI Phillies,SF Giants
+86,Nick Castellanos,0.5,+195,0.5,−270,RBIs,PHI Phillies,SF Giants
+87,Thairo Estrada,0.5,+235,0.5,−330,RBIs,PHI Phillies,SF Giants
+88,Wilmer Flores (SF),0.5,+205,0.5,−290,RBIs,PHI Phillies,SF Giants
+89,Alec Bohm,0.5,+140,0.5,−185,Runs Scored,PHI Phillies,SF Giants
+90,Blake Sabol,0.5,+205,0.5,−290,Runs Scored,PHI Phillies,SF Giants
+91,Brandon Marsh,0.5,+135,0.5,−180,Runs Scored,PHI Phillies,SF Giants
+92,Bryce Harper,0.5,+110,0.5,−150,Runs Scored,PHI Phillies,SF Giants
+93,Bryson Stott,0.5,+160,0.5,−220,Runs Scored,PHI Phillies,SF Giants
+94,Edmundo Sosa,0.5,+210,0.5,−295,Runs Scored,PHI Phillies,SF Giants
+95,J.T. Realmuto,0.5,+105,0.5,−140,Runs Scored,PHI Phillies,SF Giants
+96,Johan Rojas,0.5,+185,0.5,−255,Runs Scored,PHI Phillies,SF Giants
+97,Jung Hoo Lee,0.5,+115,0.5,−150,Runs Scored,PHI Phillies,SF Giants
+98,Kyle Schwarber,0.5,−105,0.5,−125,Runs Scored,PHI Phillies,SF Giants
+99,LaMonte Wade Jr.,0.5,+130,0.5,−175,Runs Scored,PHI Phillies,SF Giants
+100,Matt Chapman,0.5,+125,0.5,−165,Runs Scored,PHI Phillies,SF Giants
+101,Michael Conforto,0.5,+130,0.5,−175,Runs Scored,PHI Phillies,SF Giants
+102,Mike Yastrzemski,0.5,+170,0.5,−230,Runs Scored,PHI Phillies,SF Giants
+103,Nick Ahmed,0.5,+225,0.5,−320,Runs Scored,PHI Phillies,SF Giants
+104,Nick Castellanos,0.5,+175,0.5,−235,Runs Scored,PHI Phillies,SF Giants
+105,Thairo Estrada,0.5,+165,0.5,−225,Runs Scored,PHI Phillies,SF Giants
+106,Wilmer Flores (SF),0.5,+140,0.5,−190,Runs Scored,PHI Phillies,SF Giants
+107,Alec Bohm,1.5,−145,1.5,+110,Hits + Runs + RBIs,PHI Phillies,SF Giants
+108,Blake Sabol,0.5,−170,0.5,+130,Hits + Runs + RBIs,PHI Phillies,SF Giants
+109,Brandon Marsh,1.5,−115,1.5,−115,Hits + Runs + RBIs,PHI Phillies,SF Giants
+110,Bryce Harper,1.5,−120,1.5,−110,Hits + Runs + RBIs,PHI Phillies,SF Giants
+111,Bryson Stott,1.5,−110,1.5,−120,Hits + Runs + RBIs,PHI Phillies,SF Giants
+112,Edmundo Sosa,1.5,+125,1.5,−165,Hits + Runs + RBIs,PHI Phillies,SF Giants
+113,J.T. Realmuto,1.5,−135,1.5,+100,Hits + Runs + RBIs,PHI Phillies,SF Giants
+114,Johan Rojas,1.5,+120,1.5,−160,Hits + Runs + RBIs,PHI Phillies,SF Giants
+115,Jung Hoo Lee,1.5,−145,1.5,+110,Hits + Runs + RBIs,PHI Phillies,SF Giants
+116,Kyle Schwarber,1.5,−115,1.5,−115,Hits + Runs + RBIs,PHI Phillies,SF Giants
+117,LaMonte Wade Jr.,1.5,+115,1.5,−150,Hits + Runs + RBIs,PHI Phillies,SF Giants
+118,Matt Chapman,1.5,−115,1.5,−115,Hits + Runs + RBIs,PHI Phillies,SF Giants
+119,Michael Conforto,1.5,−110,1.5,−120,Hits + Runs + RBIs,PHI Phillies,SF Giants
+120,Mike Yastrzemski,1.5,+130,1.5,−170,Hits + Runs + RBIs,PHI Phillies,SF Giants
+121,Nick Ahmed,0.5,−165,0.5,+125,Hits + Runs + RBIs,PHI Phillies,SF Giants
+122,Nick Castellanos,1.5,+100,1.5,−135,Hits + Runs + RBIs,PHI Phillies,SF Giants
+123,Thairo Estrada,1.5,+105,1.5,−140,Hits + Runs + RBIs,PHI Phillies,SF Giants
+124,Wilmer Flores (SF),1.5,+105,1.5,−140,Hits + Runs + RBIs,PHI Phillies,SF Giants
+125,Brandon Marsh,0.5,+450,0.5,−800,Stolen Bases,PHI Phillies,SF Giants
+126,Bryce Harper,0.5,+600,0.5,−1400,Stolen Bases,PHI Phillies,SF Giants
+127,Bryson Stott,0.5,+330,0.5,−525,Stolen Bases,PHI Phillies,SF Giants
+128,Edmundo Sosa,0.5,+800,0.5,−2500,Stolen Bases,PHI Phillies,SF Giants
+129,J.T. Realmuto,0.5,+550,0.5,−1000,Stolen Bases,PHI Phillies,SF Giants
+130,Johan Rojas,0.5,+270,0.5,−400,Stolen Bases,PHI Phillies,SF Giants
+131,Jung Hoo Lee,0.5,+1100,0.5,−6000,Stolen Bases,PHI Phillies,SF Giants
+132,Matt Chapman,0.5,+1200,0.5,−20000,Stolen Bases,PHI Phillies,SF Giants
+133,Nick Ahmed,0.5,+1100,0.5,−8000,Stolen Bases,PHI Phillies,SF Giants
+134,Nick Castellanos,0.5,+950,0.5,−3500,Stolen Bases,PHI Phillies,SF Giants
+135,Thairo Estrada,0.5,+550,0.5,−1100,Stolen Bases,PHI Phillies,SF Giants
+136,Alec Bohm,0.5,−115,0.5,−115,Strikeouts,PHI Phillies,SF Giants
+137,Blake Sabol,1.5,+165,1.5,−230,Strikeouts,PHI Phillies,SF Giants
+138,Brandon Marsh,0.5,−290,0.5,+205,Strikeouts,PHI Phillies,SF Giants
+139,Bryce Harper,0.5,−285,0.5,+205,Strikeouts,PHI Phillies,SF Giants
+140,Bryson Stott,0.5,−115,0.5,−115,Strikeouts,PHI Phillies,SF Giants
+141,Edmundo Sosa,0.5,−150,0.5,+110,Strikeouts,PHI Phillies,SF Giants
+142,J.T. Realmuto,0.5,−245,0.5,+180,Strikeouts,PHI Phillies,SF Giants
+143,Johan Rojas,0.5,−120,0.5,−110,Strikeouts,PHI Phillies,SF Giants
+144,Jung Hoo Lee,0.5,−105,0.5,−125,Strikeouts,PHI Phillies,SF Giants
+145,Kyle Schwarber,1.5,+150,1.5,−205,Strikeouts,PHI Phillies,SF Giants
+146,LaMonte Wade Jr.,0.5,−170,0.5,+125,Strikeouts,PHI Phillies,SF Giants
+147,Matt Chapman,0.5,−300,0.5,+210,Strikeouts,PHI Phillies,SF Giants
+148,Michael Conforto,0.5,−240,0.5,+175,Strikeouts,PHI Phillies,SF Giants
+149,Mike Yastrzemski,0.5,−280,0.5,+200,Strikeouts,PHI Phillies,SF Giants
+150,Nick Ahmed,0.5,−220,0.5,+160,Strikeouts,PHI Phillies,SF Giants
+151,Nick Castellanos,0.5,−270,0.5,+195,Strikeouts,PHI Phillies,SF Giants
+152,Thairo Estrada,0.5,−175,0.5,+130,Strikeouts,PHI Phillies,SF Giants
+153,Wilmer Flores (SF),0.5,−145,0.5,+110,Strikeouts,PHI Phillies,SF Giants
+154,Alec Bohm,0.5,−200,0.5,+150,Singles,PHI Phillies,SF Giants
+155,Blake Sabol,0.5,+145,0.5,−195,Singles,PHI Phillies,SF Giants
+156,Brandon Marsh,0.5,−115,0.5,−115,Singles,PHI Phillies,SF Giants
+157,Bryce Harper,0.5,−110,0.5,−120,Singles,PHI Phillies,SF Giants
+158,Bryson Stott,0.5,−125,0.5,−105,Singles,PHI Phillies,SF Giants
+159,Edmundo Sosa,0.5,+100,0.5,−130,Singles,PHI Phillies,SF Giants
+160,J.T. Realmuto,0.5,−135,0.5,+105,Singles,PHI Phillies,SF Giants
+161,Johan Rojas,0.5,−115,0.5,−115,Singles,PHI Phillies,SF Giants
+162,Jung Hoo Lee,0.5,−165,0.5,+125,Singles,PHI Phillies,SF Giants
+163,Kyle Schwarber,0.5,+135,0.5,−180,Singles,PHI Phillies,SF Giants
+164,LaMonte Wade Jr.,0.5,+125,0.5,−170,Singles,PHI Phillies,SF Giants
+165,Matt Chapman,0.5,+110,0.5,−145,Singles,PHI Phillies,SF Giants
+166,Michael Conforto,0.5,+100,0.5,−135,Singles,PHI Phillies,SF Giants
+167,Mike Yastrzemski,0.5,+155,0.5,−210,Singles,PHI Phillies,SF Giants
+168,Nick Ahmed,0.5,+125,0.5,−165,Singles,PHI Phillies,SF Giants
+169,Nick Castellanos,0.5,−110,0.5,−120,Singles,PHI Phillies,SF Giants
+170,Thairo Estrada,0.5,−115,0.5,−115,Singles,PHI Phillies,SF Giants
+171,Wilmer Flores (SF),0.5,+100,0.5,−130,Singles,PHI Phillies,SF Giants
+172,Alec Bohm,0.5,+370,0.5,−600,Doubles,PHI Phillies,SF Giants
+173,Blake Sabol,0.5,+450,0.5,−800,Doubles,PHI Phillies,SF Giants
+174,Brandon Marsh,0.5,+370,0.5,−600,Doubles,PHI Phillies,SF Giants
+175,Bryce Harper,0.5,+330,0.5,−500,Doubles,PHI Phillies,SF Giants
+176,Bryson Stott,0.5,+370,0.5,−600,Doubles,PHI Phillies,SF Giants
+177,Edmundo Sosa,0.5,+500,0.5,−1000,Doubles,PHI Phillies,SF Giants
+178,J.T. Realmuto,0.5,+360,0.5,−575,Doubles,PHI Phillies,SF Giants
+179,Johan Rojas,0.5,+550,0.5,−1100,Doubles,PHI Phillies,SF Giants
+180,Jung Hoo Lee,0.5,+310,0.5,−475,Doubles,PHI Phillies,SF Giants
+181,Kyle Schwarber,0.5,+350,0.5,−575,Doubles,PHI Phillies,SF Giants
+182,LaMonte Wade Jr.,0.5,+380,0.5,−600,Doubles,PHI Phillies,SF Giants
+183,Matt Chapman,0.5,+360,0.5,−575,Doubles,PHI Phillies,SF Giants
+184,Michael Conforto,0.5,+380,0.5,−600,Doubles,PHI Phillies,SF Giants
+185,Mike Yastrzemski,0.5,+400,0.5,−700,Doubles,PHI Phillies,SF Giants
+186,Nick Ahmed,0.5,+550,0.5,−1100,Doubles,PHI Phillies,SF Giants
+187,Nick Castellanos,0.5,+450,0.5,−800,Doubles,PHI Phillies,SF Giants
+188,Thairo Estrada,0.5,+400,0.5,−700,Doubles,PHI Phillies,SF Giants
+189,Wilmer Flores (SF),0.5,+425,0.5,−700,Doubles,PHI Phillies,SF Giants
+190,Alec Bohm,0.5,+225,0.5,−320,Walks,PHI Phillies,SF Giants
+191,Blake Sabol,0.5,+265,0.5,−390,Walks,PHI Phillies,SF Giants
+192,Brandon Marsh,0.5,+200,0.5,−275,Walks,PHI Phillies,SF Giants
+193,Bryce Harper,0.5,+130,0.5,−175,Walks,PHI Phillies,SF Giants
+194,Bryson Stott,0.5,+250,0.5,−360,Walks,PHI Phillies,SF Giants
+195,J.T. Realmuto,0.5,+245,0.5,−350,Walks,PHI Phillies,SF Giants
+196,Jung Hoo Lee,0.5,+200,0.5,−280,Walks,PHI Phillies,SF Giants
+197,Kyle Schwarber,0.5,+115,0.5,−150,Walks,PHI Phillies,SF Giants
+198,LaMonte Wade Jr.,0.5,+115,0.5,−155,Walks,PHI Phillies,SF Giants
+199,Matt Chapman,0.5,+165,0.5,−230,Walks,PHI Phillies,SF Giants
+200,Michael Conforto,0.5,+185,0.5,−255,Walks,PHI Phillies,SF Giants
+201,Mike Yastrzemski,0.5,+160,0.5,−220,Walks,PHI Phillies,SF Giants
+202,Nick Ahmed,0.5,+370,0.5,−600,Walks,PHI Phillies,SF Giants
+203,Thairo Estrada,0.5,+310,0.5,−475,Walks,PHI Phillies,SF Giants
+204,Wilmer Flores (SF),0.5,+130,0.5,−170,Walks,PHI Phillies,SF Giants

@@ -1,0 +1,1755 @@
+,Unnamed: 0,players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,hold,over_true_prob,under_true_prob
+0,0,Alec Bohm,0.5,6.5,0.5,1.1,Home Runs,PHI Phillies,SF Giants,0.063,0.107,0.893
+1,1,Brandon Marsh,0.5,6.5,0.5,1.1,Home Runs,PHI Phillies,SF Giants,0.063,0.107,0.893
+2,2,Bryce Harper,0.5,3.95,0.5,1.222,Home Runs,PHI Phillies,SF Giants,0.071,0.206,0.794
+3,3,Bryson Stott,0.5,8.5,0.5,1.056,Home Runs,PHI Phillies,SF Giants,0.065,0.066,0.934
+4,4,J.T. Realmuto,0.5,4.5,0.5,1.182,Home Runs,PHI Phillies,SF Giants,0.068,0.176,0.824
+5,5,Jakson Reetz,0.5,7.0,0.5,1.083,Home Runs,PHI Phillies,SF Giants,0.066,0.093,0.907
+6,6,Johan Rojas,0.5,11.0,0.5,1.025,Home Runs,PHI Phillies,SF Giants,0.067,0.034,0.966
+7,7,Jung Hoo Lee,0.5,9.0,0.5,1.05,Home Runs,PHI Phillies,SF Giants,0.063,0.06,0.94
+8,8,Kyle Schwarber,0.5,3.2,0.5,1.323,Home Runs,PHI Phillies,SF Giants,0.069,0.27,0.73
+9,9,LaMonte Wade Jr.,0.5,6.5,0.5,1.091,Home Runs,PHI Phillies,SF Giants,0.071,0.101,0.899
+10,10,Matt Chapman,0.5,5.0,0.5,1.143,Home Runs,PHI Phillies,SF Giants,0.075,0.147,0.853
+11,11,Michael Conforto,0.5,6.0,0.5,1.111,Home Runs,PHI Phillies,SF Giants,0.067,0.118,0.882
+12,12,Mike Yastrzemski,0.5,6.0,0.5,1.1,Home Runs,PHI Phillies,SF Giants,0.076,0.111,0.889
+13,13,Nick Castellanos,0.5,5.25,0.5,1.143,Home Runs,PHI Phillies,SF Giants,0.065,0.144,0.856
+14,14,Thairo Estrada,0.5,7.5,0.5,1.062,Home Runs,PHI Phillies,SF Giants,0.075,0.075,0.925
+15,15,Tyler Fitzgerald,0.5,8.0,0.5,1.062,Home Runs,PHI Phillies,SF Giants,0.066,0.073,0.927
+16,16,Whit Merrifield,0.5,9.5,0.5,1.04,Home Runs,PHI Phillies,SF Giants,0.067,0.051,0.949
+17,17,Wilmer Flores (SF),0.5,7.0,0.5,1.083,Home Runs,PHI Phillies,SF Giants,0.066,0.093,0.907
+18,18,Jakson Reetz,,,,,1st Home Run,PHI Phillies,SF Giants,,,
+19,19,Thairo Estrada,,13.0,,1.005,1st Home Run,PHI Phillies,SF Giants,0.072,0.009,0.991
+20,20,Tyler Fitzgerald,,,,,1st Home Run,PHI Phillies,SF Giants,,,
+21,21,Wilmer Flores (SF),,13.0,,1.005,1st Home Run,PHI Phillies,SF Giants,0.072,0.009,0.991
+22,22,Alec Bohm,1.5,2.8,1.5,1.4,Hits,PHI Phillies,SF Giants,0.071,0.315,0.685
+23,23,Brandon Marsh,0.5,1.541,0.5,2.4,Hits,PHI Phillies,SF Giants,0.066,0.62,0.38
+24,24,Bryce Harper,0.5,1.455,0.5,2.6,Hits,PHI Phillies,SF Giants,0.072,0.657,0.343
+25,25,Bryson Stott,0.5,1.513,0.5,2.45,Hits,PHI Phillies,SF Giants,0.069,0.631,0.369
+26,26,J.T. Realmuto,0.5,1.364,0.5,2.95,Hits,PHI Phillies,SF Giants,0.072,0.705,0.295
+27,27,Jakson Reetz,0.5,2.1,0.5,1.69,Hits,PHI Phillies,SF Giants,0.068,0.44,0.56
+28,28,Johan Rojas,0.5,1.606,0.5,2.25,Hits,PHI Phillies,SF Giants,0.067,0.592,0.408
+29,29,Jung Hoo Lee,0.5,1.357,0.5,3.0,Hits,PHI Phillies,SF Giants,0.07,0.709,0.291
+30,30,Kyle Schwarber,0.5,1.571,0.5,2.3,Hits,PHI Phillies,SF Giants,0.071,0.604,0.396
+31,31,LaMonte Wade Jr.,0.5,1.625,0.5,2.2,Hits,PHI Phillies,SF Giants,0.07,0.583,0.417
+32,32,Matt Chapman,0.5,1.645,0.5,2.15,Hits,PHI Phillies,SF Giants,0.073,0.574,0.426
+33,33,Michael Conforto,0.5,1.571,0.5,2.3,Hits,PHI Phillies,SF Giants,0.071,0.604,0.396
+34,34,Mike Yastrzemski,0.5,1.87,0.5,1.87,Hits,PHI Phillies,SF Giants,0.07,0.5,0.5
+35,35,Nick Castellanos,0.5,1.465,0.5,2.55,Hits,PHI Phillies,SF Giants,0.075,0.651,0.349
+36,36,Thairo Estrada,0.5,1.5,0.5,2.5,Hits,PHI Phillies,SF Giants,0.067,0.638,0.362
+37,37,Tyler Fitzgerald,0.5,1.952,0.5,1.8,Hits,PHI Phillies,SF Giants,0.068,0.478,0.522
+38,38,Whit Merrifield,0.5,1.426,0.5,2.75,Hits,PHI Phillies,SF Giants,0.065,0.675,0.325
+39,39,Wilmer Flores (SF),0.5,1.667,0.5,2.15,Hits,PHI Phillies,SF Giants,0.065,0.57,0.43
+40,40,Alec Bohm,1.5,2.05,1.5,1.714,Total Bases,PHI Phillies,SF Giants,0.071,0.45,0.55
+41,41,Brandon Marsh,0.5,1.541,0.5,2.4,Total Bases,PHI Phillies,SF Giants,0.066,0.62,0.38
+42,42,Bryce Harper,1.5,2.15,1.5,1.667,Total Bases,PHI Phillies,SF Giants,0.065,0.43,0.57
+43,43,Bryson Stott,0.5,1.513,0.5,2.45,Total Bases,PHI Phillies,SF Giants,0.069,0.631,0.369
+44,44,J.T. Realmuto,1.5,2.05,1.5,1.714,Total Bases,PHI Phillies,SF Giants,0.071,0.45,0.55
+45,45,Jakson Reetz,0.5,2.1,0.5,1.69,Total Bases,PHI Phillies,SF Giants,0.068,0.44,0.56
+46,46,Johan Rojas,0.5,1.606,0.5,2.25,Total Bases,PHI Phillies,SF Giants,0.067,0.592,0.408
+47,47,Jung Hoo Lee,1.5,2.3,1.5,1.588,Total Bases,PHI Phillies,SF Giants,0.064,0.399,0.601
+48,48,Kyle Schwarber,1.5,2.15,1.5,1.667,Total Bases,PHI Phillies,SF Giants,0.065,0.43,0.57
+49,49,LaMonte Wade Jr.,0.5,1.625,0.5,2.2,Total Bases,PHI Phillies,SF Giants,0.07,0.583,0.417
+50,50,Matt Chapman,0.5,1.645,0.5,2.15,Total Bases,PHI Phillies,SF Giants,0.073,0.574,0.426
+51,51,Michael Conforto,0.5,1.571,0.5,2.3,Total Bases,PHI Phillies,SF Giants,0.071,0.604,0.396
+52,52,Mike Yastrzemski,0.5,1.87,0.5,1.87,Total Bases,PHI Phillies,SF Giants,0.07,0.5,0.5
+53,53,Nick Castellanos,1.5,2.35,1.5,1.556,Total Bases,PHI Phillies,SF Giants,0.068,0.388,0.612
+54,54,Thairo Estrada,0.5,1.5,0.5,2.5,Total Bases,PHI Phillies,SF Giants,0.067,0.638,0.362
+55,55,Tyler Fitzgerald,0.5,1.952,0.5,1.8,Total Bases,PHI Phillies,SF Giants,0.068,0.478,0.522
+56,56,Whit Merrifield,1.5,2.5,1.5,1.488,Total Bases,PHI Phillies,SF Giants,0.072,0.359,0.641
+57,57,Wilmer Flores (SF),0.5,1.667,0.5,2.15,Total Bases,PHI Phillies,SF Giants,0.065,0.57,0.43
+58,58,Alec Bohm,0.5,2.4,0.5,1.541,RBIs,PHI Phillies,SF Giants,0.066,0.38,0.62
+59,59,Brandon Marsh,0.5,2.7,0.5,1.426,RBIs,PHI Phillies,SF Giants,0.072,0.328,0.672
+60,60,Bryce Harper,0.5,2.45,0.5,1.513,RBIs,PHI Phillies,SF Giants,0.069,0.369,0.631
+61,61,Bryson Stott,0.5,2.9,0.5,1.377,RBIs,PHI Phillies,SF Giants,0.071,0.302,0.698
+62,62,J.T. Realmuto,0.5,2.5,0.5,1.5,RBIs,PHI Phillies,SF Giants,0.067,0.362,0.638
+63,63,Jakson Reetz,0.5,4.2,0.5,1.2,RBIs,PHI Phillies,SF Giants,0.071,0.19,0.81
+64,64,Johan Rojas,0.5,3.3,0.5,1.303,RBIs,PHI Phillies,SF Giants,0.07,0.259,0.741
+65,65,Jung Hoo Lee,0.5,3.75,0.5,1.25,RBIs,PHI Phillies,SF Giants,0.067,0.223,0.777
+66,66,Kyle Schwarber,0.5,2.25,0.5,1.606,RBIs,PHI Phillies,SF Giants,0.067,0.408,0.592
+67,67,LaMonte Wade Jr.,0.5,3.45,0.5,1.286,RBIs,PHI Phillies,SF Giants,0.068,0.247,0.753
+68,68,Matt Chapman,0.5,3.05,0.5,1.351,RBIs,PHI Phillies,SF Giants,0.068,0.286,0.714
+69,69,Michael Conforto,0.5,3.15,0.5,1.333,RBIs,PHI Phillies,SF Giants,0.067,0.276,0.724
+70,70,Mike Yastrzemski,0.5,3.7,0.5,1.25,RBIs,PHI Phillies,SF Giants,0.07,0.225,0.775
+71,71,Nick Castellanos,0.5,2.45,0.5,1.513,RBIs,PHI Phillies,SF Giants,0.069,0.369,0.631
+72,72,Thairo Estrada,0.5,3.7,0.5,1.256,RBIs,PHI Phillies,SF Giants,0.066,0.228,0.772
+73,73,Tyler Fitzgerald,0.5,4.0,0.5,1.211,RBIs,PHI Phillies,SF Giants,0.076,0.199,0.801
+74,74,Whit Merrifield,0.5,2.8,0.5,1.408,RBIs,PHI Phillies,SF Giants,0.067,0.317,0.683
+75,75,Wilmer Flores (SF),0.5,3.2,0.5,1.323,RBIs,PHI Phillies,SF Giants,0.069,0.27,0.73
+76,76,Alec Bohm,0.5,2.05,0.5,1.741,Runs Scored,PHI Phillies,SF Giants,0.062,0.455,0.545
+77,77,Brandon Marsh,0.5,2.05,0.5,1.741,Runs Scored,PHI Phillies,SF Giants,0.062,0.455,0.545
+78,78,Bryce Harper,0.5,1.833,0.5,1.909,Runs Scored,PHI Phillies,SF Giants,0.069,0.511,0.489
+79,79,Bryson Stott,0.5,2.2,0.5,1.625,Runs Scored,PHI Phillies,SF Giants,0.07,0.417,0.583
+80,80,J.T. Realmuto,0.5,1.833,0.5,1.909,Runs Scored,PHI Phillies,SF Giants,0.069,0.511,0.489
+81,81,Jakson Reetz,0.5,3.3,0.5,1.303,Runs Scored,PHI Phillies,SF Giants,0.07,0.259,0.741
+82,82,Johan Rojas,0.5,2.45,0.5,1.5,Runs Scored,PHI Phillies,SF Giants,0.075,0.366,0.634
+83,83,Jung Hoo Lee,0.5,2.35,0.5,1.541,Runs Scored,PHI Phillies,SF Giants,0.075,0.384,0.616
+84,84,Kyle Schwarber,0.5,1.571,0.5,2.3,Runs Scored,PHI Phillies,SF Giants,0.071,0.604,0.396
+85,85,LaMonte Wade Jr.,0.5,2.65,0.5,1.435,Runs Scored,PHI Phillies,SF Giants,0.074,0.334,0.666
+86,86,Matt Chapman,0.5,2.65,0.5,1.444,Runs Scored,PHI Phillies,SF Giants,0.07,0.337,0.663
+87,87,Michael Conforto,0.5,2.6,0.5,1.455,Runs Scored,PHI Phillies,SF Giants,0.072,0.343,0.657
+88,88,Mike Yastrzemski,0.5,2.95,0.5,1.364,Runs Scored,PHI Phillies,SF Giants,0.072,0.295,0.705
+89,89,Nick Castellanos,0.5,2.2,0.5,1.625,Runs Scored,PHI Phillies,SF Giants,0.07,0.417,0.583
+90,90,Thairo Estrada,0.5,2.55,0.5,1.476,Runs Scored,PHI Phillies,SF Giants,0.07,0.352,0.648
+91,91,Tyler Fitzgerald,0.5,3.15,0.5,1.333,Runs Scored,PHI Phillies,SF Giants,0.067,0.276,0.724
+92,92,Whit Merrifield,0.5,2.45,0.5,1.513,Runs Scored,PHI Phillies,SF Giants,0.069,0.369,0.631
+93,93,Wilmer Flores (SF),0.5,2.7,0.5,1.426,Runs Scored,PHI Phillies,SF Giants,0.072,0.328,0.672
+94,94,Alec Bohm,1.5,1.588,1.5,2.25,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.074,0.596,0.404
+95,95,Brandon Marsh,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.07,0.5,0.5
+96,96,Bryce Harper,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.071,0.55,0.45
+97,97,Bryson Stott,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.069,0.489,0.511
+98,98,J.T. Realmuto,1.5,1.645,1.5,2.15,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.073,0.574,0.426
+99,99,Jakson Reetz,0.5,1.87,0.5,1.87,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.07,0.5,0.5
+100,100,Johan Rojas,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.068,0.44,0.56
+101,101,Jung Hoo Lee,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.07,0.5,0.5
+102,102,Kyle Schwarber,1.5,1.69,1.5,2.1,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.068,0.56,0.44
+103,103,LaMonte Wade Jr.,1.5,2.35,1.5,1.556,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.068,0.388,0.612
+104,104,Matt Chapman,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.077,0.413,0.587
+105,105,Michael Conforto,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.073,0.426,0.574
+106,106,Mike Yastrzemski,0.5,1.667,0.5,2.15,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.065,0.57,0.43
+107,107,Nick Castellanos,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.068,0.522,0.478
+108,108,Thairo Estrada,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.071,0.45,0.55
+109,109,Tyler Fitzgerald,0.5,1.714,0.5,2.05,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.071,0.55,0.45
+110,110,Whit Merrifield,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.069,0.511,0.489
+111,111,Wilmer Flores (SF),1.5,2.25,1.5,1.606,Hits + Runs + RBIs,PHI Phillies,SF Giants,0.067,0.408,0.592
+112,112,Brandon Marsh,0.5,4.9,0.5,1.154,Stolen Bases,PHI Phillies,SF Giants,0.071,0.155,0.845
+113,113,Bryce Harper,0.5,6.5,0.5,1.091,Stolen Bases,PHI Phillies,SF Giants,0.071,0.101,0.899
+114,114,Bryson Stott,0.5,4.0,0.5,1.222,Stolen Bases,PHI Phillies,SF Giants,0.068,0.205,0.795
+115,115,J.T. Realmuto,0.5,7.0,0.5,1.083,Stolen Bases,PHI Phillies,SF Giants,0.066,0.093,0.907
+116,116,Johan Rojas,0.5,3.35,0.5,1.294,Stolen Bases,PHI Phillies,SF Giants,0.071,0.254,0.746
+117,117,Nick Castellanos,0.5,9.0,0.5,1.04,Stolen Bases,PHI Phillies,SF Giants,0.073,0.052,0.948
+118,118,Thairo Estrada,0.5,9.0,0.5,1.04,Stolen Bases,PHI Phillies,SF Giants,0.073,0.052,0.948
+119,119,Tyler Fitzgerald,0.5,6.5,0.5,1.1,Stolen Bases,PHI Phillies,SF Giants,0.063,0.107,0.893
+120,120,Whit Merrifield,0.5,4.2,0.5,1.2,Stolen Bases,PHI Phillies,SF Giants,0.071,0.19,0.81
+121,121,Alec Bohm,0.5,1.741,0.5,2.0,Strikeouts,PHI Phillies,SF Giants,0.074,0.539,0.461
+122,122,Brandon Marsh,1.5,2.6,1.5,1.455,Strikeouts,PHI Phillies,SF Giants,0.072,0.343,0.657
+123,123,Bryce Harper,1.5,2.95,1.5,1.364,Strikeouts,PHI Phillies,SF Giants,0.072,0.295,0.705
+124,124,Bryson Stott,0.5,1.69,0.5,2.1,Strikeouts,PHI Phillies,SF Giants,0.068,0.56,0.44
+125,125,J.T. Realmuto,1.5,2.95,1.5,1.37,Strikeouts,PHI Phillies,SF Giants,0.069,0.297,0.703
+126,126,Jakson Reetz,1.5,2.0,1.5,1.741,Strikeouts,PHI Phillies,SF Giants,0.074,0.461,0.539
+127,127,Johan Rojas,0.5,1.69,0.5,2.1,Strikeouts,PHI Phillies,SF Giants,0.068,0.56,0.44
+128,128,Jung Hoo Lee,0.5,1.714,0.5,2.05,Strikeouts,PHI Phillies,SF Giants,0.071,0.55,0.45
+129,129,Kyle Schwarber,1.5,2.3,1.5,1.588,Strikeouts,PHI Phillies,SF Giants,0.064,0.399,0.601
+130,130,LaMonte Wade Jr.,0.5,1.408,0.5,2.8,Strikeouts,PHI Phillies,SF Giants,0.067,0.683,0.317
+131,131,Matt Chapman,1.5,2.05,1.5,1.714,Strikeouts,PHI Phillies,SF Giants,0.071,0.45,0.55
+132,132,Michael Conforto,0.5,1.339,0.5,3.1,Strikeouts,PHI Phillies,SF Giants,0.069,0.72,0.28
+133,133,Mike Yastrzemski,1.5,2.6,1.5,1.455,Strikeouts,PHI Phillies,SF Giants,0.072,0.343,0.657
+134,134,Nick Castellanos,1.5,2.8,1.5,1.408,Strikeouts,PHI Phillies,SF Giants,0.067,0.317,0.683
+135,135,Thairo Estrada,1.5,2.5,1.5,1.488,Strikeouts,PHI Phillies,SF Giants,0.072,0.359,0.641
+136,136,Tyler Fitzgerald,1.5,2.05,1.5,1.714,Strikeouts,PHI Phillies,SF Giants,0.071,0.45,0.55
+137,137,Whit Merrifield,0.5,1.909,0.5,1.833,Strikeouts,PHI Phillies,SF Giants,0.069,0.489,0.511
+138,138,Wilmer Flores (SF),0.5,1.392,0.5,2.85,Strikeouts,PHI Phillies,SF Giants,0.069,0.69,0.31
+139,139,Alec Bohm,0.5,1.645,0.5,2.15,Singles,PHI Phillies,SF Giants,0.073,0.574,0.426
+140,140,Brandon Marsh,0.5,2.1,0.5,1.667,Singles,PHI Phillies,SF Giants,0.076,0.436,0.564
+141,141,Bryce Harper,0.5,2.2,0.5,1.645,Singles,PHI Phillies,SF Giants,0.062,0.421,0.579
+142,142,Bryson Stott,0.5,1.952,0.5,1.769,Singles,PHI Phillies,SF Giants,0.077,0.472,0.528
+143,143,J.T. Realmuto,0.5,1.952,0.5,1.769,Singles,PHI Phillies,SF Giants,0.077,0.472,0.528
+144,144,Jakson Reetz,0.5,3.15,0.5,1.333,Singles,PHI Phillies,SF Giants,0.067,0.276,0.724
+145,145,Johan Rojas,0.5,2.0,0.5,1.741,Singles,PHI Phillies,SF Giants,0.074,0.461,0.539
+146,146,Jung Hoo Lee,0.5,1.645,0.5,2.2,Singles,PHI Phillies,SF Giants,0.062,0.579,0.421
+147,147,Kyle Schwarber,0.5,2.9,0.5,1.377,Singles,PHI Phillies,SF Giants,0.071,0.302,0.698
+148,148,LaMonte Wade Jr.,0.5,2.25,0.5,1.588,Singles,PHI Phillies,SF Giants,0.074,0.404,0.596
+149,149,Matt Chapman,0.5,2.5,0.5,1.488,Singles,PHI Phillies,SF Giants,0.072,0.359,0.641
+150,150,Michael Conforto,0.5,2.15,0.5,1.667,Singles,PHI Phillies,SF Giants,0.065,0.43,0.57
+151,151,Mike Yastrzemski,0.5,2.8,0.5,1.4,Singles,PHI Phillies,SF Giants,0.071,0.315,0.685
+152,152,Nick Castellanos,0.5,2.05,0.5,1.714,Singles,PHI Phillies,SF Giants,0.071,0.45,0.55
+153,153,Thairo Estrada,0.5,1.909,0.5,1.833,Singles,PHI Phillies,SF Giants,0.069,0.489,0.511
+154,154,Tyler Fitzgerald,0.5,2.75,0.5,1.408,Singles,PHI Phillies,SF Giants,0.074,0.32,0.68
+155,155,Whit Merrifield,0.5,1.714,0.5,2.05,Singles,PHI Phillies,SF Giants,0.071,0.55,0.45
+156,156,Wilmer Flores (SF),0.5,2.2,0.5,1.606,Singles,PHI Phillies,SF Giants,0.077,0.413,0.587
+157,157,Alec Bohm,0.5,4.3,0.5,1.19,Doubles,PHI Phillies,SF Giants,0.073,0.183,0.817
+158,158,Brandon Marsh,0.5,5.5,0.5,1.125,Doubles,PHI Phillies,SF Giants,0.071,0.131,0.869
+159,159,Bryce Harper,0.5,4.9,0.5,1.154,Doubles,PHI Phillies,SF Giants,0.071,0.155,0.845
+160,160,Bryson Stott,0.5,5.25,0.5,1.133,Doubles,PHI Phillies,SF Giants,0.073,0.139,0.861
+161,161,J.T. Realmuto,0.5,4.4,0.5,1.182,Doubles,PHI Phillies,SF Giants,0.073,0.177,0.823
+162,162,Jakson Reetz,0.5,7.5,0.5,1.071,Doubles,PHI Phillies,SF Giants,0.067,0.082,0.918
+163,163,Johan Rojas,0.5,6.0,0.5,1.1,Doubles,PHI Phillies,SF Giants,0.076,0.111,0.889
+164,164,Jung Hoo Lee,0.5,5.0,0.5,1.154,Doubles,PHI Phillies,SF Giants,0.067,0.153,0.847
+165,165,Kyle Schwarber,0.5,5.75,0.5,1.125,Doubles,PHI Phillies,SF Giants,0.063,0.129,0.871
+166,166,LaMonte Wade Jr.,0.5,6.0,0.5,1.111,Doubles,PHI Phillies,SF Giants,0.067,0.118,0.882
+167,167,Matt Chapman,0.5,5.5,0.5,1.125,Doubles,PHI Phillies,SF Giants,0.071,0.131,0.869
+168,168,Michael Conforto,0.5,5.75,0.5,1.111,Doubles,PHI Phillies,SF Giants,0.074,0.12,0.88
+169,169,Mike Yastrzemski,0.5,6.5,0.5,1.091,Doubles,PHI Phillies,SF Giants,0.071,0.101,0.899
+170,170,Nick Castellanos,0.5,5.0,0.5,1.143,Doubles,PHI Phillies,SF Giants,0.075,0.147,0.853
+171,171,Thairo Estrada,0.5,5.25,0.5,1.143,Doubles,PHI Phillies,SF Giants,0.065,0.144,0.856
+172,172,Tyler Fitzgerald,0.5,7.0,0.5,1.083,Doubles,PHI Phillies,SF Giants,0.066,0.093,0.907
+173,173,Whit Merrifield,0.5,5.0,0.5,1.143,Doubles,PHI Phillies,SF Giants,0.075,0.147,0.853
+174,174,Wilmer Flores (SF),0.5,5.75,0.5,1.111,Doubles,PHI Phillies,SF Giants,0.074,0.12,0.88
+175,175,Alec Bohm,0.5,2.6,0.5,1.455,Walks,PHI Phillies,SF Giants,0.072,0.343,0.657
+176,176,Brandon Marsh,0.5,2.3,0.5,1.571,Walks,PHI Phillies,SF Giants,0.071,0.396,0.604
+177,177,Bryce Harper,0.5,1.769,0.5,1.952,Walks,PHI Phillies,SF Giants,0.077,0.528,0.472
+178,178,Bryson Stott,0.5,2.5,0.5,1.488,Walks,PHI Phillies,SF Giants,0.072,0.359,0.641
+179,179,J.T. Realmuto,0.5,2.8,0.5,1.4,Walks,PHI Phillies,SF Giants,0.071,0.315,0.685
+180,180,Jakson Reetz,0.5,4.4,0.5,1.19,Walks,PHI Phillies,SF Giants,0.067,0.182,0.818
+181,181,Johan Rojas,0.5,4.3,0.5,1.19,Walks,PHI Phillies,SF Giants,0.073,0.183,0.817
+182,182,Jung Hoo Lee,0.5,3.6,0.5,1.263,Walks,PHI Phillies,SF Giants,0.069,0.233,0.767
+183,183,Kyle Schwarber,0.5,1.625,0.5,2.2,Walks,PHI Phillies,SF Giants,0.07,0.583,0.417
+184,184,LaMonte Wade Jr.,0.5,2.4,0.5,1.526,Walks,PHI Phillies,SF Giants,0.072,0.376,0.624
+185,185,Matt Chapman,0.5,3.5,0.5,1.278,Walks,PHI Phillies,SF Giants,0.068,0.242,0.758
+186,186,Michael Conforto,0.5,3.25,0.5,1.312,Walks,PHI Phillies,SF Giants,0.07,0.264,0.736
+187,187,Mike Yastrzemski,0.5,3.15,0.5,1.333,Walks,PHI Phillies,SF Giants,0.067,0.276,0.724
+188,188,Nick Castellanos,0.5,3.95,0.5,1.222,Walks,PHI Phillies,SF Giants,0.071,0.206,0.794
+189,189,Thairo Estrada,0.5,4.5,0.5,1.182,Walks,PHI Phillies,SF Giants,0.068,0.176,0.824
+190,190,Tyler Fitzgerald,0.5,3.9,0.5,1.222,Walks,PHI Phillies,SF Giants,0.075,0.207,0.793
+191,191,Whit Merrifield,0.5,3.65,0.5,1.256,Walks,PHI Phillies,SF Giants,0.07,0.229,0.771
+192,192,Wilmer Flores (SF),0.5,2.75,0.5,1.417,Walks,PHI Phillies,SF Giants,0.07,0.323,0.677
+193,193,Andres Gimenez,0.5,9.5,0.5,1.04,Home Runs,CLE Guardians,DET Tigers,0.067,0.051,0.949
+194,194,Bo Naylor,0.5,7.0,0.5,1.083,Home Runs,CLE Guardians,DET Tigers,0.066,0.093,0.907
+195,195,Brayan Rocchio,0.5,12.0,0.5,1.017,Home Runs,CLE Guardians,DET Tigers,0.067,0.024,0.976
+196,196,Colt Keith,0.5,6.5,0.5,1.091,Home Runs,CLE Guardians,DET Tigers,0.071,0.101,0.899
+197,197,Estevan Florial,0.5,8.5,0.5,1.056,Home Runs,CLE Guardians,DET Tigers,0.065,0.066,0.934
+198,198,Jake Rogers,0.5,6.5,0.5,1.091,Home Runs,CLE Guardians,DET Tigers,0.071,0.101,0.899
+199,199,Javier Baez,0.5,6.0,0.5,1.1,Home Runs,CLE Guardians,DET Tigers,0.076,0.111,0.889
+200,200,Jose Ramirez,0.5,6.0,0.5,1.1,Home Runs,CLE Guardians,DET Tigers,0.076,0.111,0.889
+201,201,Josh Naylor,0.5,6.0,0.5,1.1,Home Runs,CLE Guardians,DET Tigers,0.076,0.111,0.889
+202,202,Kerry Carpenter,0.5,5.5,0.5,1.125,Home Runs,CLE Guardians,DET Tigers,0.071,0.131,0.869
+203,203,Mark Canha,0.5,6.0,0.5,1.111,Home Runs,CLE Guardians,DET Tigers,0.067,0.118,0.882
+204,204,Matt Vierling,0.5,6.5,0.5,1.1,Home Runs,CLE Guardians,DET Tigers,0.063,0.107,0.893
+205,205,Riley Greene,0.5,5.25,0.5,1.143,Home Runs,CLE Guardians,DET Tigers,0.065,0.144,0.856
+206,206,Spencer Torkelson,0.5,4.1,0.5,1.211,Home Runs,CLE Guardians,DET Tigers,0.07,0.197,0.803
+207,207,Tyler Freeman,0.5,10.0,0.5,1.029,Home Runs,CLE Guardians,DET Tigers,0.072,0.039,0.961
+208,208,Will Brennan,0.5,9.5,0.5,1.033,Home Runs,CLE Guardians,DET Tigers,0.073,0.044,0.956
+209,209,Zach McKinstry,0.5,8.0,0.5,1.062,Home Runs,CLE Guardians,DET Tigers,0.066,0.073,0.927
+210,210,Andres Gimenez,0.5,1.435,0.5,2.65,Hits,CLE Guardians,DET Tigers,0.074,0.666,0.334
+211,211,Bo Naylor,0.5,1.769,0.5,2.0,Hits,CLE Guardians,DET Tigers,0.065,0.534,0.466
+212,212,Brayan Rocchio,0.5,1.645,0.5,2.15,Hits,CLE Guardians,DET Tigers,0.073,0.574,0.426
+213,213,Colt Keith,0.5,1.571,0.5,2.3,Hits,CLE Guardians,DET Tigers,0.071,0.604,0.396
+214,214,Estevan Florial,0.5,1.667,0.5,2.15,Hits,CLE Guardians,DET Tigers,0.065,0.57,0.43
+215,215,Jake Rogers,0.5,2.0,0.5,1.769,Hits,CLE Guardians,DET Tigers,0.065,0.466,0.534
+216,216,Javier Baez,0.5,1.606,0.5,2.2,Hits,CLE Guardians,DET Tigers,0.077,0.587,0.413
+217,217,Jose Ramirez,0.5,1.377,0.5,2.9,Hits,CLE Guardians,DET Tigers,0.071,0.698,0.302
+218,218,Josh Naylor,0.5,1.377,0.5,2.9,Hits,CLE Guardians,DET Tigers,0.071,0.698,0.302
+219,219,Kerry Carpenter,0.5,1.488,0.5,2.55,Hits,CLE Guardians,DET Tigers,0.064,0.645,0.355
+220,220,Mark Canha,0.5,1.556,0.5,2.35,Hits,CLE Guardians,DET Tigers,0.068,0.612,0.388
+221,221,Matt Vierling,0.5,1.526,0.5,2.4,Hits,CLE Guardians,DET Tigers,0.072,0.624,0.376
+222,222,Riley Greene,0.5,1.488,0.5,2.5,Hits,CLE Guardians,DET Tigers,0.072,0.641,0.359
+223,223,Spencer Torkelson,0.5,1.588,0.5,2.25,Hits,CLE Guardians,DET Tigers,0.074,0.596,0.404
+224,224,Tyler Freeman,0.5,1.625,0.5,2.2,Hits,CLE Guardians,DET Tigers,0.07,0.583,0.417
+225,225,Will Brennan,0.5,1.377,0.5,2.9,Hits,CLE Guardians,DET Tigers,0.071,0.698,0.302
+226,226,Zach McKinstry,0.5,1.645,0.5,2.2,Hits,CLE Guardians,DET Tigers,0.062,0.579,0.421
+227,227,Andres Gimenez,1.5,2.45,1.5,1.5,Total Bases,CLE Guardians,DET Tigers,0.075,0.366,0.634
+228,228,Bo Naylor,0.5,1.769,0.5,2.0,Total Bases,CLE Guardians,DET Tigers,0.065,0.534,0.466
+229,229,Brayan Rocchio,0.5,1.645,0.5,2.15,Total Bases,CLE Guardians,DET Tigers,0.073,0.574,0.426
+230,230,Colt Keith,0.5,1.571,0.5,2.3,Total Bases,CLE Guardians,DET Tigers,0.071,0.604,0.396
+231,231,Estevan Florial,0.5,1.667,0.5,2.15,Total Bases,CLE Guardians,DET Tigers,0.065,0.57,0.43
+232,232,Jake Rogers,0.5,2.0,0.5,1.769,Total Bases,CLE Guardians,DET Tigers,0.065,0.466,0.534
+233,233,Javier Baez,0.5,1.606,0.5,2.2,Total Bases,CLE Guardians,DET Tigers,0.077,0.587,0.413
+234,234,Jose Ramirez,1.5,2.15,1.5,1.645,Total Bases,CLE Guardians,DET Tigers,0.073,0.426,0.574
+235,235,Josh Naylor,1.5,2.2,1.5,1.625,Total Bases,CLE Guardians,DET Tigers,0.07,0.417,0.583
+236,236,Kerry Carpenter,1.5,2.3,1.5,1.571,Total Bases,CLE Guardians,DET Tigers,0.071,0.396,0.604
+237,237,Mark Canha,0.5,1.556,0.5,2.35,Total Bases,CLE Guardians,DET Tigers,0.068,0.612,0.388
+238,238,Matt Vierling,0.5,1.526,0.5,2.4,Total Bases,CLE Guardians,DET Tigers,0.072,0.624,0.376
+239,239,Riley Greene,1.5,2.3,1.5,1.571,Total Bases,CLE Guardians,DET Tigers,0.071,0.396,0.604
+240,240,Spencer Torkelson,0.5,1.606,0.5,2.25,Total Bases,CLE Guardians,DET Tigers,0.067,0.592,0.408
+241,241,Tyler Freeman,0.5,1.625,0.5,2.2,Total Bases,CLE Guardians,DET Tigers,0.07,0.583,0.417
+242,242,Will Brennan,1.5,2.35,1.5,1.556,Total Bases,CLE Guardians,DET Tigers,0.068,0.388,0.612
+243,243,Zach McKinstry,0.5,1.588,0.5,2.3,Total Bases,CLE Guardians,DET Tigers,0.064,0.601,0.399
+244,244,Andres Gimenez,0.5,3.4,0.5,1.294,RBIs,CLE Guardians,DET Tigers,0.067,0.252,0.748
+245,245,Bo Naylor,0.5,3.2,0.5,1.323,RBIs,CLE Guardians,DET Tigers,0.069,0.27,0.73
+246,246,Brayan Rocchio,0.5,4.0,0.5,1.222,RBIs,CLE Guardians,DET Tigers,0.068,0.205,0.795
+247,247,Colt Keith,0.5,3.0,0.5,1.357,RBIs,CLE Guardians,DET Tigers,0.07,0.291,0.709
+248,248,Estevan Florial,0.5,3.9,0.5,1.235,RBIs,CLE Guardians,DET Tigers,0.066,0.213,0.787
+249,249,Jake Rogers,0.5,3.45,0.5,1.286,RBIs,CLE Guardians,DET Tigers,0.068,0.247,0.753
+250,250,Javier Baez,0.5,2.9,0.5,1.377,RBIs,CLE Guardians,DET Tigers,0.071,0.302,0.698
+251,251,Jose Ramirez,0.5,2.5,0.5,1.488,RBIs,CLE Guardians,DET Tigers,0.072,0.359,0.641
+252,252,Josh Naylor,0.5,2.6,0.5,1.465,RBIs,CLE Guardians,DET Tigers,0.067,0.346,0.654
+253,253,Kerry Carpenter,0.5,2.65,0.5,1.435,RBIs,CLE Guardians,DET Tigers,0.074,0.334,0.666
+254,254,Mark Canha,0.5,3.1,0.5,1.339,RBIs,CLE Guardians,DET Tigers,0.069,0.28,0.72
+255,255,Matt Vierling,0.5,2.95,0.5,1.37,RBIs,CLE Guardians,DET Tigers,0.069,0.297,0.703
+256,256,Riley Greene,0.5,3.1,0.5,1.339,RBIs,CLE Guardians,DET Tigers,0.069,0.28,0.72
+257,257,Spencer Torkelson,0.5,2.55,0.5,1.476,RBIs,CLE Guardians,DET Tigers,0.07,0.352,0.648
+258,258,Tyler Freeman,0.5,3.75,0.5,1.25,RBIs,CLE Guardians,DET Tigers,0.067,0.223,0.777
+259,259,Will Brennan,0.5,3.1,0.5,1.333,RBIs,CLE Guardians,DET Tigers,0.073,0.278,0.722
+260,260,Zach McKinstry,0.5,3.05,0.5,1.345,RBIs,CLE Guardians,DET Tigers,0.071,0.284,0.716
+261,261,Andres Gimenez,0.5,2.25,0.5,1.606,Runs Scored,CLE Guardians,DET Tigers,0.067,0.408,0.592
+262,262,Bo Naylor,0.5,2.7,0.5,1.426,Runs Scored,CLE Guardians,DET Tigers,0.072,0.328,0.672
+263,263,Brayan Rocchio,0.5,3.05,0.5,1.351,Runs Scored,CLE Guardians,DET Tigers,0.068,0.286,0.714
+264,264,Colt Keith,0.5,2.35,0.5,1.541,Runs Scored,CLE Guardians,DET Tigers,0.075,0.384,0.616
+265,265,Estevan Florial,0.5,2.35,0.5,1.556,Runs Scored,CLE Guardians,DET Tigers,0.068,0.388,0.612
+266,266,Jake Rogers,0.5,2.9,0.5,1.385,Runs Scored,CLE Guardians,DET Tigers,0.067,0.305,0.695
+267,267,Javier Baez,0.5,2.6,0.5,1.465,Runs Scored,CLE Guardians,DET Tigers,0.067,0.346,0.654
+268,268,Jose Ramirez,0.5,2.2,0.5,1.625,Runs Scored,CLE Guardians,DET Tigers,0.07,0.417,0.583
+269,269,Josh Naylor,0.5,2.3,0.5,1.571,Runs Scored,CLE Guardians,DET Tigers,0.071,0.396,0.604
+270,270,Kerry Carpenter,0.5,2.25,0.5,1.606,Runs Scored,CLE Guardians,DET Tigers,0.067,0.408,0.592
+271,271,Mark Canha,0.5,2.1,0.5,1.69,Runs Scored,CLE Guardians,DET Tigers,0.068,0.44,0.56
+272,272,Matt Vierling,0.5,2.35,0.5,1.556,Runs Scored,CLE Guardians,DET Tigers,0.068,0.388,0.612
+273,273,Riley Greene,0.5,1.952,0.5,1.769,Runs Scored,CLE Guardians,DET Tigers,0.077,0.472,0.528
+274,274,Spencer Torkelson,0.5,2.1,0.5,1.667,Runs Scored,CLE Guardians,DET Tigers,0.076,0.436,0.564
+275,275,Tyler Freeman,0.5,3.0,0.5,1.364,Runs Scored,CLE Guardians,DET Tigers,0.067,0.293,0.707
+276,276,Will Brennan,0.5,2.6,0.5,1.455,Runs Scored,CLE Guardians,DET Tigers,0.072,0.343,0.657
+277,277,Zach McKinstry,0.5,2.5,0.5,1.488,Runs Scored,CLE Guardians,DET Tigers,0.072,0.359,0.641
+278,278,Andres Gimenez,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.07,0.5,0.5
+279,279,Bo Naylor,1.5,2.35,1.5,1.541,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.075,0.384,0.616
+280,280,Brayan Rocchio,1.5,2.35,1.5,1.541,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.075,0.384,0.616
+281,281,Colt Keith,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.071,0.45,0.55
+282,282,Estevan Florial,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.07,0.417,0.583
+283,283,Jake Rogers,0.5,1.741,0.5,2.0,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.074,0.539,0.461
+284,284,Javier Baez,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.076,0.436,0.564
+285,285,Jose Ramirez,1.5,1.741,1.5,2.05,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.062,0.545,0.455
+286,286,Josh Naylor,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.077,0.528,0.472
+287,287,Kerry Carpenter,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.07,0.5,0.5
+288,288,Mark Canha,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.068,0.478,0.522
+289,289,Matt Vierling,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.074,0.461,0.539
+290,290,Riley Greene,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.07,0.5,0.5
+291,291,Spencer Torkelson,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.077,0.472,0.528
+292,292,Tyler Freeman,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.071,0.396,0.604
+293,293,Will Brennan,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.07,0.5,0.5
+294,294,Zach McKinstry,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,CLE Guardians,DET Tigers,0.068,0.44,0.56
+295,295,Andres Gimenez,0.5,5.75,0.5,1.111,Stolen Bases,CLE Guardians,DET Tigers,0.074,0.12,0.88
+296,296,Bo Naylor,0.5,13.0,0.5,1.01,Stolen Bases,CLE Guardians,DET Tigers,0.067,0.016,0.984
+297,297,Brayan Rocchio,0.5,10.5,0.5,1.025,Stolen Bases,CLE Guardians,DET Tigers,0.071,0.035,0.965
+298,298,Colt Keith,0.5,8.5,0.5,1.056,Stolen Bases,CLE Guardians,DET Tigers,0.065,0.066,0.934
+299,299,Estevan Florial,0.5,6.0,0.5,1.111,Stolen Bases,CLE Guardians,DET Tigers,0.067,0.118,0.882
+300,300,Javier Baez,0.5,6.0,0.5,1.111,Stolen Bases,CLE Guardians,DET Tigers,0.067,0.118,0.882
+301,301,Jose Ramirez,0.5,6.0,0.5,1.111,Stolen Bases,CLE Guardians,DET Tigers,0.067,0.118,0.882
+302,302,Josh Naylor,0.5,12.0,0.5,1.012,Stolen Bases,CLE Guardians,DET Tigers,0.071,0.019,0.981
+303,303,Kerry Carpenter,0.5,11.0,0.5,1.025,Stolen Bases,CLE Guardians,DET Tigers,0.067,0.034,0.966
+304,304,Mark Canha,0.5,8.0,0.5,1.056,Stolen Bases,CLE Guardians,DET Tigers,0.072,0.068,0.932
+305,305,Matt Vierling,0.5,10.0,0.5,1.033,Stolen Bases,CLE Guardians,DET Tigers,0.068,0.044,0.956
+306,306,Riley Greene,0.5,8.5,0.5,1.05,Stolen Bases,CLE Guardians,DET Tigers,0.07,0.062,0.938
+307,307,Tyler Freeman,0.5,10.0,0.5,1.033,Stolen Bases,CLE Guardians,DET Tigers,0.068,0.044,0.956
+308,308,Will Brennan,0.5,8.0,0.5,1.062,Stolen Bases,CLE Guardians,DET Tigers,0.066,0.073,0.927
+309,309,Zach McKinstry,0.5,6.0,0.5,1.1,Stolen Bases,CLE Guardians,DET Tigers,0.076,0.111,0.889
+310,310,Andres Gimenez,0.5,1.417,0.5,2.75,Strikeouts,CLE Guardians,DET Tigers,0.07,0.677,0.323
+311,311,Bo Naylor,1.5,2.85,1.5,1.385,Strikeouts,CLE Guardians,DET Tigers,0.073,0.307,0.693
+312,312,Brayan Rocchio,0.5,1.571,0.5,2.3,Strikeouts,CLE Guardians,DET Tigers,0.071,0.604,0.396
+313,313,Colt Keith,0.5,1.571,0.5,2.3,Strikeouts,CLE Guardians,DET Tigers,0.071,0.604,0.396
+314,314,Estevan Florial,1.5,1.741,1.5,2.0,Strikeouts,CLE Guardians,DET Tigers,0.074,0.539,0.461
+315,315,Jake Rogers,1.5,2.2,1.5,1.625,Strikeouts,CLE Guardians,DET Tigers,0.07,0.417,0.583
+316,316,Javier Baez,0.5,1.357,0.5,3.0,Strikeouts,CLE Guardians,DET Tigers,0.07,0.709,0.291
+317,317,Jose Ramirez,0.5,1.952,0.5,1.8,Strikeouts,CLE Guardians,DET Tigers,0.068,0.478,0.522
+318,318,Josh Naylor,0.5,1.87,0.5,1.87,Strikeouts,CLE Guardians,DET Tigers,0.07,0.5,0.5
+319,319,Kerry Carpenter,1.5,3.0,1.5,1.357,Strikeouts,CLE Guardians,DET Tigers,0.07,0.291,0.709
+320,320,Mark Canha,0.5,1.465,0.5,2.6,Strikeouts,CLE Guardians,DET Tigers,0.067,0.654,0.346
+321,321,Matt Vierling,0.5,1.339,0.5,3.1,Strikeouts,CLE Guardians,DET Tigers,0.069,0.72,0.28
+322,322,Riley Greene,1.5,2.6,1.5,1.465,Strikeouts,CLE Guardians,DET Tigers,0.067,0.346,0.654
+323,323,Spencer Torkelson,1.5,2.4,1.5,1.541,Strikeouts,CLE Guardians,DET Tigers,0.066,0.38,0.62
+324,324,Tyler Freeman,0.5,1.588,0.5,2.25,Strikeouts,CLE Guardians,DET Tigers,0.074,0.596,0.404
+325,325,Will Brennan,0.5,2.05,0.5,1.714,Strikeouts,CLE Guardians,DET Tigers,0.071,0.45,0.55
+326,326,Zach McKinstry,0.5,1.417,0.5,2.75,Strikeouts,CLE Guardians,DET Tigers,0.07,0.677,0.323
+327,327,Andres Gimenez,0.5,1.8,0.5,1.952,Singles,CLE Guardians,DET Tigers,0.068,0.522,0.478
+328,328,Bo Naylor,0.5,2.6,0.5,1.465,Singles,CLE Guardians,DET Tigers,0.067,0.346,0.654
+329,329,Brayan Rocchio,0.5,2.05,0.5,1.714,Singles,CLE Guardians,DET Tigers,0.071,0.45,0.55
+330,330,Colt Keith,0.5,2.15,0.5,1.645,Singles,CLE Guardians,DET Tigers,0.073,0.426,0.574
+331,331,Estevan Florial,0.5,2.3,0.5,1.571,Singles,CLE Guardians,DET Tigers,0.071,0.396,0.604
+332,332,Jake Rogers,0.5,3.05,0.5,1.351,Singles,CLE Guardians,DET Tigers,0.068,0.286,0.714
+333,333,Javier Baez,0.5,2.35,0.5,1.556,Singles,CLE Guardians,DET Tigers,0.068,0.388,0.612
+334,334,Jose Ramirez,0.5,1.87,0.5,1.87,Singles,CLE Guardians,DET Tigers,0.07,0.5,0.5
+335,335,Josh Naylor,0.5,1.833,0.5,1.909,Singles,CLE Guardians,DET Tigers,0.069,0.511,0.489
+336,336,Kerry Carpenter,0.5,2.1,0.5,1.69,Singles,CLE Guardians,DET Tigers,0.068,0.44,0.56
+337,337,Mark Canha,0.5,2.15,0.5,1.667,Singles,CLE Guardians,DET Tigers,0.065,0.43,0.57
+338,338,Matt Vierling,0.5,2.2,0.5,1.625,Singles,CLE Guardians,DET Tigers,0.07,0.417,0.583
+339,339,Riley Greene,0.5,2.1,0.5,1.69,Singles,CLE Guardians,DET Tigers,0.068,0.44,0.56
+340,340,Spencer Torkelson,0.5,2.75,0.5,1.417,Singles,CLE Guardians,DET Tigers,0.07,0.323,0.677
+341,341,Tyler Freeman,0.5,2.1,0.5,1.667,Singles,CLE Guardians,DET Tigers,0.076,0.436,0.564
+342,342,Will Brennan,0.5,1.741,0.5,2.05,Singles,CLE Guardians,DET Tigers,0.062,0.545,0.455
+343,343,Zach McKinstry,0.5,2.15,0.5,1.645,Singles,CLE Guardians,DET Tigers,0.073,0.426,0.574
+344,344,Andres Gimenez,0.5,5.0,0.5,1.154,Doubles,CLE Guardians,DET Tigers,0.067,0.153,0.847
+345,345,Bo Naylor,0.5,5.75,0.5,1.125,Doubles,CLE Guardians,DET Tigers,0.063,0.129,0.871
+346,346,Brayan Rocchio,0.5,6.0,0.5,1.1,Doubles,CLE Guardians,DET Tigers,0.076,0.111,0.889
+347,347,Colt Keith,0.5,5.25,0.5,1.143,Doubles,CLE Guardians,DET Tigers,0.065,0.144,0.856
+348,348,Estevan Florial,0.5,5.75,0.5,1.125,Doubles,CLE Guardians,DET Tigers,0.063,0.129,0.871
+349,349,Jake Rogers,0.5,7.0,0.5,1.083,Doubles,CLE Guardians,DET Tigers,0.066,0.093,0.907
+350,350,Javier Baez,0.5,5.0,0.5,1.143,Doubles,CLE Guardians,DET Tigers,0.075,0.147,0.853
+351,351,Jose Ramirez,0.5,4.2,0.5,1.2,Doubles,CLE Guardians,DET Tigers,0.071,0.19,0.81
+352,352,Josh Naylor,0.5,4.3,0.5,1.19,Doubles,CLE Guardians,DET Tigers,0.073,0.183,0.817
+353,353,Kerry Carpenter,0.5,4.8,0.5,1.154,Doubles,CLE Guardians,DET Tigers,0.075,0.156,0.844
+354,354,Mark Canha,0.5,4.6,0.5,1.174,Doubles,CLE Guardians,DET Tigers,0.069,0.17,0.83
+355,355,Matt Vierling,0.5,4.6,0.5,1.174,Doubles,CLE Guardians,DET Tigers,0.069,0.17,0.83
+356,356,Riley Greene,0.5,5.0,0.5,1.154,Doubles,CLE Guardians,DET Tigers,0.067,0.153,0.847
+357,357,Spencer Torkelson,0.5,4.6,0.5,1.174,Doubles,CLE Guardians,DET Tigers,0.069,0.17,0.83
+358,358,Tyler Freeman,0.5,5.5,0.5,1.125,Doubles,CLE Guardians,DET Tigers,0.071,0.131,0.869
+359,359,Will Brennan,0.5,4.6,0.5,1.174,Doubles,CLE Guardians,DET Tigers,0.069,0.17,0.83
+360,360,Zach McKinstry,0.5,5.25,0.5,1.133,Doubles,CLE Guardians,DET Tigers,0.073,0.139,0.861
+361,361,Andres Gimenez,0.5,3.8,0.5,1.235,Walks,CLE Guardians,DET Tigers,0.073,0.216,0.784
+362,362,Bo Naylor,0.5,2.6,0.5,1.465,Walks,CLE Guardians,DET Tigers,0.067,0.346,0.654
+363,363,Brayan Rocchio,0.5,3.7,0.5,1.25,Walks,CLE Guardians,DET Tigers,0.07,0.225,0.775
+364,364,Colt Keith,0.5,2.55,0.5,1.476,Walks,CLE Guardians,DET Tigers,0.07,0.352,0.648
+365,365,Estevan Florial,0.5,2.8,0.5,1.408,Walks,CLE Guardians,DET Tigers,0.067,0.317,0.683
+366,366,Jake Rogers,0.5,3.75,0.5,1.25,Walks,CLE Guardians,DET Tigers,0.067,0.223,0.777
+367,367,Jose Ramirez,0.5,2.95,0.5,1.37,Walks,CLE Guardians,DET Tigers,0.069,0.297,0.703
+368,368,Josh Naylor,0.5,3.35,0.5,1.303,Walks,CLE Guardians,DET Tigers,0.066,0.257,0.743
+369,369,Kerry Carpenter,0.5,2.85,0.5,1.392,Walks,CLE Guardians,DET Tigers,0.069,0.31,0.69
+370,370,Mark Canha,0.5,2.65,0.5,1.444,Walks,CLE Guardians,DET Tigers,0.07,0.337,0.663
+371,371,Matt Vierling,0.5,2.75,0.5,1.417,Walks,CLE Guardians,DET Tigers,0.07,0.323,0.677
+372,372,Riley Greene,0.5,1.8,0.5,1.952,Walks,CLE Guardians,DET Tigers,0.068,0.522,0.478
+373,373,Spencer Torkelson,0.5,2.5,0.5,1.488,Walks,CLE Guardians,DET Tigers,0.072,0.359,0.641
+374,374,Tyler Freeman,0.5,4.3,0.5,1.19,Walks,CLE Guardians,DET Tigers,0.073,0.183,0.817
+375,375,Zach McKinstry,0.5,2.75,0.5,1.417,Walks,CLE Guardians,DET Tigers,0.07,0.323,0.677
+376,376,Andrew McCutchen,0.5,4.6,0.5,1.174,Home Runs,PIT Pirates,LA Angels,0.069,0.17,0.83
+377,377,Bryan Reynolds,0.5,5.75,0.5,1.111,Home Runs,PIT Pirates,LA Angels,0.074,0.12,0.88
+378,378,Connor Joe,0.5,6.0,0.5,1.111,Home Runs,PIT Pirates,LA Angels,0.067,0.118,0.882
+379,379,Edward Olivares,0.5,5.75,0.5,1.125,Home Runs,PIT Pirates,LA Angels,0.063,0.129,0.871
+380,380,Jared Triolo,0.5,9.0,0.5,1.04,Home Runs,PIT Pirates,LA Angels,0.073,0.052,0.948
+381,381,Jo Adell,0.5,8.5,0.5,1.05,Home Runs,PIT Pirates,LA Angels,0.07,0.062,0.938
+382,382,Joey Bart,0.5,6.0,0.5,1.1,Home Runs,PIT Pirates,LA Angels,0.076,0.111,0.889
+383,383,Ke'Bryan Hayes,0.5,6.5,0.5,1.091,Home Runs,PIT Pirates,LA Angels,0.071,0.101,0.899
+384,384,Michael A. Taylor,0.5,5.75,0.5,1.111,Home Runs,PIT Pirates,LA Angels,0.074,0.12,0.88
+385,385,Nolan Schanuel,0.5,10.0,0.5,1.033,Home Runs,PIT Pirates,LA Angels,0.068,0.044,0.956
+386,386,Oneil Cruz,0.5,7.0,0.5,1.083,Home Runs,PIT Pirates,LA Angels,0.066,0.093,0.907
+387,387,Taylor Ward,0.5,8.0,0.5,1.062,Home Runs,PIT Pirates,LA Angels,0.066,0.073,0.927
+388,388,Willie Calhoun,0.5,7.5,0.5,1.071,Home Runs,PIT Pirates,LA Angels,0.067,0.082,0.918
+389,389,Zach Neto,0.5,7.5,0.5,1.071,Home Runs,PIT Pirates,LA Angels,0.067,0.082,0.918
+390,390,Joey Bart,,12.0,,1.012,1st Home Run,PIT Pirates,LA Angels,0.071,0.019,0.981
+391,391,Andrew McCutchen,0.5,1.476,0.5,2.55,Hits,PIT Pirates,LA Angels,0.07,0.648,0.352
+392,392,Bryan Reynolds,0.5,1.377,0.5,2.9,Hits,PIT Pirates,LA Angels,0.071,0.698,0.302
+393,393,Connor Joe,0.5,1.465,0.5,2.6,Hits,PIT Pirates,LA Angels,0.067,0.654,0.346
+394,394,Edward Olivares,0.5,1.444,0.5,2.65,Hits,PIT Pirates,LA Angels,0.07,0.663,0.337
+395,395,Jared Triolo,0.5,1.606,0.5,2.25,Hits,PIT Pirates,LA Angels,0.067,0.592,0.408
+396,396,Jo Adell,0.5,1.667,0.5,2.1,Hits,PIT Pirates,LA Angels,0.076,0.564,0.436
+397,397,Joey Bart,0.5,1.667,0.5,2.15,Hits,PIT Pirates,LA Angels,0.065,0.57,0.43
+398,398,Ke'Bryan Hayes,1.5,2.9,1.5,1.377,Hits,PIT Pirates,LA Angels,0.071,0.302,0.698
+399,399,Michael A. Taylor,0.5,1.714,0.5,2.05,Hits,PIT Pirates,LA Angels,0.071,0.55,0.45
+400,400,Nolan Schanuel,0.5,1.364,0.5,2.95,Hits,PIT Pirates,LA Angels,0.072,0.705,0.295
+401,401,Oneil Cruz,0.5,1.714,0.5,2.05,Hits,PIT Pirates,LA Angels,0.071,0.55,0.45
+402,402,Taylor Ward,0.5,1.357,0.5,3.0,Hits,PIT Pirates,LA Angels,0.07,0.709,0.291
+403,403,Willie Calhoun,0.5,1.408,0.5,2.75,Hits,PIT Pirates,LA Angels,0.074,0.68,0.32
+404,404,Zach Neto,0.5,1.625,0.5,2.2,Hits,PIT Pirates,LA Angels,0.07,0.583,0.417
+405,405,Andrew McCutchen,1.5,2.2,1.5,1.645,Total Bases,PIT Pirates,LA Angels,0.062,0.421,0.579
+406,406,Bryan Reynolds,1.5,2.15,1.5,1.667,Total Bases,PIT Pirates,LA Angels,0.065,0.43,0.57
+407,407,Connor Joe,1.5,2.35,1.5,1.541,Total Bases,PIT Pirates,LA Angels,0.075,0.384,0.616
+408,408,Edward Olivares,1.5,2.25,1.5,1.588,Total Bases,PIT Pirates,LA Angels,0.074,0.404,0.596
+409,409,Jared Triolo,0.5,1.606,0.5,2.25,Total Bases,PIT Pirates,LA Angels,0.067,0.592,0.408
+410,410,Jo Adell,0.5,1.667,0.5,2.1,Total Bases,PIT Pirates,LA Angels,0.076,0.564,0.436
+411,411,Joey Bart,0.5,1.667,0.5,2.15,Total Bases,PIT Pirates,LA Angels,0.065,0.57,0.43
+412,412,Ke'Bryan Hayes,1.5,2.0,1.5,1.769,Total Bases,PIT Pirates,LA Angels,0.065,0.466,0.534
+413,413,Michael A. Taylor,0.5,1.714,0.5,2.05,Total Bases,PIT Pirates,LA Angels,0.071,0.55,0.45
+414,414,Nolan Schanuel,1.5,2.4,1.5,1.541,Total Bases,PIT Pirates,LA Angels,0.066,0.38,0.62
+415,415,Oneil Cruz,0.5,1.714,0.5,2.05,Total Bases,PIT Pirates,LA Angels,0.071,0.55,0.45
+416,416,Taylor Ward,1.5,2.15,1.5,1.645,Total Bases,PIT Pirates,LA Angels,0.073,0.426,0.574
+417,417,Willie Calhoun,1.5,2.2,1.5,1.645,Total Bases,PIT Pirates,LA Angels,0.062,0.421,0.579
+418,418,Zach Neto,0.5,1.625,0.5,2.2,Total Bases,PIT Pirates,LA Angels,0.07,0.583,0.417
+419,419,Andrew McCutchen,0.5,2.8,0.5,1.4,RBIs,PIT Pirates,LA Angels,0.071,0.315,0.685
+420,420,Bryan Reynolds,0.5,2.9,0.5,1.377,RBIs,PIT Pirates,LA Angels,0.071,0.302,0.698
+421,421,Connor Joe,0.5,2.45,0.5,1.5,RBIs,PIT Pirates,LA Angels,0.075,0.366,0.634
+422,422,Edward Olivares,0.5,2.5,0.5,1.488,RBIs,PIT Pirates,LA Angels,0.072,0.359,0.641
+423,423,Jared Triolo,0.5,3.5,0.5,1.27,RBIs,PIT Pirates,LA Angels,0.073,0.239,0.761
+424,424,Jo Adell,0.5,3.6,0.5,1.263,RBIs,PIT Pirates,LA Angels,0.069,0.233,0.767
+425,425,Joey Bart,0.5,3.1,0.5,1.345,RBIs,PIT Pirates,LA Angels,0.066,0.282,0.718
+426,426,Ke'Bryan Hayes,0.5,2.5,0.5,1.5,RBIs,PIT Pirates,LA Angels,0.067,0.362,0.638
+427,427,Michael A. Taylor,0.5,3.15,0.5,1.323,RBIs,PIT Pirates,LA Angels,0.074,0.272,0.728
+428,428,Nolan Schanuel,0.5,3.7,0.5,1.25,RBIs,PIT Pirates,LA Angels,0.07,0.225,0.775
+429,429,Oneil Cruz,0.5,3.35,0.5,1.294,RBIs,PIT Pirates,LA Angels,0.071,0.254,0.746
+430,430,Taylor Ward,0.5,2.8,0.5,1.408,RBIs,PIT Pirates,LA Angels,0.067,0.317,0.683
+431,431,Willie Calhoun,0.5,2.5,0.5,1.488,RBIs,PIT Pirates,LA Angels,0.072,0.359,0.641
+432,432,Zach Neto,0.5,3.35,0.5,1.294,RBIs,PIT Pirates,LA Angels,0.071,0.254,0.746
+433,433,Andrew McCutchen,0.5,1.769,0.5,2.0,Runs Scored,PIT Pirates,LA Angels,0.065,0.534,0.466
+434,434,Bryan Reynolds,0.5,2.05,0.5,1.714,Runs Scored,PIT Pirates,LA Angels,0.071,0.45,0.55
+435,435,Connor Joe,0.5,2.25,0.5,1.606,Runs Scored,PIT Pirates,LA Angels,0.067,0.408,0.592
+436,436,Edward Olivares,0.5,2.25,0.5,1.588,Runs Scored,PIT Pirates,LA Angels,0.074,0.404,0.596
+437,437,Jared Triolo,0.5,2.65,0.5,1.455,Runs Scored,PIT Pirates,LA Angels,0.065,0.34,0.66
+438,438,Jo Adell,0.5,2.65,0.5,1.444,Runs Scored,PIT Pirates,LA Angels,0.07,0.337,0.663
+439,439,Joey Bart,0.5,2.65,0.5,1.444,Runs Scored,PIT Pirates,LA Angels,0.07,0.337,0.663
+440,440,Ke'Bryan Hayes,0.5,2.1,0.5,1.69,Runs Scored,PIT Pirates,LA Angels,0.068,0.44,0.56
+441,441,Michael A. Taylor,0.5,2.45,0.5,1.513,Runs Scored,PIT Pirates,LA Angels,0.069,0.369,0.631
+442,442,Nolan Schanuel,0.5,2.2,0.5,1.625,Runs Scored,PIT Pirates,LA Angels,0.07,0.417,0.583
+443,443,Oneil Cruz,0.5,2.6,0.5,1.465,Runs Scored,PIT Pirates,LA Angels,0.067,0.346,0.654
+444,444,Taylor Ward,0.5,2.25,0.5,1.606,Runs Scored,PIT Pirates,LA Angels,0.067,0.408,0.592
+445,445,Willie Calhoun,0.5,2.3,0.5,1.571,Runs Scored,PIT Pirates,LA Angels,0.071,0.396,0.604
+446,446,Zach Neto,0.5,2.55,0.5,1.476,Runs Scored,PIT Pirates,LA Angels,0.07,0.352,0.648
+447,447,Andrew McCutchen,1.5,1.741,1.5,2.05,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.062,0.545,0.455
+448,448,Bryan Reynolds,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.065,0.534,0.466
+449,449,Connor Joe,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.07,0.5,0.5
+450,450,Edward Olivares,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.068,0.522,0.478
+451,451,Jared Triolo,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.073,0.426,0.574
+452,452,Jo Adell,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.067,0.408,0.592
+453,453,Joey Bart,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.067,0.408,0.592
+454,454,Ke'Bryan Hayes,1.5,1.645,1.5,2.15,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.073,0.574,0.426
+455,455,Michael A. Taylor,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.067,0.408,0.592
+456,456,Nolan Schanuel,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.068,0.522,0.478
+457,457,Oneil Cruz,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.074,0.404,0.596
+458,458,Taylor Ward,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.065,0.534,0.466
+459,459,Willie Calhoun,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.068,0.522,0.478
+460,460,Zach Neto,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,PIT Pirates,LA Angels,0.07,0.417,0.583
+461,461,Andrew McCutchen,0.5,8.5,0.5,1.05,Stolen Bases,PIT Pirates,LA Angels,0.07,0.062,0.938
+462,462,Bryan Reynolds,0.5,11.0,0.5,1.02,Stolen Bases,PIT Pirates,LA Angels,0.071,0.029,0.971
+463,463,Edward Olivares,0.5,9.5,0.5,1.04,Stolen Bases,PIT Pirates,LA Angels,0.067,0.051,0.949
+464,464,Jared Triolo,0.5,9.0,0.5,1.04,Stolen Bases,PIT Pirates,LA Angels,0.073,0.052,0.948
+465,465,Jo Adell,0.5,7.5,0.5,1.071,Stolen Bases,PIT Pirates,LA Angels,0.067,0.082,0.918
+466,466,Ke'Bryan Hayes,0.5,13.0,0.5,1.005,Stolen Bases,PIT Pirates,LA Angels,0.072,0.009,0.991
+467,467,Michael A. Taylor,0.5,9.5,0.5,1.04,Stolen Bases,PIT Pirates,LA Angels,0.067,0.051,0.949
+468,468,Oneil Cruz,0.5,8.5,0.5,1.05,Stolen Bases,PIT Pirates,LA Angels,0.07,0.062,0.938
+469,469,Taylor Ward,0.5,12.0,0.5,1.012,Stolen Bases,PIT Pirates,LA Angels,0.071,0.019,0.981
+470,470,Zach Neto,0.5,10.0,0.5,1.033,Stolen Bases,PIT Pirates,LA Angels,0.068,0.044,0.956
+471,471,Andrew McCutchen,0.5,1.385,0.5,2.9,Strikeouts,PIT Pirates,LA Angels,0.067,0.695,0.305
+472,472,Bryan Reynolds,0.5,1.417,0.5,2.75,Strikeouts,PIT Pirates,LA Angels,0.07,0.677,0.323
+473,473,Connor Joe,0.5,1.606,0.5,2.25,Strikeouts,PIT Pirates,LA Angels,0.067,0.592,0.408
+474,474,Edward Olivares,0.5,1.667,0.5,2.15,Strikeouts,PIT Pirates,LA Angels,0.065,0.57,0.43
+475,475,Jared Triolo,0.5,1.444,0.5,2.65,Strikeouts,PIT Pirates,LA Angels,0.07,0.663,0.337
+476,476,Jo Adell,1.5,2.35,1.5,1.556,Strikeouts,PIT Pirates,LA Angels,0.068,0.388,0.612
+477,477,Joey Bart,1.5,2.65,1.5,1.444,Strikeouts,PIT Pirates,LA Angels,0.07,0.337,0.663
+478,478,Ke'Bryan Hayes,0.5,1.909,0.5,1.833,Strikeouts,PIT Pirates,LA Angels,0.069,0.489,0.511
+479,479,Michael A. Taylor,1.5,2.95,1.5,1.37,Strikeouts,PIT Pirates,LA Angels,0.069,0.297,0.703
+480,480,Nolan Schanuel,0.5,1.571,0.5,2.3,Strikeouts,PIT Pirates,LA Angels,0.071,0.604,0.396
+481,481,Oneil Cruz,1.5,2.65,1.5,1.444,Strikeouts,PIT Pirates,LA Angels,0.07,0.337,0.663
+482,482,Taylor Ward,0.5,1.5,0.5,2.45,Strikeouts,PIT Pirates,LA Angels,0.075,0.634,0.366
+483,483,Willie Calhoun,0.5,2.25,0.5,1.606,Strikeouts,PIT Pirates,LA Angels,0.067,0.408,0.592
+484,484,Zach Neto,0.5,1.392,0.5,2.85,Strikeouts,PIT Pirates,LA Angels,0.069,0.69,0.31
+485,485,Andrew McCutchen,0.5,2.3,0.5,1.571,Singles,PIT Pirates,LA Angels,0.071,0.396,0.604
+486,486,Bryan Reynolds,0.5,1.87,0.5,1.87,Singles,PIT Pirates,LA Angels,0.07,0.5,0.5
+487,487,Connor Joe,0.5,2.1,0.5,1.69,Singles,PIT Pirates,LA Angels,0.068,0.44,0.56
+488,488,Edward Olivares,0.5,2.1,0.5,1.69,Singles,PIT Pirates,LA Angels,0.068,0.44,0.56
+489,489,Jared Triolo,0.5,2.15,0.5,1.667,Singles,PIT Pirates,LA Angels,0.065,0.43,0.57
+490,490,Jo Adell,0.5,2.25,0.5,1.606,Singles,PIT Pirates,LA Angels,0.067,0.408,0.592
+491,491,Joey Bart,0.5,2.45,0.5,1.513,Singles,PIT Pirates,LA Angels,0.069,0.369,0.631
+492,492,Ke'Bryan Hayes,0.5,1.741,0.5,2.05,Singles,PIT Pirates,LA Angels,0.062,0.545,0.455
+493,493,Michael A. Taylor,0.5,2.65,0.5,1.444,Singles,PIT Pirates,LA Angels,0.07,0.337,0.663
+494,494,Nolan Schanuel,0.5,1.645,0.5,2.15,Singles,PIT Pirates,LA Angels,0.073,0.574,0.426
+495,495,Oneil Cruz,0.5,2.45,0.5,1.526,Singles,PIT Pirates,LA Angels,0.063,0.372,0.628
+496,496,Taylor Ward,0.5,1.741,0.5,2.0,Singles,PIT Pirates,LA Angels,0.074,0.539,0.461
+497,497,Willie Calhoun,0.5,1.87,0.5,1.87,Singles,PIT Pirates,LA Angels,0.07,0.5,0.5
+498,498,Zach Neto,0.5,2.2,0.5,1.625,Singles,PIT Pirates,LA Angels,0.07,0.417,0.583
+499,499,Andrew McCutchen,0.5,4.3,0.5,1.19,Doubles,PIT Pirates,LA Angels,0.073,0.183,0.817
+500,500,Bryan Reynolds,0.5,4.1,0.5,1.211,Doubles,PIT Pirates,LA Angels,0.07,0.197,0.803
+501,501,Connor Joe,0.5,4.4,0.5,1.19,Doubles,PIT Pirates,LA Angels,0.067,0.182,0.818
+502,502,Edward Olivares,0.5,4.5,0.5,1.182,Doubles,PIT Pirates,LA Angels,0.068,0.176,0.824
+503,503,Jared Triolo,0.5,5.25,0.5,1.133,Doubles,PIT Pirates,LA Angels,0.073,0.139,0.861
+504,504,Jo Adell,0.5,5.5,0.5,1.125,Doubles,PIT Pirates,LA Angels,0.071,0.131,0.869
+505,505,Joey Bart,0.5,5.25,0.5,1.143,Doubles,PIT Pirates,LA Angels,0.065,0.144,0.856
+506,506,Ke'Bryan Hayes,0.5,3.7,0.5,1.25,Doubles,PIT Pirates,LA Angels,0.07,0.225,0.775
+507,507,Michael A. Taylor,0.5,5.75,0.5,1.125,Doubles,PIT Pirates,LA Angels,0.063,0.129,0.871
+508,508,Nolan Schanuel,0.5,4.7,0.5,1.167,Doubles,PIT Pirates,LA Angels,0.07,0.165,0.835
+509,509,Oneil Cruz,0.5,5.75,0.5,1.111,Doubles,PIT Pirates,LA Angels,0.074,0.12,0.88
+510,510,Taylor Ward,0.5,4.0,0.5,1.222,Doubles,PIT Pirates,LA Angels,0.068,0.205,0.795
+511,511,Willie Calhoun,0.5,3.65,0.5,1.256,Doubles,PIT Pirates,LA Angels,0.07,0.229,0.771
+512,512,Zach Neto,0.5,5.25,0.5,1.133,Doubles,PIT Pirates,LA Angels,0.073,0.139,0.861
+513,513,Andrew McCutchen,0.5,1.909,0.5,1.833,Walks,PIT Pirates,LA Angels,0.069,0.489,0.511
+514,514,Bryan Reynolds,0.5,2.65,0.5,1.455,Walks,PIT Pirates,LA Angels,0.065,0.34,0.66
+515,515,Connor Joe,0.5,2.5,0.5,1.5,Walks,PIT Pirates,LA Angels,0.067,0.362,0.638
+516,516,Edward Olivares,0.5,3.45,0.5,1.286,Walks,PIT Pirates,LA Angels,0.068,0.247,0.753
+517,517,Jared Triolo,0.5,3.3,0.5,1.312,Walks,PIT Pirates,LA Angels,0.065,0.263,0.737
+518,518,Jo Adell,0.5,3.7,0.5,1.25,Walks,PIT Pirates,LA Angels,0.07,0.225,0.775
+519,519,Joey Bart,0.5,3.3,0.5,1.303,Walks,PIT Pirates,LA Angels,0.07,0.259,0.741
+520,520,Ke'Bryan Hayes,0.5,3.05,0.5,1.345,Walks,PIT Pirates,LA Angels,0.071,0.284,0.716
+521,521,Michael A. Taylor,0.5,3.7,0.5,1.25,Walks,PIT Pirates,LA Angels,0.07,0.225,0.775
+522,522,Nolan Schanuel,0.5,2.65,0.5,1.444,Walks,PIT Pirates,LA Angels,0.07,0.337,0.663
+523,523,Oneil Cruz,0.5,2.95,0.5,1.364,Walks,PIT Pirates,LA Angels,0.072,0.295,0.705
+524,524,Taylor Ward,0.5,2.7,0.5,1.426,Walks,PIT Pirates,LA Angels,0.072,0.328,0.672
+525,525,Willie Calhoun,0.5,2.8,0.5,1.4,Walks,PIT Pirates,LA Angels,0.071,0.315,0.685
+526,526,Zach Neto,0.5,4.3,0.5,1.19,Walks,PIT Pirates,LA Angels,0.073,0.183,0.817
+527,527,Amed Rosario,0.5,9.5,0.5,1.04,Home Runs,TB Rays,CHI White Sox,0.067,0.051,0.949
+528,528,Ben Rortvedt,0.5,7.5,0.5,1.071,Home Runs,TB Rays,CHI White Sox,0.067,0.082,0.918
+529,529,Isaac Paredes,0.5,5.25,0.5,1.143,Home Runs,TB Rays,CHI White Sox,0.065,0.144,0.856
+530,530,Jonny DeLuca,0.5,7.0,0.5,1.071,Home Runs,TB Rays,CHI White Sox,0.076,0.084,0.916
+531,531,Jose Caballero,0.5,7.5,0.5,1.071,Home Runs,TB Rays,CHI White Sox,0.067,0.082,0.918
+532,532,Josh Lowe,0.5,5.75,0.5,1.111,Home Runs,TB Rays,CHI White Sox,0.074,0.12,0.88
+533,533,Randy Arozarena,0.5,5.25,0.5,1.133,Home Runs,TB Rays,CHI White Sox,0.073,0.139,0.861
+534,534,Richie Palacios,0.5,7.0,0.5,1.083,Home Runs,TB Rays,CHI White Sox,0.066,0.093,0.907
+535,535,Yandy Diaz,0.5,6.0,0.5,1.111,Home Runs,TB Rays,CHI White Sox,0.067,0.118,0.882
+536,536,Amed Rosario,1.5,2.9,1.5,1.385,Hits,TB Rays,CHI White Sox,0.067,0.305,0.695
+537,537,Ben Rortvedt,0.5,1.741,0.5,2.05,Hits,TB Rays,CHI White Sox,0.062,0.545,0.455
+538,538,Isaac Paredes,0.5,1.526,0.5,2.4,Hits,TB Rays,CHI White Sox,0.072,0.624,0.376
+539,539,Jonny DeLuca,0.5,1.714,0.5,2.05,Hits,TB Rays,CHI White Sox,0.071,0.55,0.45
+540,540,Jose Caballero,0.5,1.588,0.5,2.25,Hits,TB Rays,CHI White Sox,0.074,0.596,0.404
+541,541,Josh Lowe,0.5,1.476,0.5,2.55,Hits,TB Rays,CHI White Sox,0.07,0.648,0.352
+542,542,Randy Arozarena,0.5,1.476,0.5,2.55,Hits,TB Rays,CHI White Sox,0.07,0.648,0.352
+543,543,Richie Palacios,0.5,1.556,0.5,2.35,Hits,TB Rays,CHI White Sox,0.068,0.612,0.388
+544,544,Yandy Diaz,1.5,2.6,1.5,1.465,Hits,TB Rays,CHI White Sox,0.067,0.346,0.654
+545,545,Amed Rosario,1.5,2.15,1.5,1.645,Total Bases,TB Rays,CHI White Sox,0.073,0.426,0.574
+546,546,Ben Rortvedt,0.5,1.741,0.5,2.05,Total Bases,TB Rays,CHI White Sox,0.062,0.545,0.455
+547,547,Isaac Paredes,1.5,2.35,1.5,1.556,Total Bases,TB Rays,CHI White Sox,0.068,0.388,0.612
+548,548,Jonny DeLuca,0.5,1.714,0.5,2.05,Total Bases,TB Rays,CHI White Sox,0.071,0.55,0.45
+549,549,Jose Caballero,0.5,1.588,0.5,2.25,Total Bases,TB Rays,CHI White Sox,0.074,0.596,0.404
+550,550,Josh Lowe,1.5,2.35,1.5,1.556,Total Bases,TB Rays,CHI White Sox,0.068,0.388,0.612
+551,551,Randy Arozarena,1.5,2.35,1.5,1.541,Total Bases,TB Rays,CHI White Sox,0.075,0.384,0.616
+552,552,Richie Palacios,0.5,1.556,0.5,2.35,Total Bases,TB Rays,CHI White Sox,0.068,0.612,0.388
+553,553,Yandy Diaz,1.5,1.952,1.5,1.8,Total Bases,TB Rays,CHI White Sox,0.068,0.478,0.522
+554,554,Amed Rosario,0.5,2.7,0.5,1.435,RBIs,TB Rays,CHI White Sox,0.067,0.331,0.669
+555,555,Ben Rortvedt,0.5,3.15,0.5,1.323,RBIs,TB Rays,CHI White Sox,0.074,0.272,0.728
+556,556,Isaac Paredes,0.5,2.6,0.5,1.465,RBIs,TB Rays,CHI White Sox,0.067,0.346,0.654
+557,557,Jonny DeLuca,0.5,3.35,0.5,1.303,RBIs,TB Rays,CHI White Sox,0.066,0.257,0.743
+558,558,Jose Caballero,0.5,2.8,0.5,1.408,RBIs,TB Rays,CHI White Sox,0.067,0.317,0.683
+559,559,Josh Lowe,0.5,2.75,0.5,1.426,RBIs,TB Rays,CHI White Sox,0.065,0.325,0.675
+560,560,Randy Arozarena,0.5,2.55,0.5,1.476,RBIs,TB Rays,CHI White Sox,0.07,0.352,0.648
+561,561,Richie Palacios,0.5,3.3,0.5,1.303,RBIs,TB Rays,CHI White Sox,0.07,0.259,0.741
+562,562,Yandy Diaz,0.5,2.8,0.5,1.408,RBIs,TB Rays,CHI White Sox,0.067,0.317,0.683
+563,563,Amed Rosario,0.5,2.25,0.5,1.606,Runs Scored,TB Rays,CHI White Sox,0.067,0.408,0.592
+564,564,Ben Rortvedt,0.5,2.65,0.5,1.444,Runs Scored,TB Rays,CHI White Sox,0.07,0.337,0.663
+565,565,Isaac Paredes,0.5,2.2,0.5,1.625,Runs Scored,TB Rays,CHI White Sox,0.07,0.417,0.583
+566,566,Jonny DeLuca,0.5,2.45,0.5,1.5,Runs Scored,TB Rays,CHI White Sox,0.075,0.366,0.634
+567,567,Jose Caballero,0.5,2.3,0.5,1.588,Runs Scored,TB Rays,CHI White Sox,0.064,0.399,0.601
+568,568,Josh Lowe,0.5,2.1,0.5,1.69,Runs Scored,TB Rays,CHI White Sox,0.068,0.44,0.56
+569,569,Randy Arozarena,0.5,1.952,0.5,1.769,Runs Scored,TB Rays,CHI White Sox,0.077,0.472,0.528
+570,570,Richie Palacios,0.5,2.15,0.5,1.645,Runs Scored,TB Rays,CHI White Sox,0.073,0.426,0.574
+571,571,Yandy Diaz,0.5,2.0,0.5,1.769,Runs Scored,TB Rays,CHI White Sox,0.065,0.466,0.534
+572,572,Amed Rosario,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.071,0.55,0.45
+573,573,Ben Rortvedt,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.074,0.404,0.596
+574,574,Isaac Paredes,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.069,0.489,0.511
+575,575,Jonny DeLuca,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.074,0.404,0.596
+576,576,Jose Caballero,1.5,2.0,1.5,1.769,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.065,0.466,0.534
+577,577,Josh Lowe,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.069,0.511,0.489
+578,578,Randy Arozarena,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.068,0.522,0.478
+579,579,Richie Palacios,1.5,2.05,1.5,1.741,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.062,0.455,0.545
+580,580,Yandy Diaz,1.5,1.606,1.5,2.25,Hits + Runs + RBIs,TB Rays,CHI White Sox,0.067,0.592,0.408
+581,581,Amed Rosario,0.5,3.65,0.5,1.263,Stolen Bases,TB Rays,CHI White Sox,0.066,0.232,0.768
+582,582,Jonny DeLuca,0.5,5.75,0.5,1.125,Stolen Bases,TB Rays,CHI White Sox,0.063,0.129,0.871
+583,583,Jose Caballero,0.5,3.1,0.5,1.345,Stolen Bases,TB Rays,CHI White Sox,0.066,0.282,0.718
+584,584,Josh Lowe,0.5,3.5,0.5,1.278,Stolen Bases,TB Rays,CHI White Sox,0.068,0.242,0.758
+585,585,Randy Arozarena,0.5,4.0,0.5,1.222,Stolen Bases,TB Rays,CHI White Sox,0.068,0.205,0.795
+586,586,Richie Palacios,0.5,4.8,0.5,1.154,Stolen Bases,TB Rays,CHI White Sox,0.075,0.156,0.844
+587,587,Amed Rosario,0.5,1.8,0.5,1.952,Strikeouts,TB Rays,CHI White Sox,0.068,0.522,0.478
+588,588,Ben Rortvedt,0.5,1.571,0.5,2.3,Strikeouts,TB Rays,CHI White Sox,0.071,0.604,0.396
+589,589,Isaac Paredes,0.5,1.645,0.5,2.15,Strikeouts,TB Rays,CHI White Sox,0.073,0.574,0.426
+590,590,Jonny DeLuca,0.5,1.556,0.5,2.35,Strikeouts,TB Rays,CHI White Sox,0.068,0.612,0.388
+591,591,Jose Caballero,0.5,1.588,0.5,2.25,Strikeouts,TB Rays,CHI White Sox,0.074,0.596,0.404
+592,592,Josh Lowe,0.5,1.426,0.5,2.7,Strikeouts,TB Rays,CHI White Sox,0.072,0.672,0.328
+593,593,Randy Arozarena,0.5,1.345,0.5,3.05,Strikeouts,TB Rays,CHI White Sox,0.071,0.716,0.284
+594,594,Richie Palacios,0.5,1.513,0.5,2.45,Strikeouts,TB Rays,CHI White Sox,0.069,0.631,0.369
+595,595,Yandy Diaz,0.5,1.87,0.5,1.87,Strikeouts,TB Rays,CHI White Sox,0.07,0.5,0.5
+596,596,Amed Rosario,0.5,1.625,0.5,2.2,Singles,TB Rays,CHI White Sox,0.07,0.583,0.417
+597,597,Ben Rortvedt,0.5,2.4,0.5,1.541,Singles,TB Rays,CHI White Sox,0.066,0.38,0.62
+598,598,Isaac Paredes,0.5,2.2,0.5,1.625,Singles,TB Rays,CHI White Sox,0.07,0.417,0.583
+599,599,Jonny DeLuca,0.5,2.45,0.5,1.513,Singles,TB Rays,CHI White Sox,0.069,0.369,0.631
+600,600,Jose Caballero,0.5,2.15,0.5,1.645,Singles,TB Rays,CHI White Sox,0.073,0.426,0.574
+601,601,Josh Lowe,0.5,2.05,0.5,1.714,Singles,TB Rays,CHI White Sox,0.071,0.45,0.55
+602,602,Randy Arozarena,0.5,2.1,0.5,1.69,Singles,TB Rays,CHI White Sox,0.068,0.44,0.56
+603,603,Richie Palacios,0.5,2.1,0.5,1.69,Singles,TB Rays,CHI White Sox,0.068,0.44,0.56
+604,604,Yandy Diaz,0.5,1.606,0.5,2.25,Singles,TB Rays,CHI White Sox,0.067,0.592,0.408
+605,605,Amed Rosario,0.5,4.3,0.5,1.19,Doubles,TB Rays,CHI White Sox,0.073,0.183,0.817
+606,606,Ben Rortvedt,0.5,6.0,0.5,1.1,Doubles,TB Rays,CHI White Sox,0.076,0.111,0.889
+607,607,Isaac Paredes,0.5,4.6,0.5,1.174,Doubles,TB Rays,CHI White Sox,0.069,0.17,0.83
+608,608,Jonny DeLuca,0.5,5.5,0.5,1.125,Doubles,TB Rays,CHI White Sox,0.071,0.131,0.869
+609,609,Jose Caballero,0.5,5.0,0.5,1.143,Doubles,TB Rays,CHI White Sox,0.075,0.147,0.853
+610,610,Josh Lowe,0.5,4.8,0.5,1.154,Doubles,TB Rays,CHI White Sox,0.075,0.156,0.844
+611,611,Randy Arozarena,0.5,5.0,0.5,1.154,Doubles,TB Rays,CHI White Sox,0.067,0.153,0.847
+612,612,Richie Palacios,0.5,5.5,0.5,1.133,Doubles,TB Rays,CHI White Sox,0.064,0.136,0.864
+613,613,Yandy Diaz,0.5,4.1,0.5,1.211,Doubles,TB Rays,CHI White Sox,0.07,0.197,0.803
+614,614,Amed Rosario,0.5,4.3,0.5,1.19,Walks,TB Rays,CHI White Sox,0.073,0.183,0.817
+615,615,Ben Rortvedt,0.5,3.2,0.5,1.323,Walks,TB Rays,CHI White Sox,0.069,0.27,0.73
+616,616,Isaac Paredes,0.5,2.8,0.5,1.4,Walks,TB Rays,CHI White Sox,0.071,0.315,0.685
+617,617,Jonny DeLuca,0.5,4.2,0.5,1.2,Walks,TB Rays,CHI White Sox,0.071,0.19,0.81
+618,618,Jose Caballero,0.5,3.85,0.5,1.235,Walks,TB Rays,CHI White Sox,0.069,0.214,0.786
+619,619,Josh Lowe,0.5,3.15,0.5,1.333,Walks,TB Rays,CHI White Sox,0.067,0.276,0.724
+620,620,Randy Arozarena,0.5,2.45,0.5,1.513,Walks,TB Rays,CHI White Sox,0.069,0.369,0.631
+621,621,Richie Palacios,0.5,2.8,0.5,1.4,Walks,TB Rays,CHI White Sox,0.071,0.315,0.685
+622,622,Yandy Diaz,0.5,2.5,0.5,1.488,Walks,TB Rays,CHI White Sox,0.072,0.359,0.641
+623,623,Andruw Monasterio,0.5,10.0,0.5,1.033,Home Runs,KC Royals,MIL Brewers,0.068,0.044,0.956
+624,624,Blake Perkins,0.5,11.0,0.5,1.02,Home Runs,KC Royals,MIL Brewers,0.071,0.029,0.971
+625,625,Bobby Witt Jr.,0.5,4.7,0.5,1.167,Home Runs,KC Royals,MIL Brewers,0.07,0.165,0.835
+626,626,Gary Sanchez,0.5,4.8,0.5,1.167,Home Runs,KC Royals,MIL Brewers,0.065,0.163,0.837
+627,627,Hunter Renfroe,0.5,5.75,0.5,1.111,Home Runs,KC Royals,MIL Brewers,0.074,0.12,0.88
+628,628,Jackson Chourio,0.5,8.5,0.5,1.05,Home Runs,KC Royals,MIL Brewers,0.07,0.062,0.938
+629,629,Joey Ortiz,0.5,9.0,0.5,1.04,Home Runs,KC Royals,MIL Brewers,0.073,0.052,0.948
+630,630,Kyle Isbel,0.5,9.5,0.5,1.04,Home Runs,KC Royals,MIL Brewers,0.067,0.051,0.949
+631,631,Maikel Garcia,0.5,8.0,0.5,1.062,Home Runs,KC Royals,MIL Brewers,0.066,0.073,0.927
+632,632,Michael Massey,0.5,7.5,0.5,1.071,Home Runs,KC Royals,MIL Brewers,0.067,0.082,0.918
+633,633,MJ Melendez,0.5,5.75,0.5,1.125,Home Runs,KC Royals,MIL Brewers,0.063,0.129,0.871
+634,634,Nelson Velazquez,0.5,5.0,0.5,1.143,Home Runs,KC Royals,MIL Brewers,0.075,0.147,0.853
+635,635,Rhys Hoskins,0.5,4.1,0.5,1.211,Home Runs,KC Royals,MIL Brewers,0.07,0.197,0.803
+636,636,Salvador Perez,0.5,4.1,0.5,1.211,Home Runs,KC Royals,MIL Brewers,0.07,0.197,0.803
+637,637,Vinnie Pasquantino,0.5,7.0,0.5,1.083,Home Runs,KC Royals,MIL Brewers,0.066,0.093,0.907
+638,638,William Contreras,0.5,5.25,0.5,1.133,Home Runs,KC Royals,MIL Brewers,0.073,0.139,0.861
+639,639,Willy Adames,0.5,5.25,0.5,1.133,Home Runs,KC Royals,MIL Brewers,0.073,0.139,0.861
+640,640,Andruw Monasterio,0.5,1.714,0.5,2.05,Hits,KC Royals,MIL Brewers,0.071,0.55,0.45
+641,641,Blake Perkins,0.5,1.645,0.5,2.2,Hits,KC Royals,MIL Brewers,0.062,0.579,0.421
+642,642,Bobby Witt Jr.,1.5,2.35,1.5,1.556,Hits,KC Royals,MIL Brewers,0.068,0.388,0.612
+643,643,Brice Turang,0.5,1.625,0.5,2.2,Hits,KC Royals,MIL Brewers,0.07,0.583,0.417
+644,644,Gary Sanchez,0.5,1.556,0.5,2.35,Hits,KC Royals,MIL Brewers,0.068,0.612,0.388
+645,645,Hunter Renfroe,0.5,1.588,0.5,2.3,Hits,KC Royals,MIL Brewers,0.064,0.601,0.399
+646,646,Jackson Chourio,0.5,1.588,0.5,2.25,Hits,KC Royals,MIL Brewers,0.074,0.596,0.404
+647,647,Joey Ortiz,0.5,1.541,0.5,2.4,Hits,KC Royals,MIL Brewers,0.066,0.62,0.38
+648,648,Kyle Isbel,0.5,1.69,0.5,2.1,Hits,KC Royals,MIL Brewers,0.068,0.56,0.44
+649,649,Maikel Garcia,1.5,2.6,1.5,1.455,Hits,KC Royals,MIL Brewers,0.072,0.343,0.657
+650,650,Michael Massey,0.5,1.526,0.5,2.4,Hits,KC Royals,MIL Brewers,0.072,0.624,0.376
+651,651,MJ Melendez,0.5,1.588,0.5,2.25,Hits,KC Royals,MIL Brewers,0.074,0.596,0.404
+652,652,Nelson Velazquez,0.5,1.5,0.5,2.5,Hits,KC Royals,MIL Brewers,0.067,0.638,0.362
+653,653,Rhys Hoskins,0.5,1.5,0.5,2.5,Hits,KC Royals,MIL Brewers,0.067,0.638,0.362
+654,654,Salvador Perez,1.5,2.7,1.5,1.435,Hits,KC Royals,MIL Brewers,0.067,0.331,0.669
+655,655,Vinnie Pasquantino,0.5,1.444,0.5,2.65,Hits,KC Royals,MIL Brewers,0.07,0.663,0.337
+656,656,William Contreras,0.5,1.377,0.5,2.9,Hits,KC Royals,MIL Brewers,0.071,0.698,0.302
+657,657,Willy Adames,0.5,1.526,0.5,2.45,Hits,KC Royals,MIL Brewers,0.063,0.628,0.372
+658,658,Andruw Monasterio,0.5,1.714,0.5,2.05,Total Bases,KC Royals,MIL Brewers,0.071,0.55,0.45
+659,659,Blake Perkins,0.5,1.645,0.5,2.2,Total Bases,KC Royals,MIL Brewers,0.062,0.579,0.421
+660,660,Bobby Witt Jr.,1.5,1.741,1.5,2.0,Total Bases,KC Royals,MIL Brewers,0.074,0.539,0.461
+661,661,Brice Turang,0.5,1.625,0.5,2.2,Total Bases,KC Royals,MIL Brewers,0.07,0.583,0.417
+662,662,Gary Sanchez,0.5,1.556,0.5,2.35,Total Bases,KC Royals,MIL Brewers,0.068,0.612,0.388
+663,663,Hunter Renfroe,0.5,1.588,0.5,2.3,Total Bases,KC Royals,MIL Brewers,0.064,0.601,0.399
+664,664,Jackson Chourio,0.5,1.588,0.5,2.25,Total Bases,KC Royals,MIL Brewers,0.074,0.596,0.404
+665,665,Joey Ortiz,0.5,1.541,0.5,2.4,Total Bases,KC Royals,MIL Brewers,0.066,0.62,0.38
+666,666,Kyle Isbel,0.5,1.69,0.5,2.1,Total Bases,KC Royals,MIL Brewers,0.068,0.56,0.44
+667,667,Maikel Garcia,1.5,2.1,1.5,1.69,Total Bases,KC Royals,MIL Brewers,0.068,0.44,0.56
+668,668,Michael Massey,0.5,1.526,0.5,2.4,Total Bases,KC Royals,MIL Brewers,0.072,0.624,0.376
+669,669,MJ Melendez,0.5,1.588,0.5,2.25,Total Bases,KC Royals,MIL Brewers,0.074,0.596,0.404
+670,670,Nelson Velazquez,1.5,2.45,1.5,1.526,Total Bases,KC Royals,MIL Brewers,0.063,0.372,0.628
+671,671,Rhys Hoskins,1.5,2.2,1.5,1.625,Total Bases,KC Royals,MIL Brewers,0.07,0.417,0.583
+672,672,Salvador Perez,1.5,1.952,1.5,1.8,Total Bases,KC Royals,MIL Brewers,0.068,0.478,0.522
+673,673,Vinnie Pasquantino,1.5,2.35,1.5,1.556,Total Bases,KC Royals,MIL Brewers,0.068,0.388,0.612
+674,674,William Contreras,1.5,2.15,1.5,1.667,Total Bases,KC Royals,MIL Brewers,0.065,0.43,0.57
+675,675,Willy Adames,1.5,2.4,1.5,1.526,Total Bases,KC Royals,MIL Brewers,0.072,0.376,0.624
+676,676,Andruw Monasterio,0.5,3.35,0.5,1.303,RBIs,KC Royals,MIL Brewers,0.066,0.257,0.743
+677,677,Blake Perkins,0.5,3.6,0.5,1.263,RBIs,KC Royals,MIL Brewers,0.069,0.233,0.767
+678,678,Bobby Witt Jr.,0.5,2.25,0.5,1.606,RBIs,KC Royals,MIL Brewers,0.067,0.408,0.592
+679,679,Brice Turang,0.5,3.85,0.5,1.235,RBIs,KC Royals,MIL Brewers,0.069,0.214,0.786
+680,680,Gary Sanchez,0.5,2.65,0.5,1.444,RBIs,KC Royals,MIL Brewers,0.07,0.337,0.663
+681,681,Hunter Renfroe,0.5,2.9,0.5,1.377,RBIs,KC Royals,MIL Brewers,0.071,0.302,0.698
+682,682,Jackson Chourio,0.5,3.45,0.5,1.278,RBIs,KC Royals,MIL Brewers,0.072,0.244,0.756
+683,683,Joey Ortiz,0.5,3.35,0.5,1.303,RBIs,KC Royals,MIL Brewers,0.066,0.257,0.743
+684,684,Kyle Isbel,0.5,3.65,0.5,1.256,RBIs,KC Royals,MIL Brewers,0.07,0.229,0.771
+685,685,Maikel Garcia,0.5,3.0,0.5,1.351,RBIs,KC Royals,MIL Brewers,0.074,0.288,0.712
+686,686,Michael Massey,0.5,3.05,0.5,1.351,RBIs,KC Royals,MIL Brewers,0.068,0.286,0.714
+687,687,MJ Melendez,0.5,2.95,0.5,1.364,RBIs,KC Royals,MIL Brewers,0.072,0.295,0.705
+688,688,Nelson Velazquez,0.5,2.7,0.5,1.426,RBIs,KC Royals,MIL Brewers,0.072,0.328,0.672
+689,689,Rhys Hoskins,0.5,2.55,0.5,1.476,RBIs,KC Royals,MIL Brewers,0.07,0.352,0.648
+690,690,Salvador Perez,0.5,2.0,0.5,1.769,RBIs,KC Royals,MIL Brewers,0.065,0.466,0.534
+691,691,Vinnie Pasquantino,0.5,2.55,0.5,1.488,RBIs,KC Royals,MIL Brewers,0.064,0.355,0.645
+692,692,William Contreras,0.5,2.7,0.5,1.435,RBIs,KC Royals,MIL Brewers,0.067,0.331,0.669
+693,693,Willy Adames,0.5,2.85,0.5,1.392,RBIs,KC Royals,MIL Brewers,0.069,0.31,0.69
+694,694,Andruw Monasterio,0.5,2.7,0.5,1.426,Runs Scored,KC Royals,MIL Brewers,0.072,0.328,0.672
+695,695,Blake Perkins,0.5,2.6,0.5,1.465,Runs Scored,KC Royals,MIL Brewers,0.067,0.346,0.654
+696,696,Bobby Witt Jr.,0.5,1.667,0.5,2.1,Runs Scored,KC Royals,MIL Brewers,0.076,0.564,0.436
+697,697,Brice Turang,0.5,2.7,0.5,1.426,Runs Scored,KC Royals,MIL Brewers,0.072,0.328,0.672
+698,698,Gary Sanchez,0.5,2.35,0.5,1.556,Runs Scored,KC Royals,MIL Brewers,0.068,0.388,0.612
+699,699,Hunter Renfroe,0.5,2.4,0.5,1.526,Runs Scored,KC Royals,MIL Brewers,0.072,0.376,0.624
+700,700,Jackson Chourio,0.5,2.65,0.5,1.455,Runs Scored,KC Royals,MIL Brewers,0.065,0.34,0.66
+701,701,Joey Ortiz,0.5,2.7,0.5,1.435,Runs Scored,KC Royals,MIL Brewers,0.067,0.331,0.669
+702,702,Kyle Isbel,0.5,2.45,0.5,1.513,Runs Scored,KC Royals,MIL Brewers,0.069,0.369,0.631
+703,703,Maikel Garcia,0.5,1.833,0.5,1.909,Runs Scored,KC Royals,MIL Brewers,0.069,0.511,0.489
+704,704,Michael Massey,0.5,2.4,0.5,1.526,Runs Scored,KC Royals,MIL Brewers,0.072,0.376,0.624
+705,705,MJ Melendez,0.5,2.3,0.5,1.571,Runs Scored,KC Royals,MIL Brewers,0.071,0.396,0.604
+706,706,Nelson Velazquez,0.5,2.2,0.5,1.625,Runs Scored,KC Royals,MIL Brewers,0.07,0.417,0.583
+707,707,Rhys Hoskins,0.5,2.0,0.5,1.769,Runs Scored,KC Royals,MIL Brewers,0.065,0.466,0.534
+708,708,Salvador Perez,0.5,2.05,0.5,1.714,Runs Scored,KC Royals,MIL Brewers,0.071,0.45,0.55
+709,709,Vinnie Pasquantino,0.5,2.1,0.5,1.667,Runs Scored,KC Royals,MIL Brewers,0.076,0.436,0.564
+710,710,William Contreras,0.5,1.952,0.5,1.769,Runs Scored,KC Royals,MIL Brewers,0.077,0.472,0.528
+711,711,Willy Adames,0.5,2.3,0.5,1.571,Runs Scored,KC Royals,MIL Brewers,0.071,0.396,0.604
+712,712,Andruw Monasterio,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.074,0.404,0.596
+713,713,Blake Perkins,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.07,0.417,0.583
+714,714,Bobby Witt Jr.,2.5,1.952,2.5,1.8,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.068,0.478,0.522
+715,715,Brice Turang,1.5,2.3,1.5,1.588,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.064,0.399,0.601
+716,716,Gary Sanchez,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.074,0.461,0.539
+717,717,Hunter Renfroe,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.071,0.45,0.55
+718,718,Jackson Chourio,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.073,0.426,0.574
+719,719,Joey Ortiz,1.5,2.15,1.5,1.667,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.065,0.43,0.57
+720,720,Kyle Isbel,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.067,0.408,0.592
+721,721,Maikel Garcia,2.5,2.3,2.5,1.571,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.071,0.396,0.604
+722,722,Michael Massey,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.074,0.461,0.539
+723,723,MJ Melendez,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.071,0.45,0.55
+724,724,Nelson Velazquez,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.069,0.489,0.511
+725,725,Rhys Hoskins,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.07,0.5,0.5
+726,726,Salvador Perez,2.5,2.1,2.5,1.667,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.076,0.436,0.564
+727,727,Vinnie Pasquantino,1.5,1.8,1.5,1.909,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.079,0.517,0.483
+728,728,William Contreras,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.071,0.55,0.45
+729,729,Willy Adames,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,KC Royals,MIL Brewers,0.077,0.472,0.528
+730,730,Andruw Monasterio,0.5,9.0,0.5,1.04,Stolen Bases,KC Royals,MIL Brewers,0.073,0.052,0.948
+731,731,Blake Perkins,0.5,8.0,0.5,1.056,Stolen Bases,KC Royals,MIL Brewers,0.072,0.068,0.932
+732,732,Bobby Witt Jr.,0.5,3.05,0.5,1.345,Stolen Bases,KC Royals,MIL Brewers,0.071,0.284,0.716
+733,733,Brice Turang,0.5,4.1,0.5,1.211,Stolen Bases,KC Royals,MIL Brewers,0.07,0.197,0.803
+734,734,Jackson Chourio,0.5,6.5,0.5,1.091,Stolen Bases,KC Royals,MIL Brewers,0.071,0.101,0.899
+735,735,Joey Ortiz,0.5,12.0,0.5,1.012,Stolen Bases,KC Royals,MIL Brewers,0.071,0.019,0.981
+736,736,Kyle Isbel,0.5,7.5,0.5,1.062,Stolen Bases,KC Royals,MIL Brewers,0.075,0.075,0.925
+737,737,Maikel Garcia,0.5,3.9,0.5,1.222,Stolen Bases,KC Royals,MIL Brewers,0.075,0.207,0.793
+738,738,Michael Massey,0.5,12.0,0.5,1.017,Stolen Bases,KC Royals,MIL Brewers,0.067,0.024,0.976
+739,739,MJ Melendez,0.5,13.0,0.5,1.01,Stolen Bases,KC Royals,MIL Brewers,0.067,0.016,0.984
+740,740,Nelson Velazquez,0.5,10.0,0.5,1.033,Stolen Bases,KC Royals,MIL Brewers,0.068,0.044,0.956
+741,741,William Contreras,0.5,11.0,0.5,1.02,Stolen Bases,KC Royals,MIL Brewers,0.071,0.029,0.971
+742,742,Andruw Monasterio,0.5,1.541,0.5,2.4,Strikeouts,KC Royals,MIL Brewers,0.066,0.62,0.38
+743,743,Blake Perkins,1.5,2.9,1.5,1.377,Strikeouts,KC Royals,MIL Brewers,0.071,0.302,0.698
+744,744,Bobby Witt Jr.,0.5,1.952,0.5,1.769,Strikeouts,KC Royals,MIL Brewers,0.077,0.472,0.528
+745,745,Brice Turang,0.5,1.741,0.5,2.0,Strikeouts,KC Royals,MIL Brewers,0.074,0.539,0.461
+746,746,Gary Sanchez,1.5,2.6,1.5,1.465,Strikeouts,KC Royals,MIL Brewers,0.067,0.346,0.654
+747,747,Hunter Renfroe,0.5,1.8,0.5,1.952,Strikeouts,KC Royals,MIL Brewers,0.068,0.522,0.478
+748,748,Jackson Chourio,0.5,1.385,0.5,2.9,Strikeouts,KC Royals,MIL Brewers,0.067,0.695,0.305
+749,749,Joey Ortiz,0.5,1.392,0.5,2.85,Strikeouts,KC Royals,MIL Brewers,0.069,0.69,0.31
+750,750,Kyle Isbel,0.5,2.1,0.5,1.69,Strikeouts,KC Royals,MIL Brewers,0.068,0.44,0.56
+751,751,Maikel Garcia,0.5,1.833,0.5,1.909,Strikeouts,KC Royals,MIL Brewers,0.069,0.511,0.489
+752,752,Michael Massey,0.5,2.05,0.5,1.714,Strikeouts,KC Royals,MIL Brewers,0.071,0.45,0.55
+753,753,MJ Melendez,0.5,1.645,0.5,2.2,Strikeouts,KC Royals,MIL Brewers,0.062,0.579,0.421
+754,754,Nelson Velazquez,0.5,1.37,0.5,2.95,Strikeouts,KC Royals,MIL Brewers,0.069,0.703,0.297
+755,755,Rhys Hoskins,1.5,2.45,1.5,1.513,Strikeouts,KC Royals,MIL Brewers,0.069,0.369,0.631
+756,756,Salvador Perez,0.5,1.909,0.5,1.833,Strikeouts,KC Royals,MIL Brewers,0.069,0.489,0.511
+757,757,Vinnie Pasquantino,0.5,2.25,0.5,1.588,Strikeouts,KC Royals,MIL Brewers,0.074,0.404,0.596
+758,758,William Contreras,1.5,2.65,1.5,1.435,Strikeouts,KC Royals,MIL Brewers,0.074,0.334,0.666
+759,759,Willy Adames,1.5,2.25,1.5,1.588,Strikeouts,KC Royals,MIL Brewers,0.074,0.404,0.596
+760,760,Andruw Monasterio,0.5,2.15,0.5,1.645,Singles,KC Royals,MIL Brewers,0.073,0.426,0.574
+761,761,Blake Perkins,0.5,2.1,0.5,1.69,Singles,KC Royals,MIL Brewers,0.068,0.44,0.56
+762,762,Bobby Witt Jr.,0.5,1.571,0.5,2.3,Singles,KC Royals,MIL Brewers,0.071,0.604,0.396
+763,763,Brice Turang,0.5,1.952,0.5,1.769,Singles,KC Royals,MIL Brewers,0.077,0.472,0.528
+764,764,Gary Sanchez,0.5,2.25,0.5,1.588,Singles,KC Royals,MIL Brewers,0.074,0.404,0.596
+765,765,Hunter Renfroe,0.5,2.15,0.5,1.667,Singles,KC Royals,MIL Brewers,0.065,0.43,0.57
+766,766,Jackson Chourio,0.5,2.1,0.5,1.69,Singles,KC Royals,MIL Brewers,0.068,0.44,0.56
+767,767,Joey Ortiz,0.5,1.909,0.5,1.833,Singles,KC Royals,MIL Brewers,0.069,0.489,0.511
+768,768,Kyle Isbel,0.5,2.3,0.5,1.588,Singles,KC Royals,MIL Brewers,0.064,0.399,0.601
+769,769,Maikel Garcia,0.5,1.5,0.5,2.5,Singles,KC Royals,MIL Brewers,0.067,0.638,0.362
+770,770,Michael Massey,0.5,2.15,0.5,1.645,Singles,KC Royals,MIL Brewers,0.073,0.426,0.574
+771,771,MJ Melendez,0.5,2.4,0.5,1.526,Singles,KC Royals,MIL Brewers,0.072,0.376,0.624
+772,772,Nelson Velazquez,0.5,2.05,0.5,1.714,Singles,KC Royals,MIL Brewers,0.071,0.45,0.55
+773,773,Rhys Hoskins,0.5,2.3,0.5,1.571,Singles,KC Royals,MIL Brewers,0.071,0.396,0.604
+774,774,Salvador Perez,0.5,1.741,0.5,2.05,Singles,KC Royals,MIL Brewers,0.062,0.545,0.455
+775,775,Vinnie Pasquantino,0.5,2.0,0.5,1.769,Singles,KC Royals,MIL Brewers,0.065,0.466,0.534
+776,776,William Contreras,0.5,1.769,0.5,1.952,Singles,KC Royals,MIL Brewers,0.077,0.528,0.472
+777,777,Willy Adames,0.5,2.15,0.5,1.667,Singles,KC Royals,MIL Brewers,0.065,0.43,0.57
+778,778,Andruw Monasterio,0.5,6.0,0.5,1.111,Doubles,KC Royals,MIL Brewers,0.067,0.118,0.882
+779,779,Blake Perkins,0.5,5.5,0.5,1.125,Doubles,KC Royals,MIL Brewers,0.071,0.131,0.869
+780,780,Bobby Witt Jr.,0.5,4.1,0.5,1.211,Doubles,KC Royals,MIL Brewers,0.07,0.197,0.803
+781,781,Brice Turang,0.5,6.5,0.5,1.083,Doubles,KC Royals,MIL Brewers,0.077,0.096,0.904
+782,782,Gary Sanchez,0.5,5.25,0.5,1.133,Doubles,KC Royals,MIL Brewers,0.073,0.139,0.861
+783,783,Hunter Renfroe,0.5,5.75,0.5,1.111,Doubles,KC Royals,MIL Brewers,0.074,0.12,0.88
+784,784,Jackson Chourio,0.5,5.5,0.5,1.125,Doubles,KC Royals,MIL Brewers,0.071,0.131,0.869
+785,785,Joey Ortiz,0.5,5.5,0.5,1.125,Doubles,KC Royals,MIL Brewers,0.071,0.131,0.869
+786,786,Kyle Isbel,0.5,5.75,0.5,1.111,Doubles,KC Royals,MIL Brewers,0.074,0.12,0.88
+787,787,Maikel Garcia,0.5,5.0,0.5,1.154,Doubles,KC Royals,MIL Brewers,0.067,0.153,0.847
+788,788,Michael Massey,0.5,4.8,0.5,1.167,Doubles,KC Royals,MIL Brewers,0.065,0.163,0.837
+789,789,MJ Melendez,0.5,5.0,0.5,1.143,Doubles,KC Royals,MIL Brewers,0.075,0.147,0.853
+790,790,Nelson Velazquez,0.5,5.75,0.5,1.111,Doubles,KC Royals,MIL Brewers,0.074,0.12,0.88
+791,791,Rhys Hoskins,0.5,4.9,0.5,1.154,Doubles,KC Royals,MIL Brewers,0.071,0.155,0.845
+792,792,Salvador Perez,0.5,4.6,0.5,1.174,Doubles,KC Royals,MIL Brewers,0.069,0.17,0.83
+793,793,Vinnie Pasquantino,0.5,4.3,0.5,1.19,Doubles,KC Royals,MIL Brewers,0.073,0.183,0.817
+794,794,William Contreras,0.5,4.9,0.5,1.154,Doubles,KC Royals,MIL Brewers,0.071,0.155,0.845
+795,795,Willy Adames,0.5,5.0,0.5,1.154,Doubles,KC Royals,MIL Brewers,0.067,0.153,0.847
+796,796,Bobby Witt Jr.,0.5,11.0,0.5,1.02,Triples,KC Royals,MIL Brewers,0.071,0.029,0.971
+797,797,Andruw Monasterio,0.5,3.55,0.5,1.27,Walks,KC Royals,MIL Brewers,0.069,0.238,0.762
+798,798,Blake Perkins,0.5,2.65,0.5,1.444,Walks,KC Royals,MIL Brewers,0.07,0.337,0.663
+799,799,Bobby Witt Jr.,0.5,3.25,0.5,1.312,Walks,KC Royals,MIL Brewers,0.07,0.264,0.736
+800,800,Brice Turang,0.5,3.2,0.5,1.323,Walks,KC Royals,MIL Brewers,0.069,0.27,0.73
+801,801,Gary Sanchez,0.5,2.7,0.5,1.435,Walks,KC Royals,MIL Brewers,0.067,0.331,0.669
+802,802,Hunter Renfroe,0.5,3.45,0.5,1.286,Walks,KC Royals,MIL Brewers,0.068,0.247,0.753
+803,803,Jackson Chourio,0.5,3.6,0.5,1.263,Walks,KC Royals,MIL Brewers,0.069,0.233,0.767
+804,804,Joey Ortiz,0.5,3.4,0.5,1.286,Walks,KC Royals,MIL Brewers,0.072,0.249,0.751
+805,805,Kyle Isbel,0.5,4.1,0.5,1.211,Walks,KC Royals,MIL Brewers,0.07,0.197,0.803
+806,806,Maikel Garcia,0.5,3.1,0.5,1.339,Walks,KC Royals,MIL Brewers,0.069,0.28,0.72
+807,807,Michael Massey,0.5,4.2,0.5,1.2,Walks,KC Royals,MIL Brewers,0.071,0.19,0.81
+808,808,MJ Melendez,0.5,3.15,0.5,1.323,Walks,KC Royals,MIL Brewers,0.074,0.272,0.728
+809,809,Nelson Velazquez,0.5,3.3,0.5,1.303,Walks,KC Royals,MIL Brewers,0.07,0.259,0.741
+810,810,Rhys Hoskins,0.5,1.952,0.5,1.769,Walks,KC Royals,MIL Brewers,0.077,0.472,0.528
+811,811,Salvador Perez,0.5,4.5,0.5,1.182,Walks,KC Royals,MIL Brewers,0.068,0.176,0.824
+812,812,Vinnie Pasquantino,0.5,2.25,0.5,1.588,Walks,KC Royals,MIL Brewers,0.074,0.404,0.596
+813,813,William Contreras,0.5,2.2,0.5,1.625,Walks,KC Royals,MIL Brewers,0.07,0.417,0.583
+814,814,Willy Adames,0.5,2.3,0.5,1.571,Walks,KC Royals,MIL Brewers,0.071,0.396,0.604
+815,815,Alex Kirilloff,0.5,4.5,0.5,1.174,Home Runs,MIN Twins,SEA Mariners,0.074,0.171,0.829
+816,816,Austin Martin,0.5,11.0,0.5,1.02,Home Runs,MIN Twins,SEA Mariners,0.071,0.029,0.971
+817,817,Cal Raleigh,0.5,3.25,0.5,1.312,Home Runs,MIN Twins,SEA Mariners,0.07,0.264,0.736
+818,818,Carlos Correa,0.5,6.5,0.5,1.091,Home Runs,MIN Twins,SEA Mariners,0.071,0.101,0.899
+819,819,Carlos Santana,0.5,4.5,0.5,1.182,Home Runs,MIN Twins,SEA Mariners,0.068,0.176,0.824
+820,820,Dylan Moore,0.5,6.5,0.5,1.091,Home Runs,MIN Twins,SEA Mariners,0.071,0.101,0.899
+821,821,Edouard Julien,0.5,4.8,0.5,1.167,Home Runs,MIN Twins,SEA Mariners,0.065,0.163,0.837
+822,822,Jorge Polanco,0.5,3.85,0.5,1.235,Home Runs,MIN Twins,SEA Mariners,0.069,0.214,0.786
+823,823,Josh Rojas,0.5,6.5,0.5,1.091,Home Runs,MIN Twins,SEA Mariners,0.071,0.101,0.899
+824,824,Julio Rodriguez ,0.5,4.5,0.5,1.182,Home Runs,MIN Twins,SEA Mariners,0.068,0.176,0.824
+825,825,Luke Raley,0.5,4.5,0.5,1.174,Home Runs,MIN Twins,SEA Mariners,0.074,0.171,0.829
+826,826,Max Kepler,0.5,3.35,0.5,1.294,Home Runs,MIN Twins,SEA Mariners,0.071,0.254,0.746
+827,827,Mitch Garver,0.5,4.9,0.5,1.154,Home Runs,MIN Twins,SEA Mariners,0.071,0.155,0.845
+828,828,Mitch Haniger,0.5,5.0,0.5,1.154,Home Runs,MIN Twins,SEA Mariners,0.067,0.153,0.847
+829,829,Ryan Jeffers,0.5,6.0,0.5,1.1,Home Runs,MIN Twins,SEA Mariners,0.076,0.111,0.889
+830,830,Trevor Larnach,0.5,4.4,0.5,1.19,Home Runs,MIN Twins,SEA Mariners,0.067,0.182,0.818
+831,831,Ty France,0.5,7.5,0.5,1.071,Home Runs,MIN Twins,SEA Mariners,0.067,0.082,0.918
+832,832,Willi Castro,0.5,5.75,0.5,1.125,Home Runs,MIN Twins,SEA Mariners,0.063,0.129,0.871
+833,833,Alex Kirilloff,0.5,1.408,0.5,2.8,Hits,MIN Twins,SEA Mariners,0.067,0.683,0.317
+834,834,Austin Martin,0.5,1.909,0.5,1.8,Hits,MIN Twins,SEA Mariners,0.079,0.483,0.517
+835,835,Cal Raleigh,0.5,1.455,0.5,2.6,Hits,MIN Twins,SEA Mariners,0.072,0.657,0.343
+836,836,Carlos Correa,0.5,1.588,0.5,2.25,Hits,MIN Twins,SEA Mariners,0.074,0.596,0.404
+837,837,Carlos Santana,0.5,1.541,0.5,2.4,Hits,MIN Twins,SEA Mariners,0.066,0.62,0.38
+838,838,Dylan Moore,0.5,1.8,0.5,1.952,Hits,MIN Twins,SEA Mariners,0.068,0.522,0.478
+839,839,Edouard Julien,0.5,1.645,0.5,2.2,Hits,MIN Twins,SEA Mariners,0.062,0.579,0.421
+840,840,Jorge Polanco,0.5,1.465,0.5,2.55,Hits,MIN Twins,SEA Mariners,0.075,0.651,0.349
+841,841,Josh Rojas,0.5,1.392,0.5,2.85,Hits,MIN Twins,SEA Mariners,0.069,0.69,0.31
+842,842,Julio Rodriguez ,1.5,2.7,1.5,1.435,Hits,MIN Twins,SEA Mariners,0.067,0.331,0.669
+843,843,Luke Raley,0.5,1.588,0.5,2.3,Hits,MIN Twins,SEA Mariners,0.064,0.601,0.399
+844,844,Max Kepler,0.5,1.37,0.5,2.95,Hits,MIN Twins,SEA Mariners,0.069,0.703,0.297
+845,845,Mitch Garver,0.5,1.645,0.5,2.15,Hits,MIN Twins,SEA Mariners,0.073,0.574,0.426
+846,846,Mitch Haniger,0.5,1.488,0.5,2.5,Hits,MIN Twins,SEA Mariners,0.072,0.641,0.359
+847,847,Ryan Jeffers,0.5,1.625,0.5,2.2,Hits,MIN Twins,SEA Mariners,0.07,0.583,0.417
+848,848,Trevor Larnach,0.5,1.556,0.5,2.35,Hits,MIN Twins,SEA Mariners,0.068,0.612,0.388
+849,849,Ty France,0.5,1.488,0.5,2.5,Hits,MIN Twins,SEA Mariners,0.072,0.641,0.359
+850,850,Willi Castro,0.5,1.571,0.5,2.3,Hits,MIN Twins,SEA Mariners,0.071,0.604,0.396
+851,851,Alex Kirilloff,1.5,2.1,1.5,1.69,Total Bases,MIN Twins,SEA Mariners,0.068,0.44,0.56
+852,852,Austin Martin,0.5,1.909,0.5,1.8,Total Bases,MIN Twins,SEA Mariners,0.079,0.483,0.517
+853,853,Cal Raleigh,1.5,2.0,1.5,1.741,Total Bases,MIN Twins,SEA Mariners,0.074,0.461,0.539
+854,854,Carlos Correa,0.5,1.588,0.5,2.25,Total Bases,MIN Twins,SEA Mariners,0.074,0.596,0.404
+855,855,Carlos Santana,1.5,2.3,1.5,1.571,Total Bases,MIN Twins,SEA Mariners,0.071,0.396,0.604
+856,856,Dylan Moore,0.5,1.8,0.5,1.952,Total Bases,MIN Twins,SEA Mariners,0.068,0.522,0.478
+857,857,Edouard Julien,0.5,1.645,0.5,2.2,Total Bases,MIN Twins,SEA Mariners,0.062,0.579,0.421
+858,858,Jorge Polanco,1.5,2.15,1.5,1.667,Total Bases,MIN Twins,SEA Mariners,0.065,0.43,0.57
+859,859,Josh Rojas,1.5,2.25,1.5,1.606,Total Bases,MIN Twins,SEA Mariners,0.067,0.408,0.592
+860,860,Julio Rodriguez ,1.5,1.87,1.5,1.87,Total Bases,MIN Twins,SEA Mariners,0.07,0.5,0.5
+861,861,Luke Raley,0.5,1.588,0.5,2.3,Total Bases,MIN Twins,SEA Mariners,0.064,0.601,0.399
+862,862,Max Kepler,1.5,1.909,1.5,1.833,Total Bases,MIN Twins,SEA Mariners,0.069,0.489,0.511
+863,863,Mitch Garver,0.5,1.645,0.5,2.15,Total Bases,MIN Twins,SEA Mariners,0.073,0.574,0.426
+864,864,Mitch Haniger,1.5,2.3,1.5,1.588,Total Bases,MIN Twins,SEA Mariners,0.064,0.399,0.601
+865,865,Ryan Jeffers,0.5,1.625,0.5,2.2,Total Bases,MIN Twins,SEA Mariners,0.07,0.583,0.417
+866,866,Trevor Larnach,0.5,1.588,0.5,2.25,Total Bases,MIN Twins,SEA Mariners,0.074,0.596,0.404
+867,867,Ty France,1.5,2.5,1.5,1.488,Total Bases,MIN Twins,SEA Mariners,0.072,0.359,0.641
+868,868,Willi Castro,0.5,1.571,0.5,2.3,Total Bases,MIN Twins,SEA Mariners,0.071,0.604,0.396
+869,869,Alex Kirilloff,0.5,2.75,0.5,1.417,RBIs,MIN Twins,SEA Mariners,0.07,0.323,0.677
+870,870,Austin Martin,0.5,4.4,0.5,1.19,RBIs,MIN Twins,SEA Mariners,0.067,0.182,0.818
+871,871,Cal Raleigh,0.5,2.15,0.5,1.645,RBIs,MIN Twins,SEA Mariners,0.073,0.426,0.574
+872,872,Carlos Correa,0.5,3.15,0.5,1.333,RBIs,MIN Twins,SEA Mariners,0.067,0.276,0.724
+873,873,Carlos Santana,0.5,2.65,0.5,1.444,RBIs,MIN Twins,SEA Mariners,0.07,0.337,0.663
+874,874,Dylan Moore,0.5,3.4,0.5,1.286,RBIs,MIN Twins,SEA Mariners,0.072,0.249,0.751
+875,875,Edouard Julien,0.5,3.15,0.5,1.323,RBIs,MIN Twins,SEA Mariners,0.074,0.272,0.728
+876,876,Jorge Polanco,0.5,2.3,0.5,1.571,RBIs,MIN Twins,SEA Mariners,0.071,0.396,0.604
+877,877,Josh Rojas,0.5,3.2,0.5,1.323,RBIs,MIN Twins,SEA Mariners,0.069,0.27,0.73
+878,878,Julio Rodriguez ,0.5,2.4,0.5,1.541,RBIs,MIN Twins,SEA Mariners,0.066,0.38,0.62
+879,879,Luke Raley,0.5,2.95,0.5,1.37,RBIs,MIN Twins,SEA Mariners,0.069,0.297,0.703
+880,880,Max Kepler,0.5,2.15,0.5,1.645,RBIs,MIN Twins,SEA Mariners,0.073,0.426,0.574
+881,881,Mitch Garver,0.5,2.95,0.5,1.37,RBIs,MIN Twins,SEA Mariners,0.069,0.297,0.703
+882,882,Mitch Haniger,0.5,2.45,0.5,1.526,RBIs,MIN Twins,SEA Mariners,0.063,0.372,0.628
+883,883,Ryan Jeffers,0.5,3.3,0.5,1.303,RBIs,MIN Twins,SEA Mariners,0.07,0.259,0.741
+884,884,Trevor Larnach,0.5,2.75,0.5,1.417,RBIs,MIN Twins,SEA Mariners,0.07,0.323,0.677
+885,885,Ty France,0.5,3.2,0.5,1.323,RBIs,MIN Twins,SEA Mariners,0.069,0.27,0.73
+886,886,Willi Castro,0.5,3.1,0.5,1.339,RBIs,MIN Twins,SEA Mariners,0.069,0.28,0.72
+887,887,Alex Kirilloff,0.5,2.0,0.5,1.741,Runs Scored,MIN Twins,SEA Mariners,0.074,0.461,0.539
+888,888,Austin Martin,0.5,3.15,0.5,1.333,Runs Scored,MIN Twins,SEA Mariners,0.067,0.276,0.724
+889,889,Cal Raleigh,0.5,1.952,0.5,1.8,Runs Scored,MIN Twins,SEA Mariners,0.068,0.478,0.522
+890,890,Carlos Correa,0.5,2.4,0.5,1.526,Runs Scored,MIN Twins,SEA Mariners,0.072,0.376,0.624
+891,891,Carlos Santana,0.5,2.3,0.5,1.588,Runs Scored,MIN Twins,SEA Mariners,0.064,0.399,0.601
+892,892,Dylan Moore,0.5,2.35,0.5,1.556,Runs Scored,MIN Twins,SEA Mariners,0.068,0.388,0.612
+893,893,Edouard Julien,0.5,2.0,0.5,1.741,Runs Scored,MIN Twins,SEA Mariners,0.074,0.461,0.539
+894,894,Jorge Polanco,0.5,1.909,0.5,1.833,Runs Scored,MIN Twins,SEA Mariners,0.069,0.489,0.511
+895,895,Josh Rojas,0.5,1.952,0.5,1.8,Runs Scored,MIN Twins,SEA Mariners,0.068,0.478,0.522
+896,896,Julio Rodriguez ,0.5,1.769,0.5,2.0,Runs Scored,MIN Twins,SEA Mariners,0.065,0.534,0.466
+897,897,Luke Raley,0.5,2.15,0.5,1.645,Runs Scored,MIN Twins,SEA Mariners,0.073,0.426,0.574
+898,898,Max Kepler,0.5,2.0,0.5,1.769,Runs Scored,MIN Twins,SEA Mariners,0.065,0.466,0.534
+899,899,Mitch Garver,0.5,2.2,0.5,1.625,Runs Scored,MIN Twins,SEA Mariners,0.07,0.417,0.583
+900,900,Mitch Haniger,0.5,2.05,0.5,1.714,Runs Scored,MIN Twins,SEA Mariners,0.071,0.45,0.55
+901,901,Ryan Jeffers,0.5,2.3,0.5,1.571,Runs Scored,MIN Twins,SEA Mariners,0.071,0.396,0.604
+902,902,Trevor Larnach,0.5,2.2,0.5,1.625,Runs Scored,MIN Twins,SEA Mariners,0.07,0.417,0.583
+903,903,Ty France,0.5,2.35,0.5,1.541,Runs Scored,MIN Twins,SEA Mariners,0.075,0.384,0.616
+904,904,Willi Castro,0.5,2.45,0.5,1.513,Runs Scored,MIN Twins,SEA Mariners,0.069,0.369,0.631
+905,905,Alex Kirilloff,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.068,0.522,0.478
+906,906,Austin Martin,0.5,1.667,0.5,2.1,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.076,0.564,0.436
+907,907,Cal Raleigh,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.074,0.539,0.461
+908,908,Carlos Correa,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.071,0.45,0.55
+909,909,Carlos Santana,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.068,0.478,0.522
+910,910,Dylan Moore,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.071,0.396,0.604
+911,911,Edouard Julien,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.071,0.45,0.55
+912,912,Jorge Polanco,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.074,0.539,0.461
+913,913,Josh Rojas,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.074,0.539,0.461
+914,914,Julio Rodriguez ,2.5,2.15,2.5,1.667,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.065,0.43,0.57
+915,915,Luke Raley,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.071,0.45,0.55
+916,916,Max Kepler,1.5,1.667,1.5,2.15,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.065,0.57,0.43
+917,917,Mitch Garver,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.068,0.44,0.56
+918,918,Mitch Haniger,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.068,0.522,0.478
+919,919,Ryan Jeffers,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.073,0.426,0.574
+920,920,Trevor Larnach,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.071,0.45,0.55
+921,921,Ty France,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.068,0.478,0.522
+922,922,Willi Castro,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,MIN Twins,SEA Mariners,0.08,0.446,0.554
+923,923,Austin Martin,0.5,8.5,0.5,1.05,Stolen Bases,MIN Twins,SEA Mariners,0.07,0.062,0.938
+924,924,Dylan Moore,0.5,4.4,0.5,1.182,Stolen Bases,MIN Twins,SEA Mariners,0.073,0.177,0.823
+925,925,Jorge Polanco,0.5,9.0,0.5,1.04,Stolen Bases,MIN Twins,SEA Mariners,0.073,0.052,0.948
+926,926,Josh Rojas,0.5,5.25,0.5,1.143,Stolen Bases,MIN Twins,SEA Mariners,0.065,0.144,0.856
+927,927,Julio Rodriguez ,0.5,3.75,0.5,1.25,Stolen Bases,MIN Twins,SEA Mariners,0.067,0.223,0.777
+928,928,Luke Raley,0.5,6.5,0.5,1.1,Stolen Bases,MIN Twins,SEA Mariners,0.063,0.107,0.893
+929,929,Willi Castro,0.5,6.0,0.5,1.1,Stolen Bases,MIN Twins,SEA Mariners,0.076,0.111,0.889
+930,930,Alex Kirilloff,1.5,2.7,1.5,1.426,Strikeouts,MIN Twins,SEA Mariners,0.072,0.328,0.672
+931,931,Austin Martin,0.5,1.513,0.5,2.45,Strikeouts,MIN Twins,SEA Mariners,0.069,0.631,0.369
+932,932,Cal Raleigh,1.5,2.6,1.5,1.455,Strikeouts,MIN Twins,SEA Mariners,0.072,0.343,0.657
+933,933,Carlos Correa,1.5,2.8,1.5,1.408,Strikeouts,MIN Twins,SEA Mariners,0.067,0.317,0.683
+934,934,Carlos Santana,0.5,1.769,0.5,1.952,Strikeouts,MIN Twins,SEA Mariners,0.077,0.528,0.472
+935,935,Dylan Moore,1.5,2.85,1.5,1.4,Strikeouts,MIN Twins,SEA Mariners,0.065,0.312,0.688
+936,936,Edouard Julien,1.5,2.0,1.5,1.741,Strikeouts,MIN Twins,SEA Mariners,0.074,0.461,0.539
+937,937,Jorge Polanco,1.5,2.8,1.5,1.4,Strikeouts,MIN Twins,SEA Mariners,0.071,0.315,0.685
+938,938,Josh Rojas,0.5,1.541,0.5,2.35,Strikeouts,MIN Twins,SEA Mariners,0.075,0.616,0.384
+939,939,Julio Rodriguez ,1.5,3.0,1.5,1.357,Strikeouts,MIN Twins,SEA Mariners,0.07,0.291,0.709
+940,940,Luke Raley,1.5,2.6,1.5,1.455,Strikeouts,MIN Twins,SEA Mariners,0.072,0.343,0.657
+941,941,Max Kepler,0.5,1.444,0.5,2.65,Strikeouts,MIN Twins,SEA Mariners,0.07,0.663,0.337
+942,942,Mitch Garver,0.5,1.345,0.5,3.05,Strikeouts,MIN Twins,SEA Mariners,0.071,0.716,0.284
+943,943,Mitch Haniger,1.5,2.45,1.5,1.513,Strikeouts,MIN Twins,SEA Mariners,0.069,0.369,0.631
+944,944,Ryan Jeffers,1.5,2.55,1.5,1.476,Strikeouts,MIN Twins,SEA Mariners,0.07,0.352,0.648
+945,945,Trevor Larnach,1.5,2.35,1.5,1.556,Strikeouts,MIN Twins,SEA Mariners,0.068,0.388,0.612
+946,946,Ty France,0.5,1.645,0.5,2.2,Strikeouts,MIN Twins,SEA Mariners,0.062,0.579,0.421
+947,947,Willi Castro,1.5,3.1,1.5,1.339,Strikeouts,MIN Twins,SEA Mariners,0.069,0.28,0.72
+948,948,Alex Kirilloff,0.5,2.1,0.5,1.69,Singles,MIN Twins,SEA Mariners,0.068,0.44,0.56
+949,949,Austin Martin,0.5,2.45,0.5,1.513,Singles,MIN Twins,SEA Mariners,0.069,0.369,0.631
+950,950,Cal Raleigh,0.5,2.5,0.5,1.5,Singles,MIN Twins,SEA Mariners,0.067,0.362,0.638
+951,951,Carlos Correa,0.5,2.15,0.5,1.645,Singles,MIN Twins,SEA Mariners,0.073,0.426,0.574
+952,952,Carlos Santana,0.5,2.45,0.5,1.513,Singles,MIN Twins,SEA Mariners,0.069,0.369,0.631
+953,953,Dylan Moore,0.5,2.75,0.5,1.426,Singles,MIN Twins,SEA Mariners,0.065,0.325,0.675
+954,954,Edouard Julien,0.5,2.5,0.5,1.488,Singles,MIN Twins,SEA Mariners,0.072,0.359,0.641
+955,955,Jorge Polanco,0.5,2.3,0.5,1.571,Singles,MIN Twins,SEA Mariners,0.071,0.396,0.604
+956,956,Josh Rojas,0.5,1.769,0.5,1.952,Singles,MIN Twins,SEA Mariners,0.077,0.528,0.472
+957,957,Julio Rodriguez ,0.5,1.8,0.5,1.952,Singles,MIN Twins,SEA Mariners,0.068,0.522,0.478
+958,958,Luke Raley,0.5,2.55,0.5,1.476,Singles,MIN Twins,SEA Mariners,0.07,0.352,0.648
+959,959,Max Kepler,0.5,2.3,0.5,1.588,Singles,MIN Twins,SEA Mariners,0.064,0.399,0.601
+960,960,Mitch Garver,0.5,2.6,0.5,1.465,Singles,MIN Twins,SEA Mariners,0.067,0.346,0.654
+961,961,Mitch Haniger,0.5,2.2,0.5,1.625,Singles,MIN Twins,SEA Mariners,0.07,0.417,0.583
+962,962,Ryan Jeffers,0.5,2.3,0.5,1.588,Singles,MIN Twins,SEA Mariners,0.064,0.399,0.601
+963,963,Trevor Larnach,0.5,2.7,0.5,1.426,Singles,MIN Twins,SEA Mariners,0.072,0.328,0.672
+964,964,Ty France,0.5,1.909,0.5,1.833,Singles,MIN Twins,SEA Mariners,0.069,0.489,0.511
+965,965,Willi Castro,0.5,2.35,0.5,1.556,Singles,MIN Twins,SEA Mariners,0.068,0.388,0.612
+966,966,Alex Kirilloff,0.5,4.3,0.5,1.19,Doubles,MIN Twins,SEA Mariners,0.073,0.183,0.817
+967,967,Austin Martin,0.5,7.0,0.5,1.083,Doubles,MIN Twins,SEA Mariners,0.066,0.093,0.907
+968,968,Cal Raleigh,0.5,4.6,0.5,1.174,Doubles,MIN Twins,SEA Mariners,0.069,0.17,0.83
+969,969,Carlos Correa,0.5,5.25,0.5,1.133,Doubles,MIN Twins,SEA Mariners,0.073,0.139,0.861
+970,970,Carlos Santana,0.5,4.8,0.5,1.167,Doubles,MIN Twins,SEA Mariners,0.065,0.163,0.837
+971,971,Dylan Moore,0.5,5.75,0.5,1.125,Doubles,MIN Twins,SEA Mariners,0.063,0.129,0.871
+972,972,Edouard Julien,0.5,5.75,0.5,1.111,Doubles,MIN Twins,SEA Mariners,0.074,0.12,0.88
+973,973,Jorge Polanco,0.5,4.6,0.5,1.174,Doubles,MIN Twins,SEA Mariners,0.069,0.17,0.83
+974,974,Josh Rojas,0.5,4.7,0.5,1.167,Doubles,MIN Twins,SEA Mariners,0.07,0.165,0.835
+975,975,Julio Rodriguez ,0.5,3.8,0.5,1.235,Doubles,MIN Twins,SEA Mariners,0.073,0.216,0.784
+976,976,Luke Raley,0.5,5.25,0.5,1.143,Doubles,MIN Twins,SEA Mariners,0.065,0.144,0.856
+977,977,Max Kepler,0.5,4.2,0.5,1.2,Doubles,MIN Twins,SEA Mariners,0.071,0.19,0.81
+978,978,Mitch Garver,0.5,5.25,0.5,1.143,Doubles,MIN Twins,SEA Mariners,0.065,0.144,0.856
+979,979,Mitch Haniger,0.5,4.5,0.5,1.182,Doubles,MIN Twins,SEA Mariners,0.068,0.176,0.824
+980,980,Ryan Jeffers,0.5,5.25,0.5,1.133,Doubles,MIN Twins,SEA Mariners,0.073,0.139,0.861
+981,981,Trevor Larnach,0.5,5.25,0.5,1.133,Doubles,MIN Twins,SEA Mariners,0.073,0.139,0.861
+982,982,Ty France,0.5,4.9,0.5,1.154,Doubles,MIN Twins,SEA Mariners,0.071,0.155,0.845
+983,983,Willi Castro,0.5,4.8,0.5,1.167,Doubles,MIN Twins,SEA Mariners,0.065,0.163,0.837
+984,984,Alex Kirilloff,0.5,3.0,0.5,1.357,Walks,MIN Twins,SEA Mariners,0.07,0.291,0.709
+985,985,Austin Martin,0.5,4.3,0.5,1.2,Walks,MIN Twins,SEA Mariners,0.066,0.188,0.812
+986,986,Cal Raleigh,0.5,2.65,0.5,1.455,Walks,MIN Twins,SEA Mariners,0.065,0.34,0.66
+987,987,Carlos Correa,0.5,2.75,0.5,1.408,Walks,MIN Twins,SEA Mariners,0.074,0.32,0.68
+988,988,Carlos Santana,0.5,2.9,0.5,1.385,Walks,MIN Twins,SEA Mariners,0.067,0.305,0.695
+989,989,Dylan Moore,0.5,3.05,0.5,1.345,Walks,MIN Twins,SEA Mariners,0.071,0.284,0.716
+990,990,Edouard Julien,0.5,1.87,0.5,1.87,Walks,MIN Twins,SEA Mariners,0.07,0.5,0.5
+991,991,Jorge Polanco,0.5,1.833,0.5,1.909,Walks,MIN Twins,SEA Mariners,0.069,0.511,0.489
+992,992,Josh Rojas,0.5,2.5,0.5,1.5,Walks,MIN Twins,SEA Mariners,0.067,0.362,0.638
+993,993,Julio Rodriguez ,0.5,3.5,0.5,1.278,Walks,MIN Twins,SEA Mariners,0.068,0.242,0.758
+994,994,Luke Raley,0.5,3.95,0.5,1.222,Walks,MIN Twins,SEA Mariners,0.071,0.206,0.794
+995,995,Max Kepler,0.5,2.7,0.5,1.435,Walks,MIN Twins,SEA Mariners,0.067,0.331,0.669
+996,996,Mitch Garver,0.5,2.45,0.5,1.526,Walks,MIN Twins,SEA Mariners,0.063,0.372,0.628
+997,997,Mitch Haniger,0.5,2.6,0.5,1.465,Walks,MIN Twins,SEA Mariners,0.067,0.346,0.654
+998,998,Ryan Jeffers,0.5,3.05,0.5,1.345,Walks,MIN Twins,SEA Mariners,0.071,0.284,0.716
+999,999,Trevor Larnach,0.5,2.8,0.5,1.4,Walks,MIN Twins,SEA Mariners,0.071,0.315,0.685
+1000,1000,Ty France,0.5,3.3,0.5,1.303,Walks,MIN Twins,SEA Mariners,0.07,0.259,0.741
+1001,1001,Willi Castro,0.5,3.85,0.5,1.235,Walks,MIN Twins,SEA Mariners,0.069,0.214,0.786
+1002,1002,Christopher Morel,0.5,5.25,0.5,1.143,Home Runs,CHI Cubs,SD Padres,0.065,0.144,0.856
+1003,1003,Dansby Swanson,0.5,7.5,0.5,1.071,Home Runs,CHI Cubs,SD Padres,0.067,0.082,0.918
+1004,1004,Fernando Tatis Jr.,0.5,6.0,0.5,1.1,Home Runs,CHI Cubs,SD Padres,0.076,0.111,0.889
+1005,1005,Ha-Seong Kim,0.5,12.0,0.5,1.017,Home Runs,CHI Cubs,SD Padres,0.067,0.024,0.976
+1006,1006,Ian Happ,0.5,7.5,0.5,1.071,Home Runs,CHI Cubs,SD Padres,0.067,0.082,0.918
+1007,1007,Jake Cronenworth,0.5,10.5,0.5,1.029,Home Runs,CHI Cubs,SD Padres,0.067,0.038,0.962
+1008,1008,Jurickson Profar,0.5,10.5,0.5,1.025,Home Runs,CHI Cubs,SD Padres,0.071,0.035,0.965
+1009,1009,Luis Campusano,0.5,10.0,0.5,1.029,Home Runs,CHI Cubs,SD Padres,0.072,0.039,0.961
+1010,1010,Manny Machado,0.5,6.5,0.5,1.091,Home Runs,CHI Cubs,SD Padres,0.071,0.101,0.899
+1011,1011,Michael Busch,0.5,8.0,0.5,1.062,Home Runs,CHI Cubs,SD Padres,0.066,0.073,0.927
+1012,1012,Mike Tauchman,0.5,10.5,0.5,1.025,Home Runs,CHI Cubs,SD Padres,0.071,0.035,0.965
+1013,1013,Nico Hoerner,0.5,11.0,0.5,1.02,Home Runs,CHI Cubs,SD Padres,0.071,0.029,0.971
+1014,1014,Patrick Wisdom,0.5,5.5,0.5,1.125,Home Runs,CHI Cubs,SD Padres,0.071,0.131,0.869
+1015,1015,Pete Crow-Armstrong,0.5,8.5,0.5,1.05,Home Runs,CHI Cubs,SD Padres,0.07,0.062,0.938
+1016,1016,Xander Bogaerts,0.5,10.5,0.5,1.029,Home Runs,CHI Cubs,SD Padres,0.067,0.038,0.962
+1017,1017,Yan Gomes,0.5,9.5,0.5,1.033,Home Runs,CHI Cubs,SD Padres,0.073,0.044,0.956
+1018,1018,Christopher Morel,0.5,1.556,0.5,2.35,Hits,CHI Cubs,SD Padres,0.068,0.612,0.388
+1019,1019,Dansby Swanson,0.5,1.588,0.5,2.3,Hits,CHI Cubs,SD Padres,0.064,0.601,0.399
+1020,1020,Fernando Tatis Jr.,0.5,1.476,0.5,2.55,Hits,CHI Cubs,SD Padres,0.07,0.648,0.352
+1021,1021,Ha-Seong Kim,0.5,1.741,0.5,2.05,Hits,CHI Cubs,SD Padres,0.062,0.545,0.455
+1022,1022,Ian Happ,0.5,1.541,0.5,2.35,Hits,CHI Cubs,SD Padres,0.075,0.616,0.384
+1023,1023,Jake Cronenworth,0.5,1.556,0.5,2.35,Hits,CHI Cubs,SD Padres,0.068,0.612,0.388
+1024,1024,Jose Azocar,0.5,1.714,0.5,2.05,Hits,CHI Cubs,SD Padres,0.071,0.55,0.45
+1025,1025,Jurickson Profar,0.5,1.571,0.5,2.3,Hits,CHI Cubs,SD Padres,0.071,0.604,0.396
+1026,1026,Luis Arraez,1.5,2.75,1.5,1.417,Hits,CHI Cubs,SD Padres,0.07,0.323,0.677
+1027,1027,Luis Campusano,0.5,1.556,0.5,2.35,Hits,CHI Cubs,SD Padres,0.068,0.612,0.388
+1028,1028,Manny Machado,0.5,1.556,0.5,2.35,Hits,CHI Cubs,SD Padres,0.068,0.612,0.388
+1029,1029,Michael Busch,0.5,1.667,0.5,2.15,Hits,CHI Cubs,SD Padres,0.065,0.57,0.43
+1030,1030,Mike Tauchman,0.5,1.526,0.5,2.4,Hits,CHI Cubs,SD Padres,0.072,0.624,0.376
+1031,1031,Nico Hoerner,1.5,2.75,1.5,1.408,Hits,CHI Cubs,SD Padres,0.074,0.32,0.68
+1032,1032,Patrick Wisdom,0.5,1.833,0.5,1.909,Hits,CHI Cubs,SD Padres,0.069,0.511,0.489
+1033,1033,Pete Crow-Armstrong,0.5,1.769,0.5,2.0,Hits,CHI Cubs,SD Padres,0.065,0.534,0.466
+1034,1034,Xander Bogaerts,0.5,1.588,0.5,2.3,Hits,CHI Cubs,SD Padres,0.064,0.601,0.399
+1035,1035,Yan Gomes,0.5,1.645,0.5,2.15,Hits,CHI Cubs,SD Padres,0.073,0.574,0.426
+1036,1036,Christopher Morel,0.5,1.556,0.5,2.35,Total Bases,CHI Cubs,SD Padres,0.068,0.612,0.388
+1037,1037,Dansby Swanson,0.5,1.588,0.5,2.3,Total Bases,CHI Cubs,SD Padres,0.064,0.601,0.399
+1038,1038,Fernando Tatis Jr.,1.5,2.4,1.5,1.526,Total Bases,CHI Cubs,SD Padres,0.072,0.376,0.624
+1039,1039,Ha-Seong Kim,0.5,1.741,0.5,2.05,Total Bases,CHI Cubs,SD Padres,0.062,0.545,0.455
+1040,1040,Ian Happ,0.5,1.541,0.5,2.35,Total Bases,CHI Cubs,SD Padres,0.075,0.616,0.384
+1041,1041,Jake Cronenworth,0.5,1.556,0.5,2.35,Total Bases,CHI Cubs,SD Padres,0.068,0.612,0.388
+1042,1042,Jose Azocar,0.5,1.714,0.5,2.05,Total Bases,CHI Cubs,SD Padres,0.071,0.55,0.45
+1043,1043,Jurickson Profar,0.5,1.571,0.5,2.3,Total Bases,CHI Cubs,SD Padres,0.071,0.604,0.396
+1044,1044,Luis Arraez,1.5,2.3,1.5,1.571,Total Bases,CHI Cubs,SD Padres,0.071,0.396,0.604
+1045,1045,Luis Campusano,0.5,1.556,0.5,2.35,Total Bases,CHI Cubs,SD Padres,0.068,0.612,0.388
+1046,1046,Manny Machado,0.5,1.556,0.5,2.35,Total Bases,CHI Cubs,SD Padres,0.068,0.612,0.388
+1047,1047,Michael Busch,0.5,1.667,0.5,2.15,Total Bases,CHI Cubs,SD Padres,0.065,0.57,0.43
+1048,1048,Mike Tauchman,0.5,1.526,0.5,2.4,Total Bases,CHI Cubs,SD Padres,0.072,0.624,0.376
+1049,1049,Nico Hoerner,1.5,2.2,1.5,1.625,Total Bases,CHI Cubs,SD Padres,0.07,0.417,0.583
+1050,1050,Patrick Wisdom,0.5,1.833,0.5,1.909,Total Bases,CHI Cubs,SD Padres,0.069,0.511,0.489
+1051,1051,Pete Crow-Armstrong,0.5,1.769,0.5,2.0,Total Bases,CHI Cubs,SD Padres,0.065,0.534,0.466
+1052,1052,Xander Bogaerts,0.5,1.588,0.5,2.3,Total Bases,CHI Cubs,SD Padres,0.064,0.601,0.399
+1053,1053,Yan Gomes,0.5,1.645,0.5,2.15,Total Bases,CHI Cubs,SD Padres,0.073,0.574,0.426
+1054,1054,Christopher Morel,0.5,2.6,0.5,1.465,RBIs,CHI Cubs,SD Padres,0.067,0.346,0.654
+1055,1055,Dansby Swanson,0.5,3.2,0.5,1.323,RBIs,CHI Cubs,SD Padres,0.069,0.27,0.73
+1056,1056,Fernando Tatis Jr.,0.5,3.1,0.5,1.345,RBIs,CHI Cubs,SD Padres,0.066,0.282,0.718
+1057,1057,Ha-Seong Kim,0.5,3.95,0.5,1.222,RBIs,CHI Cubs,SD Padres,0.071,0.206,0.794
+1058,1058,Ian Happ,0.5,2.8,0.5,1.408,RBIs,CHI Cubs,SD Padres,0.067,0.317,0.683
+1059,1059,Jake Cronenworth,0.5,3.3,0.5,1.303,RBIs,CHI Cubs,SD Padres,0.07,0.259,0.741
+1060,1060,Jose Azocar,0.5,4.3,0.5,1.19,RBIs,CHI Cubs,SD Padres,0.073,0.183,0.817
+1061,1061,Jurickson Profar,0.5,3.15,0.5,1.333,RBIs,CHI Cubs,SD Padres,0.067,0.276,0.724
+1062,1062,Luis Arraez,0.5,3.05,0.5,1.345,RBIs,CHI Cubs,SD Padres,0.071,0.284,0.716
+1063,1063,Luis Campusano,0.5,3.3,0.5,1.303,RBIs,CHI Cubs,SD Padres,0.07,0.259,0.741
+1064,1064,Manny Machado,0.5,2.7,0.5,1.426,RBIs,CHI Cubs,SD Padres,0.072,0.328,0.672
+1065,1065,Michael Busch,0.5,3.1,0.5,1.339,RBIs,CHI Cubs,SD Padres,0.069,0.28,0.72
+1066,1066,Mike Tauchman,0.5,3.6,0.5,1.263,RBIs,CHI Cubs,SD Padres,0.069,0.233,0.767
+1067,1067,Nico Hoerner,0.5,3.35,0.5,1.303,RBIs,CHI Cubs,SD Padres,0.066,0.257,0.743
+1068,1068,Patrick Wisdom,0.5,3.15,0.5,1.333,RBIs,CHI Cubs,SD Padres,0.067,0.276,0.724
+1069,1069,Pete Crow-Armstrong,0.5,3.65,0.5,1.256,RBIs,CHI Cubs,SD Padres,0.07,0.229,0.771
+1070,1070,Xander Bogaerts,0.5,3.3,0.5,1.303,RBIs,CHI Cubs,SD Padres,0.07,0.259,0.741
+1071,1071,Yan Gomes,0.5,3.4,0.5,1.286,RBIs,CHI Cubs,SD Padres,0.072,0.249,0.751
+1072,1072,Christopher Morel,0.5,2.25,0.5,1.588,Runs Scored,CHI Cubs,SD Padres,0.074,0.404,0.596
+1073,1073,Dansby Swanson,0.5,2.55,0.5,1.488,Runs Scored,CHI Cubs,SD Padres,0.064,0.355,0.645
+1074,1074,Fernando Tatis Jr.,0.5,2.1,0.5,1.667,Runs Scored,CHI Cubs,SD Padres,0.076,0.436,0.564
+1075,1075,Ha-Seong Kim,0.5,2.55,0.5,1.476,Runs Scored,CHI Cubs,SD Padres,0.07,0.352,0.648
+1076,1076,Ian Happ,0.5,2.35,0.5,1.556,Runs Scored,CHI Cubs,SD Padres,0.068,0.388,0.612
+1077,1077,Jake Cronenworth,0.5,2.6,0.5,1.455,Runs Scored,CHI Cubs,SD Padres,0.072,0.343,0.657
+1078,1078,Jose Azocar,0.5,3.3,0.5,1.303,Runs Scored,CHI Cubs,SD Padres,0.07,0.259,0.741
+1079,1079,Jurickson Profar,0.5,2.65,0.5,1.444,Runs Scored,CHI Cubs,SD Padres,0.07,0.337,0.663
+1080,1080,Luis Arraez,0.5,2.45,0.5,1.513,Runs Scored,CHI Cubs,SD Padres,0.069,0.369,0.631
+1081,1081,Luis Campusano,0.5,2.9,0.5,1.377,Runs Scored,CHI Cubs,SD Padres,0.071,0.302,0.698
+1082,1082,Manny Machado,0.5,2.45,0.5,1.526,Runs Scored,CHI Cubs,SD Padres,0.063,0.372,0.628
+1083,1083,Michael Busch,0.5,2.6,0.5,1.455,Runs Scored,CHI Cubs,SD Padres,0.072,0.343,0.657
+1084,1084,Mike Tauchman,0.5,2.35,0.5,1.556,Runs Scored,CHI Cubs,SD Padres,0.068,0.388,0.612
+1085,1085,Nico Hoerner,0.5,2.05,0.5,1.741,Runs Scored,CHI Cubs,SD Padres,0.062,0.455,0.545
+1086,1086,Patrick Wisdom,0.5,2.5,0.5,1.488,Runs Scored,CHI Cubs,SD Padres,0.072,0.359,0.641
+1087,1087,Pete Crow-Armstrong,0.5,2.65,0.5,1.435,Runs Scored,CHI Cubs,SD Padres,0.074,0.334,0.666
+1088,1088,Xander Bogaerts,0.5,2.85,0.5,1.392,Runs Scored,CHI Cubs,SD Padres,0.069,0.31,0.69
+1089,1089,Yan Gomes,0.5,3.1,0.5,1.339,Runs Scored,CHI Cubs,SD Padres,0.069,0.28,0.72
+1090,1090,Christopher Morel,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.478,0.522
+1091,1091,Dansby Swanson,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.44,0.56
+1092,1092,Fernando Tatis Jr.,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.07,0.5,0.5
+1093,1093,Ha-Seong Kim,1.5,2.35,1.5,1.556,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.388,0.612
+1094,1094,Ian Happ,1.5,2.0,1.5,1.769,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.065,0.466,0.534
+1095,1095,Jake Cronenworth,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.44,0.56
+1096,1096,Jose Azocar,0.5,1.571,0.5,2.3,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.071,0.604,0.396
+1097,1097,Jurickson Profar,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.44,0.56
+1098,1098,Luis Arraez,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.071,0.55,0.45
+1099,1099,Luis Campusano,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.073,0.426,0.574
+1100,1100,Manny Machado,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.478,0.522
+1101,1101,Michael Busch,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.07,0.417,0.583
+1102,1102,Mike Tauchman,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.071,0.45,0.55
+1103,1103,Nico Hoerner,1.5,1.645,1.5,2.15,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.073,0.574,0.426
+1104,1104,Patrick Wisdom,0.5,1.556,0.5,2.35,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.612,0.388
+1105,1105,Pete Crow-Armstrong,0.5,1.556,0.5,2.35,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.068,0.612,0.388
+1106,1106,Xander Bogaerts,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.07,0.417,0.583
+1107,1107,Yan Gomes,1.5,2.35,1.5,1.571,Hits + Runs + RBIs,CHI Cubs,SD Padres,0.062,0.391,0.609
+1108,1108,Christopher Morel,0.5,7.0,0.5,1.083,Stolen Bases,CHI Cubs,SD Padres,0.066,0.093,0.907
+1109,1109,Dansby Swanson,0.5,7.5,0.5,1.071,Stolen Bases,CHI Cubs,SD Padres,0.067,0.082,0.918
+1110,1110,Fernando Tatis Jr.,0.5,5.0,0.5,1.143,Stolen Bases,CHI Cubs,SD Padres,0.075,0.147,0.853
+1111,1111,Ha-Seong Kim,0.5,6.0,0.5,1.1,Stolen Bases,CHI Cubs,SD Padres,0.076,0.111,0.889
+1112,1112,Ian Happ,0.5,8.0,0.5,1.056,Stolen Bases,CHI Cubs,SD Padres,0.072,0.068,0.932
+1113,1113,Jake Cronenworth,0.5,11.0,0.5,1.025,Stolen Bases,CHI Cubs,SD Padres,0.067,0.034,0.966
+1114,1114,Jose Azocar,0.5,7.0,0.5,1.071,Stolen Bases,CHI Cubs,SD Padres,0.076,0.084,0.916
+1115,1115,Mike Tauchman,0.5,8.5,0.5,1.05,Stolen Bases,CHI Cubs,SD Padres,0.07,0.062,0.938
+1116,1116,Nico Hoerner,0.5,3.4,0.5,1.294,Stolen Bases,CHI Cubs,SD Padres,0.067,0.252,0.748
+1117,1117,Patrick Wisdom,0.5,9.0,0.5,1.04,Stolen Bases,CHI Cubs,SD Padres,0.073,0.052,0.948
+1118,1118,Pete Crow-Armstrong,0.5,4.5,0.5,1.182,Stolen Bases,CHI Cubs,SD Padres,0.068,0.176,0.824
+1119,1119,Xander Bogaerts,0.5,9.0,0.5,1.04,Stolen Bases,CHI Cubs,SD Padres,0.073,0.052,0.948
+1120,1120,Christopher Morel,1.5,2.7,1.5,1.426,Strikeouts,CHI Cubs,SD Padres,0.072,0.328,0.672
+1121,1121,Dansby Swanson,1.5,3.0,1.5,1.357,Strikeouts,CHI Cubs,SD Padres,0.07,0.291,0.709
+1122,1122,Fernando Tatis Jr.,1.5,2.6,1.5,1.455,Strikeouts,CHI Cubs,SD Padres,0.072,0.343,0.657
+1123,1123,Ha-Seong Kim,0.5,1.606,0.5,2.25,Strikeouts,CHI Cubs,SD Padres,0.067,0.592,0.408
+1124,1124,Ian Happ,1.5,2.85,1.5,1.385,Strikeouts,CHI Cubs,SD Padres,0.073,0.307,0.693
+1125,1125,Jake Cronenworth,0.5,1.37,0.5,2.95,Strikeouts,CHI Cubs,SD Padres,0.069,0.703,0.297
+1126,1126,Jose Azocar,0.5,1.556,0.5,2.35,Strikeouts,CHI Cubs,SD Padres,0.068,0.612,0.388
+1127,1127,Jurickson Profar,0.5,1.645,0.5,2.15,Strikeouts,CHI Cubs,SD Padres,0.073,0.574,0.426
+1128,1128,Luis Arraez,0.5,2.05,0.5,1.741,Strikeouts,CHI Cubs,SD Padres,0.062,0.455,0.545
+1129,1129,Luis Campusano,0.5,1.714,0.5,2.05,Strikeouts,CHI Cubs,SD Padres,0.071,0.55,0.45
+1130,1130,Manny Machado,0.5,1.444,0.5,2.65,Strikeouts,CHI Cubs,SD Padres,0.07,0.663,0.337
+1131,1131,Michael Busch,1.5,2.65,1.5,1.455,Strikeouts,CHI Cubs,SD Padres,0.065,0.34,0.66
+1132,1132,Mike Tauchman,0.5,1.357,0.5,3.0,Strikeouts,CHI Cubs,SD Padres,0.07,0.709,0.291
+1133,1133,Nico Hoerner,0.5,2.15,0.5,1.667,Strikeouts,CHI Cubs,SD Padres,0.065,0.43,0.57
+1134,1134,Patrick Wisdom,1.5,2.55,1.5,1.488,Strikeouts,CHI Cubs,SD Padres,0.064,0.355,0.645
+1135,1135,Pete Crow-Armstrong,1.5,3.05,1.5,1.351,Strikeouts,CHI Cubs,SD Padres,0.068,0.286,0.714
+1136,1136,Xander Bogaerts,0.5,1.455,0.5,2.6,Strikeouts,CHI Cubs,SD Padres,0.072,0.657,0.343
+1137,1137,Yan Gomes,0.5,1.606,0.5,2.2,Strikeouts,CHI Cubs,SD Padres,0.077,0.587,0.413
+1138,1138,Christopher Morel,0.5,2.15,0.5,1.645,Singles,CHI Cubs,SD Padres,0.073,0.426,0.574
+1139,1139,Dansby Swanson,0.5,2.05,0.5,1.714,Singles,CHI Cubs,SD Padres,0.071,0.45,0.55
+1140,1140,Fernando Tatis Jr.,0.5,1.909,0.5,1.833,Singles,CHI Cubs,SD Padres,0.069,0.489,0.511
+1141,1141,Ha-Seong Kim,0.5,2.15,0.5,1.645,Singles,CHI Cubs,SD Padres,0.073,0.426,0.574
+1142,1142,Ian Happ,0.5,2.1,0.5,1.667,Singles,CHI Cubs,SD Padres,0.076,0.436,0.564
+1143,1143,Jake Cronenworth,0.5,1.909,0.5,1.833,Singles,CHI Cubs,SD Padres,0.069,0.489,0.511
+1144,1144,Jose Azocar,0.5,2.1,0.5,1.69,Singles,CHI Cubs,SD Padres,0.068,0.44,0.56
+1145,1145,Jurickson Profar,0.5,1.952,0.5,1.8,Singles,CHI Cubs,SD Padres,0.068,0.478,0.522
+1146,1146,Luis Arraez,0.5,1.455,0.5,2.6,Singles,CHI Cubs,SD Padres,0.072,0.657,0.343
+1147,1147,Luis Campusano,0.5,1.909,0.5,1.833,Singles,CHI Cubs,SD Padres,0.069,0.489,0.511
+1148,1148,Manny Machado,0.5,2.05,0.5,1.714,Singles,CHI Cubs,SD Padres,0.071,0.45,0.55
+1149,1149,Michael Busch,0.5,2.3,0.5,1.571,Singles,CHI Cubs,SD Padres,0.071,0.396,0.604
+1150,1150,Mike Tauchman,0.5,1.909,0.5,1.833,Singles,CHI Cubs,SD Padres,0.069,0.489,0.511
+1151,1151,Nico Hoerner,0.5,1.513,0.5,2.45,Singles,CHI Cubs,SD Padres,0.069,0.631,0.369
+1152,1152,Patrick Wisdom,0.5,2.8,0.5,1.4,Singles,CHI Cubs,SD Padres,0.071,0.315,0.685
+1153,1153,Pete Crow-Armstrong,0.5,2.5,0.5,1.488,Singles,CHI Cubs,SD Padres,0.072,0.359,0.641
+1154,1154,Xander Bogaerts,0.5,2.0,0.5,1.769,Singles,CHI Cubs,SD Padres,0.065,0.466,0.534
+1155,1155,Yan Gomes,0.5,2.05,0.5,1.714,Singles,CHI Cubs,SD Padres,0.071,0.45,0.55
+1156,1156,Christopher Morel,0.5,6.0,0.5,1.1,Doubles,CHI Cubs,SD Padres,0.076,0.111,0.889
+1157,1157,Dansby Swanson,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,SD Padres,0.067,0.118,0.882
+1158,1158,Fernando Tatis Jr.,0.5,5.25,0.5,1.143,Doubles,CHI Cubs,SD Padres,0.065,0.144,0.856
+1159,1159,Ha-Seong Kim,0.5,6.5,0.5,1.091,Doubles,CHI Cubs,SD Padres,0.071,0.101,0.899
+1160,1160,Ian Happ,0.5,5.25,0.5,1.143,Doubles,CHI Cubs,SD Padres,0.065,0.144,0.856
+1161,1161,Jake Cronenworth,0.5,5.75,0.5,1.125,Doubles,CHI Cubs,SD Padres,0.063,0.129,0.871
+1162,1162,Jose Azocar,0.5,7.0,0.5,1.083,Doubles,CHI Cubs,SD Padres,0.066,0.093,0.907
+1163,1163,Jurickson Profar,0.5,5.25,0.5,1.133,Doubles,CHI Cubs,SD Padres,0.073,0.139,0.861
+1164,1164,Luis Arraez,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,SD Padres,0.071,0.131,0.869
+1165,1165,Luis Campusano,0.5,6.0,0.5,1.1,Doubles,CHI Cubs,SD Padres,0.076,0.111,0.889
+1166,1166,Manny Machado,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,SD Padres,0.071,0.131,0.869
+1167,1167,Michael Busch,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,SD Padres,0.071,0.131,0.869
+1168,1168,Mike Tauchman,0.5,5.5,0.5,1.133,Doubles,CHI Cubs,SD Padres,0.064,0.136,0.864
+1169,1169,Nico Hoerner,0.5,5.25,0.5,1.143,Doubles,CHI Cubs,SD Padres,0.065,0.144,0.856
+1170,1170,Patrick Wisdom,0.5,6.5,0.5,1.091,Doubles,CHI Cubs,SD Padres,0.071,0.101,0.899
+1171,1171,Pete Crow-Armstrong,0.5,6.0,0.5,1.1,Doubles,CHI Cubs,SD Padres,0.076,0.111,0.889
+1172,1172,Xander Bogaerts,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,SD Padres,0.067,0.118,0.882
+1173,1173,Yan Gomes,0.5,6.5,0.5,1.091,Doubles,CHI Cubs,SD Padres,0.071,0.101,0.899
+1174,1174,Pete Crow-Armstrong,0.5,13.0,0.5,1.01,Triples,CHI Cubs,SD Padres,0.067,0.016,0.984
+1175,1175,Christopher Morel,0.5,2.75,0.5,1.417,Walks,CHI Cubs,SD Padres,0.07,0.323,0.677
+1176,1176,Dansby Swanson,0.5,3.05,0.5,1.345,Walks,CHI Cubs,SD Padres,0.071,0.284,0.716
+1177,1177,Fernando Tatis Jr.,0.5,2.35,0.5,1.556,Walks,CHI Cubs,SD Padres,0.068,0.388,0.612
+1178,1178,Ha-Seong Kim,0.5,2.55,0.5,1.488,Walks,CHI Cubs,SD Padres,0.064,0.355,0.645
+1179,1179,Ian Happ,0.5,2.2,0.5,1.625,Walks,CHI Cubs,SD Padres,0.07,0.417,0.583
+1180,1180,Jake Cronenworth,0.5,2.55,0.5,1.476,Walks,CHI Cubs,SD Padres,0.07,0.352,0.648
+1181,1181,Jurickson Profar,0.5,2.5,0.5,1.488,Walks,CHI Cubs,SD Padres,0.072,0.359,0.641
+1182,1182,Luis Arraez,0.5,3.5,0.5,1.278,Walks,CHI Cubs,SD Padres,0.068,0.242,0.758
+1183,1183,Luis Campusano,0.5,4.4,0.5,1.182,Walks,CHI Cubs,SD Padres,0.073,0.177,0.823
+1184,1184,Manny Machado,0.5,2.5,0.5,1.488,Walks,CHI Cubs,SD Padres,0.072,0.359,0.641
+1185,1185,Michael Busch,0.5,2.7,0.5,1.426,Walks,CHI Cubs,SD Padres,0.072,0.328,0.672
+1186,1186,Mike Tauchman,0.5,1.952,0.5,1.769,Walks,CHI Cubs,SD Padres,0.077,0.472,0.528
+1187,1187,Nico Hoerner,0.5,3.5,0.5,1.27,Walks,CHI Cubs,SD Padres,0.073,0.239,0.761
+1188,1188,Patrick Wisdom,0.5,2.5,0.5,1.5,Walks,CHI Cubs,SD Padres,0.067,0.362,0.638
+1189,1189,Pete Crow-Armstrong,0.5,3.4,0.5,1.286,Walks,CHI Cubs,SD Padres,0.072,0.249,0.751
+1190,1190,Xander Bogaerts,0.5,3.0,0.5,1.364,Walks,CHI Cubs,SD Padres,0.067,0.293,0.707
+1191,1191,Yan Gomes,0.5,4.5,0.5,1.182,Walks,CHI Cubs,SD Padres,0.068,0.176,0.824
+1192,1192,Alec Burleson,0.5,9.0,0.5,1.04,Home Runs,STL Cardinals,NY Mets,0.073,0.052,0.948
+1193,1193,Brandon Nimmo,0.5,6.0,0.5,1.1,Home Runs,STL Cardinals,NY Mets,0.076,0.111,0.889
+1194,1194,Brendan Donovan,0.5,10.0,0.5,1.029,Home Runs,STL Cardinals,NY Mets,0.072,0.039,0.961
+1195,1195,Brett Baty,0.5,8.0,0.5,1.056,Home Runs,STL Cardinals,NY Mets,0.072,0.068,0.932
+1196,1196,Dylan Carlson,0.5,8.0,0.5,1.062,Home Runs,STL Cardinals,NY Mets,0.066,0.073,0.927
+1197,1197,Francisco Lindor,0.5,4.9,0.5,1.154,Home Runs,STL Cardinals,NY Mets,0.071,0.155,0.845
+1198,1198,Harrison Bader,0.5,10.5,0.5,1.025,Home Runs,STL Cardinals,NY Mets,0.071,0.035,0.965
+1199,1199,J.D. Martinez,0.5,5.25,0.5,1.133,Home Runs,STL Cardinals,NY Mets,0.073,0.139,0.861
+1200,1200,Jeff McNeil,0.5,8.5,0.5,1.05,Home Runs,STL Cardinals,NY Mets,0.07,0.062,0.938
+1201,1201,Lars Nootbaar,0.5,10.0,0.5,1.033,Home Runs,STL Cardinals,NY Mets,0.068,0.044,0.956
+1202,1202,Masyn Winn,0.5,9.5,0.5,1.04,Home Runs,STL Cardinals,NY Mets,0.067,0.051,0.949
+1203,1203,Nolan Arenado,0.5,4.7,0.5,1.167,Home Runs,STL Cardinals,NY Mets,0.07,0.165,0.835
+1204,1204,Nolan Gorman,0.5,6.5,0.5,1.1,Home Runs,STL Cardinals,NY Mets,0.063,0.107,0.893
+1205,1205,Paul Goldschmidt,0.5,5.25,0.5,1.143,Home Runs,STL Cardinals,NY Mets,0.065,0.144,0.856
+1206,1206,Pete Alonso,0.5,5.5,0.5,1.125,Home Runs,STL Cardinals,NY Mets,0.071,0.131,0.869
+1207,1207,Starling Marte,0.5,8.0,0.5,1.056,Home Runs,STL Cardinals,NY Mets,0.072,0.068,0.932
+1208,1208,Tomas Nido,0.5,13.0,0.5,1.01,Home Runs,STL Cardinals,NY Mets,0.067,0.016,0.984
+1209,1209,Willson Contreras,0.5,4.4,0.5,1.19,Home Runs,STL Cardinals,NY Mets,0.067,0.182,0.818
+1210,1210,Alec Burleson,0.5,1.625,0.5,2.2,Hits,STL Cardinals,NY Mets,0.07,0.583,0.417
+1211,1211,Brandon Nimmo,0.5,1.408,0.5,2.75,Hits,STL Cardinals,NY Mets,0.074,0.68,0.32
+1212,1212,Brendan Donovan,0.5,1.5,0.5,2.45,Hits,STL Cardinals,NY Mets,0.075,0.634,0.366
+1213,1213,Brett Baty,0.5,1.571,0.5,2.3,Hits,STL Cardinals,NY Mets,0.071,0.604,0.396
+1214,1214,Dylan Carlson,0.5,1.465,0.5,2.6,Hits,STL Cardinals,NY Mets,0.067,0.654,0.346
+1215,1215,Francisco Lindor,0.5,1.426,0.5,2.7,Hits,STL Cardinals,NY Mets,0.072,0.672,0.328
+1216,1216,Harrison Bader,0.5,1.556,0.5,2.35,Hits,STL Cardinals,NY Mets,0.068,0.612,0.388
+1217,1217,J.D. Martinez,0.5,1.435,0.5,2.7,Hits,STL Cardinals,NY Mets,0.067,0.669,0.331
+1218,1218,Jeff McNeil,0.5,1.455,0.5,2.6,Hits,STL Cardinals,NY Mets,0.072,0.657,0.343
+1219,1219,Lars Nootbaar,0.5,1.741,0.5,2.0,Hits,STL Cardinals,NY Mets,0.074,0.539,0.461
+1220,1220,Masyn Winn,0.5,1.571,0.5,2.3,Hits,STL Cardinals,NY Mets,0.071,0.604,0.396
+1221,1221,Nolan Arenado,0.5,1.426,0.5,2.7,Hits,STL Cardinals,NY Mets,0.072,0.672,0.328
+1222,1222,Nolan Gorman,0.5,2.0,0.5,1.741,Hits,STL Cardinals,NY Mets,0.074,0.461,0.539
+1223,1223,Paul Goldschmidt,0.5,1.417,0.5,2.75,Hits,STL Cardinals,NY Mets,0.07,0.677,0.323
+1224,1224,Pete Alonso,0.5,1.556,0.5,2.35,Hits,STL Cardinals,NY Mets,0.068,0.612,0.388
+1225,1225,Starling Marte,0.5,1.392,0.5,2.85,Hits,STL Cardinals,NY Mets,0.069,0.69,0.31
+1226,1226,Tomas Nido,0.5,1.769,0.5,2.0,Hits,STL Cardinals,NY Mets,0.065,0.534,0.466
+1227,1227,Willson Contreras,0.5,1.408,0.5,2.8,Hits,STL Cardinals,NY Mets,0.067,0.683,0.317
+1228,1228,Alec Burleson,0.5,1.625,0.5,2.2,Total Bases,STL Cardinals,NY Mets,0.07,0.583,0.417
+1229,1229,Brandon Nimmo,1.5,2.25,1.5,1.588,Total Bases,STL Cardinals,NY Mets,0.074,0.404,0.596
+1230,1230,Brendan Donovan,0.5,1.5,0.5,2.45,Total Bases,STL Cardinals,NY Mets,0.075,0.634,0.366
+1231,1231,Brett Baty,0.5,1.571,0.5,2.3,Total Bases,STL Cardinals,NY Mets,0.071,0.604,0.396
+1232,1232,Dylan Carlson,1.5,2.45,1.5,1.5,Total Bases,STL Cardinals,NY Mets,0.075,0.366,0.634
+1233,1233,Francisco Lindor,1.5,2.15,1.5,1.645,Total Bases,STL Cardinals,NY Mets,0.073,0.426,0.574
+1234,1234,Harrison Bader,0.5,1.556,0.5,2.35,Total Bases,STL Cardinals,NY Mets,0.068,0.612,0.388
+1235,1235,J.D. Martinez,1.5,2.3,1.5,1.571,Total Bases,STL Cardinals,NY Mets,0.071,0.396,0.604
+1236,1236,Jeff McNeil,1.5,2.45,1.5,1.513,Total Bases,STL Cardinals,NY Mets,0.069,0.369,0.631
+1237,1237,Lars Nootbaar,0.5,1.741,0.5,2.0,Total Bases,STL Cardinals,NY Mets,0.074,0.539,0.461
+1238,1238,Masyn Winn,0.5,1.571,0.5,2.3,Total Bases,STL Cardinals,NY Mets,0.071,0.604,0.396
+1239,1239,Nolan Arenado,1.5,2.1,1.5,1.667,Total Bases,STL Cardinals,NY Mets,0.076,0.436,0.564
+1240,1240,Nolan Gorman,0.5,2.0,0.5,1.741,Total Bases,STL Cardinals,NY Mets,0.074,0.461,0.539
+1241,1241,Paul Goldschmidt,1.5,2.15,1.5,1.667,Total Bases,STL Cardinals,NY Mets,0.065,0.43,0.57
+1242,1242,Pete Alonso,0.5,1.556,0.5,2.35,Total Bases,STL Cardinals,NY Mets,0.068,0.612,0.388
+1243,1243,Starling Marte,1.5,2.35,1.5,1.556,Total Bases,STL Cardinals,NY Mets,0.068,0.388,0.612
+1244,1244,Tomas Nido,0.5,1.769,0.5,2.0,Total Bases,STL Cardinals,NY Mets,0.065,0.534,0.466
+1245,1245,Willson Contreras,1.5,2.05,1.5,1.714,Total Bases,STL Cardinals,NY Mets,0.071,0.45,0.55
+1246,1246,Alec Burleson,0.5,3.3,0.5,1.303,RBIs,STL Cardinals,NY Mets,0.07,0.259,0.741
+1247,1247,Brandon Nimmo,0.5,3.3,0.5,1.303,RBIs,STL Cardinals,NY Mets,0.07,0.259,0.741
+1248,1248,Brendan Donovan,0.5,3.85,0.5,1.235,RBIs,STL Cardinals,NY Mets,0.069,0.214,0.786
+1249,1249,Brett Baty,0.5,3.2,0.5,1.323,RBIs,STL Cardinals,NY Mets,0.069,0.27,0.73
+1250,1250,Dylan Carlson,0.5,2.9,0.5,1.377,RBIs,STL Cardinals,NY Mets,0.071,0.302,0.698
+1251,1251,Francisco Lindor,0.5,2.45,0.5,1.513,RBIs,STL Cardinals,NY Mets,0.069,0.369,0.631
+1252,1252,Harrison Bader,0.5,3.55,0.5,1.27,RBIs,STL Cardinals,NY Mets,0.069,0.238,0.762
+1253,1253,J.D. Martinez,0.5,2.6,0.5,1.465,RBIs,STL Cardinals,NY Mets,0.067,0.346,0.654
+1254,1254,Jeff McNeil,0.5,3.15,0.5,1.323,RBIs,STL Cardinals,NY Mets,0.074,0.272,0.728
+1255,1255,Lars Nootbaar,0.5,3.6,0.5,1.263,RBIs,STL Cardinals,NY Mets,0.069,0.233,0.767
+1256,1256,Masyn Winn,0.5,3.15,0.5,1.333,RBIs,STL Cardinals,NY Mets,0.067,0.276,0.724
+1257,1257,Nolan Arenado,0.5,2.3,0.5,1.571,RBIs,STL Cardinals,NY Mets,0.071,0.396,0.604
+1258,1258,Nolan Gorman,0.5,3.5,0.5,1.278,RBIs,STL Cardinals,NY Mets,0.068,0.242,0.758
+1259,1259,Paul Goldschmidt,0.5,2.65,0.5,1.435,RBIs,STL Cardinals,NY Mets,0.074,0.334,0.666
+1260,1260,Pete Alonso,0.5,2.75,0.5,1.408,RBIs,STL Cardinals,NY Mets,0.074,0.32,0.68
+1261,1261,Starling Marte,0.5,3.2,0.5,1.323,RBIs,STL Cardinals,NY Mets,0.069,0.27,0.73
+1262,1262,Tomas Nido,0.5,4.4,0.5,1.182,RBIs,STL Cardinals,NY Mets,0.073,0.177,0.823
+1263,1263,Willson Contreras,0.5,2.7,0.5,1.426,RBIs,STL Cardinals,NY Mets,0.072,0.328,0.672
+1264,1264,Alec Burleson,0.5,3.0,0.5,1.357,Runs Scored,STL Cardinals,NY Mets,0.07,0.291,0.709
+1265,1265,Brandon Nimmo,0.5,2.0,0.5,1.769,Runs Scored,STL Cardinals,NY Mets,0.065,0.466,0.534
+1266,1266,Brendan Donovan,0.5,2.2,0.5,1.645,Runs Scored,STL Cardinals,NY Mets,0.062,0.421,0.579
+1267,1267,Brett Baty,0.5,2.8,0.5,1.408,Runs Scored,STL Cardinals,NY Mets,0.067,0.317,0.683
+1268,1268,Dylan Carlson,0.5,2.35,0.5,1.556,Runs Scored,STL Cardinals,NY Mets,0.068,0.388,0.612
+1269,1269,Francisco Lindor,0.5,2.1,0.5,1.69,Runs Scored,STL Cardinals,NY Mets,0.068,0.44,0.56
+1270,1270,Harrison Bader,0.5,2.9,0.5,1.377,Runs Scored,STL Cardinals,NY Mets,0.071,0.302,0.698
+1271,1271,J.D. Martinez,0.5,2.4,0.5,1.541,Runs Scored,STL Cardinals,NY Mets,0.066,0.38,0.62
+1272,1272,Jeff McNeil,0.5,2.65,0.5,1.455,Runs Scored,STL Cardinals,NY Mets,0.065,0.34,0.66
+1273,1273,Lars Nootbaar,0.5,2.8,0.5,1.408,Runs Scored,STL Cardinals,NY Mets,0.067,0.317,0.683
+1274,1274,Masyn Winn,0.5,2.75,0.5,1.408,Runs Scored,STL Cardinals,NY Mets,0.074,0.32,0.68
+1275,1275,Nolan Arenado,0.5,2.1,0.5,1.667,Runs Scored,STL Cardinals,NY Mets,0.076,0.436,0.564
+1276,1276,Nolan Gorman,0.5,2.9,0.5,1.385,Runs Scored,STL Cardinals,NY Mets,0.067,0.305,0.695
+1277,1277,Paul Goldschmidt,0.5,2.0,0.5,1.769,Runs Scored,STL Cardinals,NY Mets,0.065,0.466,0.534
+1278,1278,Pete Alonso,0.5,2.35,0.5,1.556,Runs Scored,STL Cardinals,NY Mets,0.068,0.388,0.612
+1279,1279,Starling Marte,0.5,2.2,0.5,1.625,Runs Scored,STL Cardinals,NY Mets,0.07,0.417,0.583
+1280,1280,Tomas Nido,0.5,3.5,0.5,1.278,Runs Scored,STL Cardinals,NY Mets,0.068,0.242,0.758
+1281,1281,Willson Contreras,0.5,1.833,0.5,1.909,Runs Scored,STL Cardinals,NY Mets,0.069,0.511,0.489
+1282,1282,Alec Burleson,1.5,2.3,1.5,1.588,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.064,0.399,0.601
+1283,1283,Brandon Nimmo,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.065,0.534,0.466
+1284,1284,Brendan Donovan,1.5,2.0,1.5,1.769,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.065,0.466,0.534
+1285,1285,Brett Baty,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.07,0.417,0.583
+1286,1286,Dylan Carlson,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.07,0.5,0.5
+1287,1287,Francisco Lindor,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.068,0.522,0.478
+1288,1288,Harrison Bader,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.073,0.426,0.574
+1289,1289,J.D. Martinez,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.069,0.511,0.489
+1290,1290,Jeff McNeil,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.077,0.472,0.528
+1291,1291,Lars Nootbaar,1.5,2.4,1.5,1.526,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.072,0.376,0.624
+1292,1292,Masyn Winn,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.068,0.44,0.56
+1293,1293,Nolan Arenado,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.065,0.534,0.466
+1294,1294,Nolan Gorman,0.5,1.714,0.5,2.05,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.071,0.55,0.45
+1295,1295,Paul Goldschmidt,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.077,0.528,0.472
+1296,1296,Pete Alonso,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.068,0.478,0.522
+1297,1297,Starling Marte,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.07,0.5,0.5
+1298,1298,Tomas Nido,0.5,1.645,0.5,2.15,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.073,0.574,0.426
+1299,1299,Willson Contreras,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,STL Cardinals,NY Mets,0.074,0.539,0.461
+1300,1300,Brendan Donovan,0.5,12.0,0.5,1.017,Stolen Bases,STL Cardinals,NY Mets,0.067,0.024,0.976
+1301,1301,Dylan Carlson,0.5,9.5,0.5,1.04,Stolen Bases,STL Cardinals,NY Mets,0.067,0.051,0.949
+1302,1302,Francisco Lindor,0.5,7.0,0.5,1.083,Stolen Bases,STL Cardinals,NY Mets,0.066,0.093,0.907
+1303,1303,Harrison Bader,0.5,7.5,0.5,1.071,Stolen Bases,STL Cardinals,NY Mets,0.067,0.082,0.918
+1304,1304,Jeff McNeil,0.5,13.0,0.5,1.01,Stolen Bases,STL Cardinals,NY Mets,0.067,0.016,0.984
+1305,1305,Lars Nootbaar,0.5,9.0,0.5,1.04,Stolen Bases,STL Cardinals,NY Mets,0.073,0.052,0.948
+1306,1306,Masyn Winn,0.5,5.75,0.5,1.111,Stolen Bases,STL Cardinals,NY Mets,0.074,0.12,0.88
+1307,1307,Paul Goldschmidt,0.5,11.0,0.5,1.02,Stolen Bases,STL Cardinals,NY Mets,0.071,0.029,0.971
+1308,1308,Starling Marte,0.5,5.75,0.5,1.125,Stolen Bases,STL Cardinals,NY Mets,0.063,0.129,0.871
+1309,1309,Willson Contreras,0.5,12.0,0.5,1.01,Stolen Bases,STL Cardinals,NY Mets,0.073,0.016,0.984
+1310,1310,Alec Burleson,0.5,1.741,0.5,2.0,Strikeouts,STL Cardinals,NY Mets,0.074,0.539,0.461
+1311,1311,Brandon Nimmo,0.5,1.465,0.5,2.6,Strikeouts,STL Cardinals,NY Mets,0.067,0.654,0.346
+1312,1312,Brendan Donovan,0.5,1.69,0.5,2.1,Strikeouts,STL Cardinals,NY Mets,0.068,0.56,0.44
+1313,1313,Brett Baty,0.5,1.541,0.5,2.35,Strikeouts,STL Cardinals,NY Mets,0.075,0.616,0.384
+1314,1314,Dylan Carlson,0.5,1.588,0.5,2.25,Strikeouts,STL Cardinals,NY Mets,0.074,0.596,0.404
+1315,1315,Francisco Lindor,0.5,1.526,0.5,2.45,Strikeouts,STL Cardinals,NY Mets,0.063,0.628,0.372
+1316,1316,Harrison Bader,0.5,1.714,0.5,2.05,Strikeouts,STL Cardinals,NY Mets,0.071,0.55,0.45
+1317,1317,J.D. Martinez,1.5,2.6,1.5,1.465,Strikeouts,STL Cardinals,NY Mets,0.067,0.346,0.654
+1318,1318,Jeff McNeil,0.5,2.3,0.5,1.571,Strikeouts,STL Cardinals,NY Mets,0.071,0.396,0.604
+1319,1319,Lars Nootbaar,0.5,1.571,0.5,2.3,Strikeouts,STL Cardinals,NY Mets,0.071,0.604,0.396
+1320,1320,Masyn Winn,0.5,1.588,0.5,2.3,Strikeouts,STL Cardinals,NY Mets,0.064,0.601,0.399
+1321,1321,Nolan Arenado,0.5,1.909,0.5,1.8,Strikeouts,STL Cardinals,NY Mets,0.079,0.483,0.517
+1322,1322,Nolan Gorman,1.5,2.55,1.5,1.488,Strikeouts,STL Cardinals,NY Mets,0.064,0.355,0.645
+1323,1323,Paul Goldschmidt,1.5,3.05,1.5,1.351,Strikeouts,STL Cardinals,NY Mets,0.068,0.286,0.714
+1324,1324,Pete Alonso,0.5,1.488,0.5,2.5,Strikeouts,STL Cardinals,NY Mets,0.072,0.641,0.359
+1325,1325,Starling Marte,0.5,1.408,0.5,2.75,Strikeouts,STL Cardinals,NY Mets,0.074,0.68,0.32
+1326,1326,Tomas Nido,0.5,1.556,0.5,2.35,Strikeouts,STL Cardinals,NY Mets,0.068,0.612,0.388
+1327,1327,Willson Contreras,0.5,1.364,0.5,3.0,Strikeouts,STL Cardinals,NY Mets,0.067,0.707,0.293
+1328,1328,Alec Burleson,0.5,2.05,0.5,1.741,Singles,STL Cardinals,NY Mets,0.062,0.455,0.545
+1329,1329,Brandon Nimmo,0.5,1.87,0.5,1.87,Singles,STL Cardinals,NY Mets,0.07,0.5,0.5
+1330,1330,Brendan Donovan,0.5,1.769,0.5,1.952,Singles,STL Cardinals,NY Mets,0.077,0.528,0.472
+1331,1331,Brett Baty,0.5,2.0,0.5,1.741,Singles,STL Cardinals,NY Mets,0.074,0.461,0.539
+1332,1332,Dylan Carlson,0.5,1.952,0.5,1.8,Singles,STL Cardinals,NY Mets,0.068,0.478,0.522
+1333,1333,Francisco Lindor,0.5,2.05,0.5,1.714,Singles,STL Cardinals,NY Mets,0.071,0.45,0.55
+1334,1334,Harrison Bader,0.5,1.952,0.5,1.8,Singles,STL Cardinals,NY Mets,0.068,0.478,0.522
+1335,1335,J.D. Martinez,0.5,1.952,0.5,1.8,Singles,STL Cardinals,NY Mets,0.068,0.478,0.522
+1336,1336,Jeff McNeil,0.5,1.833,0.5,1.909,Singles,STL Cardinals,NY Mets,0.069,0.511,0.489
+1337,1337,Lars Nootbaar,0.5,2.2,0.5,1.625,Singles,STL Cardinals,NY Mets,0.07,0.417,0.583
+1338,1338,Masyn Winn,0.5,2.1,0.5,1.69,Singles,STL Cardinals,NY Mets,0.068,0.44,0.56
+1339,1339,Nolan Arenado,0.5,2.1,0.5,1.69,Singles,STL Cardinals,NY Mets,0.068,0.44,0.56
+1340,1340,Nolan Gorman,0.5,2.95,0.5,1.37,Singles,STL Cardinals,NY Mets,0.069,0.297,0.703
+1341,1341,Paul Goldschmidt,0.5,2.1,0.5,1.69,Singles,STL Cardinals,NY Mets,0.068,0.44,0.56
+1342,1342,Pete Alonso,0.5,2.15,0.5,1.667,Singles,STL Cardinals,NY Mets,0.065,0.43,0.57
+1343,1343,Starling Marte,0.5,1.714,0.5,2.05,Singles,STL Cardinals,NY Mets,0.071,0.55,0.45
+1344,1344,Tomas Nido,0.5,2.15,0.5,1.667,Singles,STL Cardinals,NY Mets,0.065,0.43,0.57
+1345,1345,Willson Contreras,0.5,2.05,0.5,1.714,Singles,STL Cardinals,NY Mets,0.071,0.45,0.55
+1346,1346,Alec Burleson,0.5,6.5,0.5,1.1,Doubles,STL Cardinals,NY Mets,0.063,0.107,0.893
+1347,1347,Brandon Nimmo,0.5,4.5,0.5,1.174,Doubles,STL Cardinals,NY Mets,0.074,0.171,0.829
+1348,1348,Brendan Donovan,0.5,6.0,0.5,1.111,Doubles,STL Cardinals,NY Mets,0.067,0.118,0.882
+1349,1349,Brett Baty,0.5,5.75,0.5,1.111,Doubles,STL Cardinals,NY Mets,0.074,0.12,0.88
+1350,1350,Dylan Carlson,0.5,4.6,0.5,1.174,Doubles,STL Cardinals,NY Mets,0.069,0.17,0.83
+1351,1351,Francisco Lindor,0.5,4.4,0.5,1.182,Doubles,STL Cardinals,NY Mets,0.073,0.177,0.823
+1352,1352,Harrison Bader,0.5,5.5,0.5,1.125,Doubles,STL Cardinals,NY Mets,0.071,0.131,0.869
+1353,1353,J.D. Martinez,0.5,4.8,0.5,1.154,Doubles,STL Cardinals,NY Mets,0.075,0.156,0.844
+1354,1354,Jeff McNeil,0.5,4.6,0.5,1.174,Doubles,STL Cardinals,NY Mets,0.069,0.17,0.83
+1355,1355,Lars Nootbaar,0.5,7.0,0.5,1.083,Doubles,STL Cardinals,NY Mets,0.066,0.093,0.907
+1356,1356,Masyn Winn,0.5,5.25,0.5,1.143,Doubles,STL Cardinals,NY Mets,0.065,0.144,0.856
+1357,1357,Nolan Arenado,0.5,4.3,0.5,1.19,Doubles,STL Cardinals,NY Mets,0.073,0.183,0.817
+1358,1358,Nolan Gorman,0.5,8.0,0.5,1.062,Doubles,STL Cardinals,NY Mets,0.066,0.073,0.927
+1359,1359,Paul Goldschmidt,0.5,4.3,0.5,1.19,Doubles,STL Cardinals,NY Mets,0.073,0.183,0.817
+1360,1360,Pete Alonso,0.5,5.0,0.5,1.143,Doubles,STL Cardinals,NY Mets,0.075,0.147,0.853
+1361,1361,Starling Marte,0.5,5.25,0.5,1.133,Doubles,STL Cardinals,NY Mets,0.073,0.139,0.861
+1362,1362,Tomas Nido,0.5,7.0,0.5,1.071,Doubles,STL Cardinals,NY Mets,0.076,0.084,0.916
+1363,1363,Willson Contreras,0.5,4.3,0.5,1.19,Doubles,STL Cardinals,NY Mets,0.073,0.183,0.817
+1364,1364,Alec Burleson,0.5,4.3,0.5,1.19,Walks,STL Cardinals,NY Mets,0.073,0.183,0.817
+1365,1365,Brandon Nimmo,0.5,1.952,0.5,1.8,Walks,STL Cardinals,NY Mets,0.068,0.478,0.522
+1366,1366,Brendan Donovan,0.5,2.7,0.5,1.435,Walks,STL Cardinals,NY Mets,0.067,0.331,0.669
+1367,1367,Brett Baty,0.5,3.55,0.5,1.27,Walks,STL Cardinals,NY Mets,0.069,0.238,0.762
+1368,1368,Dylan Carlson,0.5,2.5,0.5,1.488,Walks,STL Cardinals,NY Mets,0.072,0.359,0.641
+1369,1369,Francisco Lindor,0.5,2.9,0.5,1.377,Walks,STL Cardinals,NY Mets,0.071,0.302,0.698
+1370,1370,J.D. Martinez,0.5,3.6,0.5,1.263,Walks,STL Cardinals,NY Mets,0.069,0.233,0.767
+1371,1371,Jeff McNeil,0.5,3.95,0.5,1.222,Walks,STL Cardinals,NY Mets,0.071,0.206,0.794
+1372,1372,Lars Nootbaar,0.5,2.55,0.5,1.476,Walks,STL Cardinals,NY Mets,0.07,0.352,0.648
+1373,1373,Masyn Winn,0.5,3.05,0.5,1.345,Walks,STL Cardinals,NY Mets,0.071,0.284,0.716
+1374,1374,Nolan Arenado,0.5,2.95,0.5,1.37,Walks,STL Cardinals,NY Mets,0.069,0.297,0.703
+1375,1375,Nolan Gorman,0.5,3.5,0.5,1.278,Walks,STL Cardinals,NY Mets,0.068,0.242,0.758
+1376,1376,Paul Goldschmidt,0.5,2.1,0.5,1.667,Walks,STL Cardinals,NY Mets,0.076,0.436,0.564
+1377,1377,Pete Alonso,0.5,2.8,0.5,1.408,Walks,STL Cardinals,NY Mets,0.067,0.317,0.683
+1378,1378,Starling Marte,0.5,4.3,0.5,1.19,Walks,STL Cardinals,NY Mets,0.073,0.183,0.817
+1379,1379,Willson Contreras,0.5,2.3,0.5,1.571,Walks,STL Cardinals,NY Mets,0.071,0.396,0.604
+1380,1380,Abraham Toro,0.5,7.5,0.5,1.071,Home Runs,OAK Athletics,TEX Rangers,0.067,0.082,0.918
+1381,1381,Adolis Garcia,0.5,4.3,0.5,1.2,Home Runs,OAK Athletics,TEX Rangers,0.066,0.188,0.812
+1382,1382,Brent Rooker,0.5,5.0,0.5,1.154,Home Runs,OAK Athletics,TEX Rangers,0.067,0.153,0.847
+1383,1383,Brett Harris,0.5,9.5,0.5,1.033,Home Runs,OAK Athletics,TEX Rangers,0.073,0.044,0.956
+1384,1384,Corey Seager,0.5,6.0,0.5,1.1,Home Runs,OAK Athletics,TEX Rangers,0.076,0.111,0.889
+1385,1385,Darell Hernaiz,0.5,10.5,0.5,1.025,Home Runs,OAK Athletics,TEX Rangers,0.071,0.035,0.965
+1386,1386,Davis Wendzel,0.5,6.5,0.5,1.1,Home Runs,OAK Athletics,TEX Rangers,0.063,0.107,0.893
+1387,1387,Evan Carter,0.5,11.0,0.5,1.017,Home Runs,OAK Athletics,TEX Rangers,0.075,0.025,0.975
+1388,1388,J.D. Davis,0.5,6.5,0.5,1.091,Home Runs,OAK Athletics,TEX Rangers,0.071,0.101,0.899
+1389,1389,JJ Bleday,0.5,8.0,0.5,1.056,Home Runs,OAK Athletics,TEX Rangers,0.072,0.068,0.932
+1390,1390,Jonah Heim,0.5,6.5,0.5,1.091,Home Runs,OAK Athletics,TEX Rangers,0.071,0.101,0.899
+1391,1391,Josh Smith,0.5,10.0,0.5,1.033,Home Runs,OAK Athletics,TEX Rangers,0.068,0.044,0.956
+1392,1392,Leody Taveras,0.5,11.0,0.5,1.025,Home Runs,OAK Athletics,TEX Rangers,0.067,0.034,0.966
+1393,1393,Marcus Semien,0.5,6.5,0.5,1.1,Home Runs,OAK Athletics,TEX Rangers,0.063,0.107,0.893
+1394,1394,Max Schuemann,0.5,11.0,0.5,1.02,Home Runs,OAK Athletics,TEX Rangers,0.071,0.029,0.971
+1395,1395,Nathaniel Lowe,0.5,9.0,0.5,1.05,Home Runs,OAK Athletics,TEX Rangers,0.063,0.06,0.94
+1396,1396,Shea Langeliers,0.5,5.75,0.5,1.111,Home Runs,OAK Athletics,TEX Rangers,0.074,0.12,0.88
+1397,1397,Tyler Nevin,0.5,7.0,0.5,1.083,Home Runs,OAK Athletics,TEX Rangers,0.066,0.093,0.907
+1398,1398,Abraham Toro,0.5,1.455,0.5,2.6,Hits,OAK Athletics,TEX Rangers,0.072,0.657,0.343
+1399,1399,Adolis Garcia,0.5,1.465,0.5,2.6,Hits,OAK Athletics,TEX Rangers,0.067,0.654,0.346
+1400,1400,Brent Rooker,0.5,1.625,0.5,2.2,Hits,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1401,1401,Brett Harris,0.5,1.741,0.5,2.0,Hits,OAK Athletics,TEX Rangers,0.074,0.539,0.461
+1402,1402,Corey Seager,0.5,1.4,0.5,2.8,Hits,OAK Athletics,TEX Rangers,0.071,0.685,0.315
+1403,1403,Darell Hernaiz,0.5,1.667,0.5,2.15,Hits,OAK Athletics,TEX Rangers,0.065,0.57,0.43
+1404,1404,Davis Wendzel,0.5,1.714,0.5,2.05,Hits,OAK Athletics,TEX Rangers,0.071,0.55,0.45
+1405,1405,Evan Carter,0.5,1.8,0.5,1.952,Hits,OAK Athletics,TEX Rangers,0.068,0.522,0.478
+1406,1406,J.D. Davis,0.5,1.571,0.5,2.3,Hits,OAK Athletics,TEX Rangers,0.071,0.604,0.396
+1407,1407,JJ Bleday,0.5,1.833,0.5,1.909,Hits,OAK Athletics,TEX Rangers,0.069,0.511,0.489
+1408,1408,Jonah Heim,0.5,1.408,0.5,2.8,Hits,OAK Athletics,TEX Rangers,0.067,0.683,0.317
+1409,1409,Josh Smith,0.5,1.625,0.5,2.2,Hits,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1410,1410,Leody Taveras,0.5,1.541,0.5,2.4,Hits,OAK Athletics,TEX Rangers,0.066,0.62,0.38
+1411,1411,Marcus Semien,1.5,2.8,1.5,1.408,Hits,OAK Athletics,TEX Rangers,0.067,0.317,0.683
+1412,1412,Max Schuemann,0.5,1.8,0.5,1.909,Hits,OAK Athletics,TEX Rangers,0.079,0.517,0.483
+1413,1413,Nathaniel Lowe,0.5,1.435,0.5,2.7,Hits,OAK Athletics,TEX Rangers,0.067,0.669,0.331
+1414,1414,Shea Langeliers,0.5,1.625,0.5,2.2,Hits,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1415,1415,Tyler Nevin,0.5,1.513,0.5,2.45,Hits,OAK Athletics,TEX Rangers,0.069,0.631,0.369
+1416,1416,Abraham Toro,1.5,2.35,1.5,1.556,Total Bases,OAK Athletics,TEX Rangers,0.068,0.388,0.612
+1417,1417,Adolis Garcia,1.5,2.1,1.5,1.667,Total Bases,OAK Athletics,TEX Rangers,0.076,0.436,0.564
+1418,1418,Brent Rooker,0.5,1.625,0.5,2.2,Total Bases,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1419,1419,Brett Harris,0.5,1.741,0.5,2.0,Total Bases,OAK Athletics,TEX Rangers,0.074,0.539,0.461
+1420,1420,Corey Seager,1.5,2.25,1.5,1.606,Total Bases,OAK Athletics,TEX Rangers,0.067,0.408,0.592
+1421,1421,Darell Hernaiz,0.5,1.667,0.5,2.15,Total Bases,OAK Athletics,TEX Rangers,0.065,0.57,0.43
+1422,1422,Davis Wendzel,0.5,1.714,0.5,2.05,Total Bases,OAK Athletics,TEX Rangers,0.071,0.55,0.45
+1423,1423,Evan Carter,0.5,1.8,0.5,1.952,Total Bases,OAK Athletics,TEX Rangers,0.068,0.522,0.478
+1424,1424,J.D. Davis,0.5,1.571,0.5,2.3,Total Bases,OAK Athletics,TEX Rangers,0.071,0.604,0.396
+1425,1425,JJ Bleday,0.5,1.833,0.5,1.909,Total Bases,OAK Athletics,TEX Rangers,0.069,0.511,0.489
+1426,1426,Jonah Heim,1.5,2.2,1.5,1.625,Total Bases,OAK Athletics,TEX Rangers,0.07,0.417,0.583
+1427,1427,Josh Smith,0.5,1.625,0.5,2.2,Total Bases,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1428,1428,Leody Taveras,0.5,1.541,0.5,2.4,Total Bases,OAK Athletics,TEX Rangers,0.066,0.62,0.38
+1429,1429,Marcus Semien,1.5,1.909,1.5,1.833,Total Bases,OAK Athletics,TEX Rangers,0.069,0.489,0.511
+1430,1430,Max Schuemann,0.5,1.714,0.5,2.05,Total Bases,OAK Athletics,TEX Rangers,0.071,0.55,0.45
+1431,1431,Nathaniel Lowe,1.5,2.45,1.5,1.513,Total Bases,OAK Athletics,TEX Rangers,0.069,0.369,0.631
+1432,1432,Shea Langeliers,0.5,1.625,0.5,2.2,Total Bases,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1433,1433,Tyler Nevin,0.5,1.513,0.5,2.45,Total Bases,OAK Athletics,TEX Rangers,0.069,0.631,0.369
+1434,1434,Abraham Toro,0.5,3.45,0.5,1.278,RBIs,OAK Athletics,TEX Rangers,0.072,0.244,0.756
+1435,1435,Adolis Garcia,0.5,2.4,0.5,1.541,RBIs,OAK Athletics,TEX Rangers,0.066,0.38,0.62
+1436,1436,Brent Rooker,0.5,2.95,0.5,1.37,RBIs,OAK Athletics,TEX Rangers,0.069,0.297,0.703
+1437,1437,Brett Harris,0.5,3.9,0.5,1.235,RBIs,OAK Athletics,TEX Rangers,0.066,0.213,0.787
+1438,1438,Corey Seager,0.5,2.75,0.5,1.417,RBIs,OAK Athletics,TEX Rangers,0.07,0.323,0.677
+1439,1439,Darell Hernaiz,0.5,3.75,0.5,1.25,RBIs,OAK Athletics,TEX Rangers,0.067,0.223,0.777
+1440,1440,Davis Wendzel,0.5,3.1,0.5,1.339,RBIs,OAK Athletics,TEX Rangers,0.069,0.28,0.72
+1441,1441,Evan Carter,0.5,3.95,0.5,1.222,RBIs,OAK Athletics,TEX Rangers,0.071,0.206,0.794
+1442,1442,J.D. Davis,0.5,3.15,0.5,1.333,RBIs,OAK Athletics,TEX Rangers,0.067,0.276,0.724
+1443,1443,JJ Bleday,0.5,3.9,0.5,1.235,RBIs,OAK Athletics,TEX Rangers,0.066,0.213,0.787
+1444,1444,Jonah Heim,0.5,2.65,0.5,1.444,RBIs,OAK Athletics,TEX Rangers,0.07,0.337,0.663
+1445,1445,Josh Smith,0.5,3.25,0.5,1.312,RBIs,OAK Athletics,TEX Rangers,0.07,0.264,0.736
+1446,1446,Leody Taveras,0.5,3.2,0.5,1.323,RBIs,OAK Athletics,TEX Rangers,0.069,0.27,0.73
+1447,1447,Marcus Semien,0.5,2.7,0.5,1.435,RBIs,OAK Athletics,TEX Rangers,0.067,0.331,0.669
+1448,1448,Max Schuemann,0.5,4.4,0.5,1.19,RBIs,OAK Athletics,TEX Rangers,0.067,0.182,0.818
+1449,1449,Nathaniel Lowe,0.5,3.1,0.5,1.339,RBIs,OAK Athletics,TEX Rangers,0.069,0.28,0.72
+1450,1450,Shea Langeliers,0.5,3.1,0.5,1.339,RBIs,OAK Athletics,TEX Rangers,0.069,0.28,0.72
+1451,1451,Tyler Nevin,0.5,3.4,0.5,1.286,RBIs,OAK Athletics,TEX Rangers,0.072,0.249,0.751
+1452,1452,Abraham Toro,0.5,2.35,0.5,1.556,Runs Scored,OAK Athletics,TEX Rangers,0.068,0.388,0.612
+1453,1453,Adolis Garcia,0.5,1.952,0.5,1.8,Runs Scored,OAK Athletics,TEX Rangers,0.068,0.478,0.522
+1454,1454,Brent Rooker,0.5,2.45,0.5,1.513,Runs Scored,OAK Athletics,TEX Rangers,0.069,0.369,0.631
+1455,1455,Brett Harris,0.5,3.25,0.5,1.312,Runs Scored,OAK Athletics,TEX Rangers,0.07,0.264,0.736
+1456,1456,Corey Seager,0.5,2.1,0.5,1.69,Runs Scored,OAK Athletics,TEX Rangers,0.068,0.44,0.56
+1457,1457,Darell Hernaiz,0.5,3.15,0.5,1.333,Runs Scored,OAK Athletics,TEX Rangers,0.067,0.276,0.724
+1458,1458,Davis Wendzel,0.5,2.65,0.5,1.444,Runs Scored,OAK Athletics,TEX Rangers,0.07,0.337,0.663
+1459,1459,Evan Carter,0.5,2.7,0.5,1.426,Runs Scored,OAK Athletics,TEX Rangers,0.072,0.328,0.672
+1460,1460,J.D. Davis,0.5,2.7,0.5,1.435,Runs Scored,OAK Athletics,TEX Rangers,0.067,0.331,0.669
+1461,1461,JJ Bleday,0.5,2.9,0.5,1.385,Runs Scored,OAK Athletics,TEX Rangers,0.067,0.305,0.695
+1462,1462,Jonah Heim,0.5,2.25,0.5,1.606,Runs Scored,OAK Athletics,TEX Rangers,0.067,0.408,0.592
+1463,1463,Josh Smith,0.5,2.55,0.5,1.465,Runs Scored,OAK Athletics,TEX Rangers,0.075,0.349,0.651
+1464,1464,Leody Taveras,0.5,2.45,0.5,1.513,Runs Scored,OAK Athletics,TEX Rangers,0.069,0.369,0.631
+1465,1465,Marcus Semien,0.5,1.952,0.5,1.8,Runs Scored,OAK Athletics,TEX Rangers,0.068,0.478,0.522
+1466,1466,Max Schuemann,0.5,3.15,0.5,1.333,Runs Scored,OAK Athletics,TEX Rangers,0.067,0.276,0.724
+1467,1467,Nathaniel Lowe,0.5,2.3,0.5,1.588,Runs Scored,OAK Athletics,TEX Rangers,0.064,0.399,0.601
+1468,1468,Shea Langeliers,0.5,2.65,0.5,1.444,Runs Scored,OAK Athletics,TEX Rangers,0.07,0.337,0.663
+1469,1469,Tyler Nevin,0.5,2.4,0.5,1.526,Runs Scored,OAK Athletics,TEX Rangers,0.072,0.376,0.624
+1470,1470,Abraham Toro,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.068,0.478,0.522
+1471,1471,Adolis Garcia,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.074,0.539,0.461
+1472,1472,Brent Rooker,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.073,0.426,0.574
+1473,1473,Brett Harris,0.5,1.588,0.5,2.3,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.064,0.601,0.399
+1474,1474,Corey Seager,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.065,0.534,0.466
+1475,1475,Darell Hernaiz,1.5,2.45,1.5,1.526,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.063,0.372,0.628
+1476,1476,Davis Wendzel,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.074,0.404,0.596
+1477,1477,Evan Carter,1.5,2.4,1.5,1.526,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.072,0.376,0.624
+1478,1478,J.D. Davis,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.073,0.426,0.574
+1479,1479,JJ Bleday,0.5,1.588,0.5,2.25,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.074,0.596,0.404
+1480,1480,Jonah Heim,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.068,0.522,0.478
+1481,1481,Josh Smith,1.5,2.15,1.5,1.667,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.065,0.43,0.57
+1482,1482,Leody Taveras,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.074,0.461,0.539
+1483,1483,Marcus Semien,1.5,1.625,1.5,2.2,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.07,0.583,0.417
+1484,1484,Max Schuemann,0.5,1.571,0.5,2.3,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.071,0.604,0.396
+1485,1485,Nathaniel Lowe,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.07,0.5,0.5
+1486,1486,Shea Langeliers,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.07,0.417,0.583
+1487,1487,Tyler Nevin,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,OAK Athletics,TEX Rangers,0.071,0.45,0.55
+1488,1488,Adolis Garcia,0.5,8.5,0.5,1.05,Stolen Bases,OAK Athletics,TEX Rangers,0.07,0.062,0.938
+1489,1489,Evan Carter,0.5,8.5,0.5,1.05,Stolen Bases,OAK Athletics,TEX Rangers,0.07,0.062,0.938
+1490,1490,JJ Bleday,0.5,12.0,0.5,1.012,Stolen Bases,OAK Athletics,TEX Rangers,0.071,0.019,0.981
+1491,1491,Josh Smith,0.5,13.0,0.5,1.005,Stolen Bases,OAK Athletics,TEX Rangers,0.072,0.009,0.991
+1492,1492,Leody Taveras,0.5,7.5,0.5,1.071,Stolen Bases,OAK Athletics,TEX Rangers,0.067,0.082,0.918
+1493,1493,Marcus Semien,0.5,10.0,0.5,1.033,Stolen Bases,OAK Athletics,TEX Rangers,0.068,0.044,0.956
+1494,1494,Max Schuemann,0.5,8.5,0.5,1.05,Stolen Bases,OAK Athletics,TEX Rangers,0.07,0.062,0.938
+1495,1495,Abraham Toro,0.5,1.526,0.5,2.45,Strikeouts,OAK Athletics,TEX Rangers,0.063,0.628,0.372
+1496,1496,Adolis Garcia,1.5,2.7,1.5,1.435,Strikeouts,OAK Athletics,TEX Rangers,0.067,0.331,0.669
+1497,1497,Brent Rooker,1.5,2.1,1.5,1.69,Strikeouts,OAK Athletics,TEX Rangers,0.068,0.44,0.56
+1498,1498,Brett Harris,0.5,1.476,0.5,2.55,Strikeouts,OAK Athletics,TEX Rangers,0.07,0.648,0.352
+1499,1499,Corey Seager,0.5,1.408,0.5,2.8,Strikeouts,OAK Athletics,TEX Rangers,0.067,0.683,0.317
+1500,1500,Darell Hernaiz,0.5,1.588,0.5,2.25,Strikeouts,OAK Athletics,TEX Rangers,0.074,0.596,0.404
+1501,1501,Davis Wendzel,1.5,3.1,1.5,1.333,Strikeouts,OAK Athletics,TEX Rangers,0.073,0.278,0.722
+1502,1502,Evan Carter,0.5,1.408,0.5,2.8,Strikeouts,OAK Athletics,TEX Rangers,0.067,0.683,0.317
+1503,1503,J.D. Davis,1.5,2.7,1.5,1.435,Strikeouts,OAK Athletics,TEX Rangers,0.067,0.331,0.669
+1504,1504,JJ Bleday,1.5,2.9,1.5,1.385,Strikeouts,OAK Athletics,TEX Rangers,0.067,0.305,0.695
+1505,1505,Jonah Heim,0.5,1.69,0.5,2.1,Strikeouts,OAK Athletics,TEX Rangers,0.068,0.56,0.44
+1506,1506,Josh Smith,0.5,1.476,0.5,2.55,Strikeouts,OAK Athletics,TEX Rangers,0.07,0.648,0.352
+1507,1507,Leody Taveras,0.5,1.513,0.5,2.45,Strikeouts,OAK Athletics,TEX Rangers,0.069,0.631,0.369
+1508,1508,Marcus Semien,0.5,1.69,0.5,2.1,Strikeouts,OAK Athletics,TEX Rangers,0.068,0.56,0.44
+1509,1509,Max Schuemann,0.5,1.645,0.5,2.2,Strikeouts,OAK Athletics,TEX Rangers,0.062,0.579,0.421
+1510,1510,Nathaniel Lowe,0.5,1.364,0.5,2.95,Strikeouts,OAK Athletics,TEX Rangers,0.072,0.705,0.295
+1511,1511,Shea Langeliers,1.5,2.8,1.5,1.4,Strikeouts,OAK Athletics,TEX Rangers,0.071,0.315,0.685
+1512,1512,Tyler Nevin,0.5,1.377,0.5,2.9,Strikeouts,OAK Athletics,TEX Rangers,0.071,0.698,0.302
+1513,1513,Abraham Toro,0.5,1.952,0.5,1.769,Singles,OAK Athletics,TEX Rangers,0.077,0.472,0.528
+1514,1514,Adolis Garcia,0.5,2.25,0.5,1.606,Singles,OAK Athletics,TEX Rangers,0.067,0.408,0.592
+1515,1515,Brent Rooker,0.5,2.6,0.5,1.465,Singles,OAK Athletics,TEX Rangers,0.067,0.346,0.654
+1516,1516,Brett Harris,0.5,2.35,0.5,1.556,Singles,OAK Athletics,TEX Rangers,0.068,0.388,0.612
+1517,1517,Corey Seager,0.5,1.8,0.5,1.909,Singles,OAK Athletics,TEX Rangers,0.079,0.517,0.483
+1518,1518,Darell Hernaiz,0.5,2.2,0.5,1.645,Singles,OAK Athletics,TEX Rangers,0.062,0.421,0.579
+1519,1519,Davis Wendzel,0.5,2.65,0.5,1.455,Singles,OAK Athletics,TEX Rangers,0.065,0.34,0.66
+1520,1520,Evan Carter,0.5,2.3,0.5,1.571,Singles,OAK Athletics,TEX Rangers,0.071,0.396,0.604
+1521,1521,J.D. Davis,0.5,2.2,0.5,1.625,Singles,OAK Athletics,TEX Rangers,0.07,0.417,0.583
+1522,1522,JJ Bleday,0.5,2.6,0.5,1.465,Singles,OAK Athletics,TEX Rangers,0.067,0.346,0.654
+1523,1523,Jonah Heim,0.5,1.909,0.5,1.833,Singles,OAK Athletics,TEX Rangers,0.069,0.489,0.511
+1524,1524,Josh Smith,0.5,2.1,0.5,1.69,Singles,OAK Athletics,TEX Rangers,0.068,0.44,0.56
+1525,1525,Leody Taveras,0.5,1.952,0.5,1.8,Singles,OAK Athletics,TEX Rangers,0.068,0.478,0.522
+1526,1526,Marcus Semien,0.5,1.8,0.5,1.952,Singles,OAK Athletics,TEX Rangers,0.068,0.522,0.478
+1527,1527,Max Schuemann,0.5,2.3,0.5,1.571,Singles,OAK Athletics,TEX Rangers,0.071,0.396,0.604
+1528,1528,Nathaniel Lowe,0.5,1.741,0.5,2.0,Singles,OAK Athletics,TEX Rangers,0.074,0.539,0.461
+1529,1529,Shea Langeliers,0.5,2.55,0.5,1.476,Singles,OAK Athletics,TEX Rangers,0.07,0.352,0.648
+1530,1530,Tyler Nevin,0.5,2.05,0.5,1.714,Singles,OAK Athletics,TEX Rangers,0.071,0.45,0.55
+1531,1531,Abraham Toro,0.5,4.4,0.5,1.19,Doubles,OAK Athletics,TEX Rangers,0.067,0.182,0.818
+1532,1532,Adolis Garcia,0.5,4.3,0.5,1.19,Doubles,OAK Athletics,TEX Rangers,0.073,0.183,0.817
+1533,1533,Brent Rooker,0.5,4.9,0.5,1.154,Doubles,OAK Athletics,TEX Rangers,0.071,0.155,0.845
+1534,1534,Brett Harris,0.5,5.5,0.5,1.125,Doubles,OAK Athletics,TEX Rangers,0.071,0.131,0.869
+1535,1535,Corey Seager,0.5,4.5,0.5,1.182,Doubles,OAK Athletics,TEX Rangers,0.068,0.176,0.824
+1536,1536,Darell Hernaiz,0.5,5.75,0.5,1.111,Doubles,OAK Athletics,TEX Rangers,0.074,0.12,0.88
+1537,1537,Davis Wendzel,0.5,5.0,0.5,1.154,Doubles,OAK Athletics,TEX Rangers,0.067,0.153,0.847
+1538,1538,Evan Carter,0.5,6.0,0.5,1.111,Doubles,OAK Athletics,TEX Rangers,0.067,0.118,0.882
+1539,1539,J.D. Davis,0.5,5.0,0.5,1.143,Doubles,OAK Athletics,TEX Rangers,0.075,0.147,0.853
+1540,1540,JJ Bleday,0.5,5.75,0.5,1.111,Doubles,OAK Athletics,TEX Rangers,0.074,0.12,0.88
+1541,1541,Jonah Heim,0.5,4.0,0.5,1.222,Doubles,OAK Athletics,TEX Rangers,0.068,0.205,0.795
+1542,1542,Josh Smith,0.5,5.5,0.5,1.133,Doubles,OAK Athletics,TEX Rangers,0.064,0.136,0.864
+1543,1543,Leody Taveras,0.5,5.0,0.5,1.154,Doubles,OAK Athletics,TEX Rangers,0.067,0.153,0.847
+1544,1544,Marcus Semien,0.5,3.3,0.5,1.303,Doubles,OAK Athletics,TEX Rangers,0.07,0.259,0.741
+1545,1545,Max Schuemann,0.5,5.5,0.5,1.125,Doubles,OAK Athletics,TEX Rangers,0.071,0.131,0.869
+1546,1546,Nathaniel Lowe,0.5,5.0,0.5,1.154,Doubles,OAK Athletics,TEX Rangers,0.067,0.153,0.847
+1547,1547,Shea Langeliers,0.5,4.6,0.5,1.174,Doubles,OAK Athletics,TEX Rangers,0.069,0.17,0.83
+1548,1548,Tyler Nevin,0.5,4.6,0.5,1.174,Doubles,OAK Athletics,TEX Rangers,0.069,0.17,0.83
+1549,1549,Abraham Toro,0.5,3.35,0.5,1.303,Walks,OAK Athletics,TEX Rangers,0.066,0.257,0.743
+1550,1550,Adolis Garcia,0.5,2.4,0.5,1.526,Walks,OAK Athletics,TEX Rangers,0.072,0.376,0.624
+1551,1551,Brent Rooker,0.5,2.8,0.5,1.4,Walks,OAK Athletics,TEX Rangers,0.071,0.315,0.685
+1552,1552,Brett Harris,0.5,4.4,0.5,1.19,Walks,OAK Athletics,TEX Rangers,0.067,0.182,0.818
+1553,1553,Corey Seager,0.5,2.85,0.5,1.392,Walks,OAK Athletics,TEX Rangers,0.069,0.31,0.69
+1554,1554,Darell Hernaiz,0.5,4.5,0.5,1.182,Walks,OAK Athletics,TEX Rangers,0.068,0.176,0.824
+1555,1555,Davis Wendzel,0.5,3.1,0.5,1.333,Walks,OAK Athletics,TEX Rangers,0.073,0.278,0.722
+1556,1556,Evan Carter,0.5,2.7,0.5,1.426,Walks,OAK Athletics,TEX Rangers,0.072,0.328,0.672
+1557,1557,J.D. Davis,0.5,3.3,0.5,1.303,Walks,OAK Athletics,TEX Rangers,0.07,0.259,0.741
+1558,1558,JJ Bleday,0.5,2.55,0.5,1.476,Walks,OAK Athletics,TEX Rangers,0.07,0.352,0.648
+1559,1559,Jonah Heim,0.5,2.95,0.5,1.377,Walks,OAK Athletics,TEX Rangers,0.065,0.3,0.7
+1560,1560,Josh Smith,0.5,2.75,0.5,1.417,Walks,OAK Athletics,TEX Rangers,0.07,0.323,0.677
+1561,1561,Leody Taveras,0.5,3.25,0.5,1.312,Walks,OAK Athletics,TEX Rangers,0.07,0.264,0.736
+1562,1562,Marcus Semien,0.5,2.7,0.5,1.426,Walks,OAK Athletics,TEX Rangers,0.072,0.328,0.672
+1563,1563,Max Schuemann,0.5,4.3,0.5,1.2,Walks,OAK Athletics,TEX Rangers,0.066,0.188,0.812
+1564,1564,Nathaniel Lowe,0.5,2.25,0.5,1.606,Walks,OAK Athletics,TEX Rangers,0.067,0.408,0.592
+1565,1565,Shea Langeliers,0.5,3.85,0.5,1.235,Walks,OAK Athletics,TEX Rangers,0.069,0.214,0.786
+1566,1566,Tyler Nevin,0.5,3.1,0.5,1.339,Walks,OAK Athletics,TEX Rangers,0.069,0.28,0.72
+1567,1567,Andy Pages,0.5,6.5,0.5,1.1,Home Runs,LA Dodgers,MIA Marlins,0.063,0.107,0.893
+1568,1568,Bryan De La Cruz,0.5,5.25,0.5,1.143,Home Runs,LA Dodgers,MIA Marlins,0.065,0.144,0.856
+1569,1569,Emmanuel Rivera,0.5,8.5,0.5,1.056,Home Runs,LA Dodgers,MIA Marlins,0.065,0.066,0.934
+1570,1570,Freddie Freeman,0.5,5.25,0.5,1.133,Home Runs,LA Dodgers,MIA Marlins,0.073,0.139,0.861
+1571,1571,Jazz Chisholm,0.5,5.25,0.5,1.133,Home Runs,LA Dodgers,MIA Marlins,0.073,0.139,0.861
+1572,1572,Jesus Sanchez,0.5,7.5,0.5,1.071,Home Runs,LA Dodgers,MIA Marlins,0.067,0.082,0.918
+1573,1573,Josh Bell,0.5,6.5,0.5,1.1,Home Runs,LA Dodgers,MIA Marlins,0.063,0.107,0.893
+1574,1574,Kike Hernandez,0.5,8.5,0.5,1.05,Home Runs,LA Dodgers,MIA Marlins,0.07,0.062,0.938
+1575,1575,Max Muncy,0.5,3.95,0.5,1.222,Home Runs,LA Dodgers,MIA Marlins,0.071,0.206,0.794
+1576,1576,Miguel Rojas,0.5,12.0,0.5,1.012,Home Runs,LA Dodgers,MIA Marlins,0.071,0.019,0.981
+1577,1577,Mookie Betts,0.5,5.0,0.5,1.154,Home Runs,LA Dodgers,MIA Marlins,0.067,0.153,0.847
+1578,1578,Nick Fortes,0.5,9.5,0.5,1.033,Home Runs,LA Dodgers,MIA Marlins,0.073,0.044,0.956
+1579,1579,Nick Gordon,0.5,8.0,0.5,1.062,Home Runs,LA Dodgers,MIA Marlins,0.066,0.073,0.927
+1580,1580,Shohei Ohtani,0.5,3.1,0.5,1.333,Home Runs,LA Dodgers,MIA Marlins,0.073,0.278,0.722
+1581,1581,Teoscar Hernandez,0.5,5.25,0.5,1.143,Home Runs,LA Dodgers,MIA Marlins,0.065,0.144,0.856
+1582,1582,Tim Anderson,0.5,11.0,0.5,1.025,Home Runs,LA Dodgers,MIA Marlins,0.067,0.034,0.966
+1583,1583,Vidal Brujan,0.5,11.0,0.5,1.025,Home Runs,LA Dodgers,MIA Marlins,0.067,0.034,0.966
+1584,1584,Will Smith (LAD),0.5,6.5,0.5,1.091,Home Runs,LA Dodgers,MIA Marlins,0.071,0.101,0.899
+1585,1585,Andy Pages,0.5,1.667,0.5,2.15,Hits,LA Dodgers,MIA Marlins,0.065,0.57,0.43
+1586,1586,Bryan De La Cruz,0.5,1.476,0.5,2.55,Hits,LA Dodgers,MIA Marlins,0.07,0.648,0.352
+1587,1587,Emmanuel Rivera,0.5,1.625,0.5,2.2,Hits,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1588,1588,Freddie Freeman,1.5,3.05,1.5,1.351,Hits,LA Dodgers,MIA Marlins,0.068,0.286,0.714
+1589,1589,Jazz Chisholm,0.5,1.5,0.5,2.5,Hits,LA Dodgers,MIA Marlins,0.067,0.638,0.362
+1590,1590,Jesus Sanchez,0.5,1.5,0.5,2.45,Hits,LA Dodgers,MIA Marlins,0.075,0.634,0.366
+1591,1591,Josh Bell,0.5,1.526,0.5,2.4,Hits,LA Dodgers,MIA Marlins,0.072,0.624,0.376
+1592,1592,Kike Hernandez,0.5,1.625,0.5,2.2,Hits,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1593,1593,Max Muncy,0.5,1.625,0.5,2.2,Hits,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1594,1594,Miguel Rojas,0.5,1.625,0.5,2.2,Hits,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1595,1595,Mookie Betts,0.5,1.357,0.5,3.0,Hits,LA Dodgers,MIA Marlins,0.07,0.709,0.291
+1596,1596,Nick Fortes,0.5,1.833,0.5,1.909,Hits,LA Dodgers,MIA Marlins,0.069,0.511,0.489
+1597,1597,Nick Gordon,0.5,1.588,0.5,2.25,Hits,LA Dodgers,MIA Marlins,0.074,0.596,0.404
+1598,1598,Shohei Ohtani,1.5,2.85,1.5,1.392,Hits,LA Dodgers,MIA Marlins,0.069,0.31,0.69
+1599,1599,Teoscar Hernandez,0.5,1.513,0.5,2.45,Hits,LA Dodgers,MIA Marlins,0.069,0.631,0.369
+1600,1600,Tim Anderson,0.5,1.488,0.5,2.5,Hits,LA Dodgers,MIA Marlins,0.072,0.641,0.359
+1601,1601,Vidal Brujan,0.5,1.625,0.5,2.2,Hits,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1602,1602,Will Smith (LAD),0.5,1.444,0.5,2.65,Hits,LA Dodgers,MIA Marlins,0.07,0.663,0.337
+1603,1603,Andy Pages,0.5,1.667,0.5,2.15,Total Bases,LA Dodgers,MIA Marlins,0.065,0.57,0.43
+1604,1604,Bryan De La Cruz,1.5,2.3,1.5,1.571,Total Bases,LA Dodgers,MIA Marlins,0.071,0.396,0.604
+1605,1605,Emmanuel Rivera,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1606,1606,Freddie Freeman,1.5,2.1,1.5,1.667,Total Bases,LA Dodgers,MIA Marlins,0.076,0.436,0.564
+1607,1607,Jazz Chisholm,1.5,2.45,1.5,1.513,Total Bases,LA Dodgers,MIA Marlins,0.069,0.369,0.631
+1608,1608,Jesus Sanchez,0.5,1.5,0.5,2.45,Total Bases,LA Dodgers,MIA Marlins,0.075,0.634,0.366
+1609,1609,Josh Bell,0.5,1.526,0.5,2.4,Total Bases,LA Dodgers,MIA Marlins,0.072,0.624,0.376
+1610,1610,Kike Hernandez,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1611,1611,Max Muncy,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1612,1612,Miguel Rojas,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1613,1613,Mookie Betts,1.5,2.1,1.5,1.69,Total Bases,LA Dodgers,MIA Marlins,0.068,0.44,0.56
+1614,1614,Nick Fortes,0.5,1.833,0.5,1.909,Total Bases,LA Dodgers,MIA Marlins,0.069,0.511,0.489
+1615,1615,Nick Gordon,0.5,1.588,0.5,2.25,Total Bases,LA Dodgers,MIA Marlins,0.074,0.596,0.404
+1616,1616,Shohei Ohtani,1.5,1.769,1.5,1.952,Total Bases,LA Dodgers,MIA Marlins,0.077,0.528,0.472
+1617,1617,Teoscar Hernandez,0.5,1.513,0.5,2.45,Total Bases,LA Dodgers,MIA Marlins,0.069,0.631,0.369
+1618,1618,Tim Anderson,0.5,1.488,0.5,2.5,Total Bases,LA Dodgers,MIA Marlins,0.072,0.641,0.359
+1619,1619,Vidal Brujan,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1620,1620,Will Smith (LAD),1.5,2.4,1.5,1.541,Total Bases,LA Dodgers,MIA Marlins,0.066,0.38,0.62
+1621,1621,Andy Pages,0.5,3.15,0.5,1.333,RBIs,LA Dodgers,MIA Marlins,0.067,0.276,0.724
+1622,1622,Bryan De La Cruz,0.5,2.9,0.5,1.385,RBIs,LA Dodgers,MIA Marlins,0.067,0.305,0.695
+1623,1623,Emmanuel Rivera,0.5,3.55,0.5,1.27,RBIs,LA Dodgers,MIA Marlins,0.069,0.238,0.762
+1624,1624,Freddie Freeman,0.5,2.35,0.5,1.541,RBIs,LA Dodgers,MIA Marlins,0.075,0.384,0.616
+1625,1625,Jazz Chisholm,0.5,3.15,0.5,1.323,RBIs,LA Dodgers,MIA Marlins,0.074,0.272,0.728
+1626,1626,Jesus Sanchez,0.5,3.15,0.5,1.333,RBIs,LA Dodgers,MIA Marlins,0.067,0.276,0.724
+1627,1627,Josh Bell,0.5,3.1,0.5,1.333,RBIs,LA Dodgers,MIA Marlins,0.073,0.278,0.722
+1628,1628,Kike Hernandez,0.5,3.3,0.5,1.303,RBIs,LA Dodgers,MIA Marlins,0.07,0.259,0.741
+1629,1629,Max Muncy,0.5,2.45,0.5,1.5,RBIs,LA Dodgers,MIA Marlins,0.075,0.366,0.634
+1630,1630,Miguel Rojas,0.5,3.9,0.5,1.235,RBIs,LA Dodgers,MIA Marlins,0.066,0.213,0.787
+1631,1631,Mookie Betts,0.5,2.75,0.5,1.417,RBIs,LA Dodgers,MIA Marlins,0.07,0.323,0.677
+1632,1632,Nick Fortes,0.5,4.1,0.5,1.211,RBIs,LA Dodgers,MIA Marlins,0.07,0.197,0.803
+1633,1633,Nick Gordon,0.5,3.55,0.5,1.27,RBIs,LA Dodgers,MIA Marlins,0.069,0.238,0.762
+1634,1634,Shohei Ohtani,0.5,2.05,0.5,1.714,RBIs,LA Dodgers,MIA Marlins,0.071,0.45,0.55
+1635,1635,Teoscar Hernandez,0.5,2.6,0.5,1.455,RBIs,LA Dodgers,MIA Marlins,0.072,0.343,0.657
+1636,1636,Tim Anderson,0.5,3.55,0.5,1.27,RBIs,LA Dodgers,MIA Marlins,0.069,0.238,0.762
+1637,1637,Vidal Brujan,0.5,3.6,0.5,1.263,RBIs,LA Dodgers,MIA Marlins,0.069,0.233,0.767
+1638,1638,Will Smith (LAD),0.5,2.45,0.5,1.5,RBIs,LA Dodgers,MIA Marlins,0.075,0.366,0.634
+1639,1639,Andy Pages,0.5,2.5,0.5,1.5,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.362,0.638
+1640,1640,Bryan De La Cruz,0.5,2.25,0.5,1.606,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.408,0.592
+1641,1641,Emmanuel Rivera,0.5,3.05,0.5,1.351,Runs Scored,LA Dodgers,MIA Marlins,0.068,0.286,0.714
+1642,1642,Freddie Freeman,0.5,1.952,0.5,1.769,Runs Scored,LA Dodgers,MIA Marlins,0.077,0.472,0.528
+1643,1643,Jazz Chisholm,0.5,2.1,0.5,1.667,Runs Scored,LA Dodgers,MIA Marlins,0.076,0.436,0.564
+1644,1644,Jesus Sanchez,0.5,2.65,0.5,1.435,Runs Scored,LA Dodgers,MIA Marlins,0.074,0.334,0.666
+1645,1645,Josh Bell,0.5,2.6,0.5,1.465,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.346,0.654
+1646,1646,Kike Hernandez,0.5,2.9,0.5,1.385,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.305,0.695
+1647,1647,Max Muncy,0.5,2.0,0.5,1.769,Runs Scored,LA Dodgers,MIA Marlins,0.065,0.466,0.534
+1648,1648,Miguel Rojas,0.5,2.6,0.5,1.465,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.346,0.654
+1649,1649,Mookie Betts,0.5,1.645,0.5,2.15,Runs Scored,LA Dodgers,MIA Marlins,0.073,0.574,0.426
+1650,1650,Nick Fortes,0.5,3.15,0.5,1.323,Runs Scored,LA Dodgers,MIA Marlins,0.074,0.272,0.728
+1651,1651,Nick Gordon,0.5,3.0,0.5,1.364,Runs Scored,LA Dodgers,MIA Marlins,0.067,0.293,0.707
+1652,1652,Shohei Ohtani,0.5,1.588,0.5,2.25,Runs Scored,LA Dodgers,MIA Marlins,0.074,0.596,0.404
+1653,1653,Teoscar Hernandez,0.5,2.05,0.5,1.714,Runs Scored,LA Dodgers,MIA Marlins,0.071,0.45,0.55
+1654,1654,Tim Anderson,0.5,2.85,0.5,1.385,Runs Scored,LA Dodgers,MIA Marlins,0.073,0.307,0.693
+1655,1655,Vidal Brujan,0.5,3.0,0.5,1.357,Runs Scored,LA Dodgers,MIA Marlins,0.07,0.291,0.709
+1656,1656,Will Smith (LAD),0.5,2.2,0.5,1.645,Runs Scored,LA Dodgers,MIA Marlins,0.062,0.421,0.579
+1657,1657,Andy Pages,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.073,0.426,0.574
+1658,1658,Bryan De La Cruz,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.069,0.489,0.511
+1659,1659,Emmanuel Rivera,1.5,2.35,1.5,1.556,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.388,0.612
+1660,1660,Freddie Freeman,1.5,1.645,1.5,2.2,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.062,0.579,0.421
+1661,1661,Jazz Chisholm,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.478,0.522
+1662,1662,Jesus Sanchez,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.071,0.45,0.55
+1663,1663,Josh Bell,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.44,0.56
+1664,1664,Kike Hernandez,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.067,0.408,0.592
+1665,1665,Max Muncy,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.478,0.522
+1666,1666,Miguel Rojas,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.077,0.413,0.587
+1667,1667,Mookie Betts,1.5,1.606,1.5,2.25,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.067,0.592,0.408
+1668,1668,Nick Fortes,0.5,1.645,0.5,2.2,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.062,0.579,0.421
+1669,1669,Nick Gordon,1.5,2.3,1.5,1.588,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.064,0.399,0.601
+1670,1670,Shohei Ohtani,2.5,1.952,2.5,1.8,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.478,0.522
+1671,1671,Teoscar Hernandez,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.07,0.5,0.5
+1672,1672,Tim Anderson,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.068,0.44,0.56
+1673,1673,Vidal Brujan,1.5,2.3,1.5,1.588,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.064,0.399,0.601
+1674,1674,Will Smith (LAD),1.5,1.769,1.5,1.952,Hits + Runs + RBIs,LA Dodgers,MIA Marlins,0.077,0.528,0.472
+1675,1675,Freddie Freeman,0.5,8.0,0.5,1.056,Stolen Bases,LA Dodgers,MIA Marlins,0.072,0.068,0.932
+1676,1676,Jazz Chisholm,0.5,4.4,0.5,1.182,Stolen Bases,LA Dodgers,MIA Marlins,0.073,0.177,0.823
+1677,1677,Jesus Sanchez,0.5,12.0,0.5,1.012,Stolen Bases,LA Dodgers,MIA Marlins,0.071,0.019,0.981
+1678,1678,Miguel Rojas,0.5,12.0,0.5,1.012,Stolen Bases,LA Dodgers,MIA Marlins,0.071,0.019,0.981
+1679,1679,Mookie Betts,0.5,5.5,0.5,1.125,Stolen Bases,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1680,1680,Nick Gordon,0.5,10.5,0.5,1.025,Stolen Bases,LA Dodgers,MIA Marlins,0.071,0.035,0.965
+1681,1681,Shohei Ohtani,0.5,5.75,0.5,1.111,Stolen Bases,LA Dodgers,MIA Marlins,0.074,0.12,0.88
+1682,1682,Teoscar Hernandez,0.5,8.0,0.5,1.062,Stolen Bases,LA Dodgers,MIA Marlins,0.066,0.073,0.927
+1683,1683,Tim Anderson,0.5,7.5,0.5,1.071,Stolen Bases,LA Dodgers,MIA Marlins,0.067,0.082,0.918
+1684,1684,Vidal Brujan,0.5,5.25,0.5,1.133,Stolen Bases,LA Dodgers,MIA Marlins,0.073,0.139,0.861
+1685,1685,Andy Pages,1.5,2.95,1.5,1.37,Strikeouts,LA Dodgers,MIA Marlins,0.069,0.297,0.703
+1686,1686,Bryan De La Cruz,1.5,2.4,1.5,1.526,Strikeouts,LA Dodgers,MIA Marlins,0.072,0.376,0.624
+1687,1687,Emmanuel Rivera,0.5,1.444,0.5,2.65,Strikeouts,LA Dodgers,MIA Marlins,0.07,0.663,0.337
+1688,1688,Freddie Freeman,0.5,1.625,0.5,2.2,Strikeouts,LA Dodgers,MIA Marlins,0.07,0.583,0.417
+1689,1689,Jazz Chisholm,1.5,2.15,1.5,1.667,Strikeouts,LA Dodgers,MIA Marlins,0.065,0.43,0.57
+1690,1690,Jesus Sanchez,1.5,3.0,1.5,1.364,Strikeouts,LA Dodgers,MIA Marlins,0.067,0.293,0.707
+1691,1691,Josh Bell,0.5,1.37,0.5,2.95,Strikeouts,LA Dodgers,MIA Marlins,0.069,0.703,0.297
+1692,1692,Kike Hernandez,0.5,1.741,0.5,2.0,Strikeouts,LA Dodgers,MIA Marlins,0.074,0.539,0.461
+1693,1693,Max Muncy,0.5,1.392,0.5,2.85,Strikeouts,LA Dodgers,MIA Marlins,0.069,0.69,0.31
+1694,1694,Miguel Rojas,0.5,2.2,0.5,1.625,Strikeouts,LA Dodgers,MIA Marlins,0.07,0.417,0.583
+1695,1695,Mookie Betts,0.5,1.87,0.5,1.87,Strikeouts,LA Dodgers,MIA Marlins,0.07,0.5,0.5
+1696,1696,Nick Fortes,0.5,1.741,0.5,2.0,Strikeouts,LA Dodgers,MIA Marlins,0.074,0.539,0.461
+1697,1697,Nick Gordon,0.5,1.513,0.5,2.45,Strikeouts,LA Dodgers,MIA Marlins,0.069,0.631,0.369
+1698,1698,Shohei Ohtani,0.5,1.408,0.5,2.8,Strikeouts,LA Dodgers,MIA Marlins,0.067,0.683,0.317
+1699,1699,Teoscar Hernandez,1.5,2.3,1.5,1.571,Strikeouts,LA Dodgers,MIA Marlins,0.071,0.396,0.604
+1700,1700,Tim Anderson,1.5,2.55,1.5,1.476,Strikeouts,LA Dodgers,MIA Marlins,0.07,0.352,0.648
+1701,1701,Vidal Brujan,0.5,1.541,0.5,2.35,Strikeouts,LA Dodgers,MIA Marlins,0.075,0.616,0.384
+1702,1702,Will Smith (LAD),0.5,1.606,0.5,2.25,Strikeouts,LA Dodgers,MIA Marlins,0.067,0.592,0.408
+1703,1703,Andy Pages,0.5,2.35,0.5,1.571,Singles,LA Dodgers,MIA Marlins,0.062,0.391,0.609
+1704,1704,Bryan De La Cruz,0.5,2.0,0.5,1.769,Singles,LA Dodgers,MIA Marlins,0.065,0.466,0.534
+1705,1705,Emmanuel Rivera,0.5,2.1,0.5,1.69,Singles,LA Dodgers,MIA Marlins,0.068,0.44,0.56
+1706,1706,Freddie Freeman,0.5,1.769,0.5,2.0,Singles,LA Dodgers,MIA Marlins,0.065,0.534,0.466
+1707,1707,Jazz Chisholm,0.5,2.05,0.5,1.714,Singles,LA Dodgers,MIA Marlins,0.071,0.45,0.55
+1708,1708,Jesus Sanchez,0.5,1.909,0.5,1.833,Singles,LA Dodgers,MIA Marlins,0.069,0.489,0.511
+1709,1709,Josh Bell,0.5,2.0,0.5,1.741,Singles,LA Dodgers,MIA Marlins,0.074,0.461,0.539
+1710,1710,Kike Hernandez,0.5,2.15,0.5,1.667,Singles,LA Dodgers,MIA Marlins,0.065,0.43,0.57
+1711,1711,Max Muncy,0.5,2.7,0.5,1.426,Singles,LA Dodgers,MIA Marlins,0.072,0.328,0.672
+1712,1712,Miguel Rojas,0.5,1.952,0.5,1.8,Singles,LA Dodgers,MIA Marlins,0.068,0.478,0.522
+1713,1713,Mookie Betts,0.5,1.833,0.5,1.909,Singles,LA Dodgers,MIA Marlins,0.069,0.511,0.489
+1714,1714,Nick Fortes,0.5,2.35,0.5,1.556,Singles,LA Dodgers,MIA Marlins,0.068,0.388,0.612
+1715,1715,Nick Gordon,0.5,2.05,0.5,1.741,Singles,LA Dodgers,MIA Marlins,0.062,0.455,0.545
+1716,1716,Shohei Ohtani,0.5,2.0,0.5,1.741,Singles,LA Dodgers,MIA Marlins,0.074,0.461,0.539
+1717,1717,Teoscar Hernandez,0.5,2.1,0.5,1.667,Singles,LA Dodgers,MIA Marlins,0.076,0.436,0.564
+1718,1718,Tim Anderson,0.5,1.769,0.5,2.0,Singles,LA Dodgers,MIA Marlins,0.065,0.534,0.466
+1719,1719,Vidal Brujan,0.5,2.0,0.5,1.769,Singles,LA Dodgers,MIA Marlins,0.065,0.466,0.534
+1720,1720,Will Smith (LAD),0.5,1.87,0.5,1.87,Singles,LA Dodgers,MIA Marlins,0.07,0.5,0.5
+1721,1721,Andy Pages,0.5,5.5,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1722,1722,Bryan De La Cruz,0.5,5.0,0.5,1.143,Doubles,LA Dodgers,MIA Marlins,0.075,0.147,0.853
+1723,1723,Emmanuel Rivera,0.5,6.0,0.5,1.111,Doubles,LA Dodgers,MIA Marlins,0.067,0.118,0.882
+1724,1724,Freddie Freeman,0.5,4.5,0.5,1.182,Doubles,LA Dodgers,MIA Marlins,0.068,0.176,0.824
+1725,1725,Jazz Chisholm,0.5,5.75,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.063,0.129,0.871
+1726,1726,Jesus Sanchez,0.5,5.5,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1727,1727,Josh Bell,0.5,5.5,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1728,1728,Kike Hernandez,0.5,5.25,0.5,1.133,Doubles,LA Dodgers,MIA Marlins,0.073,0.139,0.861
+1729,1729,Max Muncy,0.5,5.5,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1730,1730,Miguel Rojas,0.5,6.5,0.5,1.1,Doubles,LA Dodgers,MIA Marlins,0.063,0.107,0.893
+1731,1731,Mookie Betts,0.5,4.5,0.5,1.182,Doubles,LA Dodgers,MIA Marlins,0.068,0.176,0.824
+1732,1732,Nick Fortes,0.5,7.0,0.5,1.083,Doubles,LA Dodgers,MIA Marlins,0.066,0.093,0.907
+1733,1733,Nick Gordon,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,MIA Marlins,0.074,0.12,0.88
+1734,1734,Shohei Ohtani,0.5,4.5,0.5,1.182,Doubles,LA Dodgers,MIA Marlins,0.068,0.176,0.824
+1735,1735,Teoscar Hernandez,0.5,5.5,0.5,1.125,Doubles,LA Dodgers,MIA Marlins,0.071,0.131,0.869
+1736,1736,Tim Anderson,0.5,6.0,0.5,1.1,Doubles,LA Dodgers,MIA Marlins,0.076,0.111,0.889
+1737,1737,Vidal Brujan,0.5,6.5,0.5,1.1,Doubles,LA Dodgers,MIA Marlins,0.063,0.107,0.893
+1738,1738,Will Smith (LAD),0.5,5.0,0.5,1.143,Doubles,LA Dodgers,MIA Marlins,0.075,0.147,0.853
+1739,1739,Andy Pages,0.5,3.6,0.5,1.263,Walks,LA Dodgers,MIA Marlins,0.069,0.233,0.767
+1740,1740,Bryan De La Cruz,0.5,3.05,0.5,1.345,Walks,LA Dodgers,MIA Marlins,0.071,0.284,0.716
+1741,1741,Emmanuel Rivera,0.5,3.65,0.5,1.256,Walks,LA Dodgers,MIA Marlins,0.07,0.229,0.771
+1742,1742,Freddie Freeman,0.5,2.25,0.5,1.606,Walks,LA Dodgers,MIA Marlins,0.067,0.408,0.592
+1743,1743,Jazz Chisholm,0.5,2.75,0.5,1.417,Walks,LA Dodgers,MIA Marlins,0.07,0.323,0.677
+1744,1744,Jesus Sanchez,0.5,3.45,0.5,1.286,Walks,LA Dodgers,MIA Marlins,0.068,0.247,0.753
+1745,1745,Josh Bell,0.5,2.75,0.5,1.408,Walks,LA Dodgers,MIA Marlins,0.074,0.32,0.68
+1746,1746,Kike Hernandez,0.5,4.0,0.5,1.211,Walks,LA Dodgers,MIA Marlins,0.076,0.199,0.801
+1747,1747,Max Muncy,0.5,1.8,0.5,1.952,Walks,LA Dodgers,MIA Marlins,0.068,0.522,0.478
+1748,1748,Miguel Rojas,0.5,4.4,0.5,1.19,Walks,LA Dodgers,MIA Marlins,0.067,0.182,0.818
+1749,1749,Mookie Betts,0.5,1.952,0.5,1.769,Walks,LA Dodgers,MIA Marlins,0.077,0.472,0.528
+1750,1750,Shohei Ohtani,0.5,1.909,0.5,1.833,Walks,LA Dodgers,MIA Marlins,0.069,0.489,0.511
+1751,1751,Teoscar Hernandez,0.5,2.85,0.5,1.392,Walks,LA Dodgers,MIA Marlins,0.069,0.31,0.69
+1752,1752,Vidal Brujan,0.5,3.8,0.5,1.25,Walks,LA Dodgers,MIA Marlins,0.063,0.222,0.778
+1753,1753,Will Smith (LAD),0.5,2.6,0.5,1.455,Walks,LA Dodgers,MIA Marlins,0.072,0.343,0.657
