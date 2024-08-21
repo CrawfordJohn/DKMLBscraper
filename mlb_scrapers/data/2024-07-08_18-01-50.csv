@@ -1,0 +1,714 @@
+players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,date,hold,over_true_prob,under_true_prob
+Akil Baddoo,0.5,9.5,0.5,1.033,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.044,0.956
+Andres Gimenez,0.5,10.0,0.5,1.029,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.039,0.961
+Angel Martinez,0.5,9.5,0.5,1.033,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.044,0.956
+Brayan Rocchio,0.5,12.0,0.5,1.012,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.019,0.981
+Colt Keith,0.5,8.5,0.5,1.05,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.07,0.062,0.938
+Daniel Schneemann,0.5,9.5,0.5,1.033,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.044,0.956
+David Fry,0.5,6.0,0.5,1.1,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.076,0.111,0.889
+Jake Rogers,0.5,8.5,0.5,1.04,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.079,0.053,0.947
+Javier Baez,0.5,10.0,0.5,1.029,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.039,0.961
+Jose Ramirez,0.5,5.25,0.5,1.133,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.139,0.861
+Josh Naylor,0.5,6.0,0.5,1.1,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.076,0.111,0.889
+Mark Canha,0.5,10.0,0.5,1.029,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.039,0.961
+Riley Greene,0.5,7.0,0.5,1.071,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.076,0.084,0.916
+Steven Kwan,0.5,12.0,0.5,1.012,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.019,0.981
+Wenceel Perez,0.5,10.0,0.5,1.029,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.039,0.961
+Zach McKinstry,0.5,9.0,0.5,1.04,Home Runs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.052,0.948
+Akil Baddoo,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Andres Gimenez,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Angel Martinez,,13.0,,1.005,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.072,0.009,0.991
+Brayan Rocchio,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Colt Keith,,13.0,,1.005,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.072,0.009,0.991
+David Fry,,9.5,,1.033,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.073,0.044,0.956
+Gio Urshela,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Jake Rogers,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Javier Baez,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Jose Ramirez,,8.0,,1.056,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.072,0.068,0.932
+Josh Naylor,,8.5,,1.04,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.079,0.053,0.947
+Mark Canha,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Riley Greene,,11.0,,1.02,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,0.071,0.029,0.971
+Steven Kwan,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Wenceel Perez,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Zach McKinstry,,,,,1st Home Run,DET Tigers,CLE Guardians,2024-07-08,,,
+Akil Baddoo,0.5,1.8,0.5,1.909,Hits,DET Tigers,CLE Guardians,2024-07-08,0.079,0.517,0.483
+Andres Gimenez,0.5,1.392,0.5,2.85,Hits,DET Tigers,CLE Guardians,2024-07-08,0.069,0.69,0.31
+Angel Martinez,0.5,1.435,0.5,2.65,Hits,DET Tigers,CLE Guardians,2024-07-08,0.074,0.666,0.334
+Brayan Rocchio,0.5,1.5,0.5,2.45,Hits,DET Tigers,CLE Guardians,2024-07-08,0.075,0.634,0.366
+Colt Keith,1.5,2.95,1.5,1.364,Hits,DET Tigers,CLE Guardians,2024-07-08,0.072,0.295,0.705
+Daniel Schneemann,0.5,1.625,0.5,2.2,Hits,DET Tigers,CLE Guardians,2024-07-08,0.07,0.583,0.417
+David Fry,0.5,1.392,0.5,2.85,Hits,DET Tigers,CLE Guardians,2024-07-08,0.069,0.69,0.31
+Gio Urshela,1.5,2.8,1.5,1.4,Hits,DET Tigers,CLE Guardians,2024-07-08,0.071,0.315,0.685
+Jake Rogers,0.5,1.769,0.5,1.952,Hits,DET Tigers,CLE Guardians,2024-07-08,0.077,0.528,0.472
+Javier Baez,0.5,1.488,0.5,2.5,Hits,DET Tigers,CLE Guardians,2024-07-08,0.072,0.641,0.359
+Jose Ramirez,1.5,2.85,1.5,1.385,Hits,DET Tigers,CLE Guardians,2024-07-08,0.073,0.307,0.693
+Josh Naylor,1.5,3.0,1.5,1.351,Hits,DET Tigers,CLE Guardians,2024-07-08,0.074,0.288,0.712
+Mark Canha,0.5,1.455,0.5,2.6,Hits,DET Tigers,CLE Guardians,2024-07-08,0.072,0.657,0.343
+Riley Greene,0.5,1.526,0.5,2.4,Hits,DET Tigers,CLE Guardians,2024-07-08,0.072,0.624,0.376
+Steven Kwan,1.5,2.45,1.5,1.513,Hits,DET Tigers,CLE Guardians,2024-07-08,0.069,0.369,0.631
+Wenceel Perez,0.5,1.417,0.5,2.75,Hits,DET Tigers,CLE Guardians,2024-07-08,0.07,0.677,0.323
+Zach McKinstry,0.5,1.571,0.5,2.25,Hits,DET Tigers,CLE Guardians,2024-07-08,0.081,0.6,0.4
+Akil Baddoo,0.5,1.571,0.5,2.3,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.604,0.396
+Andres Gimenez,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.069,0.511,0.489
+Angel Martinez,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.069,0.511,0.489
+Brayan Rocchio,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.077,0.472,0.528
+Colt Keith,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.539,0.461
+Daniel Schneemann,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.076,0.436,0.564
+David Fry,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.539,0.461
+Gio Urshela,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.55,0.45
+Jake Rogers,0.5,1.588,0.5,2.25,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.596,0.404
+Javier Baez,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.461,0.539
+Jose Ramirez,2.5,2.2,2.5,1.606,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.077,0.413,0.587
+Josh Naylor,1.5,1.645,1.5,2.1,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.084,0.569,0.431
+Mark Canha,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.079,0.483,0.517
+Riley Greene,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.079,0.483,0.517
+Steven Kwan,2.5,2.25,2.5,1.588,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.404,0.596
+Wenceel Perez,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.07,0.5,0.5
+Zach McKinstry,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.461,0.539
+Akil Baddoo,0.5,1.8,0.5,1.909,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.079,0.517,0.483
+Andres Gimenez,1.5,2.35,1.5,1.541,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.075,0.384,0.616
+Angel Martinez,1.5,2.4,1.5,1.526,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.072,0.376,0.624
+Brayan Rocchio,0.5,1.5,0.5,2.45,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.075,0.634,0.366
+Colt Keith,1.5,2.15,1.5,1.645,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.073,0.426,0.574
+Daniel Schneemann,0.5,1.625,0.5,2.2,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.07,0.583,0.417
+David Fry,1.5,2.2,1.5,1.625,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.07,0.417,0.583
+Gio Urshela,1.5,2.25,1.5,1.606,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.067,0.408,0.592
+Jake Rogers,0.5,1.769,0.5,1.952,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.077,0.528,0.472
+Javier Baez,0.5,1.488,0.5,2.5,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.072,0.641,0.359
+Jose Ramirez,1.5,1.952,1.5,1.769,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.077,0.472,0.528
+Josh Naylor,1.5,2.1,1.5,1.69,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.068,0.44,0.56
+Mark Canha,1.5,2.55,1.5,1.465,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.075,0.349,0.651
+Riley Greene,0.5,1.526,0.5,2.4,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.072,0.624,0.376
+Steven Kwan,1.5,1.952,1.5,1.769,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.077,0.472,0.528
+Wenceel Perez,1.5,2.35,1.5,1.556,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.068,0.388,0.612
+Zach McKinstry,0.5,1.513,0.5,2.4,Total Bases,DET Tigers,CLE Guardians,2024-07-08,0.078,0.627,0.373
+Akil Baddoo,0.5,3.45,0.5,1.278,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.244,0.756
+Andres Gimenez,0.5,3.05,0.5,1.345,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.284,0.716
+Angel Martinez,0.5,3.0,0.5,1.357,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.07,0.291,0.709
+Brayan Rocchio,0.5,3.25,0.5,1.312,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.07,0.264,0.736
+Colt Keith,0.5,3.2,0.5,1.323,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.069,0.27,0.73
+Daniel Schneemann,0.5,3.15,0.5,1.323,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.272,0.728
+David Fry,0.5,2.5,0.5,1.476,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.077,0.356,0.644
+Gio Urshela,0.5,2.75,0.5,1.408,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.32,0.68
+Jake Rogers,0.5,3.5,0.5,1.27,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.239,0.761
+Javier Baez,0.5,3.0,0.5,1.351,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.074,0.288,0.712
+Jose Ramirez,0.5,2.2,0.5,1.606,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.077,0.413,0.587
+Josh Naylor,0.5,2.3,0.5,1.571,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.071,0.396,0.604
+Mark Canha,0.5,3.05,0.5,1.339,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.075,0.282,0.718
+Riley Greene,0.5,2.9,0.5,1.37,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.075,0.3,0.7
+Steven Kwan,0.5,3.0,0.5,1.357,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.07,0.291,0.709
+Wenceel Perez,0.5,3.5,0.5,1.27,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.073,0.239,0.761
+Zach McKinstry,0.5,2.95,0.5,1.364,RBIs,DET Tigers,CLE Guardians,2024-07-08,0.072,0.295,0.705
+Akil Baddoo,0.5,2.75,0.5,1.408,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.074,0.32,0.68
+Andres Gimenez,0.5,2.35,0.5,1.541,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.075,0.384,0.616
+Angel Martinez,0.5,2.15,0.5,1.625,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.081,0.422,0.578
+Brayan Rocchio,0.5,2.4,0.5,1.513,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.078,0.373,0.627
+Colt Keith,0.5,2.2,0.5,1.625,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.07,0.417,0.583
+Daniel Schneemann,0.5,2.6,0.5,1.455,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.072,0.343,0.657
+David Fry,0.5,2.2,0.5,1.606,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.077,0.413,0.587
+Gio Urshela,0.5,2.6,0.5,1.444,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.077,0.34,0.66
+Jake Rogers,0.5,3.2,0.5,1.312,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.074,0.266,0.734
+Javier Baez,0.5,2.8,0.5,1.4,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.071,0.315,0.685
+Jose Ramirez,0.5,1.87,0.5,1.833,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.08,0.494,0.506
+Josh Naylor,0.5,2.1,0.5,1.667,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.076,0.436,0.564
+Mark Canha,0.5,2.35,0.5,1.541,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.075,0.384,0.616
+Riley Greene,0.5,2.2,0.5,1.606,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.077,0.413,0.587
+Steven Kwan,0.5,1.87,0.5,1.87,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.07,0.5,0.5
+Wenceel Perez,0.5,2.2,0.5,1.606,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.077,0.413,0.587
+Zach McKinstry,0.5,2.6,0.5,1.444,Runs Scored,DET Tigers,CLE Guardians,2024-07-08,0.077,0.34,0.66
+Akil Baddoo,0.5,6.0,0.5,1.1,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.076,0.111,0.889
+Andres Gimenez,0.5,4.5,0.5,1.174,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.074,0.171,0.829
+Angel Martinez,0.5,13.0,0.5,1.005,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.072,0.009,0.991
+Brayan Rocchio,0.5,8.5,0.5,1.05,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.07,0.062,0.938
+Colt Keith,0.5,9.0,0.5,1.04,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.073,0.052,0.948
+Daniel Schneemann,0.5,10.0,0.5,1.029,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.072,0.039,0.961
+David Fry,0.5,11.0,0.5,1.02,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.071,0.029,0.971
+Javier Baez,0.5,7.5,0.5,1.062,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.075,0.075,0.925
+Jose Ramirez,0.5,4.5,0.5,1.182,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.068,0.176,0.824
+Josh Naylor,0.5,12.0,0.5,1.012,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.071,0.019,0.981
+Mark Canha,0.5,10.5,0.5,1.025,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.071,0.035,0.965
+Riley Greene,0.5,12.0,0.5,1.01,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.073,0.016,0.984
+Steven Kwan,0.5,7.5,0.5,1.062,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.075,0.075,0.925
+Wenceel Perez,0.5,6.5,0.5,1.083,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.077,0.096,0.904
+Zach McKinstry,0.5,8.5,0.5,1.04,Stolen Bases,DET Tigers,CLE Guardians,2024-07-08,0.079,0.053,0.947
+Akil Baddoo,0.5,2.55,0.5,1.465,Singles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.349,0.651
+Andres Gimenez,0.5,1.714,0.5,2.05,Singles,DET Tigers,CLE Guardians,2024-07-08,0.071,0.55,0.45
+Angel Martinez,0.5,1.8,0.5,1.909,Singles,DET Tigers,CLE Guardians,2024-07-08,0.079,0.517,0.483
+Brayan Rocchio,0.5,1.833,0.5,1.87,Singles,DET Tigers,CLE Guardians,2024-07-08,0.08,0.506,0.494
+Colt Keith,0.5,1.69,0.5,2.05,Singles,DET Tigers,CLE Guardians,2024-07-08,0.08,0.554,0.446
+Daniel Schneemann,0.5,2.1,0.5,1.667,Singles,DET Tigers,CLE Guardians,2024-07-08,0.076,0.436,0.564
+David Fry,0.5,1.833,0.5,1.87,Singles,DET Tigers,CLE Guardians,2024-07-08,0.08,0.506,0.494
+Gio Urshela,0.5,1.465,0.5,2.55,Singles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.651,0.349
+Jake Rogers,0.5,2.3,0.5,1.571,Singles,DET Tigers,CLE Guardians,2024-07-08,0.071,0.396,0.604
+Javier Baez,0.5,1.87,0.5,1.87,Singles,DET Tigers,CLE Guardians,2024-07-08,0.07,0.5,0.5
+Jose Ramirez,0.5,1.833,0.5,1.87,Singles,DET Tigers,CLE Guardians,2024-07-08,0.08,0.506,0.494
+Josh Naylor,0.5,1.741,0.5,2.0,Singles,DET Tigers,CLE Guardians,2024-07-08,0.074,0.539,0.461
+Mark Canha,0.5,1.8,0.5,1.952,Singles,DET Tigers,CLE Guardians,2024-07-08,0.068,0.522,0.478
+Riley Greene,0.5,2.0,0.5,1.741,Singles,DET Tigers,CLE Guardians,2024-07-08,0.074,0.461,0.539
+Steven Kwan,0.5,1.455,0.5,2.6,Singles,DET Tigers,CLE Guardians,2024-07-08,0.072,0.657,0.343
+Wenceel Perez,0.5,1.8,0.5,1.909,Singles,DET Tigers,CLE Guardians,2024-07-08,0.079,0.517,0.483
+Zach McKinstry,0.5,2.05,0.5,1.714,Singles,DET Tigers,CLE Guardians,2024-07-08,0.071,0.45,0.55
+Akil Baddoo,0.5,6.0,0.5,1.1,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.076,0.111,0.889
+Andres Gimenez,0.5,5.0,0.5,1.143,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.147,0.853
+Angel Martinez,0.5,4.8,0.5,1.154,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.156,0.844
+Brayan Rocchio,0.5,5.25,0.5,1.133,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.073,0.139,0.861
+Colt Keith,0.5,4.3,0.5,1.19,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.073,0.183,0.817
+Daniel Schneemann,0.5,5.75,0.5,1.111,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.074,0.12,0.88
+David Fry,0.5,4.3,0.5,1.19,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.073,0.183,0.817
+Gio Urshela,0.5,4.9,0.5,1.154,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.071,0.155,0.845
+Jake Rogers,0.5,6.5,0.5,1.083,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.077,0.096,0.904
+Javier Baez,0.5,5.5,0.5,1.111,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.082,0.122,0.878
+Jose Ramirez,0.5,3.9,0.5,1.222,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.207,0.793
+Josh Naylor,0.5,4.3,0.5,1.19,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.073,0.183,0.817
+Mark Canha,0.5,5.0,0.5,1.143,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.075,0.147,0.853
+Riley Greene,0.5,5.25,0.5,1.125,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.079,0.133,0.867
+Steven Kwan,0.5,4.3,0.5,1.19,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.073,0.183,0.817
+Wenceel Perez,0.5,4.7,0.5,1.167,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.07,0.165,0.835
+Zach McKinstry,0.5,4.9,0.5,1.154,Doubles,DET Tigers,CLE Guardians,2024-07-08,0.071,0.155,0.845
+Andres Gimenez,0.5,12.0,0.5,1.01,Triples,DET Tigers,CLE Guardians,2024-07-08,0.073,0.016,0.984
+Steven Kwan,0.5,11.0,0.5,1.02,Triples,DET Tigers,CLE Guardians,2024-07-08,0.071,0.029,0.971
+Wenceel Perez,0.5,12.0,0.5,1.012,Triples,DET Tigers,CLE Guardians,2024-07-08,0.071,0.019,0.981
+Zach McKinstry,0.5,11.0,0.5,1.017,Triples,DET Tigers,CLE Guardians,2024-07-08,0.075,0.025,0.975
+Akil Baddoo,0.5,2.55,0.5,1.465,Walks,DET Tigers,CLE Guardians,2024-07-08,0.075,0.349,0.651
+Andres Gimenez,0.5,3.85,0.5,1.222,Walks,DET Tigers,CLE Guardians,2024-07-08,0.078,0.208,0.792
+Angel Martinez,0.5,2.45,0.5,1.513,Walks,DET Tigers,CLE Guardians,2024-07-08,0.069,0.369,0.631
+Brayan Rocchio,0.5,3.2,0.5,1.312,Walks,DET Tigers,CLE Guardians,2024-07-08,0.074,0.266,0.734
+Colt Keith,0.5,3.5,0.5,1.278,Walks,DET Tigers,CLE Guardians,2024-07-08,0.068,0.242,0.758
+Daniel Schneemann,0.5,2.9,0.5,1.377,Walks,DET Tigers,CLE Guardians,2024-07-08,0.071,0.302,0.698
+David Fry,0.5,3.65,0.5,1.256,Walks,DET Tigers,CLE Guardians,2024-07-08,0.07,0.229,0.771
+Gio Urshela,0.5,4.5,0.5,1.174,Walks,DET Tigers,CLE Guardians,2024-07-08,0.074,0.171,0.829
+Jake Rogers,0.5,4.4,0.5,1.182,Walks,DET Tigers,CLE Guardians,2024-07-08,0.073,0.177,0.823
+Jose Ramirez,0.5,2.55,0.5,1.465,Walks,DET Tigers,CLE Guardians,2024-07-08,0.075,0.349,0.651
+Josh Naylor,0.5,3.15,0.5,1.323,Walks,DET Tigers,CLE Guardians,2024-07-08,0.074,0.272,0.728
+Mark Canha,0.5,3.3,0.5,1.303,Walks,DET Tigers,CLE Guardians,2024-07-08,0.07,0.259,0.741
+Riley Greene,0.5,2.1,0.5,1.667,Walks,DET Tigers,CLE Guardians,2024-07-08,0.076,0.436,0.564
+Steven Kwan,0.5,2.55,0.5,1.465,Walks,DET Tigers,CLE Guardians,2024-07-08,0.075,0.349,0.651
+Wenceel Perez,0.5,2.85,0.5,1.385,Walks,DET Tigers,CLE Guardians,2024-07-08,0.073,0.307,0.693
+Zach McKinstry,0.5,3.25,0.5,1.312,Walks,DET Tigers,CLE Guardians,2024-07-08,0.07,0.264,0.736
+Aaron Schunk,0.5,6.5,0.5,1.083,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.077,0.096,0.904
+Brendan Rodgers,0.5,6.0,0.5,1.1,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Brenton Doyle,0.5,5.25,0.5,1.125,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.079,0.133,0.867
+Charlie Blackmon,0.5,8.0,0.5,1.056,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.072,0.068,0.932
+Edwin Rios,0.5,5.5,0.5,1.111,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.082,0.122,0.878
+Elias Diaz,0.5,5.25,0.5,1.125,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.079,0.133,0.867
+Elly De La Cruz,0.5,5.0,0.5,1.133,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.082,0.141,0.859
+Ezequiel Tovar,0.5,5.5,0.5,1.125,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.071,0.131,0.869
+Hunter Goodman,0.5,4.6,0.5,1.167,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.075,0.166,0.834
+Jeimer Candelario,0.5,5.0,0.5,1.133,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.082,0.141,0.859
+Jonathan India,0.5,7.0,0.5,1.071,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.076,0.084,0.916
+Michael Toglia,0.5,4.3,0.5,1.19,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.073,0.183,0.817
+Noelvi Marte,0.5,6.5,0.5,1.083,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.077,0.096,0.904
+Rece Hinds,0.5,6.0,0.5,1.091,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.083,0.104,0.896
+Ryan McMahon,0.5,6.0,0.5,1.1,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Spencer Steer,0.5,5.25,0.5,1.133,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.073,0.139,0.861
+Tyler Stephenson,0.5,6.5,0.5,1.091,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.071,0.101,0.899
+Will Benson,0.5,5.25,0.5,1.125,Home Runs,CIN Reds,COL Rockies,2024-07-08,0.079,0.133,0.867
+Aaron Schunk,,,,,1st Home Run,CIN Reds,COL Rockies,2024-07-08,,,
+Brendan Rodgers,,12.0,,1.01,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.073,0.016,0.984
+Brenton Doyle,,10.0,,1.025,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.076,0.035,0.965
+Charlie Blackmon,,,,,1st Home Run,CIN Reds,COL Rockies,2024-07-08,,,
+Edwin Rios,,12.0,,1.012,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.071,0.019,0.981
+Elias Diaz,,9.5,,1.033,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.073,0.044,0.956
+Elly De La Cruz,,9.5,,1.033,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.073,0.044,0.956
+Ezequiel Tovar,,10.0,,1.029,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.072,0.039,0.961
+Hunter Goodman,,10.5,,1.02,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.076,0.029,0.971
+Jeimer Candelario,,10.0,,1.029,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.072,0.039,0.961
+Jonathan India,,13.0,,1.005,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.072,0.009,0.991
+Michael Toglia,,9.5,,1.033,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.073,0.044,0.956
+Noelvi Marte,,,,,1st Home Run,CIN Reds,COL Rockies,2024-07-08,,,
+Rece Hinds,,,,,1st Home Run,CIN Reds,COL Rockies,2024-07-08,,,
+Ryan McMahon,,11.0,,1.012,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.079,0.02,0.98
+Spencer Steer,,11.0,,1.02,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.071,0.029,0.971
+Tyler Stephenson,,,,,1st Home Run,CIN Reds,COL Rockies,2024-07-08,,,
+Will Benson,,12.0,,1.01,1st Home Run,CIN Reds,COL Rockies,2024-07-08,0.073,0.016,0.984
+Aaron Schunk,0.5,1.833,0.5,1.909,Hits,CIN Reds,COL Rockies,2024-07-08,0.069,0.511,0.489
+Brendan Rodgers,0.5,1.444,0.5,2.6,Hits,CIN Reds,COL Rockies,2024-07-08,0.077,0.66,0.34
+Brenton Doyle,0.5,1.625,0.5,2.2,Hits,CIN Reds,COL Rockies,2024-07-08,0.07,0.583,0.417
+Charlie Blackmon,0.5,1.513,0.5,2.4,Hits,CIN Reds,COL Rockies,2024-07-08,0.078,0.627,0.373
+Edwin Rios,0.5,1.69,0.5,2.05,Hits,CIN Reds,COL Rockies,2024-07-08,0.08,0.554,0.446
+Elias Diaz,0.5,1.488,0.5,2.5,Hits,CIN Reds,COL Rockies,2024-07-08,0.072,0.641,0.359
+Elly De La Cruz,0.5,1.392,0.5,2.8,Hits,CIN Reds,COL Rockies,2024-07-08,0.075,0.688,0.312
+Ezequiel Tovar,0.5,1.526,0.5,2.35,Hits,CIN Reds,COL Rockies,2024-07-08,0.081,0.62,0.38
+Hunter Goodman,0.5,1.714,0.5,2.05,Hits,CIN Reds,COL Rockies,2024-07-08,0.071,0.55,0.45
+Jeimer Candelario,0.5,1.364,0.5,2.95,Hits,CIN Reds,COL Rockies,2024-07-08,0.072,0.705,0.295
+Jonathan India,1.5,2.9,1.5,1.377,Hits,CIN Reds,COL Rockies,2024-07-08,0.071,0.302,0.698
+Michael Toglia,0.5,1.741,0.5,2.0,Hits,CIN Reds,COL Rockies,2024-07-08,0.074,0.539,0.461
+Noelvi Marte,0.5,1.417,0.5,2.75,Hits,CIN Reds,COL Rockies,2024-07-08,0.07,0.677,0.323
+Rece Hinds,0.5,1.588,0.5,2.25,Hits,CIN Reds,COL Rockies,2024-07-08,0.074,0.596,0.404
+Ryan McMahon,0.5,1.625,0.5,2.2,Hits,CIN Reds,COL Rockies,2024-07-08,0.07,0.583,0.417
+Spencer Steer,1.5,3.0,1.5,1.357,Hits,CIN Reds,COL Rockies,2024-07-08,0.07,0.291,0.709
+Tyler Stephenson,1.5,2.95,1.5,1.364,Hits,CIN Reds,COL Rockies,2024-07-08,0.072,0.295,0.705
+Will Benson,0.5,1.8,0.5,1.952,Hits,CIN Reds,COL Rockies,2024-07-08,0.068,0.522,0.478
+Aaron Schunk,0.5,1.645,0.5,2.15,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.073,0.574,0.426
+Brendan Rodgers,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.077,0.472,0.528
+Brenton Doyle,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.076,0.436,0.564
+Charlie Blackmon,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.08,0.446,0.554
+Edwin Rios,1.5,2.15,1.5,1.625,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.081,0.422,0.578
+Elias Diaz,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.068,0.478,0.522
+Elly De La Cruz,1.5,1.625,1.5,2.15,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.081,0.578,0.422
+Ezequiel Tovar,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.08,0.446,0.554
+Hunter Goodman,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.404,0.596
+Jeimer Candelario,1.5,1.645,1.5,2.1,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.084,0.569,0.431
+Jonathan India,1.5,1.606,1.5,2.2,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.077,0.587,0.413
+Michael Toglia,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.077,0.413,0.587
+Noelvi Marte,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.08,0.506,0.494
+Rece Hinds,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.076,0.436,0.564
+Ryan McMahon,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.404,0.596
+Spencer Steer,2.5,2.25,2.5,1.588,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.404,0.596
+Tyler Stephenson,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.076,0.564,0.436
+Will Benson,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,CIN Reds,COL Rockies,2024-07-08,0.077,0.413,0.587
+Aaron Schunk,0.5,1.833,0.5,1.909,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.069,0.511,0.489
+Brendan Rodgers,1.5,2.45,1.5,1.5,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.075,0.366,0.634
+Brenton Doyle,0.5,1.625,0.5,2.2,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.07,0.583,0.417
+Charlie Blackmon,0.5,1.513,0.5,2.4,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.078,0.627,0.373
+Edwin Rios,0.5,1.69,0.5,2.05,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.08,0.554,0.446
+Elias Diaz,1.5,2.35,1.5,1.541,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.075,0.384,0.616
+Elly De La Cruz,1.5,2.0,1.5,1.741,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.074,0.461,0.539
+Ezequiel Tovar,0.5,1.526,0.5,2.35,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.081,0.62,0.38
+Hunter Goodman,0.5,1.714,0.5,2.05,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.071,0.55,0.45
+Jeimer Candelario,1.5,2.1,1.5,1.667,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.076,0.436,0.564
+Jonathan India,1.5,2.15,1.5,1.625,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.081,0.422,0.578
+Michael Toglia,0.5,1.741,0.5,2.0,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.074,0.539,0.461
+Noelvi Marte,1.5,2.4,1.5,1.513,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.078,0.373,0.627
+Rece Hinds,0.5,1.588,0.5,2.25,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.074,0.596,0.404
+Ryan McMahon,0.5,1.625,0.5,2.2,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.07,0.583,0.417
+Spencer Steer,1.5,2.1,1.5,1.667,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.076,0.436,0.564
+Tyler Stephenson,1.5,2.2,1.5,1.625,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.07,0.417,0.583
+Will Benson,0.5,1.8,0.5,1.952,Total Bases,CIN Reds,COL Rockies,2024-07-08,0.068,0.522,0.478
+Aaron Schunk,0.5,3.8,0.5,1.235,RBIs,CIN Reds,COL Rockies,2024-07-08,0.073,0.216,0.784
+Brendan Rodgers,0.5,3.15,0.5,1.323,RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.272,0.728
+Brenton Doyle,0.5,3.0,0.5,1.351,RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.288,0.712
+Charlie Blackmon,0.5,3.8,0.5,1.235,RBIs,CIN Reds,COL Rockies,2024-07-08,0.073,0.216,0.784
+Edwin Rios,0.5,2.95,0.5,1.37,RBIs,CIN Reds,COL Rockies,2024-07-08,0.069,0.297,0.703
+Elias Diaz,0.5,2.8,0.5,1.4,RBIs,CIN Reds,COL Rockies,2024-07-08,0.071,0.315,0.685
+Elly De La Cruz,0.5,2.6,0.5,1.455,RBIs,CIN Reds,COL Rockies,2024-07-08,0.072,0.343,0.657
+Ezequiel Tovar,0.5,3.2,0.5,1.323,RBIs,CIN Reds,COL Rockies,2024-07-08,0.069,0.27,0.73
+Hunter Goodman,0.5,2.95,0.5,1.364,RBIs,CIN Reds,COL Rockies,2024-07-08,0.072,0.295,0.705
+Jeimer Candelario,0.5,2.2,0.5,1.606,RBIs,CIN Reds,COL Rockies,2024-07-08,0.077,0.413,0.587
+Jonathan India,0.5,3.0,0.5,1.351,RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.288,0.712
+Michael Toglia,0.5,2.75,0.5,1.408,RBIs,CIN Reds,COL Rockies,2024-07-08,0.074,0.32,0.68
+Noelvi Marte,0.5,2.85,0.5,1.385,RBIs,CIN Reds,COL Rockies,2024-07-08,0.073,0.307,0.693
+Rece Hinds,0.5,3.05,0.5,1.345,RBIs,CIN Reds,COL Rockies,2024-07-08,0.071,0.284,0.716
+Ryan McMahon,0.5,3.55,0.5,1.27,RBIs,CIN Reds,COL Rockies,2024-07-08,0.069,0.238,0.762
+Spencer Steer,0.5,2.2,0.5,1.625,RBIs,CIN Reds,COL Rockies,2024-07-08,0.07,0.417,0.583
+Tyler Stephenson,0.5,2.5,0.5,1.488,RBIs,CIN Reds,COL Rockies,2024-07-08,0.072,0.359,0.641
+Will Benson,0.5,3.05,0.5,1.339,RBIs,CIN Reds,COL Rockies,2024-07-08,0.075,0.282,0.718
+Aaron Schunk,0.5,2.95,0.5,1.37,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.069,0.297,0.703
+Brendan Rodgers,0.5,2.4,0.5,1.526,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.072,0.376,0.624
+Brenton Doyle,0.5,2.3,0.5,1.556,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.078,0.392,0.608
+Charlie Blackmon,0.5,2.55,0.5,1.465,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.075,0.349,0.651
+Edwin Rios,0.5,2.45,0.5,1.5,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.075,0.366,0.634
+Elias Diaz,0.5,2.3,0.5,1.556,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.078,0.392,0.608
+Elly De La Cruz,0.5,1.667,0.5,2.1,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.076,0.564,0.436
+Ezequiel Tovar,0.5,2.35,0.5,1.556,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.068,0.388,0.612
+Hunter Goodman,0.5,2.5,0.5,1.488,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.072,0.359,0.641
+Jeimer Candelario,0.5,2.0,0.5,1.714,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.083,0.457,0.543
+Jonathan India,0.5,1.769,0.5,1.952,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.077,0.528,0.472
+Michael Toglia,0.5,2.45,0.5,1.513,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.069,0.369,0.631
+Noelvi Marte,0.5,2.3,0.5,1.571,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.071,0.396,0.604
+Rece Hinds,0.5,2.4,0.5,1.513,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.078,0.373,0.627
+Ryan McMahon,0.5,2.6,0.5,1.455,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.072,0.343,0.657
+Spencer Steer,0.5,1.952,0.5,1.8,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.068,0.478,0.522
+Tyler Stephenson,0.5,2.2,0.5,1.625,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.07,0.417,0.583
+Will Benson,0.5,2.3,0.5,1.571,Runs Scored,CIN Reds,COL Rockies,2024-07-08,0.071,0.396,0.604
+Aaron Schunk,0.5,9.5,0.5,1.033,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.073,0.044,0.956
+Brenton Doyle,0.5,5.25,0.5,1.133,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.073,0.139,0.861
+Charlie Blackmon,0.5,8.0,0.5,1.05,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.077,0.063,0.937
+Elly De La Cruz,0.5,2.4,0.5,1.513,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.078,0.373,0.627
+Ezequiel Tovar,0.5,8.0,0.5,1.056,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.072,0.068,0.932
+Hunter Goodman,0.5,10.5,0.5,1.025,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.071,0.035,0.965
+Jeimer Candelario,0.5,9.0,0.5,1.04,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.073,0.052,0.948
+Jonathan India,0.5,6.0,0.5,1.091,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.083,0.104,0.896
+Michael Toglia,0.5,12.0,0.5,1.01,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.073,0.016,0.984
+Noelvi Marte,0.5,4.4,0.5,1.182,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.073,0.177,0.823
+Rece Hinds,0.5,7.0,0.5,1.071,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.076,0.084,0.916
+Spencer Steer,0.5,6.5,0.5,1.083,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.077,0.096,0.904
+Will Benson,0.5,5.75,0.5,1.111,Stolen Bases,CIN Reds,COL Rockies,2024-07-08,0.074,0.12,0.88
+Aaron Schunk,0.5,2.55,0.5,1.465,Singles,CIN Reds,COL Rockies,2024-07-08,0.075,0.349,0.651
+Brendan Rodgers,0.5,1.833,0.5,1.87,Singles,CIN Reds,COL Rockies,2024-07-08,0.08,0.506,0.494
+Brenton Doyle,0.5,2.35,0.5,1.541,Singles,CIN Reds,COL Rockies,2024-07-08,0.075,0.384,0.616
+Charlie Blackmon,0.5,1.87,0.5,1.87,Singles,CIN Reds,COL Rockies,2024-07-08,0.07,0.5,0.5
+Edwin Rios,0.5,2.6,0.5,1.455,Singles,CIN Reds,COL Rockies,2024-07-08,0.072,0.343,0.657
+Elias Diaz,0.5,2.0,0.5,1.741,Singles,CIN Reds,COL Rockies,2024-07-08,0.074,0.461,0.539
+Elly De La Cruz,0.5,2.0,0.5,1.741,Singles,CIN Reds,COL Rockies,2024-07-08,0.074,0.461,0.539
+Ezequiel Tovar,0.5,2.15,0.5,1.645,Singles,CIN Reds,COL Rockies,2024-07-08,0.073,0.426,0.574
+Hunter Goodman,0.5,2.7,0.5,1.426,Singles,CIN Reds,COL Rockies,2024-07-08,0.072,0.328,0.672
+Jeimer Candelario,0.5,1.833,0.5,1.909,Singles,CIN Reds,COL Rockies,2024-07-08,0.069,0.511,0.489
+Jonathan India,0.5,1.645,0.5,2.15,Singles,CIN Reds,COL Rockies,2024-07-08,0.073,0.574,0.426
+Michael Toglia,0.5,3.0,0.5,1.357,Singles,CIN Reds,COL Rockies,2024-07-08,0.07,0.291,0.709
+Noelvi Marte,0.5,1.769,0.5,1.952,Singles,CIN Reds,COL Rockies,2024-07-08,0.077,0.528,0.472
+Rece Hinds,0.5,2.15,0.5,1.645,Singles,CIN Reds,COL Rockies,2024-07-08,0.073,0.426,0.574
+Ryan McMahon,0.5,2.2,0.5,1.606,Singles,CIN Reds,COL Rockies,2024-07-08,0.077,0.413,0.587
+Spencer Steer,0.5,1.769,0.5,1.952,Singles,CIN Reds,COL Rockies,2024-07-08,0.077,0.528,0.472
+Tyler Stephenson,0.5,1.606,0.5,2.2,Singles,CIN Reds,COL Rockies,2024-07-08,0.077,0.587,0.413
+Will Benson,0.5,2.95,0.5,1.364,Singles,CIN Reds,COL Rockies,2024-07-08,0.072,0.295,0.705
+Aaron Schunk,0.5,6.5,0.5,1.091,Doubles,CIN Reds,COL Rockies,2024-07-08,0.071,0.101,0.899
+Brendan Rodgers,0.5,5.5,0.5,1.125,Doubles,CIN Reds,COL Rockies,2024-07-08,0.071,0.131,0.869
+Brenton Doyle,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Charlie Blackmon,0.5,5.5,0.5,1.125,Doubles,CIN Reds,COL Rockies,2024-07-08,0.071,0.131,0.869
+Edwin Rios,0.5,5.25,0.5,1.125,Doubles,CIN Reds,COL Rockies,2024-07-08,0.079,0.133,0.867
+Elias Diaz,0.5,5.0,0.5,1.143,Doubles,CIN Reds,COL Rockies,2024-07-08,0.075,0.147,0.853
+Elly De La Cruz,0.5,4.3,0.5,1.19,Doubles,CIN Reds,COL Rockies,2024-07-08,0.073,0.183,0.817
+Ezequiel Tovar,0.5,5.25,0.5,1.133,Doubles,CIN Reds,COL Rockies,2024-07-08,0.073,0.139,0.861
+Hunter Goodman,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Jeimer Candelario,0.5,4.3,0.5,1.19,Doubles,CIN Reds,COL Rockies,2024-07-08,0.073,0.183,0.817
+Jonathan India,0.5,4.7,0.5,1.167,Doubles,CIN Reds,COL Rockies,2024-07-08,0.07,0.165,0.835
+Michael Toglia,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Noelvi Marte,0.5,5.25,0.5,1.125,Doubles,CIN Reds,COL Rockies,2024-07-08,0.079,0.133,0.867
+Rece Hinds,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Ryan McMahon,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Spencer Steer,0.5,4.6,0.5,1.174,Doubles,CIN Reds,COL Rockies,2024-07-08,0.069,0.17,0.83
+Tyler Stephenson,0.5,5.0,0.5,1.143,Doubles,CIN Reds,COL Rockies,2024-07-08,0.075,0.147,0.853
+Will Benson,0.5,6.0,0.5,1.1,Doubles,CIN Reds,COL Rockies,2024-07-08,0.076,0.111,0.889
+Elly De La Cruz,0.5,13.0,0.5,1.005,Triples,CIN Reds,COL Rockies,2024-07-08,0.072,0.009,0.991
+Aaron Schunk,0.5,3.5,0.5,1.27,Walks,CIN Reds,COL Rockies,2024-07-08,0.073,0.239,0.761
+Brendan Rodgers,0.5,2.65,0.5,1.435,Walks,CIN Reds,COL Rockies,2024-07-08,0.074,0.334,0.666
+Brenton Doyle,0.5,3.25,0.5,1.312,Walks,CIN Reds,COL Rockies,2024-07-08,0.07,0.264,0.736
+Charlie Blackmon,0.5,3.15,0.5,1.323,Walks,CIN Reds,COL Rockies,2024-07-08,0.074,0.272,0.728
+Edwin Rios,0.5,2.85,0.5,1.392,Walks,CIN Reds,COL Rockies,2024-07-08,0.069,0.31,0.69
+Elias Diaz,0.5,3.15,0.5,1.323,Walks,CIN Reds,COL Rockies,2024-07-08,0.074,0.272,0.728
+Elly De La Cruz,0.5,2.4,0.5,1.526,Walks,CIN Reds,COL Rockies,2024-07-08,0.072,0.376,0.624
+Ezequiel Tovar,0.5,3.55,0.5,1.263,Walks,CIN Reds,COL Rockies,2024-07-08,0.073,0.235,0.765
+Hunter Goodman,0.5,3.45,0.5,1.278,Walks,CIN Reds,COL Rockies,2024-07-08,0.072,0.244,0.756
+Jeimer Candelario,0.5,3.2,0.5,1.312,Walks,CIN Reds,COL Rockies,2024-07-08,0.074,0.266,0.734
+Jonathan India,0.5,2.4,0.5,1.513,Walks,CIN Reds,COL Rockies,2024-07-08,0.078,0.373,0.627
+Michael Toglia,0.5,2.75,0.5,1.4,Walks,CIN Reds,COL Rockies,2024-07-08,0.078,0.317,0.683
+Noelvi Marte,0.5,3.75,0.5,1.235,Walks,CIN Reds,COL Rockies,2024-07-08,0.076,0.217,0.783
+Rece Hinds,0.5,3.65,0.5,1.256,Walks,CIN Reds,COL Rockies,2024-07-08,0.07,0.229,0.771
+Ryan McMahon,0.5,2.8,0.5,1.4,Walks,CIN Reds,COL Rockies,2024-07-08,0.071,0.315,0.685
+Spencer Steer,0.5,2.9,0.5,1.377,Walks,CIN Reds,COL Rockies,2024-07-08,0.071,0.302,0.698
+Tyler Stephenson,0.5,2.85,0.5,1.377,Walks,CIN Reds,COL Rockies,2024-07-08,0.077,0.305,0.695
+Will Benson,0.5,3.05,0.5,1.345,Walks,CIN Reds,COL Rockies,2024-07-08,0.071,0.284,0.716
+Andrew Benintendi,0.5,8.0,0.5,1.056,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.072,0.068,0.932
+Andrew Vaughn,0.5,5.25,0.5,1.133,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.139,0.861
+Brooks Lee,0.5,6.5,0.5,1.083,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.077,0.096,0.904
+Byron Buxton,0.5,3.15,0.5,1.323,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.074,0.272,0.728
+Carlos Correa,0.5,4.1,0.5,1.211,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.197,0.803
+Corey Julks,0.5,7.0,0.5,1.071,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.084,0.916
+Eloy Jimenez,0.5,5.0,0.5,1.143,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.075,0.147,0.853
+Gavin Sheets,0.5,7.0,0.5,1.071,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.084,0.916
+Jose Miranda,0.5,4.1,0.5,1.211,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.197,0.803
+Lenyn Sosa,0.5,6.5,0.5,1.091,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.101,0.899
+Martin Maldonado,0.5,7.5,0.5,1.062,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.075,0.075,0.925
+Matt Wallner,0.5,4.2,0.5,1.19,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.078,0.185,0.815
+Max Kepler,0.5,4.3,0.5,1.19,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.183,0.817
+Paul DeJong,0.5,5.25,0.5,1.133,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.139,0.861
+Ryan Jeffers,0.5,4.4,0.5,1.182,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.177,0.823
+Trevor Larnach,0.5,5.0,0.5,1.143,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.075,0.147,0.853
+Willi Castro,0.5,5.5,0.5,1.125,Home Runs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.131,0.869
+Andrew Benintendi,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Andrew Vaughn,,11.0,,1.017,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.075,0.025,0.975
+Brooks Lee,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Byron Buxton,,7.5,,1.062,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.075,0.075,0.925
+Carlos Correa,,7.5,,1.062,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.075,0.075,0.925
+Corey Julks,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Eloy Jimenez,,12.0,,1.012,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.071,0.019,0.981
+Gavin Sheets,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Jose Miranda,,8.5,,1.04,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.079,0.053,0.947
+Lenyn Sosa,,13.0,,1.005,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.072,0.009,0.991
+Martin Maldonado,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Matt Wallner,,10.5,,1.02,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.076,0.029,0.971
+Max Kepler,,9.5,,1.033,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.073,0.044,0.956
+Nicky Lopez,,,,,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,,,
+Paul DeJong,,12.0,,1.005,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.078,0.009,0.991
+Ryan Jeffers,,11.0,,1.02,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.071,0.029,0.971
+Trevor Larnach,,10.0,,1.029,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.072,0.039,0.961
+Willi Castro,,11.0,,1.02,1st Home Run,CHI White Sox,MIN Twins,2024-07-08,0.071,0.029,0.971
+Andrew Benintendi,0.5,1.426,0.5,2.7,Hits,CHI White Sox,MIN Twins,2024-07-08,0.072,0.672,0.328
+Andrew Vaughn,0.5,1.357,0.5,3.0,Hits,CHI White Sox,MIN Twins,2024-07-08,0.07,0.709,0.291
+Brooks Lee,0.5,1.5,0.5,2.45,Hits,CHI White Sox,MIN Twins,2024-07-08,0.075,0.634,0.366
+Byron Buxton,0.5,1.364,0.5,2.95,Hits,CHI White Sox,MIN Twins,2024-07-08,0.072,0.705,0.295
+Carlos Correa,1.5,2.45,1.5,1.5,Hits,CHI White Sox,MIN Twins,2024-07-08,0.075,0.366,0.634
+Corey Julks,0.5,1.571,0.5,2.25,Hits,CHI White Sox,MIN Twins,2024-07-08,0.081,0.6,0.4
+Eloy Jimenez,0.5,1.392,0.5,2.8,Hits,CHI White Sox,MIN Twins,2024-07-08,0.075,0.688,0.312
+Gavin Sheets,0.5,1.571,0.5,2.3,Hits,CHI White Sox,MIN Twins,2024-07-08,0.071,0.604,0.396
+Jose Miranda,1.5,2.7,1.5,1.426,Hits,CHI White Sox,MIN Twins,2024-07-08,0.072,0.328,0.672
+Lenyn Sosa,0.5,1.385,0.5,2.85,Hits,CHI White Sox,MIN Twins,2024-07-08,0.073,0.693,0.307
+Martin Maldonado,0.5,2.15,0.5,1.625,Hits,CHI White Sox,MIN Twins,2024-07-08,0.081,0.422,0.578
+Matt Wallner,0.5,1.87,0.5,1.833,Hits,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Max Kepler,0.5,1.385,0.5,2.85,Hits,CHI White Sox,MIN Twins,2024-07-08,0.073,0.693,0.307
+Nicky Lopez,0.5,1.606,0.5,2.2,Hits,CHI White Sox,MIN Twins,2024-07-08,0.077,0.587,0.413
+Paul DeJong,0.5,1.606,0.5,2.2,Hits,CHI White Sox,MIN Twins,2024-07-08,0.077,0.587,0.413
+Ryan Jeffers,0.5,1.488,0.5,2.5,Hits,CHI White Sox,MIN Twins,2024-07-08,0.072,0.641,0.359
+Trevor Larnach,0.5,1.513,0.5,2.4,Hits,CHI White Sox,MIN Twins,2024-07-08,0.078,0.627,0.373
+Willi Castro,0.5,1.4,0.5,2.8,Hits,CHI White Sox,MIN Twins,2024-07-08,0.071,0.685,0.315
+Andrew Benintendi,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.068,0.478,0.522
+Andrew Vaughn,1.5,1.8,1.5,1.909,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.079,0.517,0.483
+Brooks Lee,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.079,0.483,0.517
+Byron Buxton,2.5,2.1,2.5,1.667,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.436,0.564
+Carlos Correa,2.5,2.05,2.5,1.714,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.45,0.55
+Corey Julks,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.417,0.583
+Eloy Jimenez,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.08,0.506,0.494
+Gavin Sheets,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.08,0.446,0.554
+Jose Miranda,2.5,2.1,2.5,1.667,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.436,0.564
+Lenyn Sosa,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.069,0.511,0.489
+Martin Maldonado,0.5,1.87,0.5,1.833,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Matt Wallner,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.396,0.604
+Max Kepler,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.564,0.436
+Nicky Lopez,1.5,2.4,1.5,1.526,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.072,0.376,0.624
+Paul DeJong,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.417,0.583
+Ryan Jeffers,1.5,1.8,1.5,1.909,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.079,0.517,0.483
+Trevor Larnach,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.069,0.489,0.511
+Willi Castro,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.564,0.436
+Andrew Benintendi,1.5,2.35,1.5,1.541,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.075,0.384,0.616
+Andrew Vaughn,1.5,2.1,1.5,1.667,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.076,0.436,0.564
+Brooks Lee,1.5,2.45,1.5,1.513,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.069,0.369,0.631
+Byron Buxton,1.5,1.8,1.5,1.909,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.079,0.517,0.483
+Carlos Correa,1.5,1.769,1.5,1.952,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.077,0.528,0.472
+Corey Julks,0.5,1.571,0.5,2.25,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.081,0.6,0.4
+Eloy Jimenez,1.5,2.25,1.5,1.588,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.074,0.404,0.596
+Gavin Sheets,0.5,1.571,0.5,2.3,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.071,0.604,0.396
+Jose Miranda,1.5,1.87,1.5,1.833,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Lenyn Sosa,1.5,2.2,1.5,1.625,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.07,0.417,0.583
+Martin Maldonado,0.5,2.15,0.5,1.625,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.081,0.422,0.578
+Matt Wallner,0.5,1.87,0.5,1.833,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Max Kepler,1.5,2.0,1.5,1.741,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.074,0.461,0.539
+Nicky Lopez,0.5,1.606,0.5,2.2,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.077,0.587,0.413
+Paul DeJong,0.5,1.606,0.5,2.2,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.077,0.587,0.413
+Ryan Jeffers,1.5,2.2,1.5,1.606,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.077,0.413,0.587
+Trevor Larnach,1.5,2.3,1.5,1.556,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.078,0.392,0.608
+Willi Castro,1.5,2.05,1.5,1.714,Total Bases,CHI White Sox,MIN Twins,2024-07-08,0.071,0.45,0.55
+Andrew Benintendi,0.5,3.75,0.5,1.235,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.076,0.217,0.783
+Andrew Vaughn,0.5,2.8,0.5,1.4,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.315,0.685
+Brooks Lee,0.5,3.0,0.5,1.357,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.291,0.709
+Byron Buxton,0.5,2.15,0.5,1.645,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.426,0.574
+Carlos Correa,0.5,2.25,0.5,1.606,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.067,0.408,0.592
+Corey Julks,0.5,3.25,0.5,1.312,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.264,0.736
+Eloy Jimenez,0.5,2.65,0.5,1.435,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.074,0.334,0.666
+Gavin Sheets,0.5,3.05,0.5,1.345,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.284,0.716
+Jose Miranda,0.5,2.15,0.5,1.645,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.073,0.426,0.574
+Lenyn Sosa,0.5,3.3,0.5,1.303,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.07,0.259,0.741
+Martin Maldonado,0.5,4.1,0.5,1.2,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.077,0.192,0.808
+Matt Wallner,0.5,2.95,0.5,1.364,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.072,0.295,0.705
+Max Kepler,0.5,2.35,0.5,1.541,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.075,0.384,0.616
+Nicky Lopez,0.5,4.5,0.5,1.174,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.074,0.171,0.829
+Paul DeJong,0.5,3.05,0.5,1.345,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.284,0.716
+Ryan Jeffers,0.5,2.5,0.5,1.476,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.077,0.356,0.644
+Trevor Larnach,0.5,2.6,0.5,1.444,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.077,0.34,0.66
+Willi Castro,0.5,2.9,0.5,1.377,RBIs,CHI White Sox,MIN Twins,2024-07-08,0.071,0.302,0.698
+Andrew Benintendi,0.5,2.35,0.5,1.541,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.075,0.384,0.616
+Andrew Vaughn,0.5,2.3,0.5,1.571,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.071,0.396,0.604
+Brooks Lee,0.5,2.25,0.5,1.588,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.074,0.404,0.596
+Byron Buxton,0.5,1.833,0.5,1.909,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.069,0.511,0.489
+Carlos Correa,0.5,1.8,0.5,1.952,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.068,0.522,0.478
+Corey Julks,0.5,2.8,0.5,1.392,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.075,0.312,0.688
+Eloy Jimenez,0.5,2.35,0.5,1.541,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.075,0.384,0.616
+Gavin Sheets,0.5,2.55,0.5,1.465,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.075,0.349,0.651
+Jose Miranda,0.5,1.87,0.5,1.833,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Lenyn Sosa,0.5,2.2,0.5,1.606,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.077,0.413,0.587
+Martin Maldonado,0.5,3.45,0.5,1.278,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.072,0.244,0.756
+Matt Wallner,0.5,2.15,0.5,1.625,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.081,0.422,0.578
+Max Kepler,0.5,1.909,0.5,1.833,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.069,0.489,0.511
+Nicky Lopez,0.5,3.3,0.5,1.303,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.07,0.259,0.741
+Paul DeJong,0.5,2.65,0.5,1.435,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.074,0.334,0.666
+Ryan Jeffers,0.5,2.0,0.5,1.741,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.074,0.461,0.539
+Trevor Larnach,0.5,2.1,0.5,1.667,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.076,0.436,0.564
+Willi Castro,0.5,1.769,0.5,1.952,Runs Scored,CHI White Sox,MIN Twins,2024-07-08,0.077,0.528,0.472
+Andrew Benintendi,0.5,12.0,0.5,1.01,Stolen Bases,CHI White Sox,MIN Twins,2024-07-08,0.073,0.016,0.984
+Byron Buxton,0.5,9.5,0.5,1.033,Stolen Bases,CHI White Sox,MIN Twins,2024-07-08,0.073,0.044,0.956
+Corey Julks,0.5,7.0,0.5,1.071,Stolen Bases,CHI White Sox,MIN Twins,2024-07-08,0.076,0.084,0.916
+Nicky Lopez,0.5,11.0,0.5,1.017,Stolen Bases,CHI White Sox,MIN Twins,2024-07-08,0.075,0.025,0.975
+Willi Castro,0.5,7.0,0.5,1.071,Stolen Bases,CHI White Sox,MIN Twins,2024-07-08,0.076,0.084,0.916
+Andrew Benintendi,0.5,1.833,0.5,1.87,Singles,CHI White Sox,MIN Twins,2024-07-08,0.08,0.506,0.494
+Andrew Vaughn,0.5,1.769,0.5,1.952,Singles,CHI White Sox,MIN Twins,2024-07-08,0.077,0.528,0.472
+Brooks Lee,0.5,2.05,0.5,1.714,Singles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.45,0.55
+Byron Buxton,0.5,2.25,0.5,1.588,Singles,CHI White Sox,MIN Twins,2024-07-08,0.074,0.404,0.596
+Carlos Correa,0.5,1.667,0.5,2.1,Singles,CHI White Sox,MIN Twins,2024-07-08,0.076,0.564,0.436
+Corey Julks,0.5,2.1,0.5,1.667,Singles,CHI White Sox,MIN Twins,2024-07-08,0.076,0.436,0.564
+Eloy Jimenez,0.5,1.833,0.5,1.87,Singles,CHI White Sox,MIN Twins,2024-07-08,0.08,0.506,0.494
+Gavin Sheets,0.5,2.15,0.5,1.625,Singles,CHI White Sox,MIN Twins,2024-07-08,0.081,0.422,0.578
+Jose Miranda,0.5,1.8,0.5,1.952,Singles,CHI White Sox,MIN Twins,2024-07-08,0.068,0.522,0.478
+Lenyn Sosa,0.5,1.8,0.5,1.909,Singles,CHI White Sox,MIN Twins,2024-07-08,0.079,0.517,0.483
+Martin Maldonado,0.5,3.15,0.5,1.323,Singles,CHI White Sox,MIN Twins,2024-07-08,0.074,0.272,0.728
+Matt Wallner,0.5,3.45,0.5,1.278,Singles,CHI White Sox,MIN Twins,2024-07-08,0.072,0.244,0.756
+Max Kepler,0.5,2.05,0.5,1.714,Singles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.45,0.55
+Nicky Lopez,0.5,1.87,0.5,1.833,Singles,CHI White Sox,MIN Twins,2024-07-08,0.08,0.494,0.506
+Paul DeJong,0.5,2.35,0.5,1.556,Singles,CHI White Sox,MIN Twins,2024-07-08,0.068,0.388,0.612
+Ryan Jeffers,0.5,2.2,0.5,1.606,Singles,CHI White Sox,MIN Twins,2024-07-08,0.077,0.413,0.587
+Trevor Larnach,0.5,2.2,0.5,1.625,Singles,CHI White Sox,MIN Twins,2024-07-08,0.07,0.417,0.583
+Willi Castro,0.5,1.952,0.5,1.769,Singles,CHI White Sox,MIN Twins,2024-07-08,0.077,0.472,0.528
+Andrew Benintendi,0.5,4.5,0.5,1.174,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.074,0.171,0.829
+Andrew Vaughn,0.5,4.3,0.5,1.19,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.073,0.183,0.817
+Brooks Lee,0.5,4.7,0.5,1.167,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.07,0.165,0.835
+Byron Buxton,0.5,4.0,0.5,1.211,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.076,0.199,0.801
+Carlos Correa,0.5,3.85,0.5,1.235,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.069,0.214,0.786
+Corey Julks,0.5,5.25,0.5,1.133,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.073,0.139,0.861
+Eloy Jimenez,0.5,5.0,0.5,1.143,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.075,0.147,0.853
+Gavin Sheets,0.5,4.8,0.5,1.154,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.075,0.156,0.844
+Jose Miranda,0.5,3.9,0.5,1.222,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.075,0.207,0.793
+Lenyn Sosa,0.5,4.2,0.5,1.2,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.19,0.81
+Martin Maldonado,0.5,8.0,0.5,1.056,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.072,0.068,0.932
+Matt Wallner,0.5,6.5,0.5,1.091,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.101,0.899
+Max Kepler,0.5,3.95,0.5,1.222,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.206,0.794
+Nicky Lopez,0.5,6.5,0.5,1.091,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.101,0.899
+Paul DeJong,0.5,5.5,0.5,1.125,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.131,0.869
+Ryan Jeffers,0.5,4.7,0.5,1.167,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.07,0.165,0.835
+Trevor Larnach,0.5,4.8,0.5,1.154,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.075,0.156,0.844
+Willi Castro,0.5,3.95,0.5,1.222,Doubles,CHI White Sox,MIN Twins,2024-07-08,0.071,0.206,0.794
+Andrew Benintendi,0.5,3.65,0.5,1.256,Walks,CHI White Sox,MIN Twins,2024-07-08,0.07,0.229,0.771
+Andrew Vaughn,0.5,3.7,0.5,1.25,Walks,CHI White Sox,MIN Twins,2024-07-08,0.07,0.225,0.775
+Brooks Lee,0.5,2.7,0.5,1.426,Walks,CHI White Sox,MIN Twins,2024-07-08,0.072,0.328,0.672
+Byron Buxton,0.5,3.4,0.5,1.286,Walks,CHI White Sox,MIN Twins,2024-07-08,0.072,0.249,0.751
+Carlos Correa,0.5,2.55,0.5,1.476,Walks,CHI White Sox,MIN Twins,2024-07-08,0.07,0.352,0.648
+Corey Julks,0.5,3.6,0.5,1.263,Walks,CHI White Sox,MIN Twins,2024-07-08,0.069,0.233,0.767
+Eloy Jimenez,0.5,3.5,0.5,1.27,Walks,CHI White Sox,MIN Twins,2024-07-08,0.073,0.239,0.761
+Gavin Sheets,0.5,3.25,0.5,1.303,Walks,CHI White Sox,MIN Twins,2024-07-08,0.075,0.261,0.739
+Jose Miranda,0.5,3.2,0.5,1.312,Walks,CHI White Sox,MIN Twins,2024-07-08,0.074,0.266,0.734
+Lenyn Sosa,0.5,4.1,0.5,1.2,Walks,CHI White Sox,MIN Twins,2024-07-08,0.077,0.192,0.808
+Martin Maldonado,0.5,4.2,0.5,1.19,Walks,CHI White Sox,MIN Twins,2024-07-08,0.078,0.185,0.815
+Matt Wallner,0.5,2.7,0.5,1.417,Walks,CHI White Sox,MIN Twins,2024-07-08,0.076,0.325,0.675
+Max Kepler,0.5,3.05,0.5,1.339,Walks,CHI White Sox,MIN Twins,2024-07-08,0.075,0.282,0.718
+Nicky Lopez,0.5,4.4,0.5,1.182,Walks,CHI White Sox,MIN Twins,2024-07-08,0.073,0.177,0.823
+Paul DeJong,0.5,4.3,0.5,1.19,Walks,CHI White Sox,MIN Twins,2024-07-08,0.073,0.183,0.817
+Ryan Jeffers,0.5,2.8,0.5,1.4,Walks,CHI White Sox,MIN Twins,2024-07-08,0.071,0.315,0.685
+Trevor Larnach,0.5,2.45,0.5,1.5,Walks,CHI White Sox,MIN Twins,2024-07-08,0.075,0.366,0.634
+Willi Castro,0.5,2.75,0.5,1.408,Walks,CHI White Sox,MIN Twins,2024-07-08,0.074,0.32,0.68
+Adam Duvall,0.5,4.7,0.5,1.154,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.079,0.157,0.843
+Alek Thomas,0.5,9.0,0.5,1.04,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.052,0.948
+Austin Riley,0.5,4.8,0.5,1.154,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.156,0.844
+Christian Walker,0.5,4.7,0.5,1.167,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.165,0.835
+Corbin Carroll,0.5,7.5,0.5,1.062,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.075,0.925
+Eugenio Suarez,0.5,6.5,0.5,1.083,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.096,0.904
+Gabriel Moreno,0.5,9.5,0.5,1.033,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.044,0.956
+Geraldo Perdomo,0.5,12.0,0.5,1.005,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.009,0.991
+Jarred Kelenic,0.5,5.0,0.5,1.143,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.147,0.853
+Joc Pederson,0.5,4.6,0.5,1.167,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.166,0.834
+Ketel Marte,0.5,6.0,0.5,1.091,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.083,0.104,0.896
+Lourdes Gurriel Jr.,0.5,6.5,0.5,1.083,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.096,0.904
+Marcell Ozuna,0.5,3.6,0.5,1.256,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.23,0.77
+Matt Olson,0.5,4.1,0.5,1.2,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.192,0.808
+Ozzie Albies,0.5,5.75,0.5,1.111,Home Runs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.12,0.88
+Alek Thomas,,,,,1st Home Run,ARI Diamondbacks,ATL Braves,2024-07-08,,,
+Gabriel Moreno,,,,,1st Home Run,ARI Diamondbacks,ATL Braves,2024-07-08,,,
+Geraldo Perdomo,,,,,1st Home Run,ARI Diamondbacks,ATL Braves,2024-07-08,,,
+Joc Pederson,,9.0,,1.04,1st Home Run,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.052,0.948
+Ketel Marte,,12.0,,1.01,1st Home Run,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.016,0.984
+Adam Duvall,0.5,1.556,0.5,2.3,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.608,0.392
+Alek Thomas,0.5,1.513,0.5,2.4,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.627,0.373
+Austin Riley,1.5,2.95,1.5,1.364,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.295,0.705
+Christian Walker,0.5,1.488,0.5,2.5,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.641,0.359
+Corbin Carroll,0.5,1.426,0.5,2.75,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.065,0.675,0.325
+Eugenio Suarez,0.5,1.69,0.5,2.05,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.554,0.446
+Gabriel Moreno,0.5,1.526,0.5,2.35,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.081,0.62,0.38
+Geraldo Perdomo,0.5,1.714,0.5,2.05,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.55,0.45
+Jarred Kelenic,0.5,1.417,0.5,2.75,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.677,0.323
+Joc Pederson,0.5,1.465,0.5,2.55,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.651,0.349
+Ketel Marte,0.5,1.426,0.5,2.7,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.672,0.328
+Lourdes Gurriel Jr.,0.5,1.455,0.5,2.6,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.657,0.343
+Marcell Ozuna,0.5,1.345,0.5,3.05,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.716,0.284
+Matt Olson,0.5,1.476,0.5,2.55,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.648,0.352
+Ozzie Albies,1.5,2.95,1.5,1.357,Hits,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.293,0.707
+Adam Duvall,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.472,0.528
+Alek Thomas,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.446,0.554
+Austin Riley,1.5,1.645,1.5,2.15,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.574,0.426
+Christian Walker,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.511,0.489
+Corbin Carroll,1.5,1.69,1.5,2.1,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.068,0.56,0.44
+Eugenio Suarez,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.067,0.408,0.592
+Gabriel Moreno,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.45,0.55
+Geraldo Perdomo,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.396,0.604
+Jarred Kelenic,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.55,0.45
+Joc Pederson,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.511,0.489
+Ketel Marte,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.539,0.461
+Lourdes Gurriel Jr.,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.5,0.5
+Marcell Ozuna,2.5,2.15,2.5,1.645,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.426,0.574
+Matt Olson,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.539,0.461
+Ozzie Albies,1.5,1.625,1.5,2.15,Hits + Runs + RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.081,0.578,0.422
+Adam Duvall,1.5,2.25,1.5,1.588,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.404,0.596
+Alek Thomas,0.5,1.513,0.5,2.4,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.627,0.373
+Austin Riley,1.5,1.952,1.5,1.769,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.472,0.528
+Christian Walker,1.5,2.3,1.5,1.571,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.396,0.604
+Corbin Carroll,1.5,2.15,1.5,1.645,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.426,0.574
+Eugenio Suarez,0.5,1.69,0.5,2.05,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.554,0.446
+Gabriel Moreno,0.5,1.526,0.5,2.35,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.081,0.62,0.38
+Geraldo Perdomo,0.5,1.714,0.5,2.05,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.55,0.45
+Jarred Kelenic,1.5,2.1,1.5,1.667,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.436,0.564
+Joc Pederson,1.5,2.2,1.5,1.606,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.413,0.587
+Ketel Marte,1.5,2.25,1.5,1.588,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.404,0.596
+Lourdes Gurriel Jr.,1.5,2.35,1.5,1.541,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.384,0.616
+Marcell Ozuna,1.5,1.909,1.5,1.833,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.489,0.511
+Matt Olson,1.5,2.1,1.5,1.667,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.436,0.564
+Ozzie Albies,1.5,1.952,1.5,1.769,Total Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.472,0.528
+Adam Duvall,0.5,2.6,0.5,1.444,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.34,0.66
+Alek Thomas,0.5,3.2,0.5,1.312,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.266,0.734
+Austin Riley,0.5,2.35,0.5,1.526,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.081,0.38,0.62
+Christian Walker,0.5,2.35,0.5,1.541,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.384,0.616
+Corbin Carroll,0.5,3.0,0.5,1.357,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.291,0.709
+Eugenio Suarez,0.5,3.15,0.5,1.323,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.272,0.728
+Gabriel Moreno,0.5,3.25,0.5,1.312,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.264,0.736
+Geraldo Perdomo,0.5,3.55,0.5,1.263,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.235,0.765
+Jarred Kelenic,0.5,2.8,0.5,1.392,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.312,0.688
+Joc Pederson,0.5,2.45,0.5,1.513,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.369,0.631
+Ketel Marte,0.5,2.7,0.5,1.426,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.328,0.672
+Lourdes Gurriel Jr.,0.5,2.6,0.5,1.455,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.343,0.657
+Marcell Ozuna,0.5,2.15,0.5,1.645,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.426,0.574
+Matt Olson,0.5,2.3,0.5,1.571,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.396,0.604
+Ozzie Albies,0.5,2.6,0.5,1.455,RBIs,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.343,0.657
+Adam Duvall,0.5,2.25,0.5,1.588,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.404,0.596
+Alek Thomas,0.5,2.65,0.5,1.435,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.334,0.666
+Austin Riley,0.5,1.909,0.5,1.833,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.489,0.511
+Christian Walker,0.5,2.1,0.5,1.667,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.436,0.564
+Corbin Carroll,0.5,1.833,0.5,1.87,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.506,0.494
+Eugenio Suarez,0.5,2.55,0.5,1.465,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.349,0.651
+Gabriel Moreno,0.5,2.4,0.5,1.513,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.373,0.627
+Geraldo Perdomo,0.5,2.65,0.5,1.444,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.337,0.663
+Jarred Kelenic,0.5,1.833,0.5,1.87,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.506,0.494
+Joc Pederson,0.5,2.05,0.5,1.69,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.446,0.554
+Ketel Marte,0.5,1.952,0.5,1.769,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.472,0.528
+Lourdes Gurriel Jr.,0.5,2.4,0.5,1.526,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.376,0.624
+Marcell Ozuna,0.5,1.833,0.5,1.87,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.506,0.494
+Matt Olson,0.5,1.87,0.5,1.87,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.5,0.5
+Ozzie Albies,0.5,1.87,0.5,1.87,Runs Scored,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.5,0.5
+Alek Thomas,0.5,8.5,0.5,1.04,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.079,0.053,0.947
+Corbin Carroll,0.5,4.1,0.5,1.211,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.197,0.803
+Gabriel Moreno,0.5,11.0,0.5,1.017,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.025,0.975
+Geraldo Perdomo,0.5,8.5,0.5,1.05,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.062,0.938
+Jarred Kelenic,0.5,7.0,0.5,1.071,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.084,0.916
+Ketel Marte,0.5,9.5,0.5,1.033,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.044,0.956
+Ozzie Albies,0.5,8.0,0.5,1.05,Stolen Bases,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.063,0.937
+Adam Duvall,0.5,2.45,0.5,1.5,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.366,0.634
+Alek Thomas,0.5,2.0,0.5,1.714,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.083,0.457,0.543
+Austin Riley,0.5,1.87,0.5,1.833,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.494,0.506
+Christian Walker,0.5,2.2,0.5,1.625,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.417,0.583
+Corbin Carroll,0.5,1.909,0.5,1.833,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.489,0.511
+Eugenio Suarez,0.5,2.45,0.5,1.5,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.366,0.634
+Gabriel Moreno,0.5,1.909,0.5,1.8,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.079,0.483,0.517
+Geraldo Perdomo,0.5,2.2,0.5,1.606,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.413,0.587
+Jarred Kelenic,0.5,1.952,0.5,1.769,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.472,0.528
+Joc Pederson,0.5,2.2,0.5,1.606,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.413,0.587
+Ketel Marte,0.5,1.909,0.5,1.8,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.079,0.483,0.517
+Lourdes Gurriel Jr.,0.5,1.952,0.5,1.8,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.068,0.478,0.522
+Marcell Ozuna,0.5,2.05,0.5,1.69,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.446,0.554
+Matt Olson,0.5,2.3,0.5,1.556,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.392,0.608
+Ozzie Albies,0.5,1.833,0.5,1.909,Singles,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.511,0.489
+Adam Duvall,0.5,4.5,0.5,1.182,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.068,0.176,0.824
+Alek Thomas,0.5,5.25,0.5,1.125,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.079,0.133,0.867
+Austin Riley,0.5,4.0,0.5,1.211,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.199,0.801
+Christian Walker,0.5,4.9,0.5,1.154,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.155,0.845
+Corbin Carroll,0.5,4.1,0.5,1.2,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.192,0.808
+Eugenio Suarez,0.5,5.5,0.5,1.125,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.131,0.869
+Gabriel Moreno,0.5,5.5,0.5,1.125,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.131,0.869
+Geraldo Perdomo,0.5,6.0,0.5,1.1,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.111,0.889
+Jarred Kelenic,0.5,4.3,0.5,1.19,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.183,0.817
+Joc Pederson,0.5,4.6,0.5,1.174,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.069,0.17,0.83
+Ketel Marte,0.5,4.4,0.5,1.182,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.177,0.823
+Lourdes Gurriel Jr.,0.5,4.7,0.5,1.167,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.165,0.835
+Marcell Ozuna,0.5,4.0,0.5,1.211,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.199,0.801
+Matt Olson,0.5,4.4,0.5,1.182,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.177,0.823
+Ozzie Albies,0.5,3.55,0.5,1.263,Doubles,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.235,0.765
+Alek Thomas,0.5,12.0,0.5,1.012,Triples,ARI Diamondbacks,ATL Braves,2024-07-08,0.071,0.019,0.981
+Corbin Carroll,0.5,12.0,0.5,1.01,Triples,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.016,0.984
+Adam Duvall,0.5,3.65,0.5,1.25,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.226,0.774
+Alek Thomas,0.5,3.75,0.5,1.235,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.076,0.217,0.783
+Austin Riley,0.5,2.55,0.5,1.465,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.349,0.651
+Christian Walker,0.5,2.35,0.5,1.541,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.384,0.616
+Corbin Carroll,0.5,2.15,0.5,1.625,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.081,0.422,0.578
+Eugenio Suarez,0.5,2.6,0.5,1.444,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.077,0.34,0.66
+Gabriel Moreno,0.5,2.45,0.5,1.5,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.075,0.366,0.634
+Geraldo Perdomo,0.5,2.85,0.5,1.385,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.073,0.307,0.693
+Jarred Kelenic,0.5,2.4,0.5,1.526,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.072,0.376,0.624
+Joc Pederson,0.5,2.4,0.5,1.513,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.078,0.373,0.627
+Ketel Marte,0.5,2.1,0.5,1.69,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.068,0.44,0.56
+Lourdes Gurriel Jr.,0.5,3.7,0.5,1.235,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.218,0.782
+Marcell Ozuna,0.5,2.25,0.5,1.588,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.074,0.404,0.596
+Matt Olson,0.5,1.833,0.5,1.87,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.08,0.506,0.494
+Ozzie Albies,0.5,2.75,0.5,1.417,Walks,ARI Diamondbacks,ATL Braves,2024-07-08,0.07,0.323,0.677

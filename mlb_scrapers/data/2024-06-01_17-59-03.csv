@@ -1,0 +1,979 @@
+players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,date,hold,over_true_prob,under_true_prob
+Alec Bohm,0.5,6.0,0.5,1.111,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.118,0.882
+Alec Burleson,0.5,8.0,0.5,1.056,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.068,0.932
+Brandon Marsh,0.5,6.5,0.5,1.091,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.101,0.899
+Bryce Harper,0.5,3.85,0.5,1.235,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.214,0.786
+Bryson Stott,0.5,7.5,0.5,1.062,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.075,0.075,0.925
+Dylan Carlson,0.5,9.0,0.5,1.04,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.052,0.948
+Edmundo Sosa,0.5,7.5,0.5,1.071,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.082,0.918
+J.T. Realmuto,0.5,4.7,0.5,1.167,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.165,0.835
+Johan Rojas,0.5,11.0,0.5,1.02,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.029,0.971
+Jose Fermin,0.5,9.0,0.5,1.04,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.052,0.948
+Kyle Schwarber,0.5,3.05,0.5,1.351,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.286,0.714
+Masyn Winn,0.5,9.5,0.5,1.04,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.051,0.949
+Mike Siani,0.5,13.0,0.5,1.01,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.016,0.984
+Nick Castellanos,0.5,5.75,0.5,1.125,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.063,0.129,0.871
+Nolan Gorman,0.5,5.75,0.5,1.125,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.063,0.129,0.871
+Paul Goldschmidt,0.5,5.5,0.5,1.125,Home Runs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.131,0.869
+Alec Bohm,,12.0,,1.017,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.024,0.976
+Alec Burleson,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Brandon Marsh,,14.0,,1.005,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.009,0.991
+Bryce Harper,,8.0,,1.056,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.068,0.932
+Bryson Stott,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Dylan Carlson,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Edmundo Sosa,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+J.T. Realmuto,,9.0,,1.04,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.052,0.948
+Johan Rojas,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Jose Fermin,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Kyle Schwarber,,5.75,,1.111,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.12,0.88
+Masyn Winn,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Mike Siani,,,,,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,,,
+Nick Castellanos,,12.0,,1.01,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.016,0.984
+Nolan Gorman,,13.0,,1.01,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.016,0.984
+Paul Goldschmidt,,9.5,,1.033,1st Home Run,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.044,0.956
+Alec Bohm,1.5,2.7,1.5,1.426,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.328,0.672
+Alec Burleson,0.5,1.476,0.5,2.55,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.648,0.352
+Brandon Marsh,0.5,1.645,0.5,2.15,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.574,0.426
+Bryce Harper,0.5,1.435,0.5,2.7,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.669,0.331
+Bryson Stott,0.5,1.465,0.5,2.6,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.654,0.346
+Dylan Carlson,0.5,1.541,0.5,2.4,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.62,0.38
+Edmundo Sosa,0.5,1.625,0.5,2.2,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+J.T. Realmuto,0.5,1.377,0.5,2.9,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.698,0.302
+Johan Rojas,0.5,1.625,0.5,2.2,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+Jose Fermin,0.5,1.444,0.5,2.65,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.663,0.337
+Kyle Schwarber,0.5,1.571,0.5,2.3,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.604,0.396
+Masyn Winn,0.5,1.408,0.5,2.8,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.683,0.317
+Mike Siani,0.5,1.952,0.5,1.8,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.478,0.522
+Nick Castellanos,0.5,1.476,0.5,2.55,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.648,0.352
+Nolan Gorman,0.5,1.769,0.5,2.0,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.534,0.466
+Paul Goldschmidt,0.5,1.426,0.5,2.75,Hits,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.675,0.325
+Alec Bohm,1.5,2.05,1.5,1.714,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.45,0.55
+Alec Burleson,0.5,1.476,0.5,2.55,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.648,0.352
+Brandon Marsh,0.5,1.645,0.5,2.15,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.574,0.426
+Bryce Harper,1.5,2.15,1.5,1.645,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.426,0.574
+Bryson Stott,1.5,2.55,1.5,1.488,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.064,0.355,0.645
+Dylan Carlson,0.5,1.541,0.5,2.4,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.62,0.38
+Edmundo Sosa,0.5,1.625,0.5,2.2,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+J.T. Realmuto,1.5,2.1,1.5,1.69,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.44,0.56
+Johan Rojas,0.5,1.625,0.5,2.2,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+Jose Fermin,1.5,2.55,1.5,1.476,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.352,0.648
+Kyle Schwarber,1.5,2.15,1.5,1.645,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.426,0.574
+Masyn Winn,1.5,2.4,1.5,1.526,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.376,0.624
+Mike Siani,0.5,1.952,0.5,1.8,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.478,0.522
+Nick Castellanos,1.5,2.4,1.5,1.526,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.376,0.624
+Nolan Gorman,0.5,1.769,0.5,2.0,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.534,0.466
+Paul Goldschmidt,1.5,2.3,1.5,1.571,Total Bases,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.396,0.604
+Alec Bohm,0.5,2.5,0.5,1.488,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.359,0.641
+Alec Burleson,0.5,3.25,0.5,1.312,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.264,0.736
+Brandon Marsh,0.5,3.2,0.5,1.323,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.27,0.73
+Bryce Harper,0.5,2.45,0.5,1.5,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.075,0.366,0.634
+Bryson Stott,0.5,2.95,0.5,1.37,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.297,0.703
+Dylan Carlson,0.5,3.35,0.5,1.294,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.254,0.746
+Edmundo Sosa,0.5,3.35,0.5,1.294,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.254,0.746
+J.T. Realmuto,0.5,2.7,0.5,1.426,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.328,0.672
+Johan Rojas,0.5,3.8,0.5,1.235,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.216,0.784
+Jose Fermin,0.5,3.25,0.5,1.312,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.264,0.736
+Kyle Schwarber,0.5,2.3,0.5,1.571,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.396,0.604
+Masyn Winn,0.5,3.5,0.5,1.278,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.242,0.758
+Mike Siani,0.5,5.0,0.5,1.154,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.153,0.847
+Nick Castellanos,0.5,2.65,0.5,1.435,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.334,0.666
+Nolan Gorman,0.5,3.15,0.5,1.323,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.272,0.728
+Paul Goldschmidt,0.5,2.75,0.5,1.426,RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.325,0.675
+Alec Bohm,0.5,2.15,0.5,1.645,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.426,0.574
+Alec Burleson,0.5,2.9,0.5,1.385,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.305,0.695
+Brandon Marsh,0.5,2.45,0.5,1.526,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.063,0.372,0.628
+Bryce Harper,0.5,1.909,0.5,1.833,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.489,0.511
+Bryson Stott,0.5,2.3,0.5,1.588,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.064,0.399,0.601
+Dylan Carlson,0.5,2.7,0.5,1.435,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.331,0.669
+Edmundo Sosa,0.5,2.9,0.5,1.385,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.305,0.695
+J.T. Realmuto,0.5,1.952,0.5,1.769,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.077,0.472,0.528
+Johan Rojas,0.5,2.65,0.5,1.444,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.337,0.663
+Jose Fermin,0.5,2.3,0.5,1.571,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.396,0.604
+Kyle Schwarber,0.5,1.69,0.5,2.1,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.56,0.44
+Masyn Winn,0.5,2.1,0.5,1.667,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.076,0.436,0.564
+Mike Siani,0.5,3.35,0.5,1.294,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.254,0.746
+Nick Castellanos,0.5,2.45,0.5,1.526,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.063,0.372,0.628
+Nolan Gorman,0.5,2.75,0.5,1.408,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.32,0.68
+Paul Goldschmidt,0.5,2.1,0.5,1.667,Runs Scored,PHI Phillies,STL Cardinals,2024-06-01,0.076,0.436,0.564
+Alec Bohm,1.5,1.625,1.5,2.2,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+Alec Burleson,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.45,0.55
+Brandon Marsh,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.417,0.583
+Bryce Harper,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.534,0.466
+Bryson Stott,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.5,0.5
+Dylan Carlson,1.5,2.15,1.5,1.667,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.43,0.57
+Edmundo Sosa,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.404,0.596
+J.T. Realmuto,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.55,0.45
+Johan Rojas,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.077,0.413,0.587
+Jose Fermin,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.5,0.5
+Kyle Schwarber,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.077,0.528,0.472
+Masyn Winn,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.5,0.5
+Mike Siani,0.5,1.741,0.5,2.0,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.539,0.461
+Nick Castellanos,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.478,0.522
+Nolan Gorman,0.5,1.606,0.5,2.25,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.592,0.408
+Paul Goldschmidt,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.511,0.489
+Brandon Marsh,0.5,6.0,0.5,1.111,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.118,0.882
+Bryce Harper,0.5,9.0,0.5,1.04,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.052,0.948
+Bryson Stott,0.5,4.7,0.5,1.167,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.165,0.835
+Dylan Carlson,0.5,10.5,0.5,1.025,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.035,0.965
+Edmundo Sosa,0.5,11.0,0.5,1.02,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.029,0.971
+J.T. Realmuto,0.5,8.5,0.5,1.05,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.062,0.938
+Johan Rojas,0.5,3.75,0.5,1.25,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.223,0.777
+Jose Fermin,0.5,7.5,0.5,1.071,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.082,0.918
+Masyn Winn,0.5,5.25,0.5,1.133,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.139,0.861
+Mike Siani,0.5,5.75,0.5,1.111,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.12,0.88
+Nick Castellanos,0.5,11.0,0.5,1.02,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.029,0.971
+Paul Goldschmidt,0.5,12.0,0.5,1.017,Stolen Bases,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.024,0.976
+Alec Bohm,0.5,1.714,0.5,2.05,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.55,0.45
+Alec Burleson,0.5,1.769,0.5,1.952,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.077,0.528,0.472
+Brandon Marsh,1.5,2.7,1.5,1.426,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.328,0.672
+Bryce Harper,1.5,2.65,1.5,1.444,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.337,0.663
+Bryson Stott,0.5,1.625,0.5,2.2,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.583,0.417
+Dylan Carlson,0.5,1.392,0.5,2.85,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.69,0.31
+Edmundo Sosa,1.5,2.95,1.5,1.37,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.297,0.703
+J.T. Realmuto,1.5,2.45,1.5,1.5,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.075,0.366,0.634
+Johan Rojas,0.5,1.588,0.5,2.3,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.064,0.601,0.399
+Jose Fermin,1.5,2.9,1.5,1.385,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.305,0.695
+Kyle Schwarber,1.5,2.0,1.5,1.769,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.466,0.534
+Masyn Winn,1.5,2.85,1.5,1.385,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.307,0.693
+Mike Siani,0.5,1.417,0.5,2.75,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.677,0.323
+Nick Castellanos,1.5,2.75,1.5,1.408,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.32,0.68
+Nolan Gorman,1.5,2.35,1.5,1.556,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.388,0.612
+Paul Goldschmidt,1.5,2.5,1.5,1.488,Strikeouts,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.359,0.641
+Alec Bohm,0.5,1.571,0.5,2.3,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.604,0.396
+Alec Burleson,0.5,1.833,0.5,1.909,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.511,0.489
+Brandon Marsh,0.5,2.35,0.5,1.556,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.388,0.612
+Bryce Harper,0.5,2.1,0.5,1.667,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.076,0.436,0.564
+Bryson Stott,0.5,1.833,0.5,1.909,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.511,0.489
+Dylan Carlson,0.5,1.952,0.5,1.8,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.478,0.522
+Edmundo Sosa,0.5,2.15,0.5,1.645,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.426,0.574
+J.T. Realmuto,0.5,1.87,0.5,1.87,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.5,0.5
+Johan Rojas,0.5,2.05,0.5,1.714,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.45,0.55
+Jose Fermin,0.5,1.8,0.5,1.952,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.522,0.478
+Kyle Schwarber,0.5,2.85,0.5,1.385,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.307,0.693
+Masyn Winn,0.5,1.714,0.5,2.05,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.55,0.45
+Mike Siani,0.5,2.4,0.5,1.541,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.38,0.62
+Nick Castellanos,0.5,2.0,0.5,1.769,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.466,0.534
+Nolan Gorman,0.5,2.5,0.5,1.488,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.359,0.641
+Paul Goldschmidt,0.5,1.909,0.5,1.833,Singles,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.489,0.511
+Alec Bohm,0.5,4.5,0.5,1.182,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.176,0.824
+Alec Burleson,0.5,6.0,0.5,1.111,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.118,0.882
+Brandon Marsh,0.5,6.0,0.5,1.1,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.076,0.111,0.889
+Bryce Harper,0.5,5.25,0.5,1.143,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.144,0.856
+Bryson Stott,0.5,5.5,0.5,1.133,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.064,0.136,0.864
+Dylan Carlson,0.5,5.5,0.5,1.125,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.131,0.869
+Edmundo Sosa,0.5,6.0,0.5,1.111,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.118,0.882
+J.T. Realmuto,0.5,4.7,0.5,1.167,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.165,0.835
+Johan Rojas,0.5,6.5,0.5,1.091,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.101,0.899
+Jose Fermin,0.5,5.25,0.5,1.143,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.065,0.144,0.856
+Kyle Schwarber,0.5,6.0,0.5,1.1,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.076,0.111,0.889
+Masyn Winn,0.5,4.7,0.5,1.167,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.165,0.835
+Mike Siani,0.5,8.5,0.5,1.05,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.062,0.938
+Nick Castellanos,0.5,5.25,0.5,1.133,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.073,0.139,0.861
+Nolan Gorman,0.5,7.0,0.5,1.083,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.093,0.907
+Paul Goldschmidt,0.5,5.0,0.5,1.154,Doubles,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.153,0.847
+Alec Bohm,0.5,3.5,0.5,1.278,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.242,0.758
+Brandon Marsh,0.5,2.4,0.5,1.526,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.072,0.376,0.624
+Bryce Harper,0.5,2.5,0.5,1.5,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.067,0.362,0.638
+Bryson Stott,0.5,2.85,0.5,1.392,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.31,0.69
+Dylan Carlson,0.5,2.35,0.5,1.541,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.075,0.384,0.616
+J.T. Realmuto,0.5,3.7,0.5,1.256,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.066,0.228,0.772
+Jose Fermin,0.5,2.8,0.5,1.4,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.071,0.315,0.685
+Kyle Schwarber,0.5,1.87,0.5,1.87,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.07,0.5,0.5
+Masyn Winn,0.5,2.65,0.5,1.435,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.074,0.334,0.666
+Nick Castellanos,0.5,4.6,0.5,1.174,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.17,0.83
+Nolan Gorman,0.5,3.6,0.5,1.263,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.069,0.233,0.767
+Paul Goldschmidt,0.5,2.1,0.5,1.69,Walks,PHI Phillies,STL Cardinals,2024-06-01,0.068,0.44,0.56
+Christopher Morel,0.5,4.3,0.5,1.19,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.073,0.183,0.817
+Cody Bellinger,0.5,4.8,0.5,1.154,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.075,0.156,0.844
+Dansby Swanson,0.5,5.75,0.5,1.111,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.074,0.12,0.88
+Elly De La Cruz,0.5,7.5,0.5,1.071,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.082,0.918
+Ian Happ,0.5,6.0,0.5,1.111,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+Jeimer Candelario,0.5,5.5,0.5,1.125,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.131,0.869
+Jonathan India,0.5,8.0,0.5,1.062,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.066,0.073,0.927
+Luke Maile,0.5,8.0,0.5,1.056,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.072,0.068,0.932
+Miguel Amaya,0.5,8.0,0.5,1.062,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.066,0.073,0.927
+Mike Tauchman,0.5,7.0,0.5,1.071,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.076,0.084,0.916
+Nico Hoerner,0.5,10.0,0.5,1.029,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.072,0.039,0.961
+Pete Crow-Armstrong,0.5,7.0,0.5,1.083,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.066,0.093,0.907
+Santiago Espinal,0.5,12.0,0.5,1.017,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.024,0.976
+Seiya Suzuki ,0.5,4.9,0.5,1.154,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.155,0.845
+Spencer Steer,0.5,5.0,0.5,1.154,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.153,0.847
+Stuart Fairchild,0.5,7.5,0.5,1.062,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.075,0.075,0.925
+TJ Friedl,0.5,10.0,0.5,1.033,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.044,0.956
+Tyler Stephenson,0.5,6.0,0.5,1.111,Home Runs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+Christopher Morel,,8.5,,1.05,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.07,0.062,0.938
+Cody Bellinger,,9.0,,1.05,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.063,0.06,0.94
+Dansby Swanson,,12.0,,1.012,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.071,0.019,0.981
+Elly De La Cruz,,13.0,,1.01,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.067,0.016,0.984
+Ian Happ,,13.0,,1.01,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.067,0.016,0.984
+Jeimer Candelario,,10.0,,1.033,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.068,0.044,0.956
+Jonathan India,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Luke Maile,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Miguel Amaya,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Mike Tauchman,,12.0,,1.012,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.071,0.019,0.981
+Nico Hoerner,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Pete Crow-Armstrong,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Santiago Espinal,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Seiya Suzuki ,,9.0,,1.04,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.073,0.052,0.948
+Spencer Steer,,8.5,,1.05,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.07,0.062,0.938
+Stuart Fairchild,,12.0,,1.017,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.067,0.024,0.976
+TJ Friedl,,,,,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,,,
+Tyler Stephenson,,11.0,,1.02,1st Home Run,CHI Cubs,CIN Reds,2024-06-01,0.071,0.029,0.971
+Christopher Morel,0.5,1.588,0.5,2.3,Hits,CHI Cubs,CIN Reds,2024-06-01,0.064,0.601,0.399
+Cody Bellinger,0.5,1.476,0.5,2.55,Hits,CHI Cubs,CIN Reds,2024-06-01,0.07,0.648,0.352
+Dansby Swanson,0.5,1.667,0.5,2.15,Hits,CHI Cubs,CIN Reds,2024-06-01,0.065,0.57,0.43
+Elly De La Cruz,0.5,1.588,0.5,2.25,Hits,CHI Cubs,CIN Reds,2024-06-01,0.074,0.596,0.404
+Ian Happ,0.5,1.714,0.5,2.05,Hits,CHI Cubs,CIN Reds,2024-06-01,0.071,0.55,0.45
+Jeimer Candelario,0.5,1.476,0.5,2.55,Hits,CHI Cubs,CIN Reds,2024-06-01,0.07,0.648,0.352
+Jonathan India,0.5,1.571,0.5,2.35,Hits,CHI Cubs,CIN Reds,2024-06-01,0.062,0.609,0.391
+Luke Maile,0.5,1.769,0.5,1.952,Hits,CHI Cubs,CIN Reds,2024-06-01,0.077,0.528,0.472
+Miguel Amaya,0.5,1.87,0.5,1.87,Hits,CHI Cubs,CIN Reds,2024-06-01,0.07,0.5,0.5
+Mike Tauchman,0.5,1.541,0.5,2.4,Hits,CHI Cubs,CIN Reds,2024-06-01,0.066,0.62,0.38
+Nico Hoerner,0.5,1.444,0.5,2.65,Hits,CHI Cubs,CIN Reds,2024-06-01,0.07,0.663,0.337
+Pete Crow-Armstrong,0.5,1.69,0.5,2.1,Hits,CHI Cubs,CIN Reds,2024-06-01,0.068,0.56,0.44
+Santiago Espinal,0.5,1.513,0.5,2.45,Hits,CHI Cubs,CIN Reds,2024-06-01,0.069,0.631,0.369
+Seiya Suzuki ,0.5,1.435,0.5,2.65,Hits,CHI Cubs,CIN Reds,2024-06-01,0.074,0.666,0.334
+Spencer Steer,0.5,1.426,0.5,2.7,Hits,CHI Cubs,CIN Reds,2024-06-01,0.072,0.672,0.328
+Stuart Fairchild,0.5,1.645,0.5,2.15,Hits,CHI Cubs,CIN Reds,2024-06-01,0.073,0.574,0.426
+TJ Friedl,0.5,1.69,0.5,2.1,Hits,CHI Cubs,CIN Reds,2024-06-01,0.068,0.56,0.44
+Tyler Stephenson,0.5,1.435,0.5,2.65,Hits,CHI Cubs,CIN Reds,2024-06-01,0.074,0.666,0.334
+Christopher Morel,0.5,1.588,0.5,2.3,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.064,0.601,0.399
+Cody Bellinger,1.5,2.25,1.5,1.606,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.067,0.408,0.592
+Dansby Swanson,0.5,1.667,0.5,2.15,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.065,0.57,0.43
+Elly De La Cruz,0.5,1.588,0.5,2.25,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.074,0.596,0.404
+Ian Happ,0.5,1.714,0.5,2.05,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.071,0.55,0.45
+Jeimer Candelario,1.5,2.45,1.5,1.513,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.069,0.369,0.631
+Jonathan India,0.5,1.571,0.5,2.35,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.062,0.609,0.391
+Luke Maile,0.5,1.769,0.5,1.952,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.077,0.528,0.472
+Miguel Amaya,0.5,1.87,0.5,1.87,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.07,0.5,0.5
+Mike Tauchman,0.5,1.541,0.5,2.4,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.066,0.62,0.38
+Nico Hoerner,0.5,1.465,0.5,2.6,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.067,0.654,0.346
+Pete Crow-Armstrong,0.5,1.69,0.5,2.1,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.068,0.56,0.44
+Santiago Espinal,0.5,1.513,0.5,2.45,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.069,0.631,0.369
+Seiya Suzuki ,1.5,2.2,1.5,1.625,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Spencer Steer,1.5,2.2,1.5,1.625,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Stuart Fairchild,0.5,1.645,0.5,2.15,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.073,0.574,0.426
+TJ Friedl,0.5,1.69,0.5,2.1,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.068,0.56,0.44
+Tyler Stephenson,1.5,2.35,1.5,1.556,Total Bases,CHI Cubs,CIN Reds,2024-06-01,0.068,0.388,0.612
+Christopher Morel,0.5,2.55,0.5,1.488,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.064,0.355,0.645
+Cody Bellinger,0.5,2.55,0.5,1.476,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.352,0.648
+Dansby Swanson,0.5,2.95,0.5,1.37,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.297,0.703
+Elly De La Cruz,0.5,3.55,0.5,1.27,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.238,0.762
+Ian Happ,0.5,3.05,0.5,1.345,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.284,0.716
+Jeimer Candelario,0.5,2.75,0.5,1.426,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.065,0.325,0.675
+Jonathan India,0.5,3.25,0.5,1.312,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.264,0.736
+Luke Maile,0.5,3.75,0.5,1.25,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.223,0.777
+Miguel Amaya,0.5,3.55,0.5,1.27,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.238,0.762
+Mike Tauchman,0.5,3.3,0.5,1.303,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.259,0.741
+Nico Hoerner,0.5,3.1,0.5,1.339,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.28,0.72
+Pete Crow-Armstrong,0.5,3.15,0.5,1.333,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.276,0.724
+Santiago Espinal,0.5,3.4,0.5,1.294,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.252,0.748
+Seiya Suzuki ,0.5,2.75,0.5,1.408,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.074,0.32,0.68
+Spencer Steer,0.5,2.6,0.5,1.465,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.346,0.654
+Stuart Fairchild,0.5,4.1,0.5,1.211,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.197,0.803
+TJ Friedl,0.5,3.5,0.5,1.278,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.242,0.758
+Tyler Stephenson,0.5,2.9,0.5,1.377,RBIs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.302,0.698
+Christopher Morel,0.5,2.15,0.5,1.645,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.073,0.426,0.574
+Cody Bellinger,0.5,2.1,0.5,1.667,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.076,0.436,0.564
+Dansby Swanson,0.5,2.55,0.5,1.476,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.07,0.352,0.648
+Elly De La Cruz,0.5,2.2,0.5,1.625,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Ian Happ,0.5,2.25,0.5,1.588,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.074,0.404,0.596
+Jeimer Candelario,0.5,2.35,0.5,1.556,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.068,0.388,0.612
+Jonathan India,0.5,2.55,0.5,1.465,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.075,0.349,0.651
+Luke Maile,0.5,3.05,0.5,1.345,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.071,0.284,0.716
+Miguel Amaya,0.5,3.05,0.5,1.351,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.068,0.286,0.714
+Mike Tauchman,0.5,2.0,0.5,1.769,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.065,0.466,0.534
+Nico Hoerner,0.5,2.45,0.5,1.5,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.075,0.366,0.634
+Pete Crow-Armstrong,0.5,2.4,0.5,1.541,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.066,0.38,0.62
+Santiago Espinal,0.5,3.05,0.5,1.351,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.068,0.286,0.714
+Seiya Suzuki ,0.5,2.05,0.5,1.714,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.071,0.45,0.55
+Spencer Steer,0.5,2.0,0.5,1.741,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.074,0.461,0.539
+Stuart Fairchild,0.5,2.55,0.5,1.476,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.07,0.352,0.648
+TJ Friedl,0.5,2.75,0.5,1.408,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.074,0.32,0.68
+Tyler Stephenson,0.5,2.4,0.5,1.541,Runs Scored,CHI Cubs,CIN Reds,2024-06-01,0.066,0.38,0.62
+Christopher Morel,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.478,0.522
+Cody Bellinger,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.511,0.489
+Dansby Swanson,1.5,2.15,1.5,1.667,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.065,0.43,0.57
+Elly De La Cruz,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.44,0.56
+Ian Happ,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.073,0.426,0.574
+Jeimer Candelario,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.478,0.522
+Jonathan India,1.5,2.15,1.5,1.667,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.065,0.43,0.57
+Luke Maile,0.5,1.606,0.5,2.25,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.067,0.592,0.408
+Miguel Amaya,0.5,1.667,0.5,2.15,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.065,0.57,0.43
+Mike Tauchman,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.489,0.511
+Nico Hoerner,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.478,0.522
+Pete Crow-Armstrong,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Santiago Espinal,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Seiya Suzuki ,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.068,0.522,0.478
+Spencer Steer,1.5,1.769,1.5,2.0,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.065,0.534,0.466
+Stuart Fairchild,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.396,0.604
+TJ Friedl,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.071,0.396,0.604
+Tyler Stephenson,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,CHI Cubs,CIN Reds,2024-06-01,0.069,0.489,0.511
+Christopher Morel,0.5,6.5,0.5,1.091,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.071,0.101,0.899
+Cody Bellinger,0.5,5.5,0.5,1.133,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.064,0.136,0.864
+Dansby Swanson,0.5,8.5,0.5,1.05,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.07,0.062,0.938
+Elly De La Cruz,0.5,2.75,0.5,1.408,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.074,0.32,0.68
+Ian Happ,0.5,7.5,0.5,1.071,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.067,0.082,0.918
+Jeimer Candelario,0.5,12.0,0.5,1.012,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.071,0.019,0.981
+Jonathan India,0.5,9.0,0.5,1.04,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.073,0.052,0.948
+Mike Tauchman,0.5,6.0,0.5,1.1,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.076,0.111,0.889
+Nico Hoerner,0.5,3.85,0.5,1.235,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.069,0.214,0.786
+Pete Crow-Armstrong,0.5,3.3,0.5,1.303,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.07,0.259,0.741
+Santiago Espinal,0.5,9.0,0.5,1.04,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.073,0.052,0.948
+Seiya Suzuki ,0.5,7.0,0.5,1.083,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.066,0.093,0.907
+Spencer Steer,0.5,6.5,0.5,1.091,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.071,0.101,0.899
+Stuart Fairchild,0.5,7.0,0.5,1.083,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.066,0.093,0.907
+TJ Friedl,0.5,5.75,0.5,1.125,Stolen Bases,CHI Cubs,CIN Reds,2024-06-01,0.063,0.129,0.871
+Christopher Morel,1.5,2.5,1.5,1.488,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.072,0.359,0.641
+Cody Bellinger,0.5,1.4,0.5,2.8,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.071,0.685,0.315
+Dansby Swanson,1.5,2.75,1.5,1.408,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.074,0.32,0.68
+Elly De La Cruz,1.5,1.714,1.5,2.05,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.071,0.55,0.45
+Ian Happ,1.5,2.65,1.5,1.444,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.337,0.663
+Jeimer Candelario,1.5,2.95,1.5,1.37,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.069,0.297,0.703
+Jonathan India,0.5,1.444,0.5,2.65,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.663,0.337
+Luke Maile,0.5,1.417,0.5,2.75,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.677,0.323
+Miguel Amaya,0.5,1.455,0.5,2.6,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.072,0.657,0.343
+Mike Tauchman,1.5,3.0,1.5,1.357,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.291,0.709
+Nico Hoerner,0.5,2.1,0.5,1.69,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.068,0.44,0.56
+Pete Crow-Armstrong,0.5,1.408,0.5,2.8,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.067,0.683,0.317
+Santiago Espinal,0.5,2.2,0.5,1.625,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Seiya Suzuki ,1.5,2.8,1.5,1.4,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.071,0.315,0.685
+Spencer Steer,0.5,1.435,0.5,2.7,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.067,0.669,0.331
+Stuart Fairchild,1.5,2.5,1.5,1.488,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.072,0.359,0.641
+TJ Friedl,0.5,1.588,0.5,2.25,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.074,0.596,0.404
+Tyler Stephenson,0.5,1.357,0.5,3.0,Strikeouts,CHI Cubs,CIN Reds,2024-06-01,0.07,0.709,0.291
+Christopher Morel,0.5,2.5,0.5,1.5,Singles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.362,0.638
+Cody Bellinger,0.5,2.15,0.5,1.645,Singles,CHI Cubs,CIN Reds,2024-06-01,0.073,0.426,0.574
+Dansby Swanson,0.5,2.4,0.5,1.526,Singles,CHI Cubs,CIN Reds,2024-06-01,0.072,0.376,0.624
+Elly De La Cruz,0.5,2.15,0.5,1.667,Singles,CHI Cubs,CIN Reds,2024-06-01,0.065,0.43,0.57
+Ian Happ,0.5,2.6,0.5,1.465,Singles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.346,0.654
+Jeimer Candelario,0.5,2.0,0.5,1.741,Singles,CHI Cubs,CIN Reds,2024-06-01,0.074,0.461,0.539
+Jonathan India,0.5,2.0,0.5,1.769,Singles,CHI Cubs,CIN Reds,2024-06-01,0.065,0.466,0.534
+Luke Maile,0.5,2.35,0.5,1.556,Singles,CHI Cubs,CIN Reds,2024-06-01,0.068,0.388,0.612
+Miguel Amaya,0.5,2.55,0.5,1.476,Singles,CHI Cubs,CIN Reds,2024-06-01,0.07,0.352,0.648
+Mike Tauchman,0.5,2.1,0.5,1.69,Singles,CHI Cubs,CIN Reds,2024-06-01,0.068,0.44,0.56
+Nico Hoerner,0.5,1.8,0.5,1.952,Singles,CHI Cubs,CIN Reds,2024-06-01,0.068,0.522,0.478
+Pete Crow-Armstrong,0.5,2.5,0.5,1.488,Singles,CHI Cubs,CIN Reds,2024-06-01,0.072,0.359,0.641
+Santiago Espinal,0.5,1.769,0.5,1.952,Singles,CHI Cubs,CIN Reds,2024-06-01,0.077,0.528,0.472
+Seiya Suzuki ,0.5,2.05,0.5,1.714,Singles,CHI Cubs,CIN Reds,2024-06-01,0.071,0.45,0.55
+Spencer Steer,0.5,2.0,0.5,1.741,Singles,CHI Cubs,CIN Reds,2024-06-01,0.074,0.461,0.539
+Stuart Fairchild,0.5,2.2,0.5,1.625,Singles,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+TJ Friedl,0.5,2.2,0.5,1.625,Singles,CHI Cubs,CIN Reds,2024-06-01,0.07,0.417,0.583
+Tyler Stephenson,0.5,1.87,0.5,1.87,Singles,CHI Cubs,CIN Reds,2024-06-01,0.07,0.5,0.5
+Christopher Morel,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.071,0.131,0.869
+Cody Bellinger,0.5,4.7,0.5,1.167,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.07,0.165,0.835
+Dansby Swanson,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+Elly De La Cruz,0.5,6.0,0.5,1.1,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.076,0.111,0.889
+Ian Happ,0.5,5.75,0.5,1.125,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.063,0.129,0.871
+Jeimer Candelario,0.5,5.0,0.5,1.143,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.075,0.147,0.853
+Jonathan India,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.071,0.131,0.869
+Luke Maile,0.5,6.5,0.5,1.083,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.077,0.096,0.904
+Miguel Amaya,0.5,7.0,0.5,1.083,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.066,0.093,0.907
+Mike Tauchman,0.5,5.0,0.5,1.143,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.075,0.147,0.853
+Nico Hoerner,0.5,4.8,0.5,1.167,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.065,0.163,0.837
+Pete Crow-Armstrong,0.5,5.5,0.5,1.125,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.071,0.131,0.869
+Santiago Espinal,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+Seiya Suzuki ,0.5,4.6,0.5,1.174,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.069,0.17,0.83
+Spencer Steer,0.5,4.4,0.5,1.182,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.073,0.177,0.823
+Stuart Fairchild,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+TJ Friedl,0.5,6.0,0.5,1.111,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.118,0.882
+Tyler Stephenson,0.5,5.0,0.5,1.154,Doubles,CHI Cubs,CIN Reds,2024-06-01,0.067,0.153,0.847
+Pete Crow-Armstrong,0.5,12.0,0.5,1.012,Triples,CHI Cubs,CIN Reds,2024-06-01,0.071,0.019,0.981
+Christopher Morel,0.5,2.9,0.5,1.377,Walks,CHI Cubs,CIN Reds,2024-06-01,0.071,0.302,0.698
+Cody Bellinger,0.5,2.65,0.5,1.435,Walks,CHI Cubs,CIN Reds,2024-06-01,0.074,0.334,0.666
+Dansby Swanson,0.5,3.5,0.5,1.278,Walks,CHI Cubs,CIN Reds,2024-06-01,0.068,0.242,0.758
+Elly De La Cruz,0.5,3.2,0.5,1.323,Walks,CHI Cubs,CIN Reds,2024-06-01,0.069,0.27,0.73
+Ian Happ,0.5,2.0,0.5,1.741,Walks,CHI Cubs,CIN Reds,2024-06-01,0.074,0.461,0.539
+Jeimer Candelario,0.5,3.15,0.5,1.333,Walks,CHI Cubs,CIN Reds,2024-06-01,0.067,0.276,0.724
+Jonathan India,0.5,2.85,0.5,1.392,Walks,CHI Cubs,CIN Reds,2024-06-01,0.069,0.31,0.69
+Luke Maile,0.5,4.2,0.5,1.2,Walks,CHI Cubs,CIN Reds,2024-06-01,0.071,0.19,0.81
+Miguel Amaya,0.5,4.7,0.5,1.167,Walks,CHI Cubs,CIN Reds,2024-06-01,0.07,0.165,0.835
+Mike Tauchman,0.5,1.952,0.5,1.769,Walks,CHI Cubs,CIN Reds,2024-06-01,0.077,0.472,0.528
+Nico Hoerner,0.5,3.85,0.5,1.235,Walks,CHI Cubs,CIN Reds,2024-06-01,0.069,0.214,0.786
+Pete Crow-Armstrong,0.5,3.1,0.5,1.339,Walks,CHI Cubs,CIN Reds,2024-06-01,0.069,0.28,0.72
+Santiago Espinal,0.5,4.2,0.5,1.2,Walks,CHI Cubs,CIN Reds,2024-06-01,0.071,0.19,0.81
+Seiya Suzuki ,0.5,2.65,0.5,1.444,Walks,CHI Cubs,CIN Reds,2024-06-01,0.07,0.337,0.663
+Spencer Steer,0.5,2.95,0.5,1.364,Walks,CHI Cubs,CIN Reds,2024-06-01,0.072,0.295,0.705
+Stuart Fairchild,0.5,3.65,0.5,1.256,Walks,CHI Cubs,CIN Reds,2024-06-01,0.07,0.229,0.771
+TJ Friedl,0.5,3.35,0.5,1.294,Walks,CHI Cubs,CIN Reds,2024-06-01,0.071,0.254,0.746
+Tyler Stephenson,0.5,3.2,0.5,1.323,Walks,CHI Cubs,CIN Reds,2024-06-01,0.069,0.27,0.73
+Cal Raleigh,0.5,4.2,0.5,1.2,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.071,0.19,0.81
+Dylan Moore,0.5,4.2,0.5,1.2,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.071,0.19,0.81
+J.P. Crawford,0.5,7.5,0.5,1.071,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.082,0.918
+Jo Adell,0.5,6.0,0.5,1.111,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Julio Rodriguez ,0.5,4.4,0.5,1.19,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.182,0.818
+Kevin Pillar,0.5,7.0,0.5,1.083,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.066,0.093,0.907
+Luis Guillorme,0.5,13.0,0.5,1.01,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.016,0.984
+Luis Rengifo,0.5,7.0,0.5,1.083,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.066,0.093,0.907
+Luke Raley,0.5,7.0,0.5,1.083,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.066,0.093,0.907
+Matt Thaiss,0.5,6.0,0.5,1.1,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.076,0.111,0.889
+Mickey Moniak,0.5,5.75,0.5,1.111,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.074,0.12,0.88
+Mitch Garver,0.5,4.7,0.5,1.167,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.07,0.165,0.835
+Mitch Haniger,0.5,4.9,0.5,1.154,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.071,0.155,0.845
+Ryan Bliss,0.5,6.5,0.5,1.091,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.071,0.101,0.899
+Taylor Ward,0.5,5.25,0.5,1.133,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.073,0.139,0.861
+Ty France,0.5,6.0,0.5,1.111,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Willie Calhoun,0.5,6.0,0.5,1.111,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Zach Neto,0.5,5.5,0.5,1.125,Home Runs,SEA Mariners,LA Angels,2024-06-01,0.071,0.131,0.869
+Cal Raleigh,,8.5,,1.05,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.07,0.062,0.938
+Dylan Moore,,8.0,,1.056,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.072,0.068,0.932
+J.P. Crawford,,,,,1st Home Run,SEA Mariners,LA Angels,2024-06-01,,,
+Jo Adell,,13.0,,1.01,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.067,0.016,0.984
+Julio Rodriguez ,,10.0,,1.029,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.072,0.039,0.961
+Kevin Pillar,,,,,1st Home Run,SEA Mariners,LA Angels,2024-06-01,,,
+Luis Guillorme,,,,,1st Home Run,SEA Mariners,LA Angels,2024-06-01,,,
+Luis Rengifo,,12.0,,1.012,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.071,0.019,0.981
+Luke Raley,,,,,1st Home Run,SEA Mariners,LA Angels,2024-06-01,,,
+Matt Thaiss,,12.0,,1.012,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.071,0.019,0.981
+Mickey Moniak,,9.0,,1.04,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.073,0.052,0.948
+Mitch Garver,,11.0,,1.02,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.071,0.029,0.971
+Mitch Haniger,,12.0,,1.012,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.071,0.019,0.981
+Ryan Bliss,,,,,1st Home Run,SEA Mariners,LA Angels,2024-06-01,,,
+Taylor Ward,,9.5,,1.033,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.073,0.044,0.956
+Ty France,,13.0,,1.01,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.067,0.016,0.984
+Willie Calhoun,,12.0,,1.017,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.067,0.024,0.976
+Zach Neto,,12.0,,1.012,1st Home Run,SEA Mariners,LA Angels,2024-06-01,0.071,0.019,0.981
+Cal Raleigh,0.5,1.571,0.5,2.3,Hits,SEA Mariners,LA Angels,2024-06-01,0.071,0.604,0.396
+Dylan Moore,0.5,1.556,0.5,2.35,Hits,SEA Mariners,LA Angels,2024-06-01,0.068,0.612,0.388
+J.P. Crawford,0.5,1.488,0.5,2.5,Hits,SEA Mariners,LA Angels,2024-06-01,0.072,0.641,0.359
+Jo Adell,0.5,1.833,0.5,1.909,Hits,SEA Mariners,LA Angels,2024-06-01,0.069,0.511,0.489
+Julio Rodriguez ,0.5,1.392,0.5,2.85,Hits,SEA Mariners,LA Angels,2024-06-01,0.069,0.69,0.31
+Kevin Pillar,0.5,1.69,0.5,2.1,Hits,SEA Mariners,LA Angels,2024-06-01,0.068,0.56,0.44
+Luis Guillorme,0.5,1.667,0.5,2.15,Hits,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Luis Rengifo,0.5,1.426,0.5,2.7,Hits,SEA Mariners,LA Angels,2024-06-01,0.072,0.672,0.328
+Luke Raley,0.5,1.741,0.5,2.0,Hits,SEA Mariners,LA Angels,2024-06-01,0.074,0.539,0.461
+Matt Thaiss,0.5,1.87,0.5,1.87,Hits,SEA Mariners,LA Angels,2024-06-01,0.07,0.5,0.5
+Mickey Moniak,0.5,1.625,0.5,2.2,Hits,SEA Mariners,LA Angels,2024-06-01,0.07,0.583,0.417
+Mitch Garver,0.5,1.667,0.5,2.15,Hits,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Mitch Haniger,0.5,1.556,0.5,2.35,Hits,SEA Mariners,LA Angels,2024-06-01,0.068,0.612,0.388
+Ryan Bliss,0.5,1.714,0.5,2.05,Hits,SEA Mariners,LA Angels,2024-06-01,0.071,0.55,0.45
+Taylor Ward,0.5,1.526,0.5,2.45,Hits,SEA Mariners,LA Angels,2024-06-01,0.063,0.628,0.372
+Ty France,0.5,1.465,0.5,2.55,Hits,SEA Mariners,LA Angels,2024-06-01,0.075,0.651,0.349
+Willie Calhoun,0.5,1.488,0.5,2.5,Hits,SEA Mariners,LA Angels,2024-06-01,0.072,0.641,0.359
+Zach Neto,0.5,1.714,0.5,2.05,Hits,SEA Mariners,LA Angels,2024-06-01,0.071,0.55,0.45
+Cal Raleigh,1.5,2.25,1.5,1.588,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.074,0.404,0.596
+Dylan Moore,1.5,2.25,1.5,1.588,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.074,0.404,0.596
+J.P. Crawford,1.5,2.45,1.5,1.513,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.069,0.369,0.631
+Jo Adell,0.5,1.833,0.5,1.909,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.069,0.511,0.489
+Julio Rodriguez ,1.5,2.1,1.5,1.667,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.076,0.436,0.564
+Kevin Pillar,0.5,1.69,0.5,2.1,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.068,0.56,0.44
+Luis Guillorme,0.5,1.667,0.5,2.15,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Luis Rengifo,1.5,2.35,1.5,1.556,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.068,0.388,0.612
+Luke Raley,0.5,1.741,0.5,2.0,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.074,0.539,0.461
+Matt Thaiss,0.5,1.87,0.5,1.87,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.07,0.5,0.5
+Mickey Moniak,0.5,1.625,0.5,2.2,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.07,0.583,0.417
+Mitch Garver,0.5,1.667,0.5,2.15,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Mitch Haniger,0.5,1.556,0.5,2.35,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.068,0.612,0.388
+Ryan Bliss,0.5,1.714,0.5,2.05,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.071,0.55,0.45
+Taylor Ward,0.5,1.526,0.5,2.4,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.072,0.624,0.376
+Ty France,1.5,2.45,1.5,1.513,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.069,0.369,0.631
+Willie Calhoun,1.5,2.3,1.5,1.571,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Zach Neto,0.5,1.714,0.5,2.05,Total Bases,SEA Mariners,LA Angels,2024-06-01,0.071,0.55,0.45
+Cal Raleigh,0.5,2.3,0.5,1.571,RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Dylan Moore,0.5,2.7,0.5,1.426,RBIs,SEA Mariners,LA Angels,2024-06-01,0.072,0.328,0.672
+J.P. Crawford,0.5,3.35,0.5,1.294,RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.254,0.746
+Jo Adell,0.5,3.65,0.5,1.256,RBIs,SEA Mariners,LA Angels,2024-06-01,0.07,0.229,0.771
+Julio Rodriguez ,0.5,2.5,0.5,1.488,RBIs,SEA Mariners,LA Angels,2024-06-01,0.072,0.359,0.641
+Kevin Pillar,0.5,3.5,0.5,1.27,RBIs,SEA Mariners,LA Angels,2024-06-01,0.073,0.239,0.761
+Luis Guillorme,0.5,4.7,0.5,1.167,RBIs,SEA Mariners,LA Angels,2024-06-01,0.07,0.165,0.835
+Luis Rengifo,0.5,3.5,0.5,1.278,RBIs,SEA Mariners,LA Angels,2024-06-01,0.068,0.242,0.758
+Luke Raley,0.5,3.45,0.5,1.278,RBIs,SEA Mariners,LA Angels,2024-06-01,0.072,0.244,0.756
+Matt Thaiss,0.5,3.8,0.5,1.25,RBIs,SEA Mariners,LA Angels,2024-06-01,0.063,0.222,0.778
+Mickey Moniak,0.5,3.15,0.5,1.333,RBIs,SEA Mariners,LA Angels,2024-06-01,0.067,0.276,0.724
+Mitch Garver,0.5,2.9,0.5,1.385,RBIs,SEA Mariners,LA Angels,2024-06-01,0.067,0.305,0.695
+Mitch Haniger,0.5,3.0,0.5,1.357,RBIs,SEA Mariners,LA Angels,2024-06-01,0.07,0.291,0.709
+Ryan Bliss,0.5,3.35,0.5,1.294,RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.254,0.746
+Taylor Ward,0.5,2.95,0.5,1.364,RBIs,SEA Mariners,LA Angels,2024-06-01,0.072,0.295,0.705
+Ty France,0.5,2.9,0.5,1.377,RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.302,0.698
+Willie Calhoun,0.5,2.85,0.5,1.392,RBIs,SEA Mariners,LA Angels,2024-06-01,0.069,0.31,0.69
+Zach Neto,0.5,3.4,0.5,1.286,RBIs,SEA Mariners,LA Angels,2024-06-01,0.072,0.249,0.751
+Cal Raleigh,0.5,2.15,0.5,1.645,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.073,0.426,0.574
+Dylan Moore,0.5,1.909,0.5,1.833,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.069,0.489,0.511
+J.P. Crawford,0.5,2.1,0.5,1.69,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.068,0.44,0.56
+Jo Adell,0.5,2.85,0.5,1.4,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.065,0.312,0.688
+Julio Rodriguez ,0.5,2.05,0.5,1.741,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.062,0.455,0.545
+Kevin Pillar,0.5,3.0,0.5,1.357,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.07,0.291,0.709
+Luis Guillorme,0.5,3.5,0.5,1.278,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.068,0.242,0.758
+Luis Rengifo,0.5,2.25,0.5,1.588,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.074,0.404,0.596
+Luke Raley,0.5,2.65,0.5,1.444,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.07,0.337,0.663
+Matt Thaiss,0.5,2.85,0.5,1.392,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.069,0.31,0.69
+Mickey Moniak,0.5,2.5,0.5,1.5,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.067,0.362,0.638
+Mitch Garver,0.5,2.3,0.5,1.571,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Mitch Haniger,0.5,2.25,0.5,1.606,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.067,0.408,0.592
+Ryan Bliss,0.5,2.6,0.5,1.465,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.067,0.346,0.654
+Taylor Ward,0.5,2.5,0.5,1.5,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.067,0.362,0.638
+Ty France,0.5,2.3,0.5,1.571,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Willie Calhoun,0.5,2.8,0.5,1.4,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.071,0.315,0.685
+Zach Neto,0.5,2.65,0.5,1.444,Runs Scored,SEA Mariners,LA Angels,2024-06-01,0.07,0.337,0.663
+Cal Raleigh,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.069,0.489,0.511
+Dylan Moore,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.07,0.5,0.5
+J.P. Crawford,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.069,0.511,0.489
+Jo Adell,0.5,1.667,0.5,2.15,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Julio Rodriguez ,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.55,0.45
+Kevin Pillar,0.5,1.541,0.5,2.4,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.066,0.62,0.38
+Luis Guillorme,0.5,1.571,0.5,2.3,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.604,0.396
+Luis Rengifo,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.068,0.478,0.522
+Luke Raley,0.5,1.556,0.5,2.35,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.068,0.612,0.388
+Matt Thaiss,0.5,1.667,0.5,2.15,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.065,0.57,0.43
+Mickey Moniak,1.5,2.2,1.5,1.645,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.062,0.421,0.579
+Mitch Garver,1.5,2.2,1.5,1.645,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.062,0.421,0.579
+Mitch Haniger,1.5,2.05,1.5,1.741,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.062,0.455,0.545
+Ryan Bliss,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Taylor Ward,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.45,0.55
+Ty France,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.079,0.483,0.517
+Willie Calhoun,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.45,0.55
+Zach Neto,0.5,1.571,0.5,2.3,Hits + Runs + RBIs,SEA Mariners,LA Angels,2024-06-01,0.071,0.604,0.396
+Dylan Moore,0.5,3.75,0.5,1.25,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.067,0.223,0.777
+Jo Adell,0.5,8.5,0.5,1.056,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.065,0.066,0.934
+Julio Rodriguez ,0.5,3.8,0.5,1.235,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.073,0.216,0.784
+Kevin Pillar,0.5,8.0,0.5,1.056,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.072,0.068,0.932
+Luis Rengifo,0.5,5.75,0.5,1.125,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.063,0.129,0.871
+Luke Raley,0.5,6.0,0.5,1.1,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.076,0.111,0.889
+Mickey Moniak,0.5,11.0,0.5,1.02,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.071,0.029,0.971
+Ryan Bliss,0.5,5.25,0.5,1.143,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.065,0.144,0.856
+Zach Neto,0.5,9.0,0.5,1.04,Stolen Bases,SEA Mariners,LA Angels,2024-06-01,0.073,0.052,0.948
+Cal Raleigh,1.5,2.45,1.5,1.5,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.075,0.366,0.634
+Dylan Moore,1.5,2.65,1.5,1.455,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.065,0.34,0.66
+J.P. Crawford,0.5,1.526,0.5,2.4,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.072,0.624,0.376
+Jo Adell,1.5,2.2,1.5,1.606,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.077,0.413,0.587
+Julio Rodriguez ,1.5,2.7,1.5,1.435,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.067,0.331,0.669
+Kevin Pillar,0.5,1.556,0.5,2.35,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.068,0.612,0.388
+Luis Guillorme,0.5,1.8,0.5,1.952,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.068,0.522,0.478
+Luis Rengifo,0.5,1.645,0.5,2.2,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.062,0.579,0.421
+Luke Raley,0.5,1.339,0.5,3.1,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.069,0.72,0.28
+Matt Thaiss,1.5,2.3,1.5,1.571,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Mickey Moniak,1.5,2.1,1.5,1.69,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.068,0.44,0.56
+Mitch Garver,0.5,1.513,0.5,2.45,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.069,0.631,0.369
+Mitch Haniger,0.5,1.339,0.5,3.1,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.069,0.72,0.28
+Ryan Bliss,0.5,1.571,0.5,2.3,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.071,0.604,0.396
+Taylor Ward,0.5,1.357,0.5,3.0,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.07,0.709,0.291
+Ty France,0.5,1.588,0.5,2.25,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.074,0.596,0.404
+Willie Calhoun,0.5,2.25,0.5,1.606,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.067,0.408,0.592
+Zach Neto,0.5,1.465,0.5,2.6,Strikeouts,SEA Mariners,LA Angels,2024-06-01,0.067,0.654,0.346
+Cal Raleigh,0.5,2.7,0.5,1.435,Singles,SEA Mariners,LA Angels,2024-06-01,0.067,0.331,0.669
+Dylan Moore,0.5,2.6,0.5,1.465,Singles,SEA Mariners,LA Angels,2024-06-01,0.067,0.346,0.654
+J.P. Crawford,0.5,1.833,0.5,1.909,Singles,SEA Mariners,LA Angels,2024-06-01,0.069,0.511,0.489
+Jo Adell,0.5,2.6,0.5,1.455,Singles,SEA Mariners,LA Angels,2024-06-01,0.072,0.343,0.657
+Julio Rodriguez ,0.5,1.909,0.5,1.8,Singles,SEA Mariners,LA Angels,2024-06-01,0.079,0.483,0.517
+Kevin Pillar,0.5,2.25,0.5,1.606,Singles,SEA Mariners,LA Angels,2024-06-01,0.067,0.408,0.592
+Luis Guillorme,0.5,2.1,0.5,1.69,Singles,SEA Mariners,LA Angels,2024-06-01,0.068,0.44,0.56
+Luis Rengifo,0.5,1.87,0.5,1.87,Singles,SEA Mariners,LA Angels,2024-06-01,0.07,0.5,0.5
+Luke Raley,0.5,2.55,0.5,1.488,Singles,SEA Mariners,LA Angels,2024-06-01,0.064,0.355,0.645
+Matt Thaiss,0.5,2.8,0.5,1.4,Singles,SEA Mariners,LA Angels,2024-06-01,0.071,0.315,0.685
+Mickey Moniak,0.5,2.6,0.5,1.455,Singles,SEA Mariners,LA Angels,2024-06-01,0.072,0.343,0.657
+Mitch Garver,0.5,2.7,0.5,1.435,Singles,SEA Mariners,LA Angels,2024-06-01,0.067,0.331,0.669
+Mitch Haniger,0.5,2.3,0.5,1.571,Singles,SEA Mariners,LA Angels,2024-06-01,0.071,0.396,0.604
+Ryan Bliss,0.5,2.45,0.5,1.513,Singles,SEA Mariners,LA Angels,2024-06-01,0.069,0.369,0.631
+Taylor Ward,0.5,2.05,0.5,1.714,Singles,SEA Mariners,LA Angels,2024-06-01,0.071,0.45,0.55
+Ty France,0.5,2.0,0.5,1.769,Singles,SEA Mariners,LA Angels,2024-06-01,0.065,0.466,0.534
+Willie Calhoun,0.5,2.1,0.5,1.69,Singles,SEA Mariners,LA Angels,2024-06-01,0.068,0.44,0.56
+Zach Neto,0.5,2.4,0.5,1.526,Singles,SEA Mariners,LA Angels,2024-06-01,0.072,0.376,0.624
+Cal Raleigh,0.5,5.25,0.5,1.143,Doubles,SEA Mariners,LA Angels,2024-06-01,0.065,0.144,0.856
+Dylan Moore,0.5,4.8,0.5,1.167,Doubles,SEA Mariners,LA Angels,2024-06-01,0.065,0.163,0.837
+J.P. Crawford,0.5,4.8,0.5,1.154,Doubles,SEA Mariners,LA Angels,2024-06-01,0.075,0.156,0.844
+Jo Adell,0.5,7.5,0.5,1.071,Doubles,SEA Mariners,LA Angels,2024-06-01,0.067,0.082,0.918
+Julio Rodriguez ,0.5,4.7,0.5,1.167,Doubles,SEA Mariners,LA Angels,2024-06-01,0.07,0.165,0.835
+Kevin Pillar,0.5,7.0,0.5,1.083,Doubles,SEA Mariners,LA Angels,2024-06-01,0.066,0.093,0.907
+Luis Guillorme,0.5,6.0,0.5,1.1,Doubles,SEA Mariners,LA Angels,2024-06-01,0.076,0.111,0.889
+Luis Rengifo,0.5,4.8,0.5,1.167,Doubles,SEA Mariners,LA Angels,2024-06-01,0.065,0.163,0.837
+Luke Raley,0.5,6.0,0.5,1.111,Doubles,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Matt Thaiss,0.5,6.5,0.5,1.083,Doubles,SEA Mariners,LA Angels,2024-06-01,0.077,0.096,0.904
+Mickey Moniak,0.5,5.0,0.5,1.143,Doubles,SEA Mariners,LA Angels,2024-06-01,0.075,0.147,0.853
+Mitch Garver,0.5,5.75,0.5,1.111,Doubles,SEA Mariners,LA Angels,2024-06-01,0.074,0.12,0.88
+Mitch Haniger,0.5,5.25,0.5,1.133,Doubles,SEA Mariners,LA Angels,2024-06-01,0.073,0.139,0.861
+Ryan Bliss,0.5,6.0,0.5,1.111,Doubles,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Taylor Ward,0.5,6.0,0.5,1.111,Doubles,SEA Mariners,LA Angels,2024-06-01,0.067,0.118,0.882
+Ty France,0.5,5.0,0.5,1.143,Doubles,SEA Mariners,LA Angels,2024-06-01,0.075,0.147,0.853
+Willie Calhoun,0.5,4.2,0.5,1.2,Doubles,SEA Mariners,LA Angels,2024-06-01,0.071,0.19,0.81
+Zach Neto,0.5,6.5,0.5,1.091,Doubles,SEA Mariners,LA Angels,2024-06-01,0.071,0.101,0.899
+Cal Raleigh,0.5,3.05,0.5,1.345,Walks,SEA Mariners,LA Angels,2024-06-01,0.071,0.284,0.716
+Dylan Moore,0.5,2.4,0.5,1.526,Walks,SEA Mariners,LA Angels,2024-06-01,0.072,0.376,0.624
+J.P. Crawford,0.5,2.1,0.5,1.667,Walks,SEA Mariners,LA Angels,2024-06-01,0.076,0.436,0.564
+Jo Adell,0.5,4.4,0.5,1.182,Walks,SEA Mariners,LA Angels,2024-06-01,0.073,0.177,0.823
+Julio Rodriguez ,0.5,3.6,0.5,1.263,Walks,SEA Mariners,LA Angels,2024-06-01,0.069,0.233,0.767
+Luis Guillorme,0.5,4.1,0.5,1.211,Walks,SEA Mariners,LA Angels,2024-06-01,0.07,0.197,0.803
+Luis Rengifo,0.5,3.7,0.5,1.25,Walks,SEA Mariners,LA Angels,2024-06-01,0.07,0.225,0.775
+Luke Raley,0.5,4.0,0.5,1.222,Walks,SEA Mariners,LA Angels,2024-06-01,0.068,0.205,0.795
+Matt Thaiss,0.5,3.0,0.5,1.357,Walks,SEA Mariners,LA Angels,2024-06-01,0.07,0.291,0.709
+Mitch Garver,0.5,2.25,0.5,1.588,Walks,SEA Mariners,LA Angels,2024-06-01,0.074,0.404,0.596
+Mitch Haniger,0.5,2.85,0.5,1.392,Walks,SEA Mariners,LA Angels,2024-06-01,0.069,0.31,0.69
+Ryan Bliss,0.5,4.0,0.5,1.222,Walks,SEA Mariners,LA Angels,2024-06-01,0.068,0.205,0.795
+Taylor Ward,0.5,2.95,0.5,1.37,Walks,SEA Mariners,LA Angels,2024-06-01,0.069,0.297,0.703
+Ty France,0.5,3.35,0.5,1.294,Walks,SEA Mariners,LA Angels,2024-06-01,0.071,0.254,0.746
+Willie Calhoun,0.5,4.3,0.5,1.19,Walks,SEA Mariners,LA Angels,2024-06-01,0.073,0.183,0.817
+Zach Neto,0.5,4.6,0.5,1.174,Walks,SEA Mariners,LA Angels,2024-06-01,0.069,0.17,0.83
+Aaron Judge,0.5,4.6,0.5,1.174,Home Runs,SF Giants,NY Yankees,2024-06-01,0.069,0.17,0.83
+Alex Verdugo,0.5,11.0,0.5,1.017,Home Runs,SF Giants,NY Yankees,2024-06-01,0.075,0.025,0.975
+Anthony Rizzo,0.5,10.0,0.5,1.029,Home Runs,SF Giants,NY Yankees,2024-06-01,0.072,0.039,0.961
+Anthony Volpe,0.5,12.0,0.5,1.017,Home Runs,SF Giants,NY Yankees,2024-06-01,0.067,0.024,0.976
+Austin Wells,0.5,10.0,0.5,1.033,Home Runs,SF Giants,NY Yankees,2024-06-01,0.068,0.044,0.956
+Brett Wisely,0.5,9.5,0.5,1.04,Home Runs,SF Giants,NY Yankees,2024-06-01,0.067,0.051,0.949
+Casey Schmitt,0.5,10.5,0.5,1.029,Home Runs,SF Giants,NY Yankees,2024-06-01,0.067,0.038,0.962
+Giancarlo Stanton,0.5,7.0,0.5,1.071,Home Runs,SF Giants,NY Yankees,2024-06-01,0.076,0.084,0.916
+Gleyber Torres,0.5,12.0,0.5,1.01,Home Runs,SF Giants,NY Yankees,2024-06-01,0.073,0.016,0.984
+Heliot Ramos,0.5,9.0,0.5,1.04,Home Runs,SF Giants,NY Yankees,2024-06-01,0.073,0.052,0.948
+Juan Soto,0.5,6.0,0.5,1.1,Home Runs,SF Giants,NY Yankees,2024-06-01,0.076,0.111,0.889
+Luis Matos,0.5,9.0,0.5,1.04,Home Runs,SF Giants,NY Yankees,2024-06-01,0.073,0.052,0.948
+Matt Chapman,0.5,5.5,0.5,1.133,Home Runs,SF Giants,NY Yankees,2024-06-01,0.064,0.136,0.864
+Mike Yastrzemski,0.5,6.0,0.5,1.111,Home Runs,SF Giants,NY Yankees,2024-06-01,0.067,0.118,0.882
+Patrick Bailey,0.5,9.0,0.5,1.05,Home Runs,SF Giants,NY Yankees,2024-06-01,0.063,0.06,0.94
+Trenton Brooks,0.5,8.5,0.5,1.05,Home Runs,SF Giants,NY Yankees,2024-06-01,0.07,0.062,0.938
+Wilmer Flores (SF),0.5,8.5,0.5,1.05,Home Runs,SF Giants,NY Yankees,2024-06-01,0.07,0.062,0.938
+Casey Schmitt,,,,,1st Home Run,SF Giants,NY Yankees,2024-06-01,,,
+Wilmer Flores (SF),,13.0,,1.01,1st Home Run,SF Giants,NY Yankees,2024-06-01,0.067,0.016,0.984
+Aaron Judge,1.5,2.9,1.5,1.385,Hits,SF Giants,NY Yankees,2024-06-01,0.067,0.305,0.695
+Alex Verdugo,0.5,1.417,0.5,2.75,Hits,SF Giants,NY Yankees,2024-06-01,0.07,0.677,0.323
+Anthony Rizzo,0.5,1.465,0.5,2.55,Hits,SF Giants,NY Yankees,2024-06-01,0.075,0.651,0.349
+Anthony Volpe,1.5,2.35,1.5,1.541,Hits,SF Giants,NY Yankees,2024-06-01,0.075,0.384,0.616
+Austin Wells,0.5,1.556,0.5,2.35,Hits,SF Giants,NY Yankees,2024-06-01,0.068,0.612,0.388
+Brett Wisely,0.5,1.69,0.5,2.1,Hits,SF Giants,NY Yankees,2024-06-01,0.068,0.56,0.44
+Casey Schmitt,0.5,1.571,0.5,2.3,Hits,SF Giants,NY Yankees,2024-06-01,0.071,0.604,0.396
+DJ LeMahieu,0.5,1.435,0.5,2.65,Hits,SF Giants,NY Yankees,2024-06-01,0.074,0.666,0.334
+Giancarlo Stanton,0.5,1.435,0.5,2.65,Hits,SF Giants,NY Yankees,2024-06-01,0.074,0.666,0.334
+Gleyber Torres,0.5,1.357,0.5,3.0,Hits,SF Giants,NY Yankees,2024-06-01,0.07,0.709,0.291
+Heliot Ramos,0.5,1.455,0.5,2.6,Hits,SF Giants,NY Yankees,2024-06-01,0.072,0.657,0.343
+Juan Soto,0.5,1.444,0.5,2.65,Hits,SF Giants,NY Yankees,2024-06-01,0.07,0.663,0.337
+Luis Matos,1.5,2.45,1.5,1.513,Hits,SF Giants,NY Yankees,2024-06-01,0.069,0.369,0.631
+Matt Chapman,0.5,1.357,0.5,3.0,Hits,SF Giants,NY Yankees,2024-06-01,0.07,0.709,0.291
+Mike Yastrzemski,0.5,1.606,0.5,2.25,Hits,SF Giants,NY Yankees,2024-06-01,0.067,0.592,0.408
+Patrick Bailey,0.5,1.435,0.5,2.7,Hits,SF Giants,NY Yankees,2024-06-01,0.067,0.669,0.331
+Trenton Brooks,0.5,1.571,0.5,2.3,Hits,SF Giants,NY Yankees,2024-06-01,0.071,0.604,0.396
+Wilmer Flores (SF),0.5,1.385,0.5,2.9,Hits,SF Giants,NY Yankees,2024-06-01,0.067,0.695,0.305
+Aaron Judge,1.5,2.0,1.5,1.741,Total Bases,SF Giants,NY Yankees,2024-06-01,0.074,0.461,0.539
+Alex Verdugo,1.5,2.45,1.5,1.513,Total Bases,SF Giants,NY Yankees,2024-06-01,0.069,0.369,0.631
+Anthony Rizzo,1.5,2.5,1.5,1.488,Total Bases,SF Giants,NY Yankees,2024-06-01,0.072,0.359,0.641
+Anthony Volpe,1.5,2.05,1.5,1.741,Total Bases,SF Giants,NY Yankees,2024-06-01,0.062,0.455,0.545
+Austin Wells,0.5,1.556,0.5,2.35,Total Bases,SF Giants,NY Yankees,2024-06-01,0.068,0.612,0.388
+Brett Wisely,0.5,1.69,0.5,2.1,Total Bases,SF Giants,NY Yankees,2024-06-01,0.068,0.56,0.44
+Casey Schmitt,0.5,1.571,0.5,2.3,Total Bases,SF Giants,NY Yankees,2024-06-01,0.071,0.604,0.396
+DJ LeMahieu,0.5,1.435,0.5,2.7,Total Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.669,0.331
+Giancarlo Stanton,1.5,2.45,1.5,1.513,Total Bases,SF Giants,NY Yankees,2024-06-01,0.069,0.369,0.631
+Gleyber Torres,1.5,2.4,1.5,1.526,Total Bases,SF Giants,NY Yankees,2024-06-01,0.072,0.376,0.624
+Heliot Ramos,1.5,2.55,1.5,1.488,Total Bases,SF Giants,NY Yankees,2024-06-01,0.064,0.355,0.645
+Juan Soto,1.5,2.3,1.5,1.571,Total Bases,SF Giants,NY Yankees,2024-06-01,0.071,0.396,0.604
+Luis Matos,1.5,1.909,1.5,1.8,Total Bases,SF Giants,NY Yankees,2024-06-01,0.079,0.483,0.517
+Matt Chapman,1.5,2.05,1.5,1.714,Total Bases,SF Giants,NY Yankees,2024-06-01,0.071,0.45,0.55
+Mike Yastrzemski,0.5,1.606,0.5,2.25,Total Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.592,0.408
+Patrick Bailey,1.5,2.3,1.5,1.571,Total Bases,SF Giants,NY Yankees,2024-06-01,0.071,0.396,0.604
+Trenton Brooks,0.5,1.571,0.5,2.3,Total Bases,SF Giants,NY Yankees,2024-06-01,0.071,0.604,0.396
+Wilmer Flores (SF),1.5,2.35,1.5,1.556,Total Bases,SF Giants,NY Yankees,2024-06-01,0.068,0.388,0.612
+Aaron Judge,0.5,2.3,0.5,1.588,RBIs,SF Giants,NY Yankees,2024-06-01,0.064,0.399,0.601
+Alex Verdugo,0.5,2.55,0.5,1.465,RBIs,SF Giants,NY Yankees,2024-06-01,0.075,0.349,0.651
+Anthony Rizzo,0.5,3.25,0.5,1.312,RBIs,SF Giants,NY Yankees,2024-06-01,0.07,0.264,0.736
+Anthony Volpe,0.5,3.0,0.5,1.364,RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.293,0.707
+Austin Wells,0.5,3.15,0.5,1.323,RBIs,SF Giants,NY Yankees,2024-06-01,0.074,0.272,0.728
+Brett Wisely,0.5,3.4,0.5,1.294,RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.252,0.748
+Casey Schmitt,0.5,3.4,0.5,1.286,RBIs,SF Giants,NY Yankees,2024-06-01,0.072,0.249,0.751
+DJ LeMahieu,0.5,3.2,0.5,1.323,RBIs,SF Giants,NY Yankees,2024-06-01,0.069,0.27,0.73
+Giancarlo Stanton,0.5,2.65,0.5,1.435,RBIs,SF Giants,NY Yankees,2024-06-01,0.074,0.334,0.666
+Gleyber Torres,0.5,3.05,0.5,1.345,RBIs,SF Giants,NY Yankees,2024-06-01,0.071,0.284,0.716
+Heliot Ramos,0.5,2.9,0.5,1.377,RBIs,SF Giants,NY Yankees,2024-06-01,0.071,0.302,0.698
+Juan Soto,0.5,2.7,0.5,1.426,RBIs,SF Giants,NY Yankees,2024-06-01,0.072,0.328,0.672
+Luis Matos,0.5,2.95,0.5,1.37,RBIs,SF Giants,NY Yankees,2024-06-01,0.069,0.297,0.703
+Matt Chapman,0.5,2.35,0.5,1.556,RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.388,0.612
+Mike Yastrzemski,0.5,2.7,0.5,1.435,RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.331,0.669
+Patrick Bailey,0.5,3.0,0.5,1.364,RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.293,0.707
+Trenton Brooks,0.5,3.15,0.5,1.333,RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.276,0.724
+Wilmer Flores (SF),0.5,3.1,0.5,1.339,RBIs,SF Giants,NY Yankees,2024-06-01,0.069,0.28,0.72
+Aaron Judge,0.5,2.0,0.5,1.741,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.074,0.461,0.539
+Alex Verdugo,0.5,2.55,0.5,1.488,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.064,0.355,0.645
+Anthony Rizzo,0.5,2.5,0.5,1.5,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.067,0.362,0.638
+Anthony Volpe,0.5,1.909,0.5,1.8,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.079,0.483,0.517
+Austin Wells,0.5,2.5,0.5,1.488,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.072,0.359,0.641
+Brett Wisely,0.5,2.7,0.5,1.435,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.067,0.331,0.669
+Casey Schmitt,0.5,2.75,0.5,1.408,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.074,0.32,0.68
+DJ LeMahieu,0.5,2.65,0.5,1.444,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.07,0.337,0.663
+Giancarlo Stanton,0.5,2.45,0.5,1.513,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.069,0.369,0.631
+Gleyber Torres,0.5,2.4,0.5,1.526,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.072,0.376,0.624
+Heliot Ramos,0.5,2.5,0.5,1.488,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.072,0.359,0.641
+Juan Soto,0.5,1.87,0.5,1.87,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.07,0.5,0.5
+Luis Matos,0.5,2.05,0.5,1.741,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.062,0.455,0.545
+Matt Chapman,0.5,2.0,0.5,1.741,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.074,0.461,0.539
+Mike Yastrzemski,0.5,2.25,0.5,1.606,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.067,0.408,0.592
+Patrick Bailey,0.5,2.2,0.5,1.625,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.07,0.417,0.583
+Trenton Brooks,0.5,2.55,0.5,1.476,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.07,0.352,0.648
+Wilmer Flores (SF),0.5,2.2,0.5,1.625,Runs Scored,SF Giants,NY Yankees,2024-06-01,0.07,0.417,0.583
+Aaron Judge,1.5,1.606,1.5,2.25,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.592,0.408
+Alex Verdugo,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.522,0.478
+Anthony Rizzo,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.478,0.522
+Anthony Volpe,2.5,2.25,2.5,1.606,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.408,0.592
+Austin Wells,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.071,0.45,0.55
+Brett Wisely,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.067,0.408,0.592
+Casey Schmitt,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.44,0.56
+DJ LeMahieu,1.5,1.952,1.5,1.8,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.478,0.522
+Giancarlo Stanton,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.07,0.5,0.5
+Gleyber Torres,1.5,1.8,1.5,1.952,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.522,0.478
+Heliot Ramos,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.069,0.489,0.511
+Juan Soto,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.074,0.539,0.461
+Luis Matos,2.5,2.3,2.5,1.571,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.071,0.396,0.604
+Matt Chapman,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.076,0.564,0.436
+Mike Yastrzemski,1.5,2.0,1.5,1.769,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.065,0.466,0.534
+Patrick Bailey,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.069,0.511,0.489
+Trenton Brooks,1.5,2.1,1.5,1.69,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.44,0.56
+Wilmer Flores (SF),1.5,1.8,1.5,1.952,Hits + Runs + RBIs,SF Giants,NY Yankees,2024-06-01,0.068,0.522,0.478
+Alex Verdugo,0.5,12.0,0.5,1.01,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.073,0.016,0.984
+Anthony Volpe,0.5,3.15,0.5,1.333,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.276,0.724
+Brett Wisely,0.5,12.0,0.5,1.017,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.024,0.976
+DJ LeMahieu,0.5,12.0,0.5,1.017,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.024,0.976
+Gleyber Torres,0.5,8.0,0.5,1.056,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.072,0.068,0.932
+Juan Soto,0.5,7.5,0.5,1.071,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.082,0.918
+Matt Chapman,0.5,13.0,0.5,1.01,Stolen Bases,SF Giants,NY Yankees,2024-06-01,0.067,0.016,0.984
+Aaron Judge,1.5,2.65,1.5,1.435,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.074,0.334,0.666
+Alex Verdugo,0.5,1.952,0.5,1.8,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.068,0.478,0.522
+Anthony Rizzo,0.5,1.69,0.5,2.1,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.068,0.56,0.44
+Anthony Volpe,0.5,1.5,0.5,2.5,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.067,0.638,0.362
+Austin Wells,0.5,1.588,0.5,2.25,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.074,0.596,0.404
+Brett Wisely,0.5,1.588,0.5,2.3,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.064,0.601,0.399
+Casey Schmitt,0.5,1.69,0.5,2.1,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.068,0.56,0.44
+DJ LeMahieu,0.5,1.667,0.5,2.1,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.076,0.564,0.436
+Giancarlo Stanton,1.5,2.55,1.5,1.465,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.075,0.349,0.651
+Gleyber Torres,0.5,1.741,0.5,2.0,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.074,0.539,0.461
+Heliot Ramos,0.5,1.426,0.5,2.7,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.072,0.672,0.328
+Juan Soto,0.5,1.541,0.5,2.4,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.066,0.62,0.38
+Luis Matos,0.5,2.3,0.5,1.571,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.071,0.396,0.604
+Matt Chapman,0.5,1.455,0.5,2.65,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.065,0.66,0.34
+Mike Yastrzemski,0.5,1.513,0.5,2.45,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.069,0.631,0.369
+Patrick Bailey,0.5,1.645,0.5,2.2,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.062,0.579,0.421
+Trenton Brooks,0.5,1.8,0.5,1.952,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.068,0.522,0.478
+Wilmer Flores (SF),0.5,2.05,0.5,1.714,Strikeouts,SF Giants,NY Yankees,2024-06-01,0.071,0.45,0.55
+Aaron Judge,0.5,1.741,0.5,2.0,Singles,SF Giants,NY Yankees,2024-06-01,0.074,0.539,0.461
+Alex Verdugo,0.5,1.741,0.5,2.0,Singles,SF Giants,NY Yankees,2024-06-01,0.074,0.539,0.461
+Anthony Rizzo,0.5,1.833,0.5,1.909,Singles,SF Giants,NY Yankees,2024-06-01,0.069,0.511,0.489
+Anthony Volpe,0.5,1.4,0.5,2.8,Singles,SF Giants,NY Yankees,2024-06-01,0.071,0.685,0.315
+Austin Wells,0.5,2.05,0.5,1.741,Singles,SF Giants,NY Yankees,2024-06-01,0.062,0.455,0.545
+Brett Wisely,0.5,2.35,0.5,1.556,Singles,SF Giants,NY Yankees,2024-06-01,0.068,0.388,0.612
+Casey Schmitt,0.5,2.0,0.5,1.769,Singles,SF Giants,NY Yankees,2024-06-01,0.065,0.466,0.534
+DJ LeMahieu,0.5,1.645,0.5,2.15,Singles,SF Giants,NY Yankees,2024-06-01,0.073,0.574,0.426
+Giancarlo Stanton,0.5,1.769,0.5,1.952,Singles,SF Giants,NY Yankees,2024-06-01,0.077,0.528,0.472
+Gleyber Torres,0.5,1.588,0.5,2.25,Singles,SF Giants,NY Yankees,2024-06-01,0.074,0.596,0.404
+Heliot Ramos,0.5,1.833,0.5,1.909,Singles,SF Giants,NY Yankees,2024-06-01,0.069,0.511,0.489
+Juan Soto,0.5,1.952,0.5,1.769,Singles,SF Giants,NY Yankees,2024-06-01,0.077,0.472,0.528
+Luis Matos,0.5,1.488,0.5,2.55,Singles,SF Giants,NY Yankees,2024-06-01,0.064,0.645,0.355
+Matt Chapman,0.5,1.87,0.5,1.87,Singles,SF Giants,NY Yankees,2024-06-01,0.07,0.5,0.5
+Mike Yastrzemski,0.5,2.55,0.5,1.476,Singles,SF Giants,NY Yankees,2024-06-01,0.07,0.352,0.648
+Patrick Bailey,0.5,1.909,0.5,1.833,Singles,SF Giants,NY Yankees,2024-06-01,0.069,0.489,0.511
+Trenton Brooks,0.5,2.15,0.5,1.645,Singles,SF Giants,NY Yankees,2024-06-01,0.073,0.426,0.574
+Wilmer Flores (SF),0.5,1.714,0.5,2.05,Singles,SF Giants,NY Yankees,2024-06-01,0.071,0.55,0.45
+Aaron Judge,0.5,4.4,0.5,1.19,Doubles,SF Giants,NY Yankees,2024-06-01,0.067,0.182,0.818
+Alex Verdugo,0.5,4.4,0.5,1.19,Doubles,SF Giants,NY Yankees,2024-06-01,0.067,0.182,0.818
+Anthony Rizzo,0.5,4.5,0.5,1.182,Doubles,SF Giants,NY Yankees,2024-06-01,0.068,0.176,0.824
+Anthony Volpe,0.5,4.6,0.5,1.174,Doubles,SF Giants,NY Yankees,2024-06-01,0.069,0.17,0.83
+Austin Wells,0.5,5.0,0.5,1.154,Doubles,SF Giants,NY Yankees,2024-06-01,0.067,0.153,0.847
+Brett Wisely,0.5,5.25,0.5,1.133,Doubles,SF Giants,NY Yankees,2024-06-01,0.073,0.139,0.861
+Casey Schmitt,0.5,5.25,0.5,1.143,Doubles,SF Giants,NY Yankees,2024-06-01,0.065,0.144,0.856
+DJ LeMahieu,0.5,5.75,0.5,1.111,Doubles,SF Giants,NY Yankees,2024-06-01,0.074,0.12,0.88
+Giancarlo Stanton,0.5,5.0,0.5,1.143,Doubles,SF Giants,NY Yankees,2024-06-01,0.075,0.147,0.853
+Gleyber Torres,0.5,4.8,0.5,1.167,Doubles,SF Giants,NY Yankees,2024-06-01,0.065,0.163,0.837
+Heliot Ramos,0.5,5.0,0.5,1.143,Doubles,SF Giants,NY Yankees,2024-06-01,0.075,0.147,0.853
+Juan Soto,0.5,4.3,0.5,1.19,Doubles,SF Giants,NY Yankees,2024-06-01,0.073,0.183,0.817
+Luis Matos,0.5,4.1,0.5,1.211,Doubles,SF Giants,NY Yankees,2024-06-01,0.07,0.197,0.803
+Matt Chapman,0.5,4.0,0.5,1.222,Doubles,SF Giants,NY Yankees,2024-06-01,0.068,0.205,0.795
+Mike Yastrzemski,0.5,4.2,0.5,1.2,Doubles,SF Giants,NY Yankees,2024-06-01,0.071,0.19,0.81
+Patrick Bailey,0.5,4.0,0.5,1.222,Doubles,SF Giants,NY Yankees,2024-06-01,0.068,0.205,0.795
+Trenton Brooks,0.5,4.7,0.5,1.167,Doubles,SF Giants,NY Yankees,2024-06-01,0.07,0.165,0.835
+Wilmer Flores (SF),0.5,4.5,0.5,1.182,Doubles,SF Giants,NY Yankees,2024-06-01,0.068,0.176,0.824
+Aaron Judge,0.5,2.05,0.5,1.741,Walks,SF Giants,NY Yankees,2024-06-01,0.062,0.455,0.545
+Alex Verdugo,0.5,3.45,0.5,1.278,Walks,SF Giants,NY Yankees,2024-06-01,0.072,0.244,0.756
+Anthony Rizzo,0.5,4.2,0.5,1.2,Walks,SF Giants,NY Yankees,2024-06-01,0.071,0.19,0.81
+Anthony Volpe,0.5,4.5,0.5,1.182,Walks,SF Giants,NY Yankees,2024-06-01,0.068,0.176,0.824
+Austin Wells,0.5,3.25,0.5,1.312,Walks,SF Giants,NY Yankees,2024-06-01,0.07,0.264,0.736
+Brett Wisely,0.5,3.75,0.5,1.25,Walks,SF Giants,NY Yankees,2024-06-01,0.067,0.223,0.777
+Casey Schmitt,0.5,4.5,0.5,1.182,Walks,SF Giants,NY Yankees,2024-06-01,0.068,0.176,0.824
+DJ LeMahieu,0.5,3.4,0.5,1.294,Walks,SF Giants,NY Yankees,2024-06-01,0.067,0.252,0.748
+Giancarlo Stanton,0.5,3.4,0.5,1.294,Walks,SF Giants,NY Yankees,2024-06-01,0.067,0.252,0.748
+Gleyber Torres,0.5,3.6,0.5,1.263,Walks,SF Giants,NY Yankees,2024-06-01,0.069,0.233,0.767
+Heliot Ramos,0.5,3.25,0.5,1.312,Walks,SF Giants,NY Yankees,2024-06-01,0.07,0.264,0.736
+Juan Soto,0.5,1.8,0.5,1.952,Walks,SF Giants,NY Yankees,2024-06-01,0.068,0.522,0.478
+Luis Matos,0.5,3.95,0.5,1.222,Walks,SF Giants,NY Yankees,2024-06-01,0.071,0.206,0.794
+Matt Chapman,0.5,2.6,0.5,1.465,Walks,SF Giants,NY Yankees,2024-06-01,0.067,0.346,0.654
+Mike Yastrzemski,0.5,2.35,0.5,1.556,Walks,SF Giants,NY Yankees,2024-06-01,0.068,0.388,0.612
+Patrick Bailey,0.5,2.65,0.5,1.455,Walks,SF Giants,NY Yankees,2024-06-01,0.065,0.34,0.66
+Trenton Brooks,0.5,2.95,0.5,1.37,Walks,SF Giants,NY Yankees,2024-06-01,0.069,0.297,0.703
+Wilmer Flores (SF),0.5,2.7,0.5,1.426,Walks,SF Giants,NY Yankees,2024-06-01,0.072,0.328,0.672
+Andy Pages,0.5,5.5,0.5,1.125,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.131,0.869
+Brendan Rodgers,0.5,10.0,0.5,1.033,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.044,0.956
+Brenton Doyle,0.5,10.5,0.5,1.029,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.038,0.962
+Charlie Blackmon,0.5,8.0,0.5,1.062,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.066,0.073,0.927
+Elehuris Montero,0.5,7.5,0.5,1.071,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.082,0.918
+Elias Diaz,0.5,9.0,0.5,1.04,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.052,0.948
+Ezequiel Tovar,0.5,9.0,0.5,1.04,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.052,0.948
+Freddie Freeman,0.5,5.75,0.5,1.111,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Gavin Lux,0.5,10.0,0.5,1.033,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.044,0.956
+Jason Heyward,0.5,8.0,0.5,1.062,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.066,0.073,0.927
+Kris Bryant,0.5,7.5,0.5,1.062,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.075,0.075,0.925
+Miguel Rojas,0.5,12.0,0.5,1.01,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.016,0.984
+Mookie Betts,0.5,5.75,0.5,1.111,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Ryan McMahon,0.5,6.5,0.5,1.083,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.077,0.096,0.904
+Sean Bouchard,0.5,10.0,0.5,1.029,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.072,0.039,0.961
+Shohei Ohtani,0.5,3.6,0.5,1.263,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.069,0.233,0.767
+Teoscar Hernandez,0.5,5.25,0.5,1.143,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.065,0.144,0.856
+Will Smith (LAD),0.5,6.0,0.5,1.111,Home Runs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.118,0.882
+Brendan Rodgers,,,,,1st Home Run,LA Dodgers,COL Rockies,2024-06-01,,,
+Andy Pages,0.5,1.488,0.5,2.5,Hits,LA Dodgers,COL Rockies,2024-06-01,0.072,0.641,0.359
+Brendan Rodgers,0.5,1.541,0.5,2.35,Hits,LA Dodgers,COL Rockies,2024-06-01,0.075,0.616,0.384
+Brenton Doyle,0.5,1.87,0.5,1.87,Hits,LA Dodgers,COL Rockies,2024-06-01,0.07,0.5,0.5
+Charlie Blackmon,0.5,1.513,0.5,2.45,Hits,LA Dodgers,COL Rockies,2024-06-01,0.069,0.631,0.369
+Elehuris Montero,0.5,1.741,0.5,2.0,Hits,LA Dodgers,COL Rockies,2024-06-01,0.074,0.539,0.461
+Elias Diaz,0.5,1.588,0.5,2.3,Hits,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Ezequiel Tovar,0.5,1.588,0.5,2.3,Hits,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Freddie Freeman,0.5,1.385,0.5,2.9,Hits,LA Dodgers,COL Rockies,2024-06-01,0.067,0.695,0.305
+Gavin Lux,0.5,1.588,0.5,2.3,Hits,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Jason Heyward,0.5,1.69,0.5,2.1,Hits,LA Dodgers,COL Rockies,2024-06-01,0.068,0.56,0.44
+Kris Bryant,0.5,1.8,0.5,1.952,Hits,LA Dodgers,COL Rockies,2024-06-01,0.068,0.522,0.478
+Miguel Rojas,0.5,1.513,0.5,2.45,Hits,LA Dodgers,COL Rockies,2024-06-01,0.069,0.631,0.369
+Mookie Betts,1.5,2.85,1.5,1.392,Hits,LA Dodgers,COL Rockies,2024-06-01,0.069,0.31,0.69
+Ryan McMahon,0.5,1.625,0.5,2.2,Hits,LA Dodgers,COL Rockies,2024-06-01,0.07,0.583,0.417
+Sean Bouchard,0.5,2.05,0.5,1.741,Hits,LA Dodgers,COL Rockies,2024-06-01,0.062,0.455,0.545
+Shohei Ohtani,1.5,3.0,1.5,1.364,Hits,LA Dodgers,COL Rockies,2024-06-01,0.067,0.293,0.707
+Teoscar Hernandez,0.5,1.37,0.5,2.95,Hits,LA Dodgers,COL Rockies,2024-06-01,0.069,0.703,0.297
+Will Smith (LAD),0.5,1.351,0.5,3.05,Hits,LA Dodgers,COL Rockies,2024-06-01,0.068,0.714,0.286
+Andy Pages,1.5,2.35,1.5,1.556,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.068,0.388,0.612
+Brendan Rodgers,0.5,1.541,0.5,2.35,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.075,0.616,0.384
+Brenton Doyle,0.5,1.87,0.5,1.87,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.07,0.5,0.5
+Charlie Blackmon,0.5,1.513,0.5,2.45,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.069,0.631,0.369
+Elehuris Montero,0.5,1.741,0.5,2.0,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.074,0.539,0.461
+Elias Diaz,0.5,1.588,0.5,2.3,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Ezequiel Tovar,0.5,1.588,0.5,2.3,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Freddie Freeman,1.5,2.2,1.5,1.625,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.07,0.417,0.583
+Gavin Lux,0.5,1.588,0.5,2.3,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.064,0.601,0.399
+Jason Heyward,0.5,1.69,0.5,2.1,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.068,0.56,0.44
+Kris Bryant,0.5,1.8,0.5,1.952,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.068,0.522,0.478
+Miguel Rojas,0.5,1.513,0.5,2.45,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.069,0.631,0.369
+Mookie Betts,1.5,2.05,1.5,1.741,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.062,0.455,0.545
+Ryan McMahon,0.5,1.625,0.5,2.2,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.07,0.583,0.417
+Sean Bouchard,0.5,2.05,0.5,1.741,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.062,0.455,0.545
+Shohei Ohtani,1.5,1.909,1.5,1.833,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.069,0.489,0.511
+Teoscar Hernandez,1.5,2.2,1.5,1.625,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.07,0.417,0.583
+Will Smith (LAD),1.5,2.15,1.5,1.667,Total Bases,LA Dodgers,COL Rockies,2024-06-01,0.065,0.43,0.57
+Andy Pages,0.5,2.6,0.5,1.455,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.072,0.343,0.657
+Brendan Rodgers,0.5,4.2,0.5,1.211,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.064,0.195,0.805
+Brenton Doyle,0.5,4.5,0.5,1.182,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.176,0.824
+Charlie Blackmon,0.5,3.8,0.5,1.235,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.216,0.784
+Elehuris Montero,0.5,3.75,0.5,1.25,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.223,0.777
+Elias Diaz,0.5,3.55,0.5,1.27,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.069,0.238,0.762
+Ezequiel Tovar,0.5,4.2,0.5,1.2,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.19,0.81
+Freddie Freeman,0.5,2.35,0.5,1.556,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.388,0.612
+Gavin Lux,0.5,3.15,0.5,1.333,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.276,0.724
+Jason Heyward,0.5,3.25,0.5,1.312,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.264,0.736
+Kris Bryant,0.5,3.8,0.5,1.235,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.216,0.784
+Miguel Rojas,0.5,3.65,0.5,1.256,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.229,0.771
+Mookie Betts,0.5,2.75,0.5,1.417,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.323,0.677
+Ryan McMahon,0.5,3.7,0.5,1.25,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.225,0.775
+Sean Bouchard,0.5,4.7,0.5,1.167,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.165,0.835
+Shohei Ohtani,0.5,2.25,0.5,1.606,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Teoscar Hernandez,0.5,2.35,0.5,1.541,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.075,0.384,0.616
+Will Smith (LAD),0.5,2.25,0.5,1.606,RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Andy Pages,0.5,2.3,0.5,1.571,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.071,0.396,0.604
+Brendan Rodgers,0.5,3.45,0.5,1.278,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.072,0.244,0.756
+Brenton Doyle,0.5,3.35,0.5,1.294,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.071,0.254,0.746
+Charlie Blackmon,0.5,2.8,0.5,1.408,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.067,0.317,0.683
+Elehuris Montero,0.5,3.45,0.5,1.286,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.068,0.247,0.753
+Elias Diaz,0.5,3.3,0.5,1.303,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.07,0.259,0.741
+Ezequiel Tovar,0.5,3.05,0.5,1.345,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.071,0.284,0.716
+Freddie Freeman,0.5,1.909,0.5,1.833,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.069,0.489,0.511
+Gavin Lux,0.5,2.5,0.5,1.488,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.072,0.359,0.641
+Jason Heyward,0.5,2.6,0.5,1.465,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.067,0.346,0.654
+Kris Bryant,0.5,3.05,0.5,1.345,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.071,0.284,0.716
+Miguel Rojas,0.5,2.55,0.5,1.476,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.07,0.352,0.648
+Mookie Betts,0.5,1.69,0.5,2.1,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.068,0.56,0.44
+Ryan McMahon,0.5,2.85,0.5,1.385,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.073,0.307,0.693
+Sean Bouchard,0.5,3.7,0.5,1.25,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.07,0.225,0.775
+Shohei Ohtani,0.5,1.588,0.5,2.25,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.074,0.596,0.404
+Teoscar Hernandez,0.5,2.1,0.5,1.69,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.068,0.44,0.56
+Will Smith (LAD),0.5,2.1,0.5,1.69,Runs Scored,LA Dodgers,COL Rockies,2024-06-01,0.068,0.44,0.56
+Andy Pages,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.069,0.489,0.511
+Brendan Rodgers,1.5,2.4,1.5,1.541,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.066,0.38,0.62
+Brenton Doyle,0.5,1.69,0.5,2.1,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.56,0.44
+Charlie Blackmon,1.5,2.2,1.5,1.625,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.417,0.583
+Elehuris Montero,0.5,1.625,0.5,2.2,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.583,0.417
+Elias Diaz,1.5,2.3,1.5,1.571,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.396,0.604
+Ezequiel Tovar,1.5,2.35,1.5,1.556,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.388,0.612
+Freddie Freeman,1.5,1.667,1.5,2.15,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.065,0.57,0.43
+Gavin Lux,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.45,0.55
+Jason Heyward,1.5,2.25,1.5,1.606,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Kris Bryant,0.5,1.625,0.5,2.2,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.07,0.583,0.417
+Miguel Rojas,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.45,0.55
+Mookie Betts,2.5,2.25,2.5,1.606,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Ryan McMahon,1.5,2.4,1.5,1.541,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.066,0.38,0.62
+Sean Bouchard,0.5,1.833,0.5,1.909,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.069,0.511,0.489
+Shohei Ohtani,2.5,2.05,2.5,1.714,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.071,0.45,0.55
+Teoscar Hernandez,1.5,1.69,1.5,2.1,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.068,0.56,0.44
+Will Smith (LAD),1.5,1.645,1.5,2.15,Hits + Runs + RBIs,LA Dodgers,COL Rockies,2024-06-01,0.073,0.574,0.426
+Andy Pages,0.5,13.0,0.5,1.01,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.067,0.016,0.984
+Brenton Doyle,0.5,6.0,0.5,1.1,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.076,0.111,0.889
+Charlie Blackmon,0.5,12.0,0.5,1.017,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.067,0.024,0.976
+Ezequiel Tovar,0.5,10.0,0.5,1.029,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.072,0.039,0.961
+Freddie Freeman,0.5,9.5,0.5,1.04,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.067,0.051,0.949
+Gavin Lux,0.5,10.5,0.5,1.025,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.071,0.035,0.965
+Miguel Rojas,0.5,13.0,0.5,1.005,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.072,0.009,0.991
+Mookie Betts,0.5,7.5,0.5,1.071,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.067,0.082,0.918
+Shohei Ohtani,0.5,5.25,0.5,1.133,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.073,0.139,0.861
+Teoscar Hernandez,0.5,10.0,0.5,1.033,Stolen Bases,LA Dodgers,COL Rockies,2024-06-01,0.068,0.044,0.956
+Andy Pages,0.5,1.476,0.5,2.55,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.07,0.648,0.352
+Brendan Rodgers,0.5,1.385,0.5,2.9,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.067,0.695,0.305
+Brenton Doyle,1.5,2.25,1.5,1.606,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Charlie Blackmon,0.5,1.455,0.5,2.65,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.065,0.66,0.34
+Elehuris Montero,1.5,2.55,1.5,1.476,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.07,0.352,0.648
+Elias Diaz,1.5,2.95,1.5,1.37,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.069,0.297,0.703
+Ezequiel Tovar,1.5,2.2,1.5,1.625,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.07,0.417,0.583
+Freddie Freeman,0.5,1.741,0.5,2.0,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.074,0.539,0.461
+Gavin Lux,0.5,1.8,0.5,1.952,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.068,0.522,0.478
+Jason Heyward,0.5,1.909,0.5,1.833,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.069,0.489,0.511
+Kris Bryant,1.5,2.25,1.5,1.606,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.067,0.408,0.592
+Miguel Rojas,0.5,2.85,0.5,1.385,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.073,0.307,0.693
+Mookie Betts,0.5,2.35,0.5,1.541,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.075,0.384,0.616
+Ryan McMahon,1.5,2.1,1.5,1.69,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.068,0.44,0.56
+Sean Bouchard,1.5,2.4,1.5,1.541,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.066,0.38,0.62
+Shohei Ohtani,0.5,1.476,0.5,2.55,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.07,0.648,0.352
+Teoscar Hernandez,0.5,1.4,0.5,2.8,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.071,0.685,0.315
+Will Smith (LAD),0.5,2.05,0.5,1.714,Strikeouts,LA Dodgers,COL Rockies,2024-06-01,0.071,0.45,0.55
+Andy Pages,0.5,2.15,0.5,1.667,Singles,LA Dodgers,COL Rockies,2024-06-01,0.065,0.43,0.57
+Brendan Rodgers,0.5,1.909,0.5,1.833,Singles,LA Dodgers,COL Rockies,2024-06-01,0.069,0.489,0.511
+Brenton Doyle,0.5,2.5,0.5,1.5,Singles,LA Dodgers,COL Rockies,2024-06-01,0.067,0.362,0.638
+Charlie Blackmon,0.5,2.0,0.5,1.769,Singles,LA Dodgers,COL Rockies,2024-06-01,0.065,0.466,0.534
+Elehuris Montero,0.5,2.45,0.5,1.526,Singles,LA Dodgers,COL Rockies,2024-06-01,0.063,0.372,0.628
+Elias Diaz,0.5,1.952,0.5,1.8,Singles,LA Dodgers,COL Rockies,2024-06-01,0.068,0.478,0.522
+Ezequiel Tovar,0.5,2.05,0.5,1.714,Singles,LA Dodgers,COL Rockies,2024-06-01,0.071,0.45,0.55
+Freddie Freeman,0.5,1.8,0.5,1.952,Singles,LA Dodgers,COL Rockies,2024-06-01,0.068,0.522,0.478
+Gavin Lux,0.5,1.952,0.5,1.769,Singles,LA Dodgers,COL Rockies,2024-06-01,0.077,0.472,0.528
+Jason Heyward,0.5,2.3,0.5,1.571,Singles,LA Dodgers,COL Rockies,2024-06-01,0.071,0.396,0.604
+Kris Bryant,0.5,2.5,0.5,1.5,Singles,LA Dodgers,COL Rockies,2024-06-01,0.067,0.362,0.638
+Miguel Rojas,0.5,1.8,0.5,1.952,Singles,LA Dodgers,COL Rockies,2024-06-01,0.068,0.522,0.478
+Mookie Betts,0.5,1.714,0.5,2.05,Singles,LA Dodgers,COL Rockies,2024-06-01,0.071,0.55,0.45
+Ryan McMahon,0.5,2.15,0.5,1.645,Singles,LA Dodgers,COL Rockies,2024-06-01,0.073,0.426,0.574
+Sean Bouchard,0.5,2.7,0.5,1.426,Singles,LA Dodgers,COL Rockies,2024-06-01,0.072,0.328,0.672
+Shohei Ohtani,0.5,1.952,0.5,1.769,Singles,LA Dodgers,COL Rockies,2024-06-01,0.077,0.472,0.528
+Teoscar Hernandez,0.5,1.87,0.5,1.87,Singles,LA Dodgers,COL Rockies,2024-06-01,0.07,0.5,0.5
+Will Smith (LAD),0.5,1.769,0.5,2.0,Singles,LA Dodgers,COL Rockies,2024-06-01,0.065,0.534,0.466
+Andy Pages,0.5,4.7,0.5,1.167,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.07,0.165,0.835
+Brendan Rodgers,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Brenton Doyle,0.5,6.5,0.5,1.091,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.071,0.101,0.899
+Charlie Blackmon,0.5,5.0,0.5,1.143,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.075,0.147,0.853
+Elehuris Montero,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Elias Diaz,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Ezequiel Tovar,0.5,5.0,0.5,1.143,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.075,0.147,0.853
+Freddie Freeman,0.5,4.6,0.5,1.174,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.069,0.17,0.83
+Gavin Lux,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Jason Heyward,0.5,6.0,0.5,1.1,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.076,0.111,0.889
+Kris Bryant,0.5,6.0,0.5,1.1,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.076,0.111,0.889
+Miguel Rojas,0.5,6.0,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.067,0.118,0.882
+Mookie Betts,0.5,3.95,0.5,1.222,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.071,0.206,0.794
+Ryan McMahon,0.5,5.75,0.5,1.111,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.074,0.12,0.88
+Sean Bouchard,0.5,7.5,0.5,1.071,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.067,0.082,0.918
+Shohei Ohtani,0.5,4.6,0.5,1.174,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.069,0.17,0.83
+Teoscar Hernandez,0.5,4.7,0.5,1.167,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.07,0.165,0.835
+Will Smith (LAD),0.5,4.3,0.5,1.19,Doubles,LA Dodgers,COL Rockies,2024-06-01,0.073,0.183,0.817
+Andy Pages,0.5,4.2,0.5,1.2,Walks,LA Dodgers,COL Rockies,2024-06-01,0.071,0.19,0.81
+Brendan Rodgers,0.5,4.4,0.5,1.19,Walks,LA Dodgers,COL Rockies,2024-06-01,0.067,0.182,0.818
+Charlie Blackmon,0.5,4.4,0.5,1.19,Walks,LA Dodgers,COL Rockies,2024-06-01,0.067,0.182,0.818
+Freddie Freeman,0.5,1.952,0.5,1.769,Walks,LA Dodgers,COL Rockies,2024-06-01,0.077,0.472,0.528
+Gavin Lux,0.5,2.45,0.5,1.513,Walks,LA Dodgers,COL Rockies,2024-06-01,0.069,0.369,0.631
+Jason Heyward,0.5,3.15,0.5,1.323,Walks,LA Dodgers,COL Rockies,2024-06-01,0.074,0.272,0.728
+Kris Bryant,0.5,3.85,0.5,1.235,Walks,LA Dodgers,COL Rockies,2024-06-01,0.069,0.214,0.786
+Miguel Rojas,0.5,4.3,0.5,1.19,Walks,LA Dodgers,COL Rockies,2024-06-01,0.073,0.183,0.817
+Mookie Betts,0.5,2.35,0.5,1.556,Walks,LA Dodgers,COL Rockies,2024-06-01,0.068,0.388,0.612
+Ryan McMahon,0.5,2.75,0.5,1.417,Walks,LA Dodgers,COL Rockies,2024-06-01,0.07,0.323,0.677
+Sean Bouchard,0.5,4.2,0.5,1.2,Walks,LA Dodgers,COL Rockies,2024-06-01,0.071,0.19,0.81
+Shohei Ohtani,0.5,1.769,0.5,1.952,Walks,LA Dodgers,COL Rockies,2024-06-01,0.077,0.528,0.472
+Teoscar Hernandez,0.5,3.4,0.5,1.286,Walks,LA Dodgers,COL Rockies,2024-06-01,0.072,0.249,0.751
+Will Smith (LAD),0.5,3.0,0.5,1.357,Walks,LA Dodgers,COL Rockies,2024-06-01,0.07,0.291,0.709

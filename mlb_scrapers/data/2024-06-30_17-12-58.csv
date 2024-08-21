@@ -1,0 +1,171 @@
+players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,date,hold,over_true_prob,under_true_prob
+Adley Rutschman,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Adolis Garcia,0.5,3.65,0.5,1.25,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.226,0.774
+Andrew Knizner,0.5,6.5,0.5,1.091,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.101,0.899
+Anthony Santander,0.5,3.8,0.5,1.235,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.216,0.784
+Austin Hays,0.5,5.5,0.5,1.111,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.082,0.122,0.878
+Colton Cowser,0.5,8.5,0.5,1.05,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.062,0.938
+Davis Wendzel,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Derek Hill,0.5,8.5,0.5,1.04,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.053,0.947
+Gunnar Henderson,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Heston Kjerstad,0.5,7.5,0.5,1.062,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.075,0.925
+Jordan Westburg,0.5,5.25,0.5,1.125,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.133,0.867
+Jorge Mateo,0.5,6.5,0.5,1.083,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.096,0.904
+Josh Smith,0.5,9.0,0.5,1.04,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Marcus Semien,0.5,5.0,0.5,1.143,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.147,0.853
+Nathaniel Lowe,0.5,9.5,0.5,1.033,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.044,0.956
+Robbie Grossman,0.5,6.5,0.5,1.083,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.096,0.904
+Ryan O'Hearn,0.5,8.5,0.5,1.05,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.062,0.938
+Wyatt Langford,0.5,5.5,0.5,1.111,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.082,0.122,0.878
+Andrew Knizner,,12.0,,1.01,1st Home Run,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.016,0.984
+Heston Kjerstad,,,,,1st Home Run,BAL Orioles,TEX Rangers,2024-06-30,,,
+Ryan O'Hearn,,,,,1st Home Run,BAL Orioles,TEX Rangers,2024-06-30,,,
+Adley Rutschman,1.5,2.85,1.5,1.392,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.31,0.69
+Adolis Garcia,1.5,2.8,1.5,1.392,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.312,0.688
+Andrew Knizner,0.5,1.444,0.5,2.6,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.66,0.34
+Anthony Santander,0.5,1.392,0.5,2.85,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.69,0.31
+Austin Hays,0.5,1.435,0.5,2.65,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.666,0.334
+Colton Cowser,0.5,1.714,0.5,2.0,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.083,0.543,0.457
+Davis Wendzel,0.5,1.606,0.5,2.2,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.587,0.413
+Derek Hill,0.5,1.377,0.5,2.9,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.698,0.302
+Gunnar Henderson,0.5,1.4,0.5,2.8,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.685,0.315
+Heston Kjerstad,0.5,1.606,0.5,2.2,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.587,0.413
+Jordan Westburg,0.5,1.364,0.5,2.95,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.705,0.295
+Jorge Mateo,0.5,1.476,0.5,2.5,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.644,0.356
+Josh Smith,0.5,1.455,0.5,2.6,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.657,0.343
+Marcus Semien,1.5,2.45,1.5,1.5,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Nathaniel Lowe,0.5,1.435,0.5,2.65,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.666,0.334
+Robbie Grossman,0.5,1.4,0.5,2.8,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.685,0.315
+Ryan O'Hearn,0.5,1.588,0.5,2.25,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.596,0.404
+Wyatt Langford,1.5,3.05,1.5,1.345,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.284,0.716
+Adley Rutschman,1.5,2.05,1.5,1.69,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Adolis Garcia,1.5,1.8,1.5,1.909,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.517,0.483
+Andrew Knizner,1.5,2.25,1.5,1.571,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.4,0.6
+Anthony Santander,1.5,2.05,1.5,1.714,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.45,0.55
+Austin Hays,1.5,2.25,1.5,1.588,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Colton Cowser,0.5,1.714,0.5,2.0,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.083,0.543,0.457
+Davis Wendzel,0.5,1.571,0.5,2.25,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.6,0.4
+Derek Hill,1.5,2.25,1.5,1.588,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Gunnar Henderson,1.5,2.25,1.5,1.588,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Heston Kjerstad,0.5,1.606,0.5,2.2,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.587,0.413
+Jordan Westburg,1.5,2.1,1.5,1.69,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.44,0.56
+Jorge Mateo,1.5,2.35,1.5,1.556,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.388,0.612
+Josh Smith,1.5,2.45,1.5,1.5,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Marcus Semien,1.5,1.833,1.5,1.87,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Nathaniel Lowe,1.5,2.55,1.5,1.465,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.349,0.651
+Robbie Grossman,1.5,2.35,1.5,1.541,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Ryan O'Hearn,0.5,1.588,0.5,2.25,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.596,0.404
+Wyatt Langford,1.5,2.0,1.5,1.741,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Adley Rutschman,0.5,2.6,0.5,1.455,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.343,0.657
+Adolis Garcia,0.5,2.0,0.5,1.741,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Andrew Knizner,0.5,2.75,0.5,1.417,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.323,0.677
+Anthony Santander,0.5,2.2,0.5,1.606,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.413,0.587
+Austin Hays,0.5,2.55,0.5,1.476,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.352,0.648
+Colton Cowser,0.5,3.3,0.5,1.294,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.255,0.745
+Davis Wendzel,0.5,2.9,0.5,1.37,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.3,0.7
+Derek Hill,0.5,2.75,0.5,1.417,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.323,0.677
+Gunnar Henderson,0.5,2.95,0.5,1.37,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.297,0.703
+Heston Kjerstad,0.5,3.0,0.5,1.351,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.288,0.712
+Jordan Westburg,0.5,2.45,0.5,1.513,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.369,0.631
+Jorge Mateo,0.5,2.8,0.5,1.392,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.312,0.688
+Josh Smith,0.5,3.4,0.5,1.286,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.249,0.751
+Marcus Semien,0.5,2.6,0.5,1.444,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.34,0.66
+Nathaniel Lowe,0.5,3.0,0.5,1.357,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.291,0.709
+Robbie Grossman,0.5,2.85,0.5,1.392,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.31,0.69
+Ryan O'Hearn,0.5,3.25,0.5,1.312,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.264,0.736
+Wyatt Langford,0.5,2.4,0.5,1.513,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.078,0.373,0.627
+Adley Rutschman,0.5,1.87,0.5,1.833,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Adolis Garcia,0.5,1.833,0.5,1.87,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Andrew Knizner,0.5,2.3,0.5,1.556,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.078,0.392,0.608
+Anthony Santander,0.5,1.87,0.5,1.833,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Austin Hays,0.5,2.15,0.5,1.625,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.422,0.578
+Colton Cowser,0.5,2.3,0.5,1.556,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.078,0.392,0.608
+Davis Wendzel,0.5,2.45,0.5,1.513,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.369,0.631
+Derek Hill,0.5,2.3,0.5,1.571,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.396,0.604
+Gunnar Henderson,0.5,1.8,0.5,1.909,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.517,0.483
+Heston Kjerstad,0.5,2.5,0.5,1.488,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.359,0.641
+Jordan Westburg,0.5,2.0,0.5,1.741,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Jorge Mateo,0.5,2.25,0.5,1.588,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Josh Smith,0.5,2.2,0.5,1.625,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.417,0.583
+Marcus Semien,0.5,1.833,0.5,1.909,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.511,0.489
+Nathaniel Lowe,0.5,2.5,0.5,1.476,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.356,0.644
+Robbie Grossman,0.5,2.05,0.5,1.69,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Ryan O'Hearn,0.5,2.5,0.5,1.488,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.359,0.641
+Wyatt Langford,0.5,1.952,0.5,1.769,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Adley Rutschman,1.5,1.588,1.5,2.25,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.596,0.404
+Adolis Garcia,2.5,2.0,2.5,1.741,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Andrew Knizner,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.511,0.489
+Anthony Santander,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.564,0.436
+Austin Hays,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+Colton Cowser,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.413,0.587
+Davis Wendzel,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.45,0.55
+Derek Hill,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+Gunnar Henderson,1.5,1.645,1.5,2.1,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.084,0.569,0.431
+Heston Kjerstad,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Jordan Westburg,1.5,1.69,1.5,2.1,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.56,0.44
+Jorge Mateo,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Josh Smith,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.489,0.511
+Marcus Semien,2.5,2.15,2.5,1.645,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.426,0.574
+Nathaniel Lowe,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.483,0.517
+Robbie Grossman,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Ryan O'Hearn,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Wyatt Langford,1.5,1.606,1.5,2.2,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.587,0.413
+Adolis Garcia,0.5,13.0,0.5,1.005,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.009,0.991
+Colton Cowser,0.5,9.5,0.5,1.033,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.044,0.956
+Derek Hill,0.5,8.5,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.053,0.947
+Gunnar Henderson,0.5,6.5,0.5,1.083,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.096,0.904
+Jordan Westburg,0.5,8.5,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.053,0.947
+Jorge Mateo,0.5,4.3,0.5,1.19,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.183,0.817
+Ryan O'Hearn,0.5,12.0,0.5,1.01,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.016,0.984
+Wyatt Langford,0.5,9.0,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Adley Rutschman,0.5,1.667,0.5,2.1,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.564,0.436
+Adolis Garcia,0.5,1.8,0.5,1.909,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.517,0.483
+Andrew Knizner,0.5,1.909,0.5,1.833,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.489,0.511
+Anthony Santander,0.5,2.05,0.5,1.69,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Austin Hays,0.5,1.87,0.5,1.833,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Colton Cowser,0.5,2.3,0.5,1.571,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.396,0.604
+Davis Wendzel,0.5,2.25,0.5,1.588,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Derek Hill,0.5,1.645,0.5,2.15,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.574,0.426
+Gunnar Henderson,0.5,1.909,0.5,1.8,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.483,0.517
+Heston Kjerstad,0.5,2.15,0.5,1.645,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.426,0.574
+Jordan Westburg,0.5,1.833,0.5,1.909,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.511,0.489
+Jorge Mateo,0.5,1.87,0.5,1.87,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.5,0.5
+Josh Smith,0.5,1.87,0.5,1.833,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Marcus Semien,0.5,1.645,0.5,2.15,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.574,0.426
+Nathaniel Lowe,0.5,1.741,0.5,2.0,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Robbie Grossman,0.5,1.769,0.5,1.952,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+Ryan O'Hearn,0.5,2.05,0.5,1.714,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.45,0.55
+Wyatt Langford,0.5,1.741,0.5,2.0,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Adley Rutschman,0.5,4.3,0.5,1.19,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.183,0.817
+Adolis Garcia,0.5,4.1,0.5,1.211,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.197,0.803
+Andrew Knizner,0.5,4.4,0.5,1.182,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.177,0.823
+Anthony Santander,0.5,4.5,0.5,1.182,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.176,0.824
+Austin Hays,0.5,4.7,0.5,1.167,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.165,0.835
+Colton Cowser,0.5,6.0,0.5,1.1,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Davis Wendzel,0.5,5.0,0.5,1.143,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.147,0.853
+Derek Hill,0.5,4.5,0.5,1.174,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.171,0.829
+Gunnar Henderson,0.5,4.6,0.5,1.174,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.17,0.83
+Heston Kjerstad,0.5,5.25,0.5,1.125,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.133,0.867
+Jordan Westburg,0.5,4.5,0.5,1.174,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.171,0.829
+Jorge Mateo,0.5,4.7,0.5,1.154,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.157,0.843
+Josh Smith,0.5,4.7,0.5,1.167,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.165,0.835
+Marcus Semien,0.5,3.45,0.5,1.278,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.244,0.756
+Nathaniel Lowe,0.5,5.0,0.5,1.133,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.082,0.141,0.859
+Robbie Grossman,0.5,4.4,0.5,1.182,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.177,0.823
+Ryan O'Hearn,0.5,5.0,0.5,1.133,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.082,0.141,0.859
+Wyatt Langford,0.5,3.95,0.5,1.222,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.206,0.794
+Adley Rutschman,0.5,2.2,0.5,1.606,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.413,0.587
+Adolis Garcia,0.5,3.6,0.5,1.263,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.233,0.767
+Anthony Santander,0.5,2.1,0.5,1.645,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.084,0.431,0.569
+Austin Hays,0.5,3.45,0.5,1.278,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.244,0.756
+Colton Cowser,0.5,2.6,0.5,1.455,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.343,0.657
+Gunnar Henderson,0.5,1.833,0.5,1.909,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.511,0.489
+Heston Kjerstad,0.5,3.2,0.5,1.312,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.266,0.734
+Jordan Westburg,0.5,3.25,0.5,1.312,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.264,0.736
+Jorge Mateo,0.5,3.9,0.5,1.222,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.207,0.793
+Josh Smith,0.5,3.65,0.5,1.256,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.229,0.771
+Marcus Semien,0.5,3.3,0.5,1.303,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.259,0.741
+Nathaniel Lowe,0.5,3.55,0.5,1.27,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.238,0.762
+Robbie Grossman,0.5,2.55,0.5,1.465,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.349,0.651
+Ryan O'Hearn,0.5,2.95,0.5,1.37,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.297,0.703
+Wyatt Langford,0.5,3.0,0.5,1.357,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.291,0.709

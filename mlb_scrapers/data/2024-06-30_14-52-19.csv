@@ -1,0 +1,894 @@
+players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,date,hold,over_true_prob,under_true_prob
+Andy Pages,0.5,6.0,0.5,1.1,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.076,0.111,0.889
+Austin Slater,0.5,9.0,0.5,1.04,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.073,0.052,0.948
+Chris Taylor,0.5,9.5,0.5,1.033,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.073,0.044,0.956
+David Villar,0.5,6.5,0.5,1.083,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.077,0.096,0.904
+Freddie Freeman,0.5,7.0,0.5,1.071,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.076,0.084,0.916
+Gavin Lux,0.5,11.0,0.5,1.017,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.075,0.025,0.975
+Heliot Ramos,0.5,5.5,0.5,1.125,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.071,0.131,0.869
+Jason Heyward,0.5,8.5,0.5,1.04,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.079,0.053,0.947
+Jorge Soler,0.5,3.95,0.5,1.222,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.071,0.206,0.794
+Kike Hernandez,0.5,9.0,0.5,1.04,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.073,0.052,0.948
+Luis Matos,0.5,8.5,0.5,1.05,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.07,0.062,0.938
+Matt Chapman,0.5,4.6,0.5,1.167,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.075,0.166,0.834
+Nick Ahmed,0.5,10.0,0.5,1.029,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.072,0.039,0.961
+Patrick Bailey,0.5,7.5,0.5,1.062,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.075,0.075,0.925
+Shohei Ohtani,0.5,4.0,0.5,1.211,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.076,0.199,0.801
+Teoscar Hernandez,0.5,6.0,0.5,1.1,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.076,0.111,0.889
+Tyler Fitzgerald,0.5,8.0,0.5,1.05,Home Runs,SF Giants,LA Dodgers,2024-06-30,0.077,0.063,0.937
+Andy Pages,,10.5,,1.025,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.071,0.035,0.965
+Austin Barnes,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Austin Slater,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Chris Taylor,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+David Villar,,13.0,,1.005,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.072,0.009,0.991
+Freddie Freeman,,12.0,,1.012,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.071,0.019,0.981
+Gavin Lux,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Heliot Ramos,,10.5,,1.025,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.071,0.035,0.965
+Jason Heyward,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Jorge Soler,,7.0,,1.071,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.076,0.084,0.916
+Kike Hernandez,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Luis Matos,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Matt Chapman,,9.0,,1.04,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.073,0.052,0.948
+Nick Ahmed,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Patrick Bailey,,13.0,,1.005,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.072,0.009,0.991
+Shohei Ohtani,,7.0,,1.071,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.076,0.084,0.916
+Teoscar Hernandez,,10.5,,1.025,1st Home Run,SF Giants,LA Dodgers,2024-06-30,0.071,0.035,0.965
+Tyler Fitzgerald,,,,,1st Home Run,SF Giants,LA Dodgers,2024-06-30,,,
+Andy Pages,0.5,1.37,0.5,2.9,Hits,SF Giants,LA Dodgers,2024-06-30,0.075,0.7,0.3
+Austin Barnes,0.5,1.645,0.5,2.15,Hits,SF Giants,LA Dodgers,2024-06-30,0.073,0.574,0.426
+Austin Slater,0.5,1.571,0.5,2.3,Hits,SF Giants,LA Dodgers,2024-06-30,0.071,0.604,0.396
+Chris Taylor,0.5,1.714,0.5,2.05,Hits,SF Giants,LA Dodgers,2024-06-30,0.071,0.55,0.45
+David Villar,0.5,1.769,0.5,1.952,Hits,SF Giants,LA Dodgers,2024-06-30,0.077,0.528,0.472
+Freddie Freeman,0.5,1.351,0.5,3.0,Hits,SF Giants,LA Dodgers,2024-06-30,0.074,0.712,0.288
+Gavin Lux,0.5,1.526,0.5,2.4,Hits,SF Giants,LA Dodgers,2024-06-30,0.072,0.624,0.376
+Heliot Ramos,0.5,1.435,0.5,2.65,Hits,SF Giants,LA Dodgers,2024-06-30,0.074,0.666,0.334
+Jason Heyward,0.5,1.606,0.5,2.2,Hits,SF Giants,LA Dodgers,2024-06-30,0.077,0.587,0.413
+Jorge Soler,0.5,1.444,0.5,2.65,Hits,SF Giants,LA Dodgers,2024-06-30,0.07,0.663,0.337
+Kike Hernandez,0.5,1.476,0.5,2.55,Hits,SF Giants,LA Dodgers,2024-06-30,0.07,0.648,0.352
+Luis Matos,0.5,1.476,0.5,2.55,Hits,SF Giants,LA Dodgers,2024-06-30,0.07,0.648,0.352
+Matt Chapman,0.5,1.426,0.5,2.7,Hits,SF Giants,LA Dodgers,2024-06-30,0.072,0.672,0.328
+Nick Ahmed,0.5,1.667,0.5,2.1,Hits,SF Giants,LA Dodgers,2024-06-30,0.076,0.564,0.436
+Patrick Bailey,0.5,1.556,0.5,2.3,Hits,SF Giants,LA Dodgers,2024-06-30,0.078,0.608,0.392
+Shohei Ohtani,1.5,2.8,1.5,1.4,Hits,SF Giants,LA Dodgers,2024-06-30,0.071,0.315,0.685
+Teoscar Hernandez,1.5,2.75,1.5,1.417,Hits,SF Giants,LA Dodgers,2024-06-30,0.07,0.323,0.677
+Tyler Fitzgerald,0.5,1.769,0.5,1.952,Hits,SF Giants,LA Dodgers,2024-06-30,0.077,0.528,0.472
+Andy Pages,1.5,2.1,1.5,1.69,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.068,0.44,0.56
+Austin Barnes,0.5,1.645,0.5,2.15,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.073,0.574,0.426
+Austin Slater,0.5,1.571,0.5,2.3,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.071,0.604,0.396
+Chris Taylor,0.5,1.645,0.5,2.15,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.073,0.574,0.426
+David Villar,0.5,1.769,0.5,1.952,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.077,0.528,0.472
+Freddie Freeman,1.5,2.0,1.5,1.741,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.074,0.461,0.539
+Gavin Lux,0.5,1.526,0.5,2.4,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.072,0.624,0.376
+Heliot Ramos,1.5,2.25,1.5,1.588,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.074,0.404,0.596
+Jason Heyward,0.5,1.606,0.5,2.2,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.077,0.587,0.413
+Jorge Soler,1.5,2.05,1.5,1.69,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.08,0.446,0.554
+Kike Hernandez,0.5,1.476,0.5,2.55,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.07,0.648,0.352
+Luis Matos,1.5,2.45,1.5,1.5,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.075,0.366,0.634
+Matt Chapman,1.5,2.1,1.5,1.667,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.076,0.436,0.564
+Nick Ahmed,0.5,1.667,0.5,2.1,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.076,0.564,0.436
+Patrick Bailey,0.5,1.556,0.5,2.3,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.078,0.608,0.392
+Shohei Ohtani,1.5,1.87,1.5,1.87,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.07,0.5,0.5
+Teoscar Hernandez,1.5,2.0,1.5,1.714,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.083,0.457,0.543
+Tyler Fitzgerald,0.5,1.769,0.5,1.952,Total Bases,SF Giants,LA Dodgers,2024-06-30,0.077,0.528,0.472
+Andy Pages,0.5,2.2,0.5,1.606,RBIs,SF Giants,LA Dodgers,2024-06-30,0.077,0.413,0.587
+Austin Barnes,0.5,3.65,0.5,1.25,RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.226,0.774
+Austin Slater,0.5,3.95,0.5,1.222,RBIs,SF Giants,LA Dodgers,2024-06-30,0.071,0.206,0.794
+Chris Taylor,0.5,3.25,0.5,1.303,RBIs,SF Giants,LA Dodgers,2024-06-30,0.075,0.261,0.739
+David Villar,0.5,3.1,0.5,1.333,RBIs,SF Giants,LA Dodgers,2024-06-30,0.073,0.278,0.722
+Freddie Freeman,0.5,2.45,0.5,1.5,RBIs,SF Giants,LA Dodgers,2024-06-30,0.075,0.366,0.634
+Gavin Lux,0.5,3.05,0.5,1.345,RBIs,SF Giants,LA Dodgers,2024-06-30,0.071,0.284,0.716
+Heliot Ramos,0.5,2.65,0.5,1.435,RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.334,0.666
+Jason Heyward,0.5,2.85,0.5,1.385,RBIs,SF Giants,LA Dodgers,2024-06-30,0.073,0.307,0.693
+Jorge Soler,0.5,2.5,0.5,1.476,RBIs,SF Giants,LA Dodgers,2024-06-30,0.077,0.356,0.644
+Kike Hernandez,0.5,2.9,0.5,1.377,RBIs,SF Giants,LA Dodgers,2024-06-30,0.071,0.302,0.698
+Luis Matos,0.5,2.95,0.5,1.364,RBIs,SF Giants,LA Dodgers,2024-06-30,0.072,0.295,0.705
+Matt Chapman,0.5,2.35,0.5,1.556,RBIs,SF Giants,LA Dodgers,2024-06-30,0.068,0.388,0.612
+Nick Ahmed,0.5,3.5,0.5,1.27,RBIs,SF Giants,LA Dodgers,2024-06-30,0.073,0.239,0.761
+Patrick Bailey,0.5,2.8,0.5,1.392,RBIs,SF Giants,LA Dodgers,2024-06-30,0.075,0.312,0.688
+Shohei Ohtani,0.5,2.55,0.5,1.465,RBIs,SF Giants,LA Dodgers,2024-06-30,0.075,0.349,0.651
+Teoscar Hernandez,0.5,2.55,0.5,1.465,RBIs,SF Giants,LA Dodgers,2024-06-30,0.075,0.349,0.651
+Tyler Fitzgerald,0.5,3.65,0.5,1.25,RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.226,0.774
+Andy Pages,0.5,2.15,0.5,1.645,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.073,0.426,0.574
+Austin Barnes,0.5,2.6,0.5,1.455,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.072,0.343,0.657
+Austin Slater,0.5,2.2,0.5,1.625,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.07,0.417,0.583
+Chris Taylor,0.5,2.55,0.5,1.465,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.075,0.349,0.651
+David Villar,0.5,2.7,0.5,1.426,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.072,0.328,0.672
+Freddie Freeman,0.5,1.909,0.5,1.8,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.079,0.483,0.517
+Gavin Lux,0.5,2.6,0.5,1.455,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.072,0.343,0.657
+Heliot Ramos,0.5,2.05,0.5,1.69,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.08,0.446,0.554
+Jason Heyward,0.5,2.45,0.5,1.5,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.075,0.366,0.634
+Jorge Soler,0.5,1.87,0.5,1.87,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.07,0.5,0.5
+Kike Hernandez,0.5,2.55,0.5,1.465,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.075,0.349,0.651
+Luis Matos,0.5,2.55,0.5,1.476,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.07,0.352,0.648
+Matt Chapman,0.5,2.0,0.5,1.714,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.083,0.457,0.543
+Nick Ahmed,0.5,2.85,0.5,1.385,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.073,0.307,0.693
+Patrick Bailey,0.5,2.2,0.5,1.625,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.07,0.417,0.583
+Shohei Ohtani,0.5,1.606,0.5,2.2,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.077,0.587,0.413
+Teoscar Hernandez,0.5,1.87,0.5,1.833,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.08,0.494,0.506
+Tyler Fitzgerald,0.5,2.65,0.5,1.444,Runs Scored,SF Giants,LA Dodgers,2024-06-30,0.07,0.337,0.663
+Andy Pages,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.076,0.564,0.436
+Austin Barnes,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.077,0.413,0.587
+Austin Slater,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.071,0.45,0.55
+Chris Taylor,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.073,0.426,0.574
+David Villar,1.5,2.3,1.5,1.556,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.078,0.392,0.608
+Freddie Freeman,1.5,1.625,1.5,2.15,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.081,0.578,0.422
+Gavin Lux,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.461,0.539
+Heliot Ramos,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.08,0.506,0.494
+Jason Heyward,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.071,0.45,0.55
+Jorge Soler,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.539,0.461
+Kike Hernandez,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.077,0.472,0.528
+Luis Matos,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.077,0.472,0.528
+Matt Chapman,1.5,1.714,1.5,2.0,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.083,0.543,0.457
+Nick Ahmed,1.5,2.3,1.5,1.556,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.078,0.392,0.608
+Patrick Bailey,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.079,0.483,0.517
+Shohei Ohtani,2.5,2.1,2.5,1.667,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.076,0.436,0.564
+Teoscar Hernandez,1.5,1.588,1.5,2.25,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.074,0.596,0.404
+Tyler Fitzgerald,0.5,1.556,0.5,2.3,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30,0.078,0.608,0.392
+Austin Slater,0.5,9.5,0.5,1.033,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.073,0.044,0.956
+Chris Taylor,0.5,6.0,0.5,1.091,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.083,0.104,0.896
+Freddie Freeman,0.5,8.5,0.5,1.04,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.079,0.053,0.947
+Gavin Lux,0.5,11.0,0.5,1.017,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.075,0.025,0.975
+Matt Chapman,0.5,12.0,0.5,1.005,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.078,0.009,0.991
+Nick Ahmed,0.5,11.0,0.5,1.017,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.075,0.025,0.975
+Shohei Ohtani,0.5,5.5,0.5,1.125,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.071,0.131,0.869
+Teoscar Hernandez,0.5,8.5,0.5,1.05,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.07,0.062,0.938
+Tyler Fitzgerald,0.5,5.75,0.5,1.111,Stolen Bases,SF Giants,LA Dodgers,2024-06-30,0.074,0.12,0.88
+Andy Pages,0.5,1.8,0.5,1.909,Singles,SF Giants,LA Dodgers,2024-06-30,0.079,0.517,0.483
+Austin Barnes,0.5,2.05,0.5,1.714,Singles,SF Giants,LA Dodgers,2024-06-30,0.071,0.45,0.55
+Austin Slater,0.5,2.05,0.5,1.69,Singles,SF Giants,LA Dodgers,2024-06-30,0.08,0.446,0.554
+Chris Taylor,0.5,2.15,0.5,1.645,Singles,SF Giants,LA Dodgers,2024-06-30,0.073,0.426,0.574
+David Villar,0.5,2.6,0.5,1.455,Singles,SF Giants,LA Dodgers,2024-06-30,0.072,0.343,0.657
+Freddie Freeman,0.5,1.769,0.5,1.952,Singles,SF Giants,LA Dodgers,2024-06-30,0.077,0.528,0.472
+Gavin Lux,0.5,1.909,0.5,1.8,Singles,SF Giants,LA Dodgers,2024-06-30,0.079,0.483,0.517
+Heliot Ramos,0.5,2.05,0.5,1.714,Singles,SF Giants,LA Dodgers,2024-06-30,0.071,0.45,0.55
+Jason Heyward,0.5,2.2,0.5,1.606,Singles,SF Giants,LA Dodgers,2024-06-30,0.077,0.413,0.587
+Jorge Soler,0.5,2.25,0.5,1.588,Singles,SF Giants,LA Dodgers,2024-06-30,0.074,0.404,0.596
+Kike Hernandez,0.5,1.833,0.5,1.87,Singles,SF Giants,LA Dodgers,2024-06-30,0.08,0.506,0.494
+Luis Matos,0.5,1.87,0.5,1.833,Singles,SF Giants,LA Dodgers,2024-06-30,0.08,0.494,0.506
+Matt Chapman,0.5,2.15,0.5,1.645,Singles,SF Giants,LA Dodgers,2024-06-30,0.073,0.426,0.574
+Nick Ahmed,0.5,2.15,0.5,1.625,Singles,SF Giants,LA Dodgers,2024-06-30,0.081,0.422,0.578
+Patrick Bailey,0.5,2.1,0.5,1.69,Singles,SF Giants,LA Dodgers,2024-06-30,0.068,0.44,0.56
+Shohei Ohtani,0.5,1.909,0.5,1.8,Singles,SF Giants,LA Dodgers,2024-06-30,0.079,0.483,0.517
+Teoscar Hernandez,0.5,1.625,0.5,2.2,Singles,SF Giants,LA Dodgers,2024-06-30,0.07,0.583,0.417
+Tyler Fitzgerald,0.5,2.45,0.5,1.5,Singles,SF Giants,LA Dodgers,2024-06-30,0.075,0.366,0.634
+Andy Pages,0.5,4.2,0.5,1.2,Doubles,SF Giants,LA Dodgers,2024-06-30,0.071,0.19,0.81
+Austin Barnes,0.5,6.0,0.5,1.1,Doubles,SF Giants,LA Dodgers,2024-06-30,0.076,0.111,0.889
+Austin Slater,0.5,4.9,0.5,1.154,Doubles,SF Giants,LA Dodgers,2024-06-30,0.071,0.155,0.845
+Chris Taylor,0.5,5.5,0.5,1.125,Doubles,SF Giants,LA Dodgers,2024-06-30,0.071,0.131,0.869
+David Villar,0.5,5.5,0.5,1.111,Doubles,SF Giants,LA Dodgers,2024-06-30,0.082,0.122,0.878
+Freddie Freeman,0.5,3.75,0.5,1.235,Doubles,SF Giants,LA Dodgers,2024-06-30,0.076,0.217,0.783
+Gavin Lux,0.5,4.7,0.5,1.167,Doubles,SF Giants,LA Dodgers,2024-06-30,0.07,0.165,0.835
+Heliot Ramos,0.5,4.4,0.5,1.182,Doubles,SF Giants,LA Dodgers,2024-06-30,0.073,0.177,0.823
+Jason Heyward,0.5,4.5,0.5,1.174,Doubles,SF Giants,LA Dodgers,2024-06-30,0.074,0.171,0.829
+Jorge Soler,0.5,4.4,0.5,1.182,Doubles,SF Giants,LA Dodgers,2024-06-30,0.073,0.177,0.823
+Kike Hernandez,0.5,4.7,0.5,1.154,Doubles,SF Giants,LA Dodgers,2024-06-30,0.079,0.157,0.843
+Luis Matos,0.5,4.7,0.5,1.167,Doubles,SF Giants,LA Dodgers,2024-06-30,0.07,0.165,0.835
+Matt Chapman,0.5,4.1,0.5,1.211,Doubles,SF Giants,LA Dodgers,2024-06-30,0.07,0.197,0.803
+Nick Ahmed,0.5,5.75,0.5,1.111,Doubles,SF Giants,LA Dodgers,2024-06-30,0.074,0.12,0.88
+Patrick Bailey,0.5,5.0,0.5,1.143,Doubles,SF Giants,LA Dodgers,2024-06-30,0.075,0.147,0.853
+Shohei Ohtani,0.5,3.55,0.5,1.263,Doubles,SF Giants,LA Dodgers,2024-06-30,0.073,0.235,0.765
+Teoscar Hernandez,0.5,4.3,0.5,1.19,Doubles,SF Giants,LA Dodgers,2024-06-30,0.073,0.183,0.817
+Tyler Fitzgerald,0.5,6.0,0.5,1.1,Doubles,SF Giants,LA Dodgers,2024-06-30,0.076,0.111,0.889
+Andy Pages,0.5,3.15,0.5,1.323,Walks,SF Giants,LA Dodgers,2024-06-30,0.074,0.272,0.728
+Austin Barnes,0.5,3.55,0.5,1.27,Walks,SF Giants,LA Dodgers,2024-06-30,0.069,0.238,0.762
+Austin Slater,0.5,2.2,0.5,1.625,Walks,SF Giants,LA Dodgers,2024-06-30,0.07,0.417,0.583
+Chris Taylor,0.5,3.05,0.5,1.345,Walks,SF Giants,LA Dodgers,2024-06-30,0.071,0.284,0.716
+David Villar,0.5,2.85,0.5,1.385,Walks,SF Giants,LA Dodgers,2024-06-30,0.073,0.307,0.693
+Freddie Freeman,0.5,1.833,0.5,1.87,Walks,SF Giants,LA Dodgers,2024-06-30,0.08,0.506,0.494
+Gavin Lux,0.5,2.75,0.5,1.417,Walks,SF Giants,LA Dodgers,2024-06-30,0.07,0.323,0.677
+Heliot Ramos,0.5,2.3,0.5,1.556,Walks,SF Giants,LA Dodgers,2024-06-30,0.078,0.392,0.608
+Jason Heyward,0.5,2.6,0.5,1.444,Walks,SF Giants,LA Dodgers,2024-06-30,0.077,0.34,0.66
+Jorge Soler,0.5,2.2,0.5,1.606,Walks,SF Giants,LA Dodgers,2024-06-30,0.077,0.413,0.587
+Kike Hernandez,0.5,3.45,0.5,1.278,Walks,SF Giants,LA Dodgers,2024-06-30,0.072,0.244,0.756
+Luis Matos,0.5,3.45,0.5,1.278,Walks,SF Giants,LA Dodgers,2024-06-30,0.072,0.244,0.756
+Matt Chapman,0.5,2.3,0.5,1.556,Walks,SF Giants,LA Dodgers,2024-06-30,0.078,0.392,0.608
+Nick Ahmed,0.5,3.95,0.5,1.222,Walks,SF Giants,LA Dodgers,2024-06-30,0.071,0.206,0.794
+Patrick Bailey,0.5,2.25,0.5,1.588,Walks,SF Giants,LA Dodgers,2024-06-30,0.074,0.404,0.596
+Shohei Ohtani,0.5,1.667,0.5,2.1,Walks,SF Giants,LA Dodgers,2024-06-30,0.076,0.564,0.436
+Teoscar Hernandez,0.5,3.0,0.5,1.351,Walks,SF Giants,LA Dodgers,2024-06-30,0.074,0.288,0.712
+Tyler Fitzgerald,0.5,3.2,0.5,1.312,Walks,SF Giants,LA Dodgers,2024-06-30,0.074,0.266,0.734
+Andy Ibanez,0.5,4.9,0.5,1.154,Home Runs,LA Angels,DET Tigers,2024-06-30,0.071,0.155,0.845
+Carson Kelly,0.5,5.75,0.5,1.111,Home Runs,LA Angels,DET Tigers,2024-06-30,0.074,0.12,0.88
+Gio Urshela,0.5,8.5,0.5,1.05,Home Runs,LA Angels,DET Tigers,2024-06-30,0.07,0.062,0.938
+Jake Rogers,0.5,4.3,0.5,1.19,Home Runs,LA Angels,DET Tigers,2024-06-30,0.073,0.183,0.817
+Jo Adell,0.5,5.75,0.5,1.111,Home Runs,LA Angels,DET Tigers,2024-06-30,0.074,0.12,0.88
+Justyn-Henry Malloy,0.5,5.5,0.5,1.111,Home Runs,LA Angels,DET Tigers,2024-06-30,0.082,0.122,0.878
+Logan O'Hoppe,0.5,4.5,0.5,1.174,Home Runs,LA Angels,DET Tigers,2024-06-30,0.074,0.171,0.829
+Luis Rengifo,0.5,7.0,0.5,1.071,Home Runs,LA Angels,DET Tigers,2024-06-30,0.076,0.084,0.916
+Mark Canha,0.5,5.75,0.5,1.111,Home Runs,LA Angels,DET Tigers,2024-06-30,0.074,0.12,0.88
+Mickey Moniak,0.5,5.0,0.5,1.143,Home Runs,LA Angels,DET Tigers,2024-06-30,0.075,0.147,0.853
+Miguel Sano,0.5,3.75,0.5,1.235,Home Runs,LA Angels,DET Tigers,2024-06-30,0.076,0.217,0.783
+Nolan Schanuel,0.5,9.5,0.5,1.033,Home Runs,LA Angels,DET Tigers,2024-06-30,0.073,0.044,0.956
+Riley Greene,0.5,4.6,0.5,1.174,Home Runs,LA Angels,DET Tigers,2024-06-30,0.069,0.17,0.83
+Ryan Kreidler,0.5,6.5,0.5,1.091,Home Runs,LA Angels,DET Tigers,2024-06-30,0.071,0.101,0.899
+Taylor Ward,0.5,5.25,0.5,1.125,Home Runs,LA Angels,DET Tigers,2024-06-30,0.079,0.133,0.867
+Wenceel Perez,0.5,6.5,0.5,1.083,Home Runs,LA Angels,DET Tigers,2024-06-30,0.077,0.096,0.904
+Willie Calhoun,0.5,6.0,0.5,1.1,Home Runs,LA Angels,DET Tigers,2024-06-30,0.076,0.111,0.889
+Zach Neto,0.5,4.9,0.5,1.154,Home Runs,LA Angels,DET Tigers,2024-06-30,0.071,0.155,0.845
+Jake Rogers,,8.5,,1.05,1st Home Run,LA Angels,DET Tigers,2024-06-30,0.07,0.062,0.938
+Ryan Kreidler,,,,,1st Home Run,LA Angels,DET Tigers,2024-06-30,,,
+Willie Calhoun,,12.0,,1.01,1st Home Run,LA Angels,DET Tigers,2024-06-30,0.073,0.016,0.984
+Andy Ibanez,0.5,1.357,0.5,2.95,Hits,LA Angels,DET Tigers,2024-06-30,0.076,0.707,0.293
+Carson Kelly,0.5,1.541,0.5,2.35,Hits,LA Angels,DET Tigers,2024-06-30,0.075,0.616,0.384
+Gio Urshela,0.5,1.417,0.5,2.75,Hits,LA Angels,DET Tigers,2024-06-30,0.07,0.677,0.323
+Jake Rogers,0.5,1.488,0.5,2.5,Hits,LA Angels,DET Tigers,2024-06-30,0.072,0.641,0.359
+Jo Adell,0.5,1.645,0.5,2.15,Hits,LA Angels,DET Tigers,2024-06-30,0.073,0.574,0.426
+Justyn-Henry Malloy,0.5,1.645,0.5,2.15,Hits,LA Angels,DET Tigers,2024-06-30,0.073,0.574,0.426
+Logan O'Hoppe,0.5,1.37,0.5,2.9,Hits,LA Angels,DET Tigers,2024-06-30,0.075,0.7,0.3
+Luis Rengifo,1.5,2.95,1.5,1.364,Hits,LA Angels,DET Tigers,2024-06-30,0.072,0.295,0.705
+Mark Canha,0.5,1.476,0.5,2.5,Hits,LA Angels,DET Tigers,2024-06-30,0.077,0.644,0.356
+Mickey Moniak,0.5,1.667,0.5,2.1,Hits,LA Angels,DET Tigers,2024-06-30,0.076,0.564,0.436
+Miguel Sano,0.5,1.541,0.5,2.35,Hits,LA Angels,DET Tigers,2024-06-30,0.075,0.616,0.384
+Nolan Schanuel,0.5,1.357,0.5,2.95,Hits,LA Angels,DET Tigers,2024-06-30,0.076,0.707,0.293
+Riley Greene,0.5,1.465,0.5,2.55,Hits,LA Angels,DET Tigers,2024-06-30,0.075,0.651,0.349
+Ryan Kreidler,0.5,1.741,0.5,2.0,Hits,LA Angels,DET Tigers,2024-06-30,0.074,0.539,0.461
+Taylor Ward,0.5,1.364,0.5,2.95,Hits,LA Angels,DET Tigers,2024-06-30,0.072,0.705,0.295
+Wenceel Perez,0.5,1.455,0.5,2.6,Hits,LA Angels,DET Tigers,2024-06-30,0.072,0.657,0.343
+Willie Calhoun,0.5,1.455,0.5,2.6,Hits,LA Angels,DET Tigers,2024-06-30,0.072,0.657,0.343
+Zach Neto,0.5,1.476,0.5,2.5,Hits,LA Angels,DET Tigers,2024-06-30,0.077,0.644,0.356
+Andy Ibanez,1.5,1.952,1.5,1.769,Total Bases,LA Angels,DET Tigers,2024-06-30,0.077,0.472,0.528
+Carson Kelly,0.5,1.541,0.5,2.35,Total Bases,LA Angels,DET Tigers,2024-06-30,0.075,0.616,0.384
+Gio Urshela,1.5,2.3,1.5,1.571,Total Bases,LA Angels,DET Tigers,2024-06-30,0.071,0.396,0.604
+Jake Rogers,1.5,2.2,1.5,1.606,Total Bases,LA Angels,DET Tigers,2024-06-30,0.077,0.413,0.587
+Jo Adell,0.5,1.645,0.5,2.15,Total Bases,LA Angels,DET Tigers,2024-06-30,0.073,0.574,0.426
+Justyn-Henry Malloy,0.5,1.645,0.5,2.15,Total Bases,LA Angels,DET Tigers,2024-06-30,0.073,0.574,0.426
+Logan O'Hoppe,1.5,2.05,1.5,1.69,Total Bases,LA Angels,DET Tigers,2024-06-30,0.08,0.446,0.554
+Luis Rengifo,1.5,2.15,1.5,1.645,Total Bases,LA Angels,DET Tigers,2024-06-30,0.073,0.426,0.574
+Mark Canha,1.5,2.3,1.5,1.571,Total Bases,LA Angels,DET Tigers,2024-06-30,0.071,0.396,0.604
+Mickey Moniak,0.5,1.667,0.5,2.1,Total Bases,LA Angels,DET Tigers,2024-06-30,0.076,0.564,0.436
+Miguel Sano,1.5,2.2,1.5,1.606,Total Bases,LA Angels,DET Tigers,2024-06-30,0.077,0.413,0.587
+Nolan Schanuel,1.5,2.35,1.5,1.526,Total Bases,LA Angels,DET Tigers,2024-06-30,0.081,0.38,0.62
+Riley Greene,1.5,2.3,1.5,1.571,Total Bases,LA Angels,DET Tigers,2024-06-30,0.071,0.396,0.604
+Ryan Kreidler,0.5,1.741,0.5,2.0,Total Bases,LA Angels,DET Tigers,2024-06-30,0.074,0.539,0.461
+Taylor Ward,1.5,2.15,1.5,1.625,Total Bases,LA Angels,DET Tigers,2024-06-30,0.081,0.422,0.578
+Wenceel Perez,1.5,2.45,1.5,1.513,Total Bases,LA Angels,DET Tigers,2024-06-30,0.069,0.369,0.631
+Willie Calhoun,1.5,2.35,1.5,1.541,Total Bases,LA Angels,DET Tigers,2024-06-30,0.075,0.384,0.616
+Zach Neto,1.5,2.35,1.5,1.541,Total Bases,LA Angels,DET Tigers,2024-06-30,0.075,0.384,0.616
+Andy Ibanez,0.5,2.8,0.5,1.4,RBIs,LA Angels,DET Tigers,2024-06-30,0.071,0.315,0.685
+Carson Kelly,0.5,2.8,0.5,1.4,RBIs,LA Angels,DET Tigers,2024-06-30,0.071,0.315,0.685
+Gio Urshela,0.5,3.05,0.5,1.345,RBIs,LA Angels,DET Tigers,2024-06-30,0.071,0.284,0.716
+Jake Rogers,0.5,2.35,0.5,1.541,RBIs,LA Angels,DET Tigers,2024-06-30,0.075,0.384,0.616
+Jo Adell,0.5,3.1,0.5,1.339,RBIs,LA Angels,DET Tigers,2024-06-30,0.069,0.28,0.72
+Justyn-Henry Malloy,0.5,2.95,0.5,1.37,RBIs,LA Angels,DET Tigers,2024-06-30,0.069,0.297,0.703
+Logan O'Hoppe,0.5,2.6,0.5,1.455,RBIs,LA Angels,DET Tigers,2024-06-30,0.072,0.343,0.657
+Luis Rengifo,0.5,3.1,0.5,1.333,RBIs,LA Angels,DET Tigers,2024-06-30,0.073,0.278,0.722
+Mark Canha,0.5,3.0,0.5,1.357,RBIs,LA Angels,DET Tigers,2024-06-30,0.07,0.291,0.709
+Mickey Moniak,0.5,2.95,0.5,1.364,RBIs,LA Angels,DET Tigers,2024-06-30,0.072,0.295,0.705
+Miguel Sano,0.5,2.4,0.5,1.513,RBIs,LA Angels,DET Tigers,2024-06-30,0.078,0.373,0.627
+Nolan Schanuel,0.5,3.75,0.5,1.235,RBIs,LA Angels,DET Tigers,2024-06-30,0.076,0.217,0.783
+Riley Greene,0.5,2.6,0.5,1.455,RBIs,LA Angels,DET Tigers,2024-06-30,0.072,0.343,0.657
+Ryan Kreidler,0.5,3.45,0.5,1.278,RBIs,LA Angels,DET Tigers,2024-06-30,0.072,0.244,0.756
+Taylor Ward,0.5,2.55,0.5,1.465,RBIs,LA Angels,DET Tigers,2024-06-30,0.075,0.349,0.651
+Wenceel Perez,0.5,3.15,0.5,1.323,RBIs,LA Angels,DET Tigers,2024-06-30,0.074,0.272,0.728
+Willie Calhoun,0.5,2.5,0.5,1.476,RBIs,LA Angels,DET Tigers,2024-06-30,0.077,0.356,0.644
+Zach Neto,0.5,2.75,0.5,1.408,RBIs,LA Angels,DET Tigers,2024-06-30,0.074,0.32,0.68
+Andy Ibanez,0.5,1.952,0.5,1.769,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.077,0.472,0.528
+Carson Kelly,0.5,2.4,0.5,1.526,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.072,0.376,0.624
+Gio Urshela,0.5,2.5,0.5,1.488,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.072,0.359,0.641
+Jake Rogers,0.5,2.15,0.5,1.625,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.081,0.422,0.578
+Jo Adell,0.5,2.55,0.5,1.476,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.07,0.352,0.648
+Justyn-Henry Malloy,0.5,2.4,0.5,1.513,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.078,0.373,0.627
+Logan O'Hoppe,0.5,2.1,0.5,1.645,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.084,0.431,0.569
+Luis Rengifo,0.5,1.952,0.5,1.769,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.077,0.472,0.528
+Mark Canha,0.5,1.952,0.5,1.769,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.077,0.472,0.528
+Mickey Moniak,0.5,2.55,0.5,1.465,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.075,0.349,0.651
+Miguel Sano,0.5,2.0,0.5,1.741,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.074,0.461,0.539
+Nolan Schanuel,0.5,2.2,0.5,1.625,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.07,0.417,0.583
+Riley Greene,0.5,2.05,0.5,1.69,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.08,0.446,0.554
+Ryan Kreidler,0.5,2.6,0.5,1.455,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.072,0.343,0.657
+Taylor Ward,0.5,2.05,0.5,1.714,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.071,0.45,0.55
+Wenceel Perez,0.5,2.3,0.5,1.556,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.078,0.392,0.608
+Willie Calhoun,0.5,2.25,0.5,1.588,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.074,0.404,0.596
+Zach Neto,0.5,2.2,0.5,1.606,Runs Scored,LA Angels,DET Tigers,2024-06-30,0.077,0.413,0.587
+Andy Ibanez,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.071,0.55,0.45
+Carson Kelly,1.5,2.0,1.5,1.741,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.074,0.461,0.539
+Gio Urshela,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.506,0.494
+Jake Rogers,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.506,0.494
+Jo Adell,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.073,0.426,0.574
+Justyn-Henry Malloy,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.073,0.426,0.574
+Logan O'Hoppe,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.077,0.528,0.472
+Luis Rengifo,1.5,1.69,1.5,2.05,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.554,0.446
+Mark Canha,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.506,0.494
+Mickey Moniak,1.5,2.2,1.5,1.606,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.077,0.413,0.587
+Miguel Sano,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.506,0.494
+Nolan Schanuel,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.069,0.511,0.489
+Riley Greene,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.506,0.494
+Ryan Kreidler,0.5,1.556,0.5,2.35,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.068,0.612,0.388
+Taylor Ward,1.5,1.714,1.5,2.05,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.071,0.55,0.45
+Wenceel Perez,1.5,1.87,1.5,1.833,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.08,0.494,0.506
+Willie Calhoun,1.5,1.833,1.5,1.909,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.069,0.511,0.489
+Zach Neto,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30,0.079,0.483,0.517
+Jo Adell,0.5,8.0,0.5,1.05,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.077,0.063,0.937
+Luis Rengifo,0.5,4.7,0.5,1.154,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.079,0.157,0.843
+Mark Canha,0.5,8.5,0.5,1.04,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.079,0.053,0.947
+Mickey Moniak,0.5,11.0,0.5,1.02,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.071,0.029,0.971
+Riley Greene,0.5,10.0,0.5,1.029,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.072,0.039,0.961
+Ryan Kreidler,0.5,10.0,0.5,1.025,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.076,0.035,0.965
+Taylor Ward,0.5,12.0,0.5,1.012,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.071,0.019,0.981
+Wenceel Perez,0.5,6.5,0.5,1.083,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.077,0.096,0.904
+Zach Neto,0.5,7.0,0.5,1.071,Stolen Bases,LA Angels,DET Tigers,2024-06-30,0.076,0.084,0.916
+Andy Ibanez,0.5,1.909,0.5,1.8,Singles,LA Angels,DET Tigers,2024-06-30,0.079,0.483,0.517
+Carson Kelly,0.5,2.2,0.5,1.625,Singles,LA Angels,DET Tigers,2024-06-30,0.07,0.417,0.583
+Gio Urshela,0.5,1.667,0.5,2.1,Singles,LA Angels,DET Tigers,2024-06-30,0.076,0.564,0.436
+Jake Rogers,0.5,2.25,0.5,1.571,Singles,LA Angels,DET Tigers,2024-06-30,0.081,0.4,0.6
+Jo Adell,0.5,2.3,0.5,1.556,Singles,LA Angels,DET Tigers,2024-06-30,0.078,0.392,0.608
+Justyn-Henry Malloy,0.5,2.45,0.5,1.513,Singles,LA Angels,DET Tigers,2024-06-30,0.069,0.369,0.631
+Logan O'Hoppe,0.5,1.909,0.5,1.8,Singles,LA Angels,DET Tigers,2024-06-30,0.079,0.483,0.517
+Luis Rengifo,0.5,1.667,0.5,2.1,Singles,LA Angels,DET Tigers,2024-06-30,0.076,0.564,0.436
+Mark Canha,0.5,2.1,0.5,1.69,Singles,LA Angels,DET Tigers,2024-06-30,0.068,0.44,0.56
+Mickey Moniak,0.5,2.7,0.5,1.426,Singles,LA Angels,DET Tigers,2024-06-30,0.072,0.328,0.672
+Miguel Sano,0.5,2.45,0.5,1.5,Singles,LA Angels,DET Tigers,2024-06-30,0.075,0.366,0.634
+Nolan Schanuel,0.5,1.606,0.5,2.2,Singles,LA Angels,DET Tigers,2024-06-30,0.077,0.587,0.413
+Riley Greene,0.5,2.05,0.5,1.714,Singles,LA Angels,DET Tigers,2024-06-30,0.071,0.45,0.55
+Ryan Kreidler,0.5,2.55,0.5,1.465,Singles,LA Angels,DET Tigers,2024-06-30,0.075,0.349,0.651
+Taylor Ward,0.5,1.8,0.5,1.952,Singles,LA Angels,DET Tigers,2024-06-30,0.068,0.522,0.478
+Wenceel Perez,0.5,1.952,0.5,1.8,Singles,LA Angels,DET Tigers,2024-06-30,0.068,0.478,0.522
+Willie Calhoun,0.5,1.952,0.5,1.769,Singles,LA Angels,DET Tigers,2024-06-30,0.077,0.472,0.528
+Zach Neto,0.5,2.05,0.5,1.69,Singles,LA Angels,DET Tigers,2024-06-30,0.08,0.446,0.554
+Andy Ibanez,0.5,3.8,0.5,1.235,Doubles,LA Angels,DET Tigers,2024-06-30,0.073,0.216,0.784
+Carson Kelly,0.5,4.8,0.5,1.154,Doubles,LA Angels,DET Tigers,2024-06-30,0.075,0.156,0.844
+Gio Urshela,0.5,4.6,0.5,1.174,Doubles,LA Angels,DET Tigers,2024-06-30,0.069,0.17,0.83
+Jake Rogers,0.5,4.9,0.5,1.154,Doubles,LA Angels,DET Tigers,2024-06-30,0.071,0.155,0.845
+Jo Adell,0.5,6.0,0.5,1.1,Doubles,LA Angels,DET Tigers,2024-06-30,0.076,0.111,0.889
+Justyn-Henry Malloy,0.5,5.5,0.5,1.125,Doubles,LA Angels,DET Tigers,2024-06-30,0.071,0.131,0.869
+Logan O'Hoppe,0.5,4.5,0.5,1.174,Doubles,LA Angels,DET Tigers,2024-06-30,0.074,0.171,0.829
+Luis Rengifo,0.5,4.7,0.5,1.167,Doubles,LA Angels,DET Tigers,2024-06-30,0.07,0.165,0.835
+Mark Canha,0.5,4.4,0.5,1.182,Doubles,LA Angels,DET Tigers,2024-06-30,0.073,0.177,0.823
+Mickey Moniak,0.5,5.5,0.5,1.111,Doubles,LA Angels,DET Tigers,2024-06-30,0.082,0.122,0.878
+Miguel Sano,0.5,5.25,0.5,1.125,Doubles,LA Angels,DET Tigers,2024-06-30,0.079,0.133,0.867
+Nolan Schanuel,0.5,5.25,0.5,1.125,Doubles,LA Angels,DET Tigers,2024-06-30,0.079,0.133,0.867
+Riley Greene,0.5,5.5,0.5,1.125,Doubles,LA Angels,DET Tigers,2024-06-30,0.071,0.131,0.869
+Ryan Kreidler,0.5,5.75,0.5,1.111,Doubles,LA Angels,DET Tigers,2024-06-30,0.074,0.12,0.88
+Taylor Ward,0.5,4.7,0.5,1.167,Doubles,LA Angels,DET Tigers,2024-06-30,0.07,0.165,0.835
+Wenceel Perez,0.5,4.8,0.5,1.154,Doubles,LA Angels,DET Tigers,2024-06-30,0.075,0.156,0.844
+Willie Calhoun,0.5,4.7,0.5,1.167,Doubles,LA Angels,DET Tigers,2024-06-30,0.07,0.165,0.835
+Zach Neto,0.5,4.9,0.5,1.143,Doubles,LA Angels,DET Tigers,2024-06-30,0.079,0.148,0.852
+Andy Ibanez,0.5,3.65,0.5,1.25,Walks,LA Angels,DET Tigers,2024-06-30,0.074,0.226,0.774
+Carson Kelly,0.5,2.6,0.5,1.455,Walks,LA Angels,DET Tigers,2024-06-30,0.072,0.343,0.657
+Gio Urshela,0.5,3.85,0.5,1.235,Walks,LA Angels,DET Tigers,2024-06-30,0.069,0.214,0.786
+Jake Rogers,0.5,2.85,0.5,1.385,Walks,LA Angels,DET Tigers,2024-06-30,0.073,0.307,0.693
+Jo Adell,0.5,4.3,0.5,1.19,Walks,LA Angels,DET Tigers,2024-06-30,0.073,0.183,0.817
+Justyn-Henry Malloy,0.5,2.8,0.5,1.392,Walks,LA Angels,DET Tigers,2024-06-30,0.075,0.312,0.688
+Logan O'Hoppe,0.5,4.2,0.5,1.2,Walks,LA Angels,DET Tigers,2024-06-30,0.071,0.19,0.81
+Luis Rengifo,0.5,3.55,0.5,1.263,Walks,LA Angels,DET Tigers,2024-06-30,0.073,0.235,0.765
+Mark Canha,0.5,2.1,0.5,1.667,Walks,LA Angels,DET Tigers,2024-06-30,0.076,0.436,0.564
+Miguel Sano,0.5,3.1,0.5,1.333,Walks,LA Angels,DET Tigers,2024-06-30,0.073,0.278,0.722
+Nolan Schanuel,0.5,2.65,0.5,1.435,Walks,LA Angels,DET Tigers,2024-06-30,0.074,0.334,0.666
+Riley Greene,0.5,2.45,0.5,1.513,Walks,LA Angels,DET Tigers,2024-06-30,0.069,0.369,0.631
+Ryan Kreidler,0.5,3.5,0.5,1.27,Walks,LA Angels,DET Tigers,2024-06-30,0.073,0.239,0.761
+Taylor Ward,0.5,2.45,0.5,1.513,Walks,LA Angels,DET Tigers,2024-06-30,0.069,0.369,0.631
+Wenceel Perez,0.5,3.15,0.5,1.323,Walks,LA Angels,DET Tigers,2024-06-30,0.074,0.272,0.728
+Willie Calhoun,0.5,2.9,0.5,1.37,Walks,LA Angels,DET Tigers,2024-06-30,0.075,0.3,0.7
+Zach Neto,0.5,4.2,0.5,1.19,Walks,LA Angels,DET Tigers,2024-06-30,0.078,0.185,0.815
+Aledmys Diaz,0.5,10.0,0.5,1.029,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.039,0.961
+Brent Rooker,0.5,5.0,0.5,1.143,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.147,0.853
+Christian Walker,0.5,5.0,0.5,1.143,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.147,0.853
+Corbin Carroll,0.5,6.5,0.5,1.083,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.096,0.904
+Eugenio Suarez,0.5,6.0,0.5,1.1,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.111,0.889
+Jake McCarthy,0.5,12.0,0.5,1.01,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.016,0.984
+JJ Bleday,0.5,5.5,0.5,1.111,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.082,0.122,0.878
+Joc Pederson,0.5,5.5,0.5,1.125,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.131,0.869
+Ketel Marte,0.5,6.0,0.5,1.091,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.083,0.104,0.896
+Kyle McCann,0.5,6.5,0.5,1.083,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.096,0.904
+Lawrence Butler,0.5,7.0,0.5,1.071,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.084,0.916
+Lourdes Gurriel Jr.,0.5,6.0,0.5,1.091,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.083,0.104,0.896
+Miguel Andujar,0.5,9.5,0.5,1.033,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.044,0.956
+Tyler Nevin,0.5,9.5,0.5,1.033,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.044,0.956
+Tyler Soderstrom,0.5,6.0,0.5,1.1,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.111,0.889
+Zack Gelof,0.5,7.5,0.5,1.062,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.075,0.925
+Aledmys Diaz,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Brent Rooker,,8.5,,1.04,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.079,0.053,0.947
+Christian Walker,,9.0,,1.04,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.052,0.948
+Corbin Carroll,,12.0,,1.012,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.019,0.981
+Eugenio Suarez,,11.0,,1.017,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.025,0.975
+Geraldo Perdomo,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Jake McCarthy,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+JJ Bleday,,9.5,,1.033,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.044,0.956
+Joc Pederson,,8.5,,1.05,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.062,0.938
+Ketel Marte,,10.5,,1.025,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.035,0.965
+Kyle McCann,,12.0,,1.012,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.019,0.981
+Lawrence Butler,,13.0,,1.005,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.009,0.991
+Lourdes Gurriel Jr.,,12.0,,1.012,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.019,0.981
+Miguel Andujar,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Tucker Barnhart,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Tyler Nevin,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Tyler Soderstrom,,10.5,,1.025,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.035,0.965
+Zack Gelof,,,,,1st Home Run,ARI Diamondbacks,OAK Athletics,2024-06-30,,,
+Aledmys Diaz,0.5,1.741,0.5,2.0,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.539,0.461
+Brent Rooker,0.5,1.606,0.5,2.2,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Christian Walker,0.5,1.426,0.5,2.7,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.672,0.328
+Corbin Carroll,0.5,1.37,0.5,2.9,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.7,0.3
+Eugenio Suarez,0.5,1.588,0.5,2.25,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.596,0.404
+Geraldo Perdomo,0.5,1.667,0.5,2.1,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.564,0.436
+Jake McCarthy,0.5,1.444,0.5,2.6,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.66,0.34
+JJ Bleday,1.5,3.0,1.5,1.351,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.288,0.712
+Joc Pederson,0.5,1.513,0.5,2.4,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.627,0.373
+Ketel Marte,0.5,1.357,0.5,3.0,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.709,0.291
+Kyle McCann,0.5,1.606,0.5,2.2,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Lawrence Butler,0.5,1.606,0.5,2.2,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Lourdes Gurriel Jr.,1.5,3.0,1.5,1.351,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.288,0.712
+Miguel Andujar,0.5,1.377,0.5,2.9,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.698,0.302
+Tucker Barnhart,0.5,1.87,0.5,1.833,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.494,0.506
+Tyler Nevin,0.5,1.606,0.5,2.2,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Tyler Soderstrom,0.5,1.513,0.5,2.4,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.627,0.373
+Zack Gelof,0.5,1.645,0.5,2.1,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30,0.084,0.569,0.431
+Aledmys Diaz,0.5,1.741,0.5,2.0,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.539,0.461
+Brent Rooker,0.5,1.606,0.5,2.2,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Christian Walker,1.5,2.15,1.5,1.645,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.426,0.574
+Corbin Carroll,1.5,2.1,1.5,1.667,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Eugenio Suarez,0.5,1.588,0.5,2.25,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.596,0.404
+Geraldo Perdomo,0.5,1.667,0.5,2.1,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.564,0.436
+Jake McCarthy,1.5,2.5,1.5,1.488,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.359,0.641
+JJ Bleday,1.5,2.0,1.5,1.741,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.461,0.539
+Joc Pederson,1.5,2.35,1.5,1.541,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.384,0.616
+Ketel Marte,1.5,2.1,1.5,1.69,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.068,0.44,0.56
+Kyle McCann,0.5,1.606,0.5,2.2,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Lawrence Butler,0.5,1.606,0.5,2.2,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Lourdes Gurriel Jr.,1.5,2.1,1.5,1.667,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Miguel Andujar,1.5,2.3,1.5,1.571,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.396,0.604
+Tucker Barnhart,0.5,1.87,0.5,1.833,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.494,0.506
+Tyler Nevin,0.5,1.606,0.5,2.2,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Tyler Soderstrom,0.5,1.513,0.5,2.4,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.627,0.373
+Zack Gelof,0.5,1.645,0.5,2.1,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.084,0.569,0.431
+Aledmys Diaz,0.5,3.8,0.5,1.235,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.216,0.784
+Brent Rooker,0.5,2.8,0.5,1.4,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.315,0.685
+Christian Walker,0.5,2.25,0.5,1.571,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.4,0.6
+Corbin Carroll,0.5,2.95,0.5,1.364,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.295,0.705
+Eugenio Suarez,0.5,2.6,0.5,1.455,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.343,0.657
+Geraldo Perdomo,0.5,3.7,0.5,1.25,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.225,0.775
+Jake McCarthy,0.5,3.0,0.5,1.351,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.288,0.712
+JJ Bleday,0.5,2.9,0.5,1.377,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.302,0.698
+Joc Pederson,0.5,2.5,0.5,1.488,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.359,0.641
+Ketel Marte,0.5,2.55,0.5,1.465,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.349,0.651
+Kyle McCann,0.5,3.25,0.5,1.312,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.264,0.736
+Lawrence Butler,0.5,3.15,0.5,1.323,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.272,0.728
+Lourdes Gurriel Jr.,0.5,2.3,0.5,1.556,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.392,0.608
+Miguel Andujar,0.5,3.25,0.5,1.312,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.264,0.736
+Tucker Barnhart,0.5,3.9,0.5,1.222,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.207,0.793
+Tyler Nevin,0.5,3.65,0.5,1.25,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.226,0.774
+Tyler Soderstrom,0.5,2.95,0.5,1.364,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.295,0.705
+Zack Gelof,0.5,3.55,0.5,1.27,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.069,0.238,0.762
+Aledmys Diaz,0.5,3.15,0.5,1.323,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.272,0.728
+Brent Rooker,0.5,2.4,0.5,1.526,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.376,0.624
+Christian Walker,0.5,1.952,0.5,1.8,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.068,0.478,0.522
+Corbin Carroll,0.5,1.69,0.5,2.05,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.554,0.446
+Eugenio Suarez,0.5,2.4,0.5,1.526,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.376,0.624
+Geraldo Perdomo,0.5,2.45,0.5,1.5,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.366,0.634
+Jake McCarthy,0.5,2.25,0.5,1.571,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.4,0.6
+JJ Bleday,0.5,2.0,0.5,1.741,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.461,0.539
+Joc Pederson,0.5,1.952,0.5,1.769,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.472,0.528
+Ketel Marte,0.5,1.8,0.5,1.909,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.079,0.517,0.483
+Kyle McCann,0.5,2.6,0.5,1.455,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.343,0.657
+Lawrence Butler,0.5,2.55,0.5,1.476,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.352,0.648
+Lourdes Gurriel Jr.,0.5,2.2,0.5,1.625,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.417,0.583
+Miguel Andujar,0.5,2.5,0.5,1.488,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.359,0.641
+Tucker Barnhart,0.5,3.3,0.5,1.303,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.259,0.741
+Tyler Nevin,0.5,2.9,0.5,1.377,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.302,0.698
+Tyler Soderstrom,0.5,2.55,0.5,1.465,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.349,0.651
+Zack Gelof,0.5,2.65,0.5,1.444,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.337,0.663
+Aledmys Diaz,0.5,1.588,0.5,2.25,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.596,0.404
+Brent Rooker,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.446,0.554
+Christian Walker,1.5,1.667,1.5,2.1,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.564,0.436
+Corbin Carroll,1.5,1.606,1.5,2.2,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.587,0.413
+Eugenio Suarez,1.5,2.0,1.5,1.714,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.083,0.457,0.543
+Geraldo Perdomo,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.426,0.574
+Jake McCarthy,1.5,1.87,1.5,1.833,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.494,0.506
+JJ Bleday,1.5,1.714,1.5,2.0,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.083,0.543,0.457
+Joc Pederson,1.5,1.8,1.5,1.909,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.079,0.517,0.483
+Ketel Marte,1.5,1.625,1.5,2.2,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.583,0.417
+Kyle McCann,1.5,2.15,1.5,1.645,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.426,0.574
+Lawrence Butler,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Lourdes Gurriel Jr.,1.5,1.645,1.5,2.15,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.574,0.426
+Miguel Andujar,1.5,1.87,1.5,1.87,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.5,0.5
+Tucker Barnhart,0.5,1.625,0.5,2.2,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.583,0.417
+Tyler Nevin,1.5,2.25,1.5,1.571,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.4,0.6
+Tyler Soderstrom,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.446,0.554
+Zack Gelof,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.404,0.596
+Christian Walker,0.5,12.0,0.5,1.01,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.016,0.984
+Corbin Carroll,0.5,3.25,0.5,1.312,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.264,0.736
+Geraldo Perdomo,0.5,7.5,0.5,1.056,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.069,0.931
+Jake McCarthy,0.5,3.65,0.5,1.256,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.229,0.771
+Ketel Marte,0.5,9.0,0.5,1.04,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.052,0.948
+Lawrence Butler,0.5,11.0,0.5,1.02,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.029,0.971
+Lourdes Gurriel Jr.,0.5,12.0,0.5,1.012,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.019,0.981
+Miguel Andujar,0.5,12.0,0.5,1.012,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.019,0.981
+Zack Gelof,0.5,5.75,0.5,1.111,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.12,0.88
+Aledmys Diaz,0.5,2.3,0.5,1.556,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.392,0.608
+Brent Rooker,0.5,2.5,0.5,1.476,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.356,0.644
+Christian Walker,0.5,2.05,0.5,1.714,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.45,0.55
+Corbin Carroll,0.5,1.833,0.5,1.87,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.506,0.494
+Eugenio Suarez,0.5,2.25,0.5,1.571,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.4,0.6
+Geraldo Perdomo,0.5,2.05,0.5,1.714,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.45,0.55
+Jake McCarthy,0.5,1.87,0.5,1.87,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.5,0.5
+JJ Bleday,0.5,1.87,0.5,1.87,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.5,0.5
+Joc Pederson,0.5,2.15,0.5,1.625,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.422,0.578
+Ketel Marte,0.5,1.8,0.5,1.952,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.068,0.522,0.478
+Kyle McCann,0.5,2.25,0.5,1.588,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.404,0.596
+Lawrence Butler,0.5,2.3,0.5,1.571,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.396,0.604
+Lourdes Gurriel Jr.,0.5,1.741,0.5,2.0,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.539,0.461
+Miguel Andujar,0.5,1.667,0.5,2.1,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.564,0.436
+Tucker Barnhart,0.5,2.35,0.5,1.526,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.081,0.38,0.62
+Tyler Nevin,0.5,2.1,0.5,1.667,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Tyler Soderstrom,0.5,2.1,0.5,1.667,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Zack Gelof,0.5,2.3,0.5,1.571,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.396,0.604
+Aledmys Diaz,0.5,5.5,0.5,1.125,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.131,0.869
+Brent Rooker,0.5,4.6,0.5,1.167,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.166,0.834
+Christian Walker,0.5,4.3,0.5,1.19,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.183,0.817
+Corbin Carroll,0.5,4.2,0.5,1.2,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.19,0.81
+Eugenio Suarez,0.5,5.0,0.5,1.143,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.147,0.853
+Geraldo Perdomo,0.5,6.0,0.5,1.1,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.111,0.889
+Jake McCarthy,0.5,5.5,0.5,1.125,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.131,0.869
+JJ Bleday,0.5,3.7,0.5,1.25,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.225,0.775
+Joc Pederson,0.5,4.5,0.5,1.174,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.171,0.829
+Ketel Marte,0.5,4.1,0.5,1.211,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.197,0.803
+Kyle McCann,0.5,5.0,0.5,1.133,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.082,0.141,0.859
+Lawrence Butler,0.5,4.8,0.5,1.154,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.156,0.844
+Lourdes Gurriel Jr.,0.5,4.0,0.5,1.211,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.199,0.801
+Miguel Andujar,0.5,4.5,0.5,1.174,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.171,0.829
+Tucker Barnhart,0.5,6.5,0.5,1.083,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.077,0.096,0.904
+Tyler Nevin,0.5,5.25,0.5,1.133,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.139,0.861
+Tyler Soderstrom,0.5,5.0,0.5,1.143,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.147,0.853
+Zack Gelof,0.5,5.25,0.5,1.133,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.139,0.861
+Corbin Carroll,0.5,11.0,0.5,1.017,Triples,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.025,0.975
+Jake McCarthy,0.5,9.0,0.5,1.04,Triples,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.052,0.948
+Brent Rooker,0.5,3.25,0.5,1.303,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.261,0.739
+Christian Walker,0.5,2.1,0.5,1.667,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.436,0.564
+Corbin Carroll,0.5,2.05,0.5,1.69,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.08,0.446,0.554
+Eugenio Suarez,0.5,2.25,0.5,1.588,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.404,0.596
+Geraldo Perdomo,0.5,2.5,0.5,1.488,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.072,0.359,0.641
+Jake McCarthy,0.5,2.75,0.5,1.408,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.32,0.68
+JJ Bleday,0.5,2.55,0.5,1.465,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.349,0.651
+Joc Pederson,0.5,2.3,0.5,1.571,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.071,0.396,0.604
+Ketel Marte,0.5,2.0,0.5,1.741,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.461,0.539
+Kyle McCann,0.5,2.4,0.5,1.513,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.078,0.373,0.627
+Lawrence Butler,0.5,3.6,0.5,1.263,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.069,0.233,0.767
+Lourdes Gurriel Jr.,0.5,3.1,0.5,1.333,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.278,0.722
+Miguel Andujar,0.5,4.3,0.5,1.19,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.073,0.183,0.817
+Tucker Barnhart,0.5,2.75,0.5,1.408,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.074,0.32,0.68
+Tyler Nevin,0.5,3.3,0.5,1.303,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.07,0.259,0.741
+Tyler Soderstrom,0.5,3.05,0.5,1.339,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.075,0.282,0.718
+Zack Gelof,0.5,4.0,0.5,1.211,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30,0.076,0.199,0.801
+Austin Martin,0.5,9.5,0.5,1.033,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.073,0.044,0.956
+Byron Buxton,0.5,4.6,0.5,1.167,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.075,0.166,0.834
+Cal Raleigh,0.5,5.25,0.5,1.133,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.073,0.139,0.861
+Carlos Santana,0.5,6.5,0.5,1.091,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.101,0.899
+Christian Vazquez,0.5,10.5,0.5,1.025,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.035,0.965
+Dylan Moore,0.5,6.0,0.5,1.1,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+J.P. Crawford,0.5,8.0,0.5,1.056,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.068,0.932
+Jorge Polanco,0.5,6.5,0.5,1.083,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.077,0.096,0.904
+Jose Miranda,0.5,6.0,0.5,1.1,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+Josh Rojas,0.5,9.0,0.5,1.04,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.073,0.052,0.948
+Julio Rodriguez ,0.5,4.6,0.5,1.174,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.069,0.17,0.83
+Luke Raley,0.5,8.0,0.5,1.056,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.068,0.932
+Max Kepler,0.5,5.75,0.5,1.111,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.12,0.88
+Mitch Garver,0.5,5.25,0.5,1.133,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.073,0.139,0.861
+Royce Lewis,0.5,4.1,0.5,1.2,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.077,0.192,0.808
+Trevor Larnach,0.5,6.0,0.5,1.1,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+Ty France,0.5,7.0,0.5,1.071,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.084,0.916
+Willi Castro,0.5,7.5,0.5,1.071,Home Runs,SEA Mariners,MIN Twins,2024-06-30,0.067,0.082,0.918
+Austin Martin,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Byron Buxton,,9.0,,1.04,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.073,0.052,0.948
+Cal Raleigh,,10.0,,1.025,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.076,0.035,0.965
+Carlos Santana,,13.0,,1.005,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.072,0.009,0.991
+Christian Vazquez,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Dylan Moore,,12.0,,1.01,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.073,0.016,0.984
+J.P. Crawford,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Jorge Polanco,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Jose Miranda,,10.5,,1.025,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.071,0.035,0.965
+Josh Rojas,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Julio Rodriguez ,,8.5,,1.04,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.079,0.053,0.947
+Luke Raley,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Max Kepler,,12.0,,1.012,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.071,0.019,0.981
+Mitch Garver,,10.5,,1.025,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.071,0.035,0.965
+Royce Lewis,,7.5,,1.062,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.075,0.075,0.925
+Trevor Larnach,,10.0,,1.029,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.072,0.039,0.961
+Ty France,,,,,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,,,
+Willi Castro,,13.0,,1.005,1st Home Run,SEA Mariners,MIN Twins,2024-06-30,0.072,0.009,0.991
+Austin Martin,0.5,1.8,0.5,1.909,Hits,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Byron Buxton,0.5,1.69,0.5,2.05,Hits,SEA Mariners,MIN Twins,2024-06-30,0.08,0.554,0.446
+Cal Raleigh,0.5,1.8,0.5,1.909,Hits,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Carlos Santana,0.5,1.571,0.5,2.3,Hits,SEA Mariners,MIN Twins,2024-06-30,0.071,0.604,0.396
+Christian Vazquez,0.5,1.8,0.5,1.909,Hits,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Dylan Moore,0.5,2.05,0.5,1.69,Hits,SEA Mariners,MIN Twins,2024-06-30,0.08,0.446,0.554
+J.P. Crawford,0.5,1.667,0.5,2.1,Hits,SEA Mariners,MIN Twins,2024-06-30,0.076,0.564,0.436
+Jorge Polanco,0.5,1.952,0.5,1.769,Hits,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Jose Miranda,0.5,1.488,0.5,2.5,Hits,SEA Mariners,MIN Twins,2024-06-30,0.072,0.641,0.359
+Josh Rojas,0.5,1.625,0.5,2.15,Hits,SEA Mariners,MIN Twins,2024-06-30,0.081,0.578,0.422
+Julio Rodriguez ,0.5,1.426,0.5,2.7,Hits,SEA Mariners,MIN Twins,2024-06-30,0.072,0.672,0.328
+Luke Raley,0.5,1.952,0.5,1.769,Hits,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Max Kepler,0.5,1.488,0.5,2.5,Hits,SEA Mariners,MIN Twins,2024-06-30,0.072,0.641,0.359
+Mitch Garver,0.5,1.952,0.5,1.769,Hits,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Royce Lewis,0.5,1.541,0.5,2.35,Hits,SEA Mariners,MIN Twins,2024-06-30,0.075,0.616,0.384
+Trevor Larnach,0.5,1.556,0.5,2.35,Hits,SEA Mariners,MIN Twins,2024-06-30,0.068,0.612,0.388
+Ty France,0.5,1.8,0.5,1.909,Hits,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Willi Castro,0.5,1.488,0.5,2.5,Hits,SEA Mariners,MIN Twins,2024-06-30,0.072,0.641,0.359
+Austin Martin,0.5,1.8,0.5,1.909,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Byron Buxton,0.5,1.69,0.5,2.05,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.08,0.554,0.446
+Cal Raleigh,0.5,1.8,0.5,1.909,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Carlos Santana,0.5,1.571,0.5,2.3,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.071,0.604,0.396
+Christian Vazquez,0.5,1.8,0.5,1.909,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Dylan Moore,0.5,2.05,0.5,1.69,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.08,0.446,0.554
+J.P. Crawford,0.5,1.667,0.5,2.1,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.076,0.564,0.436
+Jorge Polanco,0.5,1.952,0.5,1.769,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Jose Miranda,1.5,2.45,1.5,1.5,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.075,0.366,0.634
+Josh Rojas,0.5,1.625,0.5,2.15,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.081,0.578,0.422
+Julio Rodriguez ,1.5,2.2,1.5,1.625,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.07,0.417,0.583
+Luke Raley,0.5,1.952,0.5,1.769,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Max Kepler,1.5,2.3,1.5,1.556,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.078,0.392,0.608
+Mitch Garver,0.5,1.952,0.5,1.769,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Royce Lewis,0.5,1.541,0.5,2.35,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.075,0.616,0.384
+Trevor Larnach,1.5,2.55,1.5,1.476,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.07,0.352,0.648
+Ty France,0.5,1.8,0.5,1.909,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.079,0.517,0.483
+Willi Castro,1.5,2.35,1.5,1.556,Total Bases,SEA Mariners,MIN Twins,2024-06-30,0.068,0.388,0.612
+Austin Martin,0.5,4.0,0.5,1.211,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.199,0.801
+Byron Buxton,0.5,2.95,0.5,1.364,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.295,0.705
+Cal Raleigh,0.5,2.95,0.5,1.364,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.295,0.705
+Carlos Santana,0.5,3.1,0.5,1.333,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.073,0.278,0.722
+Christian Vazquez,0.5,4.1,0.5,1.2,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.077,0.192,0.808
+Dylan Moore,0.5,4.0,0.5,1.211,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.199,0.801
+J.P. Crawford,0.5,3.95,0.5,1.222,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.206,0.794
+Jorge Polanco,0.5,4.0,0.5,1.222,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.068,0.205,0.795
+Jose Miranda,0.5,3.0,0.5,1.357,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.07,0.291,0.709
+Josh Rojas,0.5,3.95,0.5,1.222,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.206,0.794
+Julio Rodriguez ,0.5,2.65,0.5,1.435,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.334,0.666
+Luke Raley,0.5,4.1,0.5,1.211,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.07,0.197,0.803
+Max Kepler,0.5,3.0,0.5,1.351,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.288,0.712
+Mitch Garver,0.5,3.45,0.5,1.278,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.244,0.756
+Royce Lewis,0.5,2.5,0.5,1.488,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.072,0.359,0.641
+Trevor Larnach,0.5,3.05,0.5,1.345,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.284,0.716
+Ty France,0.5,3.85,0.5,1.222,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.078,0.208,0.792
+Willi Castro,0.5,3.7,0.5,1.25,RBIs,SEA Mariners,MIN Twins,2024-06-30,0.07,0.225,0.775
+Austin Martin,0.5,3.1,0.5,1.333,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.073,0.278,0.722
+Byron Buxton,0.5,2.45,0.5,1.513,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.069,0.369,0.631
+Cal Raleigh,0.5,2.8,0.5,1.392,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.075,0.312,0.688
+Carlos Santana,0.5,2.5,0.5,1.488,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.072,0.359,0.641
+Christian Vazquez,0.5,3.35,0.5,1.294,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.071,0.254,0.746
+Dylan Moore,0.5,2.8,0.5,1.4,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.071,0.315,0.685
+J.P. Crawford,0.5,2.65,0.5,1.444,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.07,0.337,0.663
+Jorge Polanco,0.5,3.05,0.5,1.345,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.071,0.284,0.716
+Jose Miranda,0.5,2.35,0.5,1.541,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.075,0.384,0.616
+Josh Rojas,0.5,2.7,0.5,1.426,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.072,0.328,0.672
+Julio Rodriguez ,0.5,2.3,0.5,1.556,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.078,0.392,0.608
+Luke Raley,0.5,3.05,0.5,1.345,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.071,0.284,0.716
+Max Kepler,0.5,2.6,0.5,1.455,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.072,0.343,0.657
+Mitch Garver,0.5,2.7,0.5,1.417,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.076,0.325,0.675
+Royce Lewis,0.5,2.15,0.5,1.625,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.081,0.422,0.578
+Trevor Larnach,0.5,2.4,0.5,1.513,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.078,0.373,0.627
+Ty France,0.5,3.05,0.5,1.345,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.071,0.284,0.716
+Willi Castro,0.5,2.2,0.5,1.606,Runs Scored,SEA Mariners,MIN Twins,2024-06-30,0.077,0.413,0.587
+Austin Martin,0.5,1.588,0.5,2.25,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.596,0.404
+Byron Buxton,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.404,0.596
+Cal Raleigh,0.5,1.588,0.5,2.25,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.596,0.404
+Carlos Santana,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.436,0.564
+Christian Vazquez,0.5,1.667,0.5,2.1,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.076,0.564,0.436
+Dylan Moore,0.5,1.8,0.5,1.952,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.068,0.522,0.478
+J.P. Crawford,1.5,2.35,1.5,1.541,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.075,0.384,0.616
+Jorge Polanco,0.5,1.741,0.5,2.0,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.539,0.461
+Jose Miranda,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Josh Rojas,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.074,0.404,0.596
+Julio Rodriguez ,1.5,1.909,1.5,1.833,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.069,0.489,0.511
+Luke Raley,0.5,1.714,0.5,2.05,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.55,0.45
+Max Kepler,1.5,2.05,1.5,1.69,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.08,0.446,0.554
+Mitch Garver,0.5,1.69,0.5,2.05,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.08,0.554,0.446
+Royce Lewis,1.5,1.909,1.5,1.8,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.079,0.483,0.517
+Trevor Larnach,1.5,2.05,1.5,1.714,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.071,0.45,0.55
+Ty France,0.5,1.625,0.5,2.2,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.07,0.583,0.417
+Willi Castro,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Austin Martin,0.5,6.0,0.5,1.1,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+Byron Buxton,0.5,8.5,0.5,1.05,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.07,0.062,0.938
+Dylan Moore,0.5,4.9,0.5,1.154,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.071,0.155,0.845
+Jorge Polanco,0.5,13.0,0.5,1.005,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.072,0.009,0.991
+Josh Rojas,0.5,6.5,0.5,1.083,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.077,0.096,0.904
+Julio Rodriguez ,0.5,4.1,0.5,1.2,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.077,0.192,0.808
+Luke Raley,0.5,5.75,0.5,1.111,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.074,0.12,0.88
+Royce Lewis,0.5,10.5,0.5,1.02,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.076,0.029,0.971
+Willi Castro,0.5,5.5,0.5,1.125,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30,0.071,0.131,0.869
+Austin Martin,0.5,2.3,0.5,1.556,Singles,SEA Mariners,MIN Twins,2024-06-30,0.078,0.392,0.608
+Byron Buxton,0.5,2.7,0.5,1.426,Singles,SEA Mariners,MIN Twins,2024-06-30,0.072,0.328,0.672
+Cal Raleigh,0.5,2.95,0.5,1.364,Singles,SEA Mariners,MIN Twins,2024-06-30,0.072,0.295,0.705
+Carlos Santana,0.5,2.25,0.5,1.606,Singles,SEA Mariners,MIN Twins,2024-06-30,0.067,0.408,0.592
+Christian Vazquez,0.5,2.3,0.5,1.571,Singles,SEA Mariners,MIN Twins,2024-06-30,0.071,0.396,0.604
+Dylan Moore,0.5,3.3,0.5,1.294,Singles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.255,0.745
+J.P. Crawford,0.5,2.2,0.5,1.625,Singles,SEA Mariners,MIN Twins,2024-06-30,0.07,0.417,0.583
+Jorge Polanco,0.5,3.1,0.5,1.333,Singles,SEA Mariners,MIN Twins,2024-06-30,0.073,0.278,0.722
+Jose Miranda,0.5,1.952,0.5,1.769,Singles,SEA Mariners,MIN Twins,2024-06-30,0.077,0.472,0.528
+Josh Rojas,0.5,2.1,0.5,1.69,Singles,SEA Mariners,MIN Twins,2024-06-30,0.068,0.44,0.56
+Julio Rodriguez ,0.5,2.0,0.5,1.741,Singles,SEA Mariners,MIN Twins,2024-06-30,0.074,0.461,0.539
+Luke Raley,0.5,2.9,0.5,1.377,Singles,SEA Mariners,MIN Twins,2024-06-30,0.071,0.302,0.698
+Max Kepler,0.5,2.25,0.5,1.606,Singles,SEA Mariners,MIN Twins,2024-06-30,0.067,0.408,0.592
+Mitch Garver,0.5,3.2,0.5,1.312,Singles,SEA Mariners,MIN Twins,2024-06-30,0.074,0.266,0.734
+Royce Lewis,0.5,2.3,0.5,1.556,Singles,SEA Mariners,MIN Twins,2024-06-30,0.078,0.392,0.608
+Trevor Larnach,0.5,2.2,0.5,1.625,Singles,SEA Mariners,MIN Twins,2024-06-30,0.07,0.417,0.583
+Ty France,0.5,2.45,0.5,1.5,Singles,SEA Mariners,MIN Twins,2024-06-30,0.075,0.366,0.634
+Willi Castro,0.5,2.05,0.5,1.69,Singles,SEA Mariners,MIN Twins,2024-06-30,0.08,0.446,0.554
+Austin Martin,0.5,7.0,0.5,1.071,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.084,0.916
+Byron Buxton,0.5,6.0,0.5,1.1,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+Cal Raleigh,0.5,5.5,0.5,1.111,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.082,0.122,0.878
+Carlos Santana,0.5,4.4,0.5,1.182,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.073,0.177,0.823
+Christian Vazquez,0.5,7.0,0.5,1.071,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.084,0.916
+Dylan Moore,0.5,7.5,0.5,1.062,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.075,0.075,0.925
+J.P. Crawford,0.5,5.0,0.5,1.143,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.075,0.147,0.853
+Jorge Polanco,0.5,6.0,0.5,1.1,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.111,0.889
+Jose Miranda,0.5,5.0,0.5,1.143,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.075,0.147,0.853
+Josh Rojas,0.5,4.9,0.5,1.154,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.071,0.155,0.845
+Julio Rodriguez ,0.5,5.25,0.5,1.125,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.079,0.133,0.867
+Luke Raley,0.5,6.0,0.5,1.091,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.083,0.104,0.896
+Max Kepler,0.5,4.1,0.5,1.2,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.077,0.192,0.808
+Mitch Garver,0.5,7.0,0.5,1.071,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.084,0.916
+Royce Lewis,0.5,5.75,0.5,1.111,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.074,0.12,0.88
+Trevor Larnach,0.5,4.5,0.5,1.182,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.068,0.176,0.824
+Ty France,0.5,7.0,0.5,1.071,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.076,0.084,0.916
+Willi Castro,0.5,4.1,0.5,1.211,Doubles,SEA Mariners,MIN Twins,2024-06-30,0.07,0.197,0.803
+Austin Martin,0.5,3.7,0.5,1.25,Walks,SEA Mariners,MIN Twins,2024-06-30,0.07,0.225,0.775
+Byron Buxton,0.5,4.1,0.5,1.211,Walks,SEA Mariners,MIN Twins,2024-06-30,0.07,0.197,0.803
+Cal Raleigh,0.5,3.25,0.5,1.312,Walks,SEA Mariners,MIN Twins,2024-06-30,0.07,0.264,0.736
+Carlos Santana,0.5,2.6,0.5,1.444,Walks,SEA Mariners,MIN Twins,2024-06-30,0.077,0.34,0.66
+Dylan Moore,0.5,3.5,0.5,1.27,Walks,SEA Mariners,MIN Twins,2024-06-30,0.073,0.239,0.761
+J.P. Crawford,0.5,2.45,0.5,1.5,Walks,SEA Mariners,MIN Twins,2024-06-30,0.075,0.366,0.634
+Jorge Polanco,0.5,3.2,0.5,1.312,Walks,SEA Mariners,MIN Twins,2024-06-30,0.074,0.266,0.734
+Jose Miranda,0.5,3.25,0.5,1.303,Walks,SEA Mariners,MIN Twins,2024-06-30,0.075,0.261,0.739
+Josh Rojas,0.5,3.75,0.5,1.235,Walks,SEA Mariners,MIN Twins,2024-06-30,0.076,0.217,0.783
+Julio Rodriguez ,0.5,4.3,0.5,1.19,Walks,SEA Mariners,MIN Twins,2024-06-30,0.073,0.183,0.817
+Luke Raley,0.5,4.5,0.5,1.174,Walks,SEA Mariners,MIN Twins,2024-06-30,0.074,0.171,0.829
+Max Kepler,0.5,3.65,0.5,1.256,Walks,SEA Mariners,MIN Twins,2024-06-30,0.07,0.229,0.771
+Mitch Garver,0.5,2.5,0.5,1.476,Walks,SEA Mariners,MIN Twins,2024-06-30,0.077,0.356,0.644
+Royce Lewis,0.5,3.0,0.5,1.351,Walks,SEA Mariners,MIN Twins,2024-06-30,0.074,0.288,0.712
+Trevor Larnach,0.5,2.75,0.5,1.408,Walks,SEA Mariners,MIN Twins,2024-06-30,0.074,0.32,0.68
+Ty France,0.5,3.55,0.5,1.263,Walks,SEA Mariners,MIN Twins,2024-06-30,0.073,0.235,0.765
+Willi Castro,0.5,3.0,0.5,1.351,Walks,SEA Mariners,MIN Twins,2024-06-30,0.074,0.288,0.712
+Adley Rutschman,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Adolis Garcia,0.5,3.75,0.5,1.235,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.217,0.783
+Anthony Santander,0.5,3.95,0.5,1.222,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.206,0.794
+Austin Hays,0.5,5.75,0.5,1.111,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.12,0.88
+Colton Cowser,0.5,9.0,0.5,1.04,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Davis Wendzel,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Derek Hill,0.5,9.0,0.5,1.04,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Gunnar Henderson,0.5,6.5,0.5,1.091,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.101,0.899
+James McCann,0.5,6.0,0.5,1.1,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Jonah Heim,0.5,5.25,0.5,1.125,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.133,0.867
+Jordan Westburg,0.5,5.25,0.5,1.125,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.133,0.867
+Josh Smith,0.5,9.0,0.5,1.04,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Marcus Semien,0.5,5.25,0.5,1.133,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.139,0.861
+Nathaniel Lowe,0.5,10.0,0.5,1.029,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.039,0.961
+Robbie Grossman,0.5,7.0,0.5,1.071,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.084,0.916
+Ryan Mountcastle,0.5,5.25,0.5,1.133,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.139,0.861
+Wyatt Langford,0.5,5.75,0.5,1.111,Home Runs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.12,0.88
+Adley Rutschman,1.5,2.7,1.5,1.426,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.328,0.672
+Adolis Garcia,1.5,3.05,1.5,1.345,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.284,0.716
+Anthony Santander,0.5,1.417,0.5,2.75,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.677,0.323
+Austin Hays,0.5,1.435,0.5,2.65,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.666,0.334
+Colton Cowser,0.5,1.714,0.5,2.0,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.083,0.543,0.457
+Davis Wendzel,0.5,1.571,0.5,2.25,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.6,0.4
+Derek Hill,0.5,1.392,0.5,2.85,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.69,0.31
+Gunnar Henderson,0.5,1.465,0.5,2.55,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.651,0.349
+James McCann,0.5,1.513,0.5,2.45,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.631,0.369
+Jonah Heim,1.5,3.05,1.5,1.345,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.284,0.716
+Jordan Westburg,0.5,1.408,0.5,2.75,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.68,0.32
+Josh Smith,0.5,1.5,0.5,2.45,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.634,0.366
+Marcus Semien,1.5,2.6,1.5,1.455,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.343,0.657
+Nathaniel Lowe,0.5,1.476,0.5,2.55,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.648,0.352
+Robbie Grossman,0.5,1.377,0.5,2.85,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.695,0.305
+Ryan Mountcastle,1.5,2.5,1.5,1.476,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.356,0.644
+Wyatt Langford,1.5,2.9,1.5,1.37,Hits,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.3,0.7
+Adley Rutschman,1.5,2.0,1.5,1.741,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Adolis Garcia,1.5,1.87,1.5,1.87,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.5,0.5
+Anthony Santander,1.5,2.1,1.5,1.69,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.44,0.56
+Austin Hays,1.5,2.3,1.5,1.556,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.078,0.392,0.608
+Colton Cowser,0.5,1.714,0.5,2.0,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.083,0.543,0.457
+Davis Wendzel,0.5,1.571,0.5,2.25,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.6,0.4
+Derek Hill,1.5,2.35,1.5,1.541,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Gunnar Henderson,0.5,1.5,0.5,2.45,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.634,0.366
+James McCann,1.5,2.45,1.5,1.5,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Jonah Heim,1.5,2.15,1.5,1.645,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.426,0.574
+Jordan Westburg,1.5,2.2,1.5,1.625,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.417,0.583
+Josh Smith,0.5,1.5,0.5,2.45,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.634,0.366
+Marcus Semien,1.5,1.87,1.5,1.87,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.5,0.5
+Nathaniel Lowe,0.5,1.476,0.5,2.55,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.648,0.352
+Robbie Grossman,1.5,2.35,1.5,1.541,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Ryan Mountcastle,1.5,1.87,1.5,1.87,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.5,0.5
+Wyatt Langford,1.5,2.0,1.5,1.741,Total Bases,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.461,0.539
+Adley Rutschman,0.5,2.8,0.5,1.4,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.315,0.685
+Adolis Garcia,0.5,2.15,0.5,1.645,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.426,0.574
+Anthony Santander,0.5,2.35,0.5,1.556,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.388,0.612
+Austin Hays,0.5,2.65,0.5,1.444,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.337,0.663
+Colton Cowser,0.5,3.5,0.5,1.27,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.239,0.761
+Davis Wendzel,0.5,2.9,0.5,1.37,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.3,0.7
+Derek Hill,0.5,3.15,0.5,1.323,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.272,0.728
+Gunnar Henderson,0.5,2.75,0.5,1.417,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.323,0.677
+James McCann,0.5,2.85,0.5,1.385,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.307,0.693
+Jonah Heim,0.5,2.5,0.5,1.488,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.359,0.641
+Jordan Westburg,0.5,2.45,0.5,1.513,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.369,0.631
+Josh Smith,0.5,3.2,0.5,1.312,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.266,0.734
+Marcus Semien,0.5,2.65,0.5,1.444,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.337,0.663
+Nathaniel Lowe,0.5,3.3,0.5,1.303,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.259,0.741
+Robbie Grossman,0.5,3.05,0.5,1.345,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.284,0.716
+Ryan Mountcastle,0.5,2.45,0.5,1.5,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Wyatt Langford,0.5,2.6,0.5,1.444,RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.34,0.66
+Adley Rutschman,0.5,1.833,0.5,1.909,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.511,0.489
+Adolis Garcia,0.5,1.87,0.5,1.833,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Anthony Santander,0.5,1.952,0.5,1.769,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Austin Hays,0.5,2.25,0.5,1.571,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.081,0.4,0.6
+Colton Cowser,0.5,2.45,0.5,1.5,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Davis Wendzel,0.5,2.5,0.5,1.488,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.359,0.641
+Derek Hill,0.5,2.35,0.5,1.541,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Gunnar Henderson,0.5,2.05,0.5,1.714,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.45,0.55
+James McCann,0.5,2.45,0.5,1.5,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.366,0.634
+Jonah Heim,0.5,2.25,0.5,1.588,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Jordan Westburg,0.5,2.1,0.5,1.667,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.436,0.564
+Josh Smith,0.5,2.3,0.5,1.556,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.078,0.392,0.608
+Marcus Semien,0.5,1.952,0.5,1.769,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Nathaniel Lowe,0.5,2.6,0.5,1.455,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.343,0.657
+Robbie Grossman,0.5,2.1,0.5,1.667,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.436,0.564
+Ryan Mountcastle,0.5,1.909,0.5,1.833,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.489,0.511
+Wyatt Langford,0.5,1.952,0.5,1.769,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Adley Rutschman,1.5,1.588,1.5,2.25,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.596,0.404
+Adolis Garcia,2.5,2.15,2.5,1.645,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.426,0.574
+Anthony Santander,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Austin Hays,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Colton Cowser,1.5,2.25,1.5,1.588,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Davis Wendzel,1.5,2.1,1.5,1.667,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.436,0.564
+Derek Hill,1.5,1.833,1.5,1.87,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Gunnar Henderson,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+James McCann,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Jonah Heim,1.5,1.69,1.5,2.05,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.554,0.446
+Jordan Westburg,1.5,1.741,1.5,2.0,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Josh Smith,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Marcus Semien,2.5,2.25,2.5,1.588,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.404,0.596
+Nathaniel Lowe,1.5,1.952,1.5,1.769,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+Robbie Grossman,1.5,1.769,1.5,1.952,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+Ryan Mountcastle,2.5,2.2,2.5,1.625,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.417,0.583
+Wyatt Langford,1.5,1.625,1.5,2.2,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.583,0.417
+Adolis Garcia,0.5,13.0,0.5,1.005,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.009,0.991
+Colton Cowser,0.5,9.5,0.5,1.033,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.044,0.956
+Derek Hill,0.5,8.5,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.053,0.947
+Gunnar Henderson,0.5,7.0,0.5,1.071,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.084,0.916
+Jordan Westburg,0.5,9.0,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Wyatt Langford,0.5,9.0,0.5,1.04,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.052,0.948
+Adley Rutschman,0.5,1.625,0.5,2.2,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.583,0.417
+Adolis Garcia,0.5,1.87,0.5,1.87,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.5,0.5
+Anthony Santander,0.5,2.1,0.5,1.667,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.436,0.564
+Austin Hays,0.5,1.909,0.5,1.8,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.079,0.483,0.517
+Colton Cowser,0.5,2.3,0.5,1.571,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.396,0.604
+Davis Wendzel,0.5,2.3,0.5,1.571,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.396,0.604
+Derek Hill,0.5,1.714,0.5,2.05,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.55,0.45
+Gunnar Henderson,0.5,1.952,0.5,1.769,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.472,0.528
+James McCann,0.5,2.05,0.5,1.69,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.446,0.554
+Jonah Heim,0.5,1.833,0.5,1.87,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.506,0.494
+Jordan Westburg,0.5,1.87,0.5,1.833,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Josh Smith,0.5,1.87,0.5,1.833,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.494,0.506
+Marcus Semien,0.5,1.69,0.5,2.05,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.08,0.554,0.446
+Nathaniel Lowe,0.5,1.741,0.5,2.0,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.539,0.461
+Robbie Grossman,0.5,1.8,0.5,1.952,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.522,0.478
+Ryan Mountcastle,0.5,1.606,0.5,2.2,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.587,0.413
+Wyatt Langford,0.5,1.769,0.5,1.952,Singles,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.528,0.472
+Adley Rutschman,0.5,3.95,0.5,1.222,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.206,0.794
+Adolis Garcia,0.5,4.1,0.5,1.211,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.197,0.803
+Anthony Santander,0.5,4.5,0.5,1.182,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.068,0.176,0.824
+Austin Hays,0.5,4.9,0.5,1.154,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.155,0.845
+Colton Cowser,0.5,6.0,0.5,1.1,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.111,0.889
+Davis Wendzel,0.5,5.25,0.5,1.133,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.139,0.861
+Derek Hill,0.5,4.8,0.5,1.154,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.156,0.844
+Gunnar Henderson,0.5,5.0,0.5,1.143,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.147,0.853
+James McCann,0.5,4.7,0.5,1.167,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.165,0.835
+Jonah Heim,0.5,4.1,0.5,1.2,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.077,0.192,0.808
+Jordan Westburg,0.5,4.5,0.5,1.174,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.171,0.829
+Josh Smith,0.5,5.0,0.5,1.143,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.147,0.853
+Marcus Semien,0.5,3.45,0.5,1.278,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.072,0.244,0.756
+Nathaniel Lowe,0.5,5.5,0.5,1.125,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.131,0.869
+Robbie Grossman,0.5,4.3,0.5,1.19,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.183,0.817
+Ryan Mountcastle,0.5,3.9,0.5,1.222,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.207,0.793
+Wyatt Langford,0.5,4.0,0.5,1.211,Doubles,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.199,0.801
+Adley Rutschman,0.5,2.35,0.5,1.541,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Adolis Garcia,0.5,3.8,0.5,1.235,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.216,0.784
+Anthony Santander,0.5,2.35,0.5,1.541,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.075,0.384,0.616
+Austin Hays,0.5,3.8,0.5,1.235,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.216,0.784
+Colton Cowser,0.5,2.85,0.5,1.385,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.307,0.693
+Gunnar Henderson,0.5,2.05,0.5,1.714,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.071,0.45,0.55
+James McCann,0.5,4.6,0.5,1.174,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.069,0.17,0.83
+Jordan Westburg,0.5,3.7,0.5,1.25,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.225,0.775
+Josh Smith,0.5,4.0,0.5,1.211,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.199,0.801
+Marcus Semien,0.5,3.75,0.5,1.235,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.076,0.217,0.783
+Nathaniel Lowe,0.5,3.7,0.5,1.25,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.225,0.775
+Robbie Grossman,0.5,2.75,0.5,1.408,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.074,0.32,0.68
+Ryan Mountcastle,0.5,3.5,0.5,1.27,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.073,0.239,0.761
+Wyatt Langford,0.5,3.25,0.5,1.312,Walks,BAL Orioles,TEX Rangers,2024-06-30,0.07,0.264,0.736

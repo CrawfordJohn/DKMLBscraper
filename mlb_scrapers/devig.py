@@ -64,7 +64,3 @@ def true_odds(df):
     df['under_true_prob'] = under_true_prob
     df[['under_odds', 'over_odds', 'hold', 'over_true_prob', 'under_true_prob']] = round(df[['under_odds', 'over_odds', 'hold', 'over_true_prob', 'under_true_prob']], 3)
     return df
-
-closer = pd.read_csv('closer.csv')
-
-true_odds(closer).to_csv('closer.csv')

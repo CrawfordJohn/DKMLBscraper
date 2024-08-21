@@ -1,0 +1,2344 @@
+players,over_lines,over_odds,under_lines,under_odds,bet_type,home_tm,away_tm,date
+Bryce Johnson,0.5,+750,0.5,−2500,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+650,0.5,−1600,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+550,0.5,−1200,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+475,0.5,−900,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,+700,0.5,−2000,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+400,0.5,−700,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+800,0.5,−2500,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+475,0.5,−900,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,+450,0.5,−900,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,+450,0.5,−800,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,+550,0.5,−1100,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,+550,0.5,−1200,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,+1000,0.5,−5000,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,+425,0.5,−750,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+650,0.5,−1600,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,+220,0.5,−320,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+850,0.5,−3000,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+400,0.5,−700,Home Runs,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,,+1500,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,,+1600,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,,+1100,,−8000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,,+1100,,−10000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,,+1300,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,,+950,,−5000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,,+1500,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,,+1000,,−5000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,,+900,,−3500,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,,+850,,−3000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,,+1000,,−5000,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,,+1200,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,,+1500,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,,+900,,−3500,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,,+1500,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,,+600,,−1400,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,,+1700,,,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,,+750,,−2500,1st Home Run,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,−195,0.5,+145,Hits,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,−195,0.5,+140,Hits,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,−225,0.5,+165,Hits,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,−200,0.5,+145,Hits,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,1.5,+190,1.5,−270,Hits,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,−190,0.5,+140,Hits,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,−245,0.5,+175,Hits,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,1.5,+150,1.5,−205,Hits,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,1.5,+160,1.5,−220,Hits,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,1.5,+160,1.5,−225,Hits,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,1.5,+195,1.5,−275,Hits,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,−210,0.5,+150,Hits,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,1.5,+110,1.5,−155,Hits,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,1.5,+145,1.5,−200,Hits,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,−220,0.5,+160,Hits,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,−275,0.5,+195,Hits,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,−165,0.5,+120,Hits,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,−215,0.5,+155,Hits,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,−195,0.5,+145,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,−195,0.5,+140,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,1.5,+115,1.5,−155,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,1.5,+130,1.5,−175,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,1.5,+115,1.5,−155,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,1.5,+120,1.5,−165,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,1.5,+135,1.5,−180,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,1.5,−125,1.5,−105,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,1.5,−125,1.5,−110,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,1.5,−140,1.5,+105,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,1.5,+105,1.5,−140,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,1.5,+145,1.5,−200,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,1.5,−130,1.5,−105,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,1.5,−125,1.5,−110,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,1.5,+130,1.5,−180,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,1.5,−130,1.5,−105,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,−165,0.5,+120,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,1.5,+110,1.5,−150,Total Bases,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+205,0.5,−290,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+200,0.5,−285,RBIs,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+160,0.5,−220,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+170,0.5,−240,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,+165,0.5,−225,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+165,0.5,−225,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+160,0.5,−220,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+130,0.5,−175,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,+120,0.5,−165,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,+150,0.5,−205,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,+165,0.5,−225,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,+165,0.5,−225,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,+160,0.5,−225,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,+110,0.5,−145,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+195,0.5,−280,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,+100,0.5,−135,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+230,0.5,−330,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+135,0.5,−185,RBIs,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+125,0.5,−175,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+135,0.5,−185,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,−115,0.5,−115,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+130,0.5,−175,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,+115,0.5,−155,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+110,0.5,−145,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+110,0.5,−155,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,−115,0.5,−115,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,−125,0.5,−110,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,−150,0.5,+110,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,−125,0.5,−105,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,+140,0.5,−195,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,−115,0.5,−115,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,−120,0.5,−115,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+130,0.5,−180,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,−125,0.5,−110,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+160,0.5,−220,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,−105,0.5,−130,Runs Scored,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,1.5,−105,1.5,−130,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,1.5,−105,1.5,−130,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,1.5,−140,1.5,+105,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,1.5,−110,1.5,−125,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,1.5,−145,1.5,+110,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,1.5,−120,1.5,−115,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,1.5,−135,1.5,+100,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,2.5,+115,2.5,−155,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,2.5,+110,2.5,−150,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,2.5,+110,2.5,−155,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,1.5,−160,1.5,+120,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,1.5,−110,1.5,−125,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,2.5,+105,2.5,−145,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,2.5,+105,2.5,−140,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,1.5,−110,1.5,−125,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,2.5,+110,2.5,−150,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,1.5,+110,1.5,−150,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,1.5,−130,1.5,−105,Hits + Runs + RBIs,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+450,0.5,−800,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+450,0.5,−800,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+135,0.5,−190,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+800,0.5,−2500,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+350,0.5,−575,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+425,0.5,−800,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,+1000,0.5,−5000,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,+205,0.5,−295,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,+1000,0.5,−6000,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+500,0.5,−1000,Stolen Bases,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+105,0.5,−145,Singles,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+110,0.5,−150,Singles,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+115,0.5,−155,Singles,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+125,0.5,−170,Singles,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,−150,0.5,+110,Singles,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+145,0.5,−200,Singles,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,−125,0.5,−105,Singles,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,−150,0.5,+110,Singles,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,−140,0.5,+105,Singles,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,−105,0.5,−130,Singles,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,−125,0.5,−110,Singles,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,−105,0.5,−130,Singles,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,−255,0.5,+180,Singles,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,−165,0.5,+120,Singles,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+100,0.5,−135,Singles,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,+120,0.5,−165,Singles,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+115,0.5,−160,Singles,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+135,0.5,−185,Singles,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+340,0.5,−550,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Ceddanne Rafaela,0.5,+370,0.5,−600,Doubles,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+275,0.5,−425,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+320,0.5,−500,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,+320,0.5,−500,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+310,0.5,−475,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+340,0.5,−550,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+250,0.5,−370,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,+235,0.5,−340,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,+215,0.5,−310,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,+265,0.5,−400,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,+360,0.5,−575,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,+245,0.5,−360,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,+280,0.5,−425,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+310,0.5,−500,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,+270,0.5,−425,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+380,0.5,−650,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+285,0.5,−425,Doubles,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+1200,0.5,−20000,Triples,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+1100,0.5,−8000,Triples,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+950,0.5,−4000,Triples,BOS Red Sox,SD Padres,2024-06-30
+Bryce Johnson,0.5,+240,0.5,−350,Walks,BOS Red Sox,SD Padres,2024-06-30
+David Hamilton,0.5,+190,0.5,−265,Walks,BOS Red Sox,SD Padres,2024-06-30
+Dominic Smith,0.5,+205,0.5,−290,Walks,BOS Red Sox,SD Padres,2024-06-30
+Donovan Solano,0.5,+265,0.5,−390,Walks,BOS Red Sox,SD Padres,2024-06-30
+Enmanuel Valdez,0.5,+180,0.5,−255,Walks,BOS Red Sox,SD Padres,2024-06-30
+Ha-Seong Kim,0.5,+150,0.5,−205,Walks,BOS Red Sox,SD Padres,2024-06-30
+Jackson Merrill,0.5,+285,0.5,−425,Walks,BOS Red Sox,SD Padres,2024-06-30
+Jake Cronenworth,0.5,+175,0.5,−245,Walks,BOS Red Sox,SD Padres,2024-06-30
+Jarren Duran,0.5,+180,0.5,−255,Walks,BOS Red Sox,SD Padres,2024-06-30
+Jurickson Profar,0.5,+150,0.5,−210,Walks,BOS Red Sox,SD Padres,2024-06-30
+Kyle Higashioka,0.5,+290,0.5,−450,Walks,BOS Red Sox,SD Padres,2024-06-30
+Luis Arraez,0.5,+340,0.5,−550,Walks,BOS Red Sox,SD Padres,2024-06-30
+Manny Machado,0.5,+220,0.5,−320,Walks,BOS Red Sox,SD Padres,2024-06-30
+Masataka Yoshida,0.5,+225,0.5,−330,Walks,BOS Red Sox,SD Padres,2024-06-30
+Rafael Devers,0.5,+135,0.5,−185,Walks,BOS Red Sox,SD Padres,2024-06-30
+Reese McGuire,0.5,+270,0.5,−400,Walks,BOS Red Sox,SD Padres,2024-06-30
+Wilyer Abreu,0.5,+170,0.5,−235,Walks,BOS Red Sox,SD Padres,2024-06-30
+Alec Bohm,0.5,+425,0.5,−750,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,+850,0.5,−3000,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,+380,0.5,−650,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,+450,0.5,−800,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+475,0.5,−900,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+600,0.5,−1400,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+390,0.5,−650,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,+800,0.5,−2500,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,+340,0.5,−550,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,+550,0.5,−1200,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,+475,0.5,−900,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+330,0.5,−525,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,+340,0.5,−550,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+950,0.5,−4000,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,+950,0.5,−4000,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,+900,0.5,−3500,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,+310,0.5,−500,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+750,0.5,−2500,Home Runs,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,,+900,,−3500,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,,+1700,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,,+850,,−3000,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,,+950,,−5000,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,,+900,,−3500,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,,+1300,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,,+950,,−4000,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,,+1600,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,,+800,,−2500,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,,+1100,,−10000,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,,+1000,,−5000,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,,+800,,−2500,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,,+800,,−2500,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,,+1700,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,,+1800,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,,+1700,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,,+650,,−1600,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,,+1500,,,1st Home Run,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,1.5,+145,1.5,−200,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,−140,0.5,+105,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,−290,0.5,+205,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,1.5,+200,1.5,−285,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,1.5,+145,1.5,−200,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,−165,0.5,+120,Hits,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,−215,0.5,+155,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,−190,0.5,+140,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,−270,0.5,+190,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,−205,0.5,+150,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,−265,0.5,+190,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,−215,0.5,+155,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,1.5,+185,1.5,−260,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,1.5,+175,1.5,−240,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,−180,0.5,+130,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,−240,0.5,+170,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,1.5,+140,1.5,−195,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,−255,0.5,+185,Hits,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,1.5,−120,1.5,−110,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,−140,0.5,+105,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,1.5,+105,1.5,−140,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,1.5,+115,1.5,−155,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,1.5,−125,1.5,−110,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,−165,0.5,+120,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,1.5,+125,1.5,−170,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,−190,0.5,+140,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,1.5,+105,1.5,−145,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,−205,0.5,+150,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,1.5,+125,1.5,−170,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,1.5,+105,1.5,−145,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,1.5,−105,1.5,−130,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,1.5,+120,1.5,−160,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,−180,0.5,+130,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,1.5,+160,1.5,−225,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,1.5,−130,1.5,−105,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,1.5,+140,1.5,−190,Total Bases,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,+105,0.5,−145,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,+300,0.5,−450,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,+120,0.5,−165,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,+160,0.5,−220,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+175,0.5,−245,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+260,0.5,−380,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+160,0.5,−220,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,+235,0.5,−340,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,+150,0.5,−210,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,+245,0.5,−360,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,+160,0.5,−220,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+135,0.5,−185,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,+120,0.5,−165,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+250,0.5,−360,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,+235,0.5,−340,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,+235,0.5,−340,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,+105,0.5,−145,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+190,0.5,−270,RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,−120,0.5,−115,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,+215,0.5,−310,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,−130,0.5,−105,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,+120,0.5,−165,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,−165,0.5,+120,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+170,0.5,−235,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+130,0.5,−175,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,+190,0.5,−270,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,+115,0.5,−155,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,+130,0.5,−175,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,+125,0.5,−170,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+105,0.5,−145,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,−110,0.5,−125,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+120,0.5,−165,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,+150,0.5,−205,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,+180,0.5,−250,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,−150,0.5,+110,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+125,0.5,−170,Runs Scored,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,2.5,+100,2.5,−140,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,−175,0.5,+125,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,2.5,+120,2.5,−165,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,1.5,−135,1.5,+100,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,2.5,+105,2.5,−145,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,1.5,+125,1.5,−170,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,1.5,−115,1.5,−120,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,1.5,+120,1.5,−160,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,1.5,−135,1.5,+100,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,1.5,+100,1.5,−135,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,1.5,−130,1.5,−105,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,1.5,−140,1.5,+100,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,2.5,+120,2.5,−160,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,1.5,−135,1.5,+100,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,1.5,+110,1.5,−150,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,1.5,+100,1.5,−135,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,2.5,−110,2.5,−125,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,1.5,−120,1.5,−110,Hits + Runs + RBIs,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,+1200,0.5,−20000,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,+380,0.5,−650,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+330,0.5,−525,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+800,0.5,−2500,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+1200,0.5,−20000,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,+425,0.5,−800,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,+1000,0.5,−6000,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+400,0.5,−700,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,+800,0.5,−2500,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,+350,0.5,−550,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+380,0.5,−650,Stolen Bases,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,−180,0.5,+135,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,+115,0.5,−160,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,−115,0.5,−120,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,−135,0.5,+100,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,−165,0.5,+125,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+115,0.5,−160,Singles,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+110,0.5,−155,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,−105,0.5,−125,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,−110,0.5,−125,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,−120,0.5,−115,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,−130,0.5,−105,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+115,0.5,−155,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,−125,0.5,−105,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,−195,0.5,+145,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,−105,0.5,−130,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,−150,0.5,+110,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,−165,0.5,+120,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,−140,0.5,+105,Singles,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,+295,0.5,−450,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Ali Sanchez,0.5,+550,0.5,−1200,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,+360,0.5,−575,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,+360,0.5,−600,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+280,0.5,−425,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+475,0.5,−900,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+400,0.5,−700,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,+450,0.5,−800,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,+350,0.5,−550,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Jazz Chisholm,0.5,+550,0.5,−1100,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,+380,0.5,−650,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+340,0.5,−550,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,+340,0.5,−550,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+400,0.5,−700,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,+500,0.5,−1000,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Tim Anderson,0.5,+500,0.5,−1000,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,+290,0.5,−450,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+400,0.5,−700,Doubles,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+1200,0.5,−20000,Triples,PHI Phillies,MIA Marlins,2024-06-30
+Alec Bohm,0.5,+205,0.5,−295,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Brandon Marsh,0.5,+130,0.5,−180,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Bryan De La Cruz,0.5,+280,0.5,−425,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Bryson Stott,0.5,+185,0.5,−260,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Dane Myers,0.5,+310,0.5,−500,Walks,PHI Phillies,MIA Marlins,2024-06-30
+David Dahl,0.5,+310,0.5,−475,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Emmanuel Rivera,0.5,+320,0.5,−500,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Jake Burger,0.5,+310,0.5,−475,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Josh Bell,0.5,+220,0.5,−320,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Kody Clemens,0.5,+295,0.5,−450,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Nick Castellanos,0.5,+340,0.5,−550,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Otto Lopez,0.5,+340,0.5,−550,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Rafael Marchan,0.5,+310,0.5,−500,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Trea Turner,0.5,+230,0.5,−330,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Whit Merrifield,0.5,+290,0.5,−450,Walks,PHI Phillies,MIA Marlins,2024-06-30
+Aaron Judge,0.5,+180,0.5,−250,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+650,0.5,−1600,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,+700,0.5,−1800,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+500,0.5,−1000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+425,0.5,−800,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+450,0.5,−800,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+500,0.5,−1100,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+700,0.5,−1800,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,+1000,0.5,−6000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+650,0.5,−1600,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+550,0.5,−1200,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+850,0.5,−3000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,+650,0.5,−1600,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+1000,0.5,−5000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+850,0.5,−3000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+750,0.5,−2000,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+600,0.5,−1400,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,+380,0.5,−650,Home Runs,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,,+1800,,,1st Home Run,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,1.5,+200,1.5,−280,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,−235,0.5,+170,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,1.5,+180,1.5,−255,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,−190,0.5,+140,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,−175,0.5,+130,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,−175,0.5,+130,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,−125,0.5,−110,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,−245,0.5,+175,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,−205,0.5,+150,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,−230,0.5,+165,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,−250,0.5,+180,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,1.5,+195,1.5,−275,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,−200,0.5,+145,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,−120,0.5,−115,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,−180,0.5,+130,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,−185,0.5,+135,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,−105,0.5,−130,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,1.5,+185,1.5,−260,Hits,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,1.5,−140,1.5,+105,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,1.5,+130,1.5,−180,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,1.5,+105,1.5,−140,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,1.5,+135,1.5,−185,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,−175,0.5,+130,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,−175,0.5,+130,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,−125,0.5,−110,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,1.5,+135,1.5,−185,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,−205,0.5,+150,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,1.5,+135,1.5,−185,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,1.5,+125,1.5,−170,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,1.5,+120,1.5,−165,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,−200,0.5,+145,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,−120,0.5,−115,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,−180,0.5,+130,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,−185,0.5,+135,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,−105,0.5,−130,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,1.5,+100,1.5,−135,Total Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,+100,0.5,−135,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+165,0.5,−230,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,+180,0.5,−255,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+185,0.5,−255,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+170,0.5,−240,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+170,0.5,−235,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+210,0.5,−300,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+185,0.5,−260,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,+230,0.5,−340,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+190,0.5,−265,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+165,0.5,−230,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+230,0.5,−330,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,+170,0.5,−240,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+340,0.5,−550,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+210,0.5,−295,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+250,0.5,−370,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+245,0.5,−360,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,+140,0.5,−195,RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,−155,0.5,+115,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+135,0.5,−185,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,−115,0.5,−120,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+130,0.5,−175,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+115,0.5,−155,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+140,0.5,−195,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+140,0.5,−195,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+140,0.5,−190,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,+200,0.5,−285,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+135,0.5,−185,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+110,0.5,−150,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+105,0.5,−145,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,+145,0.5,−195,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+205,0.5,−290,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+155,0.5,−215,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+125,0.5,−170,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+140,0.5,−190,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,+115,0.5,−155,Runs Scored,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,2.5,−105,2.5,−130,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,1.5,−120,1.5,−115,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,1.5,−160,1.5,+120,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,1.5,−105,1.5,−130,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,1.5,−110,1.5,−120,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,1.5,+100,1.5,−140,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,1.5,+125,1.5,−175,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,1.5,−120,1.5,−110,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,1.5,+110,1.5,−150,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,1.5,−120,1.5,−115,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,1.5,−130,1.5,−105,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,1.5,−140,1.5,+105,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,1.5,−110,1.5,−125,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,−155,0.5,+115,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,1.5,+105,1.5,−140,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,1.5,+100,1.5,−140,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,−170,0.5,+125,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,1.5,−150,1.5,+110,Hits + Runs + RBIs,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,+850,0.5,−3000,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+1100,0.5,−8000,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,+235,0.5,−340,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+650,0.5,−1600,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+800,0.5,−2500,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+950,0.5,−4000,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+600,0.5,−1400,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+550,0.5,−1200,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+650,0.5,−1600,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+800,0.5,−2500,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+500,0.5,−1000,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+550,0.5,−1100,Stolen Bases,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,+130,0.5,−175,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,−115,0.5,−115,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,−155,0.5,+115,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+120,0.5,−165,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+135,0.5,−185,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+140,0.5,−190,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+200,0.5,−280,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,−135,0.5,+100,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,−115,0.5,−115,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,−115,0.5,−120,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,−125,0.5,−110,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,−165,0.5,+120,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,−105,0.5,−130,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+145,0.5,−200,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+105,0.5,−140,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+115,0.5,−155,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+215,0.5,−310,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,−130,0.5,−105,Singles,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,+330,0.5,−525,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+320,0.5,−500,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,+300,0.5,−475,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+340,0.5,−550,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+370,0.5,−600,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+340,0.5,−550,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+425,0.5,−750,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+370,0.5,−650,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Ernie Clement,0.5,+390,0.5,−650,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+370,0.5,−600,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+330,0.5,−525,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+340,0.5,−550,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,+360,0.5,−600,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+550,0.5,−1100,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+400,0.5,−700,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+370,0.5,−600,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+500,0.5,−1000,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,+300,0.5,−475,Doubles,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+1200,0.5,−20000,Triples,TOR Blue Jays,NY Yankees,2024-06-30
+Aaron Judge,0.5,−125,0.5,−110,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Verdugo,0.5,+195,0.5,−280,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Anthony Volpe,0.5,+255,0.5,−370,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Austin Wells,0.5,+175,0.5,−245,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Ben Rice,0.5,+155,0.5,−215,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Danny Jansen,0.5,+175,0.5,−245,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Daulton Varsho,0.5,+210,0.5,−300,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+DJ LeMahieu,0.5,+175,0.5,−240,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+George Springer ,0.5,+225,0.5,−330,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Gleyber Torres,0.5,+190,0.5,−265,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Isiah Kiner-Falefa,0.5,+295,0.5,−450,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Justin Turner,0.5,+160,0.5,−220,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Kevin Kiermaier,0.5,+320,0.5,−500,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Oswaldo Cabrera,0.5,+290,0.5,−450,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Spencer Horwitz,0.5,+165,0.5,−225,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Trent Grisham,0.5,+100,0.5,−140,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Vladimir Guerrero Jr.,0.5,+195,0.5,−275,Walks,TOR Blue Jays,NY Yankees,2024-06-30
+Alex Jackson,0.5,+500,0.5,−1000,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+700,0.5,−1800,Home Runs,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+500,0.5,−1100,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,+850,0.5,−3000,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,+500,0.5,−1100,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+700,0.5,−2000,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,+550,0.5,−1200,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+500,0.5,−1100,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+650,0.5,−1600,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+450,0.5,−800,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,+800,0.5,−2500,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+500,0.5,−1100,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+750,0.5,−2500,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+900,0.5,−3500,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,+350,0.5,−575,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+800,0.5,−2500,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,+500,0.5,−1000,Home Runs,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,−130,0.5,−105,Hits,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,1.5,+140,1.5,−190,Hits,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,−220,0.5,+160,Hits,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,−215,0.5,+155,Hits,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,−235,0.5,+170,Hits,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,−170,0.5,+125,Hits,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,−135,0.5,+100,Hits,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,−270,0.5,+190,Hits,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,−230,0.5,+170,Hits,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,−170,0.5,+125,Hits,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,−190,0.5,+140,Hits,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,−180,0.5,+130,Hits,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,−205,0.5,+150,Hits,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,−255,0.5,+180,Hits,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,−130,0.5,−105,Hits,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,−255,0.5,+180,Hits,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,−155,0.5,+115,Hits,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,1.5,+140,1.5,−190,Hits,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,−130,0.5,−105,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,1.5,−115,1.5,−115,Total Bases,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,1.5,+130,1.5,−180,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,1.5,+155,1.5,−215,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,1.5,+130,1.5,−175,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,−170,0.5,+125,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,−135,0.5,+100,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,1.5,+120,1.5,−165,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,1.5,+135,1.5,−180,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,−170,0.5,+125,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,−190,0.5,+140,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,−180,0.5,+130,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,1.5,+135,1.5,−185,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),1.5,+135,1.5,−185,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,−130,0.5,−105,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,1.5,+105,1.5,−140,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,−155,0.5,+115,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,1.5,−120,1.5,−110,Total Bases,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,+215,0.5,−310,RBIs,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+150,0.5,−205,RBIs,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+200,0.5,−285,RBIs,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,+235,0.5,−340,RBIs,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,+125,0.5,−170,RBIs,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,+300,0.5,−475,RBIs,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+265,0.5,−400,RBIs,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,+170,0.5,−235,RBIs,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+170,0.5,−240,RBIs,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+195,0.5,−275,RBIs,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+160,0.5,−220,RBIs,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,+215,0.5,−310,RBIs,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+205,0.5,−290,RBIs,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+205,0.5,−290,RBIs,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+285,0.5,−450,RBIs,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,+160,0.5,−225,RBIs,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+200,0.5,−280,RBIs,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,+180,0.5,−250,RBIs,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,+165,0.5,−225,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+100,0.5,−135,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+115,0.5,−160,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,+190,0.5,−265,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,+135,0.5,−185,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,+200,0.5,−280,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+150,0.5,−205,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,+130,0.5,−175,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+125,0.5,−175,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+130,0.5,−180,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+115,0.5,−160,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,+210,0.5,−300,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+125,0.5,−175,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+145,0.5,−200,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+200,0.5,−285,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,−135,0.5,+100,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+140,0.5,−190,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,−130,0.5,−105,Runs Scored,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,−175,0.5,+130,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,2.5,+120,2.5,−160,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,1.5,−115,1.5,−120,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,1.5,+105,1.5,−140,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,1.5,−135,1.5,−105,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,1.5,+130,1.5,−180,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,1.5,+135,1.5,−185,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,1.5,−125,1.5,−105,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,1.5,−120,1.5,−115,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,1.5,+100,1.5,−135,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,1.5,−115,1.5,−120,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,1.5,+120,1.5,−165,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,1.5,−105,1.5,−130,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),1.5,−120,1.5,−115,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,−170,0.5,+125,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,1.5,−150,1.5,+110,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,1.5,+105,1.5,−140,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,2.5,+115,2.5,−155,Hits + Runs + RBIs,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+310,0.5,−475,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+300,0.5,−475,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,+850,0.5,−3000,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,+255,0.5,−370,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+850,0.5,−3000,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+275,0.5,−425,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+170,0.5,−235,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+370,0.5,−600,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+370,0.5,−600,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+600,0.5,−1400,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+1000,0.5,−5000,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,+330,0.5,−525,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+285,0.5,−425,Stolen Bases,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,+170,0.5,−235,Singles,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,−195,0.5,+145,Singles,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,−105,0.5,−130,Singles,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,−130,0.5,−105,Singles,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,−110,0.5,−125,Singles,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,−115,0.5,−120,Singles,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+135,0.5,−190,Singles,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,−130,0.5,−105,Singles,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,−110,0.5,−125,Singles,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+115,0.5,−155,Singles,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+120,0.5,−160,Singles,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,+105,0.5,−145,Singles,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+105,0.5,−145,Singles,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,−140,0.5,+105,Singles,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+130,0.5,−180,Singles,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,−105,0.5,−130,Singles,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+120,0.5,−160,Singles,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,−185,0.5,+135,Singles,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,+475,0.5,−900,Doubles,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+270,0.5,−400,Doubles,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+380,0.5,−650,Doubles,TB Rays,WAS Nationals,2024-06-30
+Harold Ramirez,0.5,+425,0.5,−750,Doubles,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,+340,0.5,−550,Doubles,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,+550,0.5,−1100,Doubles,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+500,0.5,−1000,Doubles,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,+330,0.5,−525,Doubles,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+360,0.5,−575,Doubles,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+425,0.5,−750,Doubles,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+400,0.5,−700,Doubles,TB Rays,WAS Nationals,2024-06-30
+Keibert Ruiz,0.5,+400,0.5,−700,Doubles,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+340,0.5,−550,Doubles,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+390,0.5,−650,Doubles,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+450,0.5,−900,Doubles,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,+330,0.5,−525,Doubles,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+425,0.5,−800,Doubles,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,+280,0.5,−425,Doubles,TB Rays,WAS Nationals,2024-06-30
+Alex Jackson,0.5,+330,0.5,−525,Walks,TB Rays,WAS Nationals,2024-06-30
+Amed Rosario,0.5,+320,0.5,−525,Walks,TB Rays,WAS Nationals,2024-06-30
+CJ Abrams,0.5,+240,0.5,−350,Walks,TB Rays,WAS Nationals,2024-06-30
+Isaac Paredes,0.5,+200,0.5,−285,Walks,TB Rays,WAS Nationals,2024-06-30
+Jacob Young,0.5,+360,0.5,−600,Walks,TB Rays,WAS Nationals,2024-06-30
+Jesse Winker,0.5,+105,0.5,−145,Walks,TB Rays,WAS Nationals,2024-06-30
+Joey Meneses,0.5,+260,0.5,−390,Walks,TB Rays,WAS Nationals,2024-06-30
+Jonny DeLuca,0.5,+260,0.5,−390,Walks,TB Rays,WAS Nationals,2024-06-30
+Jose Caballero,0.5,+300,0.5,−475,Walks,TB Rays,WAS Nationals,2024-06-30
+Jose Siri,0.5,+225,0.5,−320,Walks,TB Rays,WAS Nationals,2024-06-30
+Lane Thomas,0.5,+190,0.5,−265,Walks,TB Rays,WAS Nationals,2024-06-30
+Luis Garcia (WAS),0.5,+320,0.5,−525,Walks,TB Rays,WAS Nationals,2024-06-30
+Nick Senzel,0.5,+250,0.5,−370,Walks,TB Rays,WAS Nationals,2024-06-30
+Randy Arozarena,0.5,+120,0.5,−160,Walks,TB Rays,WAS Nationals,2024-06-30
+Taylor Walls,0.5,+200,0.5,−280,Walks,TB Rays,WAS Nationals,2024-06-30
+Yandy Diaz,0.5,+155,0.5,−210,Walks,TB Rays,WAS Nationals,2024-06-30
+Alex Bregman,0.5,+550,0.5,−1200,Home Runs,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+650,0.5,−1600,Home Runs,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,+425,0.5,−800,Home Runs,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,+360,0.5,−600,Home Runs,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,+340,0.5,−550,Home Runs,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,+350,0.5,−575,Home Runs,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+600,0.5,−1400,Home Runs,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+850,0.5,−3000,Home Runs,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,+750,0.5,−2000,Home Runs,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+475,0.5,−900,Home Runs,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+550,0.5,−1200,Home Runs,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,+700,0.5,−1800,Home Runs,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,+370,0.5,−650,Home Runs,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,+850,0.5,−3000,Home Runs,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,+340,0.5,−550,Home Runs,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+550,0.5,−1100,Home Runs,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,0.5,+475,0.5,−900,Home Runs,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,+215,0.5,−310,Home Runs,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,,+1100,,−10000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,,+1400,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,,+950,,−5000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,,+900,,−3500,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,,+700,,−2000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,,+800,,−2500,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,,+1300,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,,+1700,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,,+1500,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,,+1100,,−8000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,,+1100,,−8000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,,+1500,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,,+1000,,−6000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,,+1800,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,,+800,,−2500,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,,+1300,,,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,,+1000,,−6000,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,,+600,,−1400,1st Home Run,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,−250,0.5,+180,Hits,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,−175,0.5,+130,Hits,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,−240,0.5,+170,Hits,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,−150,0.5,+110,Hits,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,1.5,+195,1.5,−275,Hits,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,−265,0.5,+190,Hits,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,−220,0.5,+160,Hits,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,−190,0.5,+140,Hits,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,−250,0.5,+180,Hits,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,−165,0.5,+125,Hits,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,1.5,+200,1.5,−280,Hits,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,−195,0.5,+140,Hits,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,−215,0.5,+155,Hits,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,1.5,+215,1.5,−310,Hits,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,−215,0.5,+155,Hits,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,−150,0.5,+110,Hits,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,1.5,+160,1.5,−220,Hits,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,1.5,+190,1.5,−265,Hits,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,1.5,+130,1.5,−175,Total Bases,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,−175,0.5,+130,Total Bases,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,1.5,+120,1.5,−160,Total Bases,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,−150,0.5,+110,Total Bases,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,1.5,−105,1.5,−130,Total Bases,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,1.5,+110,1.5,−150,Total Bases,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,1.5,+145,1.5,−195,Total Bases,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,−190,0.5,+140,Total Bases,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,1.5,+145,1.5,−195,Total Bases,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,−165,0.5,+125,Total Bases,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,1.5,+120,1.5,−165,Total Bases,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,−195,0.5,+140,Total Bases,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,1.5,+135,1.5,−185,Total Bases,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,1.5,+135,1.5,−180,Total Bases,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,1.5,+130,1.5,−175,Total Bases,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,−150,0.5,+110,Total Bases,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,1.5,+105,1.5,−140,Total Bases,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,1.5,−110,1.5,−125,Total Bases,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,+195,0.5,−270,RBIs,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+220,0.5,−310,RBIs,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,+150,0.5,−205,RBIs,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,+165,0.5,−225,RBIs,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,+140,0.5,−190,RBIs,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,+125,0.5,−175,RBIs,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+190,0.5,−265,RBIs,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+210,0.5,−300,RBIs,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,+210,0.5,−295,RBIs,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+195,0.5,−275,RBIs,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+190,0.5,−270,RBIs,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,+215,0.5,−310,RBIs,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,+155,0.5,−210,RBIs,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,+200,0.5,−280,RBIs,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,+140,0.5,−190,RBIs,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+220,0.5,−320,RBIs,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,0.5,+145,0.5,−200,RBIs,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,+130,0.5,−175,RBIs,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,+105,0.5,−140,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+120,0.5,−165,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,−135,0.5,+100,Runs Scored,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,+105,0.5,−140,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,−160,0.5,+120,Runs Scored,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,−105,0.5,−130,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+130,0.5,−180,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+135,0.5,−180,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,+135,0.5,−185,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+140,0.5,−195,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+100,0.5,−140,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,+145,0.5,−200,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,+110,0.5,−150,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,+150,0.5,−205,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,−105,0.5,−130,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+160,0.5,−225,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,0.5,+125,0.5,−170,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,−115,0.5,−120,Runs Scored,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,1.5,−135,1.5,+100,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,1.5,+100,1.5,−135,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,1.5,−155,1.5,+115,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,1.5,+100,1.5,−135,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,2.5,+115,2.5,−155,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,1.5,−150,1.5,+110,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,1.5,−110,1.5,−120,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,1.5,−105,1.5,−130,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,1.5,−115,1.5,−115,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,1.5,+110,1.5,−150,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,1.5,−140,1.5,+105,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,1.5,+105,1.5,−140,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,1.5,−120,1.5,−110,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,1.5,−125,1.5,−105,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,1.5,−130,1.5,−105,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,1.5,+120,1.5,−165,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,1.5,−155,1.5,+115,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,1.5,−155,1.5,+115,Hits + Runs + RBIs,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+950,0.5,−5000,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,+800,0.5,−2500,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,+370,0.5,−600,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+650,0.5,−1600,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+1000,0.5,−5000,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,+600,0.5,−1400,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+475,0.5,−900,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,+1000,0.5,−5000,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+750,0.5,−2500,Stolen Bases,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,−140,0.5,+105,Singles,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+105,0.5,−140,Singles,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,−105,0.5,−125,Singles,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,+160,0.5,−220,Singles,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,−115,0.5,−120,Singles,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,−115,0.5,−120,Singles,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,−115,0.5,−115,Singles,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,−110,0.5,−125,Singles,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,−145,0.5,+110,Singles,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+125,0.5,−165,Singles,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,−155,0.5,+115,Singles,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,−110,0.5,−120,Singles,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,−105,0.5,−130,Singles,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,−185,0.5,+135,Singles,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,+110,0.5,−150,Singles,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+130,0.5,−175,Singles,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,0.5,−190,0.5,+140,Singles,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,−105,0.5,−125,Singles,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,+390,0.5,−650,Doubles,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+450,0.5,−800,Doubles,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,+370,0.5,−650,Doubles,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,+500,0.5,−1000,Doubles,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,+300,0.5,−475,Doubles,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,+400,0.5,−700,Doubles,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+400,0.5,−700,Doubles,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+450,0.5,−800,Doubles,NY Mets,HOU Astros,2024-06-30
+Jeremy Pena,0.5,+425,0.5,−800,Doubles,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+425,0.5,−750,Doubles,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+400,0.5,−700,Doubles,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,+500,0.5,−1000,Doubles,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,+450,0.5,−900,Doubles,NY Mets,HOU Astros,2024-06-30
+Mauricio Dubon,0.5,+425,0.5,−750,Doubles,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,+400,0.5,−700,Doubles,NY Mets,HOU Astros,2024-06-30
+Trey Cabbage,0.5,+500,0.5,−1000,Doubles,NY Mets,HOU Astros,2024-06-30
+Yainer Diaz ,0.5,+400,0.5,−700,Doubles,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,+350,0.5,−550,Doubles,NY Mets,HOU Astros,2024-06-30
+Alex Bregman,0.5,+165,0.5,−240,Walks,NY Mets,HOU Astros,2024-06-30
+Ben Gamel,0.5,+115,0.5,−155,Walks,NY Mets,HOU Astros,2024-06-30
+Brandon Nimmo,0.5,−145,0.5,+105,Walks,NY Mets,HOU Astros,2024-06-30
+DJ Stewart,0.5,−105,0.5,−125,Walks,NY Mets,HOU Astros,2024-06-30
+Francisco Lindor,0.5,+115,0.5,−160,Walks,NY Mets,HOU Astros,2024-06-30
+J.D. Martinez,0.5,+140,0.5,−195,Walks,NY Mets,HOU Astros,2024-06-30
+Jake Meyers,0.5,+310,0.5,−500,Walks,NY Mets,HOU Astros,2024-06-30
+Jeff McNeil,0.5,+240,0.5,−350,Walks,NY Mets,HOU Astros,2024-06-30
+Jon Singleton,0.5,+150,0.5,−215,Walks,NY Mets,HOU Astros,2024-06-30
+Jose Altuve,0.5,+330,0.5,−525,Walks,NY Mets,HOU Astros,2024-06-30
+Luis Torrens,0.5,+235,0.5,−340,Walks,NY Mets,HOU Astros,2024-06-30
+Mark Vientos,0.5,+215,0.5,−310,Walks,NY Mets,HOU Astros,2024-06-30
+Pete Alonso,0.5,+130,0.5,−175,Walks,NY Mets,HOU Astros,2024-06-30
+Yordan Alvarez,0.5,+140,0.5,−195,Walks,NY Mets,HOU Astros,2024-06-30
+Brice Turang,0.5,+1200,0.5,−20000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,+550,0.5,−1200,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+500,0.5,−1000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+425,0.5,−750,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+650,0.5,−1600,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+550,0.5,−1100,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,+800,0.5,−2500,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+500,0.5,−1000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+750,0.5,−2500,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+650,0.5,−1600,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+950,0.5,−4000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+1000,0.5,−6000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+800,0.5,−2500,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+425,0.5,−750,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+1200,0.5,−20000,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+600,0.5,−1400,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,+450,0.5,−800,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+475,0.5,−900,Home Runs,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,1.5,+190,1.5,−270,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,−290,0.5,+205,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,−125,0.5,−110,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,−200,0.5,+145,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,−150,0.5,+110,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,−140,0.5,+105,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,−185,0.5,+135,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,−145,0.5,+110,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,−215,0.5,+155,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,−110,0.5,−120,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,−110,0.5,−125,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,−250,0.5,+180,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,−130,0.5,−105,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,−185,0.5,+135,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,−180,0.5,+135,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,−170,0.5,+125,Hits,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,1.5,+165,1.5,−225,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,−245,0.5,+175,Hits,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,1.5,+125,1.5,−170,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,1.5,+115,1.5,−155,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,−125,0.5,−110,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,1.5,+135,1.5,−185,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,−150,0.5,+110,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,−140,0.5,+105,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,−185,0.5,+135,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,−145,0.5,+110,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,−215,0.5,+155,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,−110,0.5,−120,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,−110,0.5,−125,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,1.5,+160,1.5,−220,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,−130,0.5,−105,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,−185,0.5,+135,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,−180,0.5,+135,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,−170,0.5,+125,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,1.5,+105,1.5,−140,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,1.5,+130,1.5,−175,Total Bases,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,+220,0.5,−310,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,+135,0.5,−190,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+225,0.5,−330,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+185,0.5,−260,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+240,0.5,−350,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+220,0.5,−320,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,+215,0.5,−310,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+185,0.5,−260,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+205,0.5,−290,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+300,0.5,−450,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+330,0.5,−525,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+265,0.5,−390,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+280,0.5,−425,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+160,0.5,−220,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+260,0.5,−380,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+215,0.5,−300,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,+125,0.5,−175,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+120,0.5,−165,RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,−130,0.5,−105,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,−110,0.5,−125,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+175,0.5,−245,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+140,0.5,−190,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+180,0.5,−255,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+145,0.5,−200,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,+150,0.5,−205,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+125,0.5,−170,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+135,0.5,−180,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+165,0.5,−230,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+260,0.5,−390,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+130,0.5,−175,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+180,0.5,−250,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+125,0.5,−175,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+145,0.5,−195,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+145,0.5,−200,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,−115,0.5,−120,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+115,0.5,−155,Runs Scored,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,1.5,−175,1.5,+125,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,1.5,−165,1.5,+120,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,−175,0.5,+125,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,1.5,−105,1.5,−130,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,1.5,+135,1.5,−185,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,1.5,+125,1.5,−170,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,1.5,+100,1.5,−135,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,1.5,+105,1.5,−140,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,1.5,−110,1.5,−125,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,−160,0.5,+115,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,−140,0.5,+100,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,1.5,−110,1.5,−120,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,−170,0.5,+125,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,1.5,−110,1.5,−125,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,1.5,+110,1.5,−145,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,1.5,+110,1.5,−150,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,2.5,+115,2.5,−160,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,1.5,−145,1.5,+110,Hits + Runs + RBIs,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,+125,0.5,−170,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,+215,0.5,−310,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+600,0.5,−1400,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+550,0.5,−1200,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+800,0.5,−2500,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+550,0.5,−1200,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,+350,0.5,−575,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+425,0.5,−750,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+450,0.5,−800,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+245,0.5,−360,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+230,0.5,−330,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+1200,0.5,−20000,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+330,0.5,−525,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+600,0.5,−1400,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,+650,0.5,−1600,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+550,0.5,−1200,Stolen Bases,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,−170,0.5,+125,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,−140,0.5,+105,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+150,0.5,−205,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+105,0.5,−145,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+115,0.5,−160,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+145,0.5,−195,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,−115,0.5,−120,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+160,0.5,−220,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,−130,0.5,−105,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+175,0.5,−245,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+140,0.5,−190,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,−155,0.5,+115,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+145,0.5,−200,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+115,0.5,−155,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,−115,0.5,−120,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+110,0.5,−150,Singles,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,−180,0.5,+135,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,−115,0.5,−120,Singles,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,+380,0.5,−650,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,+360,0.5,−575,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+600,0.5,−1400,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+360,0.5,−600,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+600,0.5,−1400,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+475,0.5,−900,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Jackson Chourio,0.5,+550,0.5,−1100,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+425,0.5,−750,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+475,0.5,−900,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+500,0.5,−1000,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+700,0.5,−1800,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+450,0.5,−800,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+550,0.5,−1100,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+475,0.5,−900,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+475,0.5,−900,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+475,0.5,−900,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,+380,0.5,−650,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+400,0.5,−700,Doubles,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,+1000,0.5,−6000,Triples,MIL Brewers,CHI Cubs,2024-06-30
+Brice Turang,0.5,+175,0.5,−240,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Christian Yelich,0.5,+120,0.5,−160,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Christopher Morel,0.5,+190,0.5,−270,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Cody Bellinger,0.5,+175,0.5,−240,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Dansby Swanson,0.5,+210,0.5,−300,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Ian Happ,0.5,+100,0.5,−140,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Jake Bauers,0.5,+160,0.5,−225,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Joey Ortiz,0.5,+225,0.5,−320,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Michael Busch,0.5,+115,0.5,−155,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Miguel Amaya,0.5,+350,0.5,−575,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Nico Hoerner,0.5,+190,0.5,−265,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Pete Crow-Armstrong,0.5,+295,0.5,−450,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Rhys Hoskins,0.5,+165,0.5,−230,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Sal Frelick,0.5,+215,0.5,−310,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Seiya Suzuki ,0.5,+150,0.5,−205,Walks,MIL Brewers,CHI Cubs,2024-06-30
+William Contreras,0.5,+200,0.5,−285,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Willy Adames,0.5,+170,0.5,−235,Walks,MIL Brewers,CHI Cubs,2024-06-30
+Andres Gimenez,0.5,+1100,0.5,−10000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+850,0.5,−3000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+475,0.5,−900,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+950,0.5,−4000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+1000,0.5,−6000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,+650,0.5,−1800,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,+475,0.5,−900,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,+550,0.5,−1100,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+500,0.5,−1000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+1000,0.5,−6000,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,+600,0.5,−1400,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,+800,0.5,−2500,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+750,0.5,−2500,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,+380,0.5,−650,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,+750,0.5,−2500,Home Runs,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,,+1700,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,,+1300,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,,+900,,−3500,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,,+1900,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,,+1500,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,,+1500,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,,+1200,,−20000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,,+1700,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,,+850,,−3000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,,+900,,−3500,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,,+950,,−4000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,,+1700,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,,+1100,,−8000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,,+1200,,−20000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,,+1200,,−20000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,,+650,,−1600,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,,+1800,,,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,,+1200,,−20000,1st Home Run,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,−205,0.5,+150,Hits,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,−125,0.5,−110,Hits,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,1.5,+130,1.5,−175,Hits,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,−165,0.5,+120,Hits,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,−210,0.5,+155,Hits,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,−190,0.5,+135,Hits,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,−280,0.5,+195,Hits,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,−200,0.5,+145,Hits,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,−235,0.5,+170,Hits,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,−220,0.5,+160,Hits,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,−255,0.5,+180,Hits,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,−135,0.5,+100,Hits,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,−225,0.5,+165,Hits,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,1.5,+120,1.5,−165,Hits,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,−250,0.5,+180,Hits,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,1.5,+175,1.5,−245,Hits,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,1.5,+180,1.5,−250,Hits,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,−210,0.5,+150,Hits,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,1.5,+155,1.5,−210,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,−125,0.5,−110,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,1.5,−145,1.5,+105,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,−165,0.5,+120,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,1.5,+155,1.5,−210,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,−190,0.5,+135,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,1.5,+120,1.5,−160,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,−200,0.5,+145,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,1.5,+110,1.5,−155,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,1.5,+135,1.5,−180,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,1.5,+115,1.5,−155,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,−135,0.5,+100,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,1.5,+140,1.5,−190,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,1.5,−125,1.5,−110,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,1.5,+135,1.5,−190,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,1.5,−105,1.5,−130,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,1.5,+120,1.5,−165,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,1.5,+150,1.5,−205,Total Bases,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+245,0.5,−360,RBIs,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+235,0.5,−340,RBIs,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+110,0.5,−150,RBIs,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,+270,0.5,−400,RBIs,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+175,0.5,−245,RBIs,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+235,0.5,−350,RBIs,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,+155,0.5,−215,RBIs,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,+200,0.5,−285,RBIs,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,+150,0.5,−205,RBIs,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,+170,0.5,−235,RBIs,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+145,0.5,−200,RBIs,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+270,0.5,−400,RBIs,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,+155,0.5,−215,RBIs,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,+140,0.5,−195,RBIs,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+185,0.5,−260,RBIs,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,+115,0.5,−155,RBIs,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+225,0.5,−320,RBIs,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,+145,0.5,−195,RBIs,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+165,0.5,−230,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+185,0.5,−260,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,−145,0.5,+105,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,+165,0.5,−225,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+105,0.5,−145,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+135,0.5,−185,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,+125,0.5,−170,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,+130,0.5,−180,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,−105,0.5,−130,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,+145,0.5,−200,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+115,0.5,−155,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+175,0.5,−245,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,+135,0.5,−185,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,−140,0.5,+100,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+105,0.5,−140,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,−120,0.5,−115,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+105,0.5,−140,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,+120,0.5,−165,Runs Scored,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,1.5,+100,1.5,−135,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,−180,0.5,+135,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,2.5,−110,2.5,−125,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,1.5,+115,1.5,−160,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,1.5,−125,1.5,−105,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,1.5,+100,1.5,−140,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,1.5,−140,1.5,+100,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,1.5,−110,1.5,−120,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,1.5,−150,1.5,+110,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,1.5,−110,1.5,−120,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,1.5,−130,1.5,−105,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,1.5,+135,1.5,−185,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,1.5,−125,1.5,−110,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,2.5,−105,2.5,−130,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,1.5,−135,1.5,+100,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,2.5,+115,2.5,−155,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,1.5,−150,1.5,+110,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,1.5,−125,1.5,−110,Hits + Runs + RBIs,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+550,0.5,−1100,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+310,0.5,−475,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,+1000,0.5,−6000,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+225,0.5,−320,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+1200,0.5,−20000,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,+600,0.5,−1400,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+550,0.5,−1100,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,+330,0.5,−525,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+1000,0.5,−5000,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+1000,0.5,−5000,Stolen Bases,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,−115,0.5,−120,Singles,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+155,0.5,−210,Singles,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,−170,0.5,+125,Singles,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,−105,0.5,−130,Singles,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,−115,0.5,−120,Singles,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,−105,0.5,−130,Singles,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,−145,0.5,+105,Singles,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,−115,0.5,−115,Singles,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,−115,0.5,−115,Singles,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,−105,0.5,−130,Singles,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,−110,0.5,−125,Singles,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+130,0.5,−180,Singles,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,−110,0.5,−125,Singles,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,−235,0.5,+170,Singles,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,−135,0.5,+100,Singles,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,−140,0.5,+105,Singles,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,−175,0.5,+130,Singles,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,−110,0.5,−120,Singles,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+400,0.5,−700,Doubles,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+400,0.5,−750,Doubles,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+255,0.5,−380,Doubles,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,+450,0.5,−800,Doubles,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+400,0.5,−700,Doubles,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+425,0.5,−750,Doubles,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,+330,0.5,−525,Doubles,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,+400,0.5,−700,Doubles,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,+330,0.5,−525,Doubles,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,+350,0.5,−575,Doubles,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+290,0.5,−450,Doubles,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+475,0.5,−900,Doubles,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,+330,0.5,−525,Doubles,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,+255,0.5,−380,Doubles,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+370,0.5,−600,Doubles,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,+320,0.5,−500,Doubles,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+350,0.5,−550,Doubles,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,+330,0.5,−525,Doubles,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+1100,0.5,−10000,Triples,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+750,0.5,−2500,Triples,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+1200,0.5,−20000,Triples,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+1100,0.5,−8000,Triples,KC Royals,CLE Guardians,2024-06-30
+Andres Gimenez,0.5,+280,0.5,−425,Walks,KC Royals,CLE Guardians,2024-06-30
+Bo Naylor,0.5,+185,0.5,−260,Walks,KC Royals,CLE Guardians,2024-06-30
+Bobby Witt Jr.,0.5,+175,0.5,−245,Walks,KC Royals,CLE Guardians,2024-06-30
+Brayan Rocchio,0.5,+210,0.5,−300,Walks,KC Royals,CLE Guardians,2024-06-30
+Dairon Blanco,0.5,+270,0.5,−400,Walks,KC Royals,CLE Guardians,2024-06-30
+Daniel Schneemann,0.5,+160,0.5,−225,Walks,KC Royals,CLE Guardians,2024-06-30
+Freddy Fermin,0.5,+225,0.5,−320,Walks,KC Royals,CLE Guardians,2024-06-30
+Garrett Hampson,0.5,+200,0.5,−280,Walks,KC Royals,CLE Guardians,2024-06-30
+Hunter Renfroe,0.5,+165,0.5,−225,Walks,KC Royals,CLE Guardians,2024-06-30
+Jhonkensy Noel,0.5,+235,0.5,−350,Walks,KC Royals,CLE Guardians,2024-06-30
+Jose Ramirez,0.5,+170,0.5,−235,Walks,KC Royals,CLE Guardians,2024-06-30
+Jose Tena,0.5,+220,0.5,−320,Walks,KC Royals,CLE Guardians,2024-06-30
+Josh Naylor,0.5,+205,0.5,−295,Walks,KC Royals,CLE Guardians,2024-06-30
+Maikel Garcia,0.5,+170,0.5,−235,Walks,KC Royals,CLE Guardians,2024-06-30
+Nick Loftin,0.5,+155,0.5,−210,Walks,KC Royals,CLE Guardians,2024-06-30
+Salvador Perez,0.5,+260,0.5,−390,Walks,KC Royals,CLE Guardians,2024-06-30
+Steven Kwan,0.5,+150,0.5,−205,Walks,KC Royals,CLE Guardians,2024-06-30
+Vinnie Pasquantino,0.5,+150,0.5,−205,Walks,KC Royals,CLE Guardians,2024-06-30
+Andrew Vaughn,0.5,+475,0.5,−900,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+650,0.5,−1600,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+1000,0.5,−5000,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,+550,0.5,−1100,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+750,0.5,−2000,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+360,0.5,−575,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+650,0.5,−1800,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+500,0.5,−1100,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+550,0.5,−1100,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,+550,0.5,−1100,Home Runs,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,,+850,,−3000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,,+1200,,−20000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,,+1600,,,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,,+1000,,−5000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,,+1400,,,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,,+800,,−2500,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,,+1300,,,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,,+1100,,−8000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,,+1000,,−5000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,,+850,,−3000,1st Home Run,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,1.5,+200,1.5,−285,Hits,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,−180,0.5,+135,Hits,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,−155,0.5,+115,Hits,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,−255,0.5,+180,Hits,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,−200,0.5,+145,Hits,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,−220,0.5,+160,Hits,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+105,0.5,−145,Hits,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+100,0.5,−135,Hits,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,−155,0.5,+115,Hits,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,−250,0.5,+180,Hits,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,1.5,+100,1.5,−135,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,−180,0.5,+135,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,−155,0.5,+115,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,1.5,+120,1.5,−165,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,−200,0.5,+145,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,1.5,+115,1.5,−155,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+105,0.5,−145,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+100,0.5,−135,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,−155,0.5,+115,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,1.5,+120,1.5,−165,Total Bases,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,0.5,+160,0.5,−215,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+230,0.5,−330,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+250,0.5,−360,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,+155,0.5,−215,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+210,0.5,−300,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+165,0.5,−230,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+300,0.5,−450,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+280,0.5,−425,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+200,0.5,−280,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,+225,0.5,−330,RBIs,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,0.5,+110,0.5,−150,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+145,0.5,−200,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+205,0.5,−290,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,+135,0.5,−185,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+175,0.5,−245,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+105,0.5,−140,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+205,0.5,−285,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+215,0.5,−310,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+145,0.5,−200,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,−110,0.5,−120,Runs Scored,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,1.5,−140,1.5,+105,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,1.5,+105,1.5,−145,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,1.5,+135,1.5,−180,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,1.5,−125,1.5,−110,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,1.5,+100,1.5,−140,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,1.5,−125,1.5,−110,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,−125,0.5,−105,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,−125,0.5,−110,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,1.5,+110,1.5,−145,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,1.5,−130,1.5,−105,Hits + Runs + RBIs,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+450,0.5,−800,Stolen Bases,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+1100,0.5,−10000,Stolen Bases,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+1100,0.5,−10000,Stolen Bases,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+400,0.5,−700,Stolen Bases,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,+380,0.5,−650,Stolen Bases,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,0.5,−110,0.5,−120,Singles,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+120,0.5,−165,Singles,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+120,0.5,−160,Singles,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,−115,0.5,−115,Singles,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+100,0.5,−140,Singles,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+115,0.5,−160,Singles,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+215,0.5,−310,Singles,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+220,0.5,−320,Singles,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+145,0.5,−200,Singles,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,−110,0.5,−125,Singles,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,0.5,+260,0.5,−380,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+330,0.5,−525,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+400,0.5,−700,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,+310,0.5,−500,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+350,0.5,−550,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+300,0.5,−475,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+500,0.5,−1100,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+500,0.5,−1000,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+360,0.5,−575,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,+300,0.5,−475,Doubles,CHI White Sox,COL Rockies,2024-06-30
+Andrew Vaughn,0.5,+225,0.5,−320,Walks,CHI White Sox,COL Rockies,2024-06-30
+Corey Julks,0.5,+200,0.5,−285,Walks,CHI White Sox,COL Rockies,2024-06-30
+Danny Mendick,0.5,+275,0.5,−425,Walks,CHI White Sox,COL Rockies,2024-06-30
+Eloy Jimenez,0.5,+230,0.5,−330,Walks,CHI White Sox,COL Rockies,2024-06-30
+Lenyn Sosa,0.5,+265,0.5,−390,Walks,CHI White Sox,COL Rockies,2024-06-30
+Luis Robert,0.5,+200,0.5,−280,Walks,CHI White Sox,COL Rockies,2024-06-30
+Martin Maldonado,0.5,+250,0.5,−360,Walks,CHI White Sox,COL Rockies,2024-06-30
+Michael Toglia,0.5,+225,0.5,−330,Walks,CHI White Sox,COL Rockies,2024-06-30
+Paul DeJong,0.5,+300,0.5,−475,Walks,CHI White Sox,COL Rockies,2024-06-30
+Tommy Pham,0.5,+115,0.5,−155,Walks,CHI White Sox,COL Rockies,2024-06-30
+Alec Burleson,0.5,+550,0.5,−1200,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+700,0.5,−1800,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+550,0.5,−1200,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+850,0.5,−3000,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+550,0.5,−1200,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+650,0.5,−1600,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+700,0.5,−2000,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+850,0.5,−3000,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+1200,0.5,−20000,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+600,0.5,−1400,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+550,0.5,−1200,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+425,0.5,−750,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+425,0.5,−750,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+600,0.5,−1400,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+500,0.5,−1000,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+700,0.5,−1800,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+600,0.5,−1400,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+390,0.5,−650,Home Runs,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,,+1000,,−5000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,,+1300,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,,+1000,,−6000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,,+1400,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,,+1000,,−5000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,,+1100,,−8000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,,+1400,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,,+1400,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,,+2000,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,,+1100,,−8000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,,+1200,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,,+900,,−3500,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,,+850,,−3000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,,+1300,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,,+900,,−4000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,,+1300,,,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,,+1100,,−20000,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,,+800,,−2500,1st Home Run,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,−245,0.5,+175,Hits,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,−185,0.5,+135,Hits,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,−190,0.5,+140,Hits,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,−185,0.5,+135,Hits,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,−195,0.5,+145,Hits,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,−195,0.5,+145,Hits,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,−105,0.5,−130,Hits,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,−235,0.5,+170,Hits,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,−110,0.5,−125,Hits,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,−180,0.5,+135,Hits,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,−170,0.5,+125,Hits,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+100,0.5,−140,Hits,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,−195,0.5,+140,Hits,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,−135,0.5,+100,Hits,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,−205,0.5,+150,Hits,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,−135,0.5,+100,Hits,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+100,0.5,−140,Hits,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,−180,0.5,+130,Hits,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,1.5,+125,1.5,−170,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,−185,0.5,+135,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,−195,0.5,+140,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,−185,0.5,+135,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,−195,0.5,+145,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,−195,0.5,+145,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,−105,0.5,−130,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,1.5,+140,1.5,−190,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,−110,0.5,−125,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,−180,0.5,+135,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,−170,0.5,+125,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+100,0.5,−140,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,−195,0.5,+140,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,−135,0.5,+100,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,1.5,+135,1.5,−185,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,−135,0.5,+100,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+100,0.5,−140,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,−180,0.5,+130,Total Bases,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,+195,0.5,−275,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+220,0.5,−310,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+225,0.5,−330,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+235,0.5,−340,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+155,0.5,−215,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+250,0.5,−370,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+300,0.5,−475,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+265,0.5,−390,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+390,0.5,−650,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+205,0.5,−295,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+195,0.5,−275,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+225,0.5,−320,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+175,0.5,−240,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+255,0.5,−370,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+165,0.5,−230,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+240,0.5,−350,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+295,0.5,−450,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+180,0.5,−250,RBIs,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,+125,0.5,−170,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+155,0.5,−215,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+100,0.5,−135,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+165,0.5,−230,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+140,0.5,−190,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+115,0.5,−155,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+210,0.5,−300,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+125,0.5,−165,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+210,0.5,−300,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+175,0.5,−240,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+160,0.5,−220,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+170,0.5,−240,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+120,0.5,−165,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+195,0.5,−275,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+140,0.5,−190,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+190,0.5,−270,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+180,0.5,−255,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+115,0.5,−160,Runs Scored,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,1.5,−125,1.5,−110,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,1.5,+105,1.5,−145,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,1.5,−110,1.5,−120,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,1.5,+110,1.5,−150,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,1.5,−110,1.5,−125,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,1.5,−105,1.5,−130,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,−135,0.5,+100,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,1.5,−115,1.5,−120,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,−145,0.5,+105,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,1.5,+110,1.5,−150,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,1.5,+110,1.5,−150,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,−140,0.5,+100,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,1.5,−105,1.5,−130,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,−180,0.5,+135,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,1.5,−110,1.5,−125,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,−175,0.5,+125,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,−135,0.5,+100,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,1.5,−105,1.5,−130,Hits + Runs + RBIs,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,+850,0.5,−3000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+1000,0.5,−5000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+150,0.5,−210,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+370,0.5,−600,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+1000,0.5,−5000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+500,0.5,−1000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+300,0.5,−475,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+320,0.5,−500,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+370,0.5,−600,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+1100,0.5,−8000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+1000,0.5,−6000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+600,0.5,−1400,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+475,0.5,−900,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+425,0.5,−750,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+1000,0.5,−6000,Stolen Bases,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,−110,0.5,−125,Singles,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+110,0.5,−150,Singles,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+110,0.5,−145,Singles,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+100,0.5,−135,Singles,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,−105,0.5,−130,Singles,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,−105,0.5,−130,Singles,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+165,0.5,−230,Singles,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,−130,0.5,−105,Singles,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+150,0.5,−205,Singles,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+105,0.5,−145,Singles,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+110,0.5,−150,Singles,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+245,0.5,−360,Singles,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+110,0.5,−150,Singles,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+135,0.5,−185,Singles,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+105,0.5,−140,Singles,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+140,0.5,−195,Singles,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+215,0.5,−310,Singles,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+125,0.5,−170,Singles,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,+330,0.5,−525,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+390,0.5,−650,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+425,0.5,−750,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+425,0.5,−750,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+400,0.5,−700,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+380,0.5,−650,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+600,0.5,−1400,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+400,0.5,−700,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+600,0.5,−1400,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+425,0.5,−800,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+425,0.5,−800,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+600,0.5,−1400,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+425,0.5,−750,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+500,0.5,−1000,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+370,0.5,−600,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+500,0.5,−1000,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+600,0.5,−1400,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+450,0.5,−800,Doubles,STL Cardinals,CIN Reds,2024-06-30
+Alec Burleson,0.5,+230,0.5,−340,Walks,STL Cardinals,CIN Reds,2024-06-30
+Brendan Donovan,0.5,+165,0.5,−225,Walks,STL Cardinals,CIN Reds,2024-06-30
+Elly De La Cruz,0.5,+125,0.5,−170,Walks,STL Cardinals,CIN Reds,2024-06-30
+Jake Fraley,0.5,+230,0.5,−340,Walks,STL Cardinals,CIN Reds,2024-06-30
+Jeimer Candelario,0.5,+185,0.5,−260,Walks,STL Cardinals,CIN Reds,2024-06-30
+Jonathan India,0.5,+155,0.5,−210,Walks,STL Cardinals,CIN Reds,2024-06-30
+Luke Maile,0.5,+275,0.5,−425,Walks,STL Cardinals,CIN Reds,2024-06-30
+Masyn Winn,0.5,+230,0.5,−340,Walks,STL Cardinals,CIN Reds,2024-06-30
+Mike Siani,0.5,+290,0.5,−450,Walks,STL Cardinals,CIN Reds,2024-06-30
+Noelvi Marte,0.5,+300,0.5,−475,Walks,STL Cardinals,CIN Reds,2024-06-30
+Nolan Arenado,0.5,+195,0.5,−275,Walks,STL Cardinals,CIN Reds,2024-06-30
+Nolan Gorman,0.5,+155,0.5,−210,Walks,STL Cardinals,CIN Reds,2024-06-30
+Paul Goldschmidt,0.5,+150,0.5,−210,Walks,STL Cardinals,CIN Reds,2024-06-30
+Pedro Pages,0.5,+220,0.5,−320,Walks,STL Cardinals,CIN Reds,2024-06-30
+Spencer Steer,0.5,+240,0.5,−350,Walks,STL Cardinals,CIN Reds,2024-06-30
+Stuart Fairchild,0.5,+370,0.5,−600,Walks,STL Cardinals,CIN Reds,2024-06-30
+Will Benson,0.5,+160,0.5,−220,Walks,STL Cardinals,CIN Reds,2024-06-30
+Willson Contreras,0.5,+150,0.5,−210,Walks,STL Cardinals,CIN Reds,2024-06-30
+Austin Slater,0.5,+750,0.5,−2000,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+850,0.5,−3000,Home Runs,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+600,0.5,−1400,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,+450,0.5,−900,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+320,0.5,−500,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,+700,0.5,−1800,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+350,0.5,−575,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+750,0.5,−2000,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+850,0.5,−3000,Home Runs,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,−195,0.5,+140,Hits,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,−115,0.5,−120,Hits,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,−135,0.5,+100,Hits,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,−225,0.5,+165,Hits,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,−195,0.5,+140,Hits,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,−215,0.5,+155,Hits,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,−255,0.5,+180,Hits,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,−150,0.5,+110,Hits,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,−150,0.5,+110,Hits,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,−195,0.5,+140,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,−115,0.5,−120,Total Bases,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,−135,0.5,+100,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,1.5,+125,1.5,−170,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,1.5,+125,1.5,−175,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,1.5,+140,1.5,−195,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,1.5,+100,1.5,−140,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,−150,0.5,+110,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,−150,0.5,+110,Total Bases,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,+295,0.5,−450,RBIs,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+300,0.5,−450,RBIs,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+225,0.5,−330,RBIs,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,+180,0.5,−255,RBIs,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+125,0.5,−170,RBIs,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,+185,0.5,−265,RBIs,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+125,0.5,−175,RBIs,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+245,0.5,−360,RBIs,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+275,0.5,−425,RBIs,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,−115,0.5,−120,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+190,0.5,−270,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+170,0.5,−240,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,−105,0.5,−130,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+110,0.5,−145,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,+155,0.5,−215,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,−105,0.5,−125,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+190,0.5,−265,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+200,0.5,−285,Runs Scored,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,1.5,−115,1.5,−120,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,−165,0.5,+120,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+David Villar,1.5,+135,1.5,−185,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,1.5,−135,1.5,+100,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,1.5,−120,1.5,−115,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,1.5,−110,1.5,−125,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,1.5,−150,1.5,+110,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,1.5,+130,1.5,−175,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,1.5,+135,1.5,−185,Hits + Runs + RBIs,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,+800,0.5,−2500,Stolen Bases,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+1100,0.5,−10000,Stolen Bases,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+1100,0.5,−8000,Stolen Bases,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,−105,0.5,−125,Singles,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+160,0.5,−220,Singles,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+150,0.5,−205,Singles,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,+100,0.5,−135,Singles,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+135,0.5,−190,Singles,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,−115,0.5,−120,Singles,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+105,0.5,−145,Singles,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+115,0.5,−155,Singles,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+115,0.5,−160,Singles,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,+390,0.5,−650,Doubles,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+475,0.5,−900,Doubles,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+450,0.5,−900,Doubles,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,+350,0.5,−550,Doubles,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+390,0.5,−650,Doubles,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,+360,0.5,−575,Doubles,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+310,0.5,−500,Doubles,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+500,0.5,−1000,Doubles,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+475,0.5,−900,Doubles,SF Giants,LA Dodgers,2024-06-30
+Austin Slater,0.5,+115,0.5,−160,Walks,SF Giants,LA Dodgers,2024-06-30
+Curt Casali,0.5,+195,0.5,−275,Walks,SF Giants,LA Dodgers,2024-06-30
+David Villar,0.5,+180,0.5,−250,Walks,SF Giants,LA Dodgers,2024-06-30
+Heliot Ramos,0.5,+125,0.5,−175,Walks,SF Giants,LA Dodgers,2024-06-30
+Jorge Soler,0.5,+125,0.5,−170,Walks,SF Giants,LA Dodgers,2024-06-30
+Luis Matos,0.5,+230,0.5,−330,Walks,SF Giants,LA Dodgers,2024-06-30
+Matt Chapman,0.5,+115,0.5,−160,Walks,SF Giants,LA Dodgers,2024-06-30
+Michael Conforto,0.5,+245,0.5,−360,Walks,SF Giants,LA Dodgers,2024-06-30
+Nick Ahmed,0.5,+295,0.5,−450,Walks,SF Giants,LA Dodgers,2024-06-30
+Andy Ibanez,0.5,+400,0.5,−700,Home Runs,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+500,0.5,−1000,Home Runs,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,+650,0.5,−1600,Home Runs,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+475,0.5,−900,Home Runs,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+450,0.5,−800,Home Runs,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,+350,0.5,−575,Home Runs,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,+650,0.5,−1600,Home Runs,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+475,0.5,−900,Home Runs,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+500,0.5,−1000,Home Runs,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,+475,0.5,−900,Home Runs,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+370,0.5,−650,Home Runs,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+255,0.5,−380,Home Runs,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,+800,0.5,−2500,Home Runs,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+390,0.5,−650,Home Runs,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+450,0.5,−900,Home Runs,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+550,0.5,−1200,Home Runs,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+750,0.5,−2500,Home Runs,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+400,0.5,−700,Home Runs,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,−260,0.5,+185,Hits,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,−150,0.5,+110,Hits,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,1.5,+195,1.5,−275,Hits,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,−155,0.5,+115,Hits,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,−160,0.5,+115,Hits,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,1.5,+210,1.5,−295,Hits,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,1.5,+195,1.5,−275,Hits,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,−200,0.5,+145,Hits,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,−145,0.5,+105,Hits,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,1.5,+195,1.5,−270,Hits,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,−160,0.5,+120,Hits,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,−210,0.5,+155,Hits,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,−280,0.5,+195,Hits,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,−205,0.5,+150,Hits,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,−275,0.5,+195,Hits,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,−230,0.5,+165,Hits,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,−105,0.5,−125,Hits,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,−220,0.5,+160,Hits,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,1.5,+110,1.5,−145,Total Bases,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,−150,0.5,+110,Total Bases,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,1.5,+125,1.5,−170,Total Bases,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,−155,0.5,+115,Total Bases,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,−160,0.5,+115,Total Bases,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,1.5,+100,1.5,−135,Total Bases,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,1.5,+115,1.5,−155,Total Bases,LA Angels,DET Tigers,2024-06-30
+Mark Canha,1.5,+140,1.5,−190,Total Bases,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,−145,0.5,+105,Total Bases,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,1.5,+100,1.5,−135,Total Bases,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,−160,0.5,+120,Total Bases,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,1.5,+115,1.5,−155,Total Bases,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,1.5,+130,1.5,−180,Total Bases,LA Angels,DET Tigers,2024-06-30
+Riley Greene,1.5,+135,1.5,−185,Total Bases,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,1.5,+115,1.5,−160,Total Bases,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,1.5,+135,1.5,−185,Total Bases,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,−105,0.5,−125,Total Bases,LA Angels,DET Tigers,2024-06-30
+Zach Neto,1.5,+135,1.5,−185,Total Bases,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,+185,0.5,−255,RBIs,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+215,0.5,−310,RBIs,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,+180,0.5,−250,RBIs,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+210,0.5,−295,RBIs,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+190,0.5,−265,RBIs,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,+140,0.5,−195,RBIs,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,+210,0.5,−300,RBIs,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+185,0.5,−260,RBIs,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+240,0.5,−350,RBIs,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,+190,0.5,−270,RBIs,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+185,0.5,−260,RBIs,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+115,0.5,−160,RBIs,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,+260,0.5,−390,RBIs,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+150,0.5,−205,RBIs,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+155,0.5,−215,RBIs,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+165,0.5,−230,RBIs,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+300,0.5,−475,RBIs,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+185,0.5,−260,RBIs,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,+105,0.5,−140,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+155,0.5,−215,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,+140,0.5,−195,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+145,0.5,−200,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+145,0.5,−200,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,+105,0.5,−145,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,−105,0.5,−130,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+110,0.5,−145,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+145,0.5,−200,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,−110,0.5,−125,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+145,0.5,−200,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+100,0.5,−135,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,+110,0.5,−150,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+110,0.5,−150,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+100,0.5,−135,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+125,0.5,−175,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+200,0.5,−280,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+120,0.5,−165,Runs Scored,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,1.5,−130,1.5,−105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,1.5,+120,1.5,−165,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,1.5,−130,1.5,−105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Jo Adell,1.5,+115,1.5,−155,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,1.5,+115,1.5,−155,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,1.5,−150,1.5,+110,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,1.5,−150,1.5,+110,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Mark Canha,1.5,−115,1.5,−115,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,1.5,+130,1.5,−175,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,1.5,−155,1.5,+115,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,1.5,+110,1.5,−150,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,1.5,−125,1.5,−105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,1.5,−130,1.5,−105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Riley Greene,1.5,−120,1.5,−115,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,1.5,−140,1.5,+105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,1.5,−120,1.5,−110,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,−145,0.5,+105,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Zach Neto,1.5,−115,1.5,−115,Hits + Runs + RBIs,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+700,0.5,−1800,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,+370,0.5,−650,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+800,0.5,−2500,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,+1100,0.5,−8000,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+950,0.5,−4000,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+950,0.5,−4000,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+1000,0.5,−5000,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+550,0.5,−1200,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+850,0.5,−3000,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+600,0.5,−1400,Stolen Bases,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,−110,0.5,−120,Singles,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+135,0.5,−190,Singles,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,−155,0.5,+115,Singles,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+130,0.5,−180,Singles,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+140,0.5,−195,Singles,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,−115,0.5,−120,Singles,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,−160,0.5,+115,Singles,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+110,0.5,−150,Singles,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+140,0.5,−195,Singles,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,−125,0.5,−105,Singles,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+165,0.5,−225,Singles,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+140,0.5,−190,Singles,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,−165,0.5,+120,Singles,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+105,0.5,−140,Singles,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,−130,0.5,−105,Singles,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,−110,0.5,−125,Singles,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+160,0.5,−220,Singles,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+100,0.5,−140,Singles,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,+320,0.5,−500,Doubles,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+450,0.5,−800,Doubles,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,+360,0.5,−600,Doubles,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+475,0.5,−900,Doubles,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+450,0.5,−800,Doubles,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,+330,0.5,−525,Doubles,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,+370,0.5,−600,Doubles,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+390,0.5,−650,Doubles,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+550,0.5,−1100,Doubles,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,+310,0.5,−475,Doubles,LA Angels,DET Tigers,2024-06-30
+Mickey Moniak,0.5,+450,0.5,−900,Doubles,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+400,0.5,−700,Doubles,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,+425,0.5,−800,Doubles,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+450,0.5,−900,Doubles,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+350,0.5,−575,Doubles,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+350,0.5,−575,Doubles,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+600,0.5,−1400,Doubles,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+390,0.5,−700,Doubles,LA Angels,DET Tigers,2024-06-30
+Andy Ibanez,0.5,+260,0.5,−390,Walks,LA Angels,DET Tigers,2024-06-30
+Carson Kelly,0.5,+200,0.5,−285,Walks,LA Angels,DET Tigers,2024-06-30
+Gio Urshela,0.5,+275,0.5,−425,Walks,LA Angels,DET Tigers,2024-06-30
+Jo Adell,0.5,+330,0.5,−525,Walks,LA Angels,DET Tigers,2024-06-30
+Justyn-Henry Malloy,0.5,+170,0.5,−235,Walks,LA Angels,DET Tigers,2024-06-30
+Logan O'Hoppe,0.5,+300,0.5,−450,Walks,LA Angels,DET Tigers,2024-06-30
+Luis Rengifo,0.5,+245,0.5,−360,Walks,LA Angels,DET Tigers,2024-06-30
+Mark Canha,0.5,+110,0.5,−150,Walks,LA Angels,DET Tigers,2024-06-30
+Matt Thaiss,0.5,+160,0.5,−220,Walks,LA Angels,DET Tigers,2024-06-30
+Matt Vierling,0.5,+170,0.5,−235,Walks,LA Angels,DET Tigers,2024-06-30
+Miguel Sano,0.5,+205,0.5,−290,Walks,LA Angels,DET Tigers,2024-06-30
+Nolan Schanuel,0.5,+180,0.5,−250,Walks,LA Angels,DET Tigers,2024-06-30
+Riley Greene,0.5,+150,0.5,−205,Walks,LA Angels,DET Tigers,2024-06-30
+Taylor Ward,0.5,+150,0.5,−205,Walks,LA Angels,DET Tigers,2024-06-30
+Wenceel Perez,0.5,+215,0.5,−310,Walks,LA Angels,DET Tigers,2024-06-30
+Zach McKinstry,0.5,+255,0.5,−370,Walks,LA Angels,DET Tigers,2024-06-30
+Zach Neto,0.5,+340,0.5,−550,Walks,LA Angels,DET Tigers,2024-06-30
+Armando Alvarez,0.5,+750,0.5,−2500,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+400,0.5,−700,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+400,0.5,−700,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+550,0.5,−1200,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+500,0.5,−1000,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+1200,0.5,−20000,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,+450,0.5,−900,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,+450,0.5,−800,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,+500,0.5,−1100,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+600,0.5,−1400,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+500,0.5,−1100,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+950,0.5,−5000,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+850,0.5,−3000,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+425,0.5,−750,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+500,0.5,−1000,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+700,0.5,−1800,Home Runs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,−160,0.5,+120,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,−165,0.5,+120,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,−245,0.5,+175,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,−270,0.5,+190,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,−165,0.5,+120,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,−150,0.5,+110,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,−225,0.5,+160,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,−280,0.5,+195,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,−195,0.5,+140,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,−280,0.5,+200,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,−185,0.5,+135,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,−285,0.5,+200,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,−130,0.5,−105,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,−265,0.5,+190,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,−160,0.5,+120,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,−115,0.5,−120,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,−185,0.5,+135,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,−150,0.5,+110,Hits,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,−160,0.5,+120,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,−165,0.5,+120,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,1.5,+115,1.5,−155,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,1.5,+110,1.5,−150,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,−165,0.5,+120,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,−150,0.5,+110,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,1.5,+155,1.5,−215,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,1.5,+100,1.5,−135,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,1.5,+135,1.5,−185,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,1.5,+110,1.5,−145,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,−185,0.5,+135,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,1.5,+110,1.5,−150,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,−130,0.5,−105,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,1.5,+130,1.5,−175,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,−160,0.5,+120,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,−115,0.5,−120,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,−185,0.5,+135,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,−150,0.5,+110,Total Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+255,0.5,−380,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+180,0.5,−250,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+125,0.5,−175,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+195,0.5,−275,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+160,0.5,−220,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+270,0.5,−400,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+200,0.5,−285,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,+190,0.5,−265,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,+150,0.5,−205,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,+155,0.5,−215,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+230,0.5,−330,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+135,0.5,−185,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+310,0.5,−475,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+225,0.5,−320,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+195,0.5,−275,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,+300,0.5,−475,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+195,0.5,−275,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+250,0.5,−370,RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+185,0.5,−255,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+140,0.5,−190,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,−105,0.5,−125,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,−145,0.5,+105,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+140,0.5,−190,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+145,0.5,−200,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+125,0.5,−175,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,+105,0.5,−145,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,−105,0.5,−130,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,−125,0.5,−110,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+165,0.5,−225,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+120,0.5,−160,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+190,0.5,−270,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+150,0.5,−205,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+145,0.5,−195,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,+230,0.5,−330,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+155,0.5,−215,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+170,0.5,−240,Runs Scored,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,1.5,+130,1.5,−175,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,1.5,+105,1.5,−145,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,1.5,−150,1.5,+110,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,1.5,−165,1.5,+120,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,1.5,+100,1.5,−140,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,1.5,+120,1.5,−165,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,1.5,−115,1.5,−120,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,1.5,−140,1.5,+100,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,1.5,−125,1.5,−110,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,1.5,−160,1.5,+120,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,1.5,+115,1.5,−155,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,1.5,−145,1.5,+105,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,−170,0.5,+125,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,1.5,−115,1.5,−115,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,1.5,+110,1.5,−150,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,−160,0.5,+120,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,1.5,+105,1.5,−145,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,1.5,+130,1.5,−180,Hits + Runs + RBIs,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+1000,0.5,−6000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+1200,0.5,−20000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+240,0.5,−350,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+650,0.5,−1800,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+275,0.5,−425,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,+850,0.5,−3000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+850,0.5,−3000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+1100,0.5,−8000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+850,0.5,−3000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+1100,0.5,−8000,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+450,0.5,−800,Stolen Bases,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+115,0.5,−160,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+150,0.5,−210,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+105,0.5,−140,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,−120,0.5,−115,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+135,0.5,−180,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+110,0.5,−150,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,−115,0.5,−115,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,−115,0.5,−115,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,+115,0.5,−160,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,−125,0.5,−105,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+115,0.5,−155,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,−135,0.5,+100,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+135,0.5,−185,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,−150,0.5,+110,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+150,0.5,−205,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,+135,0.5,−190,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+115,0.5,−155,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+130,0.5,−180,Singles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+400,0.5,−700,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+360,0.5,−600,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+330,0.5,−525,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+320,0.5,−500,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+400,0.5,−700,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+500,0.5,−1000,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+450,0.5,−800,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,+270,0.5,−400,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,+350,0.5,−575,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,+310,0.5,−475,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+350,0.5,−575,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+320,0.5,−500,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+475,0.5,−900,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+350,0.5,−575,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+400,0.5,−700,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,+550,0.5,−1200,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+400,0.5,−700,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+450,0.5,−800,Doubles,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+1000,0.5,−6000,Triples,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+850,0.5,−3000,Triples,ARI Diamondbacks,OAK Athletics,2024-06-30
+Armando Alvarez,0.5,+290,0.5,−450,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Brent Rooker,0.5,+215,0.5,−310,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Christian Walker,0.5,+110,0.5,−150,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Corbin Carroll,0.5,+105,0.5,−145,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Eugenio Suarez,0.5,+125,0.5,−170,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Geraldo Perdomo,0.5,+150,0.5,−205,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Jake McCarthy,0.5,+175,0.5,−245,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+JJ Bleday,0.5,+155,0.5,−215,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Joc Pederson,0.5,+130,0.5,−175,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Ketel Marte,0.5,+100,0.5,−135,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lawrence Butler,0.5,+240,0.5,−350,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Lourdes Gurriel Jr.,0.5,+210,0.5,−300,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Max Schuemann,0.5,+285,0.5,−450,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Miguel Andujar,0.5,+330,0.5,−525,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Shea Langeliers,0.5,+260,0.5,−390,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tucker Barnhart,0.5,+175,0.5,−245,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Tyler Soderstrom,0.5,+195,0.5,−280,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Zack Gelof,0.5,+320,0.5,−525,Walks,ARI Diamondbacks,OAK Athletics,2024-06-30
+Byron Buxton,0.5,+330,0.5,−525,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,+450,0.5,−800,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+550,0.5,−1100,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,+950,0.5,−4000,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,+500,0.5,−1100,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+450,0.5,−800,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+600,0.5,−1400,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+800,0.5,−2500,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+300,0.5,−475,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+650,0.5,−1600,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+475,0.5,−900,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+360,0.5,−600,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+350,0.5,−575,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+285,0.5,−450,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+550,0.5,−1100,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+475,0.5,−900,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+500,0.5,−1000,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+650,0.5,−1600,Home Runs,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,−145,0.5,+105,Hits,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,−215,0.5,+155,Hits,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,−170,0.5,+125,Hits,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,−125,0.5,−110,Hits,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,−125,0.5,−110,Hits,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,−105,0.5,−130,Hits,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,−160,0.5,+120,Hits,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,−175,0.5,+130,Hits,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,−250,0.5,+180,Hits,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,−110,0.5,−125,Hits,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,−205,0.5,+150,Hits,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,−115,0.5,−115,Hits,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,−135,0.5,+100,Hits,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,−185,0.5,+135,Hits,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,−135,0.5,+100,Hits,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,−200,0.5,+145,Hits,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,−150,0.5,+110,Hits,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,−205,0.5,+150,Hits,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,−145,0.5,+105,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,1.5,+135,1.5,−190,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,−170,0.5,+125,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,−125,0.5,−110,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,−125,0.5,−110,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,−105,0.5,−130,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,−160,0.5,+120,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,−175,0.5,+130,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,1.5,+120,1.5,−160,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,−110,0.5,−125,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,1.5,+120,1.5,−165,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,−115,0.5,−115,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,−135,0.5,+100,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,1.5,+130,1.5,−180,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,−135,0.5,+100,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,1.5,+140,1.5,−190,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,−150,0.5,+110,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,1.5,+135,1.5,−180,Total Bases,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+175,0.5,−245,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,+180,0.5,−250,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+210,0.5,−300,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,+320,0.5,−525,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,+265,0.5,−400,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+280,0.5,−425,RBIs,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+295,0.5,−450,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+295,0.5,−450,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+160,0.5,−220,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+280,0.5,−425,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+190,0.5,−265,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+220,0.5,−310,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+215,0.5,−310,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+150,0.5,−205,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+245,0.5,−360,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+210,0.5,−300,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+235,0.5,−350,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+285,0.5,−450,RBIs,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+145,0.5,−200,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,+135,0.5,−185,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+140,0.5,−195,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,+235,0.5,−340,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,+210,0.5,−300,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+165,0.5,−230,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+165,0.5,−225,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+170,0.5,−235,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+125,0.5,−170,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+190,0.5,−270,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+140,0.5,−190,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+160,0.5,−225,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+165,0.5,−225,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+110,0.5,−150,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+180,0.5,−250,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+135,0.5,−180,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+165,0.5,−230,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+115,0.5,−160,Runs Scored,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,1.5,+120,1.5,−165,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,1.5,−110,1.5,−125,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,1.5,+110,1.5,−150,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,−150,0.5,+110,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,−150,0.5,+110,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,−135,0.5,+100,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,1.5,+135,1.5,−185,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,1.5,+125,1.5,−170,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,1.5,−115,1.5,−115,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,−150,0.5,+110,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,1.5,−110,1.5,−125,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,−160,0.5,+120,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,−170,0.5,+125,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,1.5,−110,1.5,−125,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,−175,0.5,+130,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,1.5,+100,1.5,−135,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Ty France,1.5,+135,1.5,−180,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,1.5,−105,1.5,−130,Hits + Runs + RBIs,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+800,0.5,−2500,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+425,0.5,−750,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+600,0.5,−1400,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+380,0.5,−650,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+600,0.5,−1400,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+950,0.5,−5000,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+400,0.5,−700,Stolen Bases,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+175,0.5,−245,Singles,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,−110,0.5,−125,Singles,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+130,0.5,−180,Singles,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,+130,0.5,−175,Singles,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,+170,0.5,−235,Singles,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+220,0.5,−320,Singles,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+125,0.5,−170,Singles,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+110,0.5,−145,Singles,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,−110,0.5,−125,Singles,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+185,0.5,−255,Singles,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+115,0.5,−160,Singles,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+210,0.5,−300,Singles,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+180,0.5,−250,Singles,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+130,0.5,−180,Singles,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+140,0.5,−195,Singles,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+115,0.5,−155,Singles,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+120,0.5,−165,Singles,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+105,0.5,−145,Singles,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+500,0.5,−1000,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,+425,0.5,−750,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+340,0.5,−550,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Christian Vazquez,0.5,+600,0.5,−1400,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Dominic Canzone,0.5,+475,0.5,−900,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+650,0.5,−1600,Doubles,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+390,0.5,−700,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+380,0.5,−650,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+475,0.5,−900,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+500,0.5,−1000,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+300,0.5,−475,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+650,0.5,−1600,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+600,0.5,−1400,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+475,0.5,−900,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+550,0.5,−1200,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+350,0.5,−550,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+550,0.5,−1200,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+310,0.5,−475,Doubles,SEA Mariners,MIN Twins,2024-06-30
+Byron Buxton,0.5,+310,0.5,−475,Walks,SEA Mariners,MIN Twins,2024-06-30
+Carlos Correa,0.5,+200,0.5,−280,Walks,SEA Mariners,MIN Twins,2024-06-30
+Carlos Santana,0.5,+160,0.5,−225,Walks,SEA Mariners,MIN Twins,2024-06-30
+Dylan Moore,0.5,+250,0.5,−370,Walks,SEA Mariners,MIN Twins,2024-06-30
+J.P. Crawford,0.5,+155,0.5,−215,Walks,SEA Mariners,MIN Twins,2024-06-30
+Josh Rojas,0.5,+260,0.5,−380,Walks,SEA Mariners,MIN Twins,2024-06-30
+Julio Rodriguez ,0.5,+320,0.5,−500,Walks,SEA Mariners,MIN Twins,2024-06-30
+Luke Raley,0.5,+350,0.5,−575,Walks,SEA Mariners,MIN Twins,2024-06-30
+Max Kepler,0.5,+245,0.5,−360,Walks,SEA Mariners,MIN Twins,2024-06-30
+Mitch Garver,0.5,+145,0.5,−200,Walks,SEA Mariners,MIN Twins,2024-06-30
+Mitch Haniger,0.5,+275,0.5,−425,Walks,SEA Mariners,MIN Twins,2024-06-30
+Royce Lewis,0.5,+200,0.5,−285,Walks,SEA Mariners,MIN Twins,2024-06-30
+Ryan Jeffers,0.5,+235,0.5,−350,Walks,SEA Mariners,MIN Twins,2024-06-30
+Trevor Larnach,0.5,+185,0.5,−260,Walks,SEA Mariners,MIN Twins,2024-06-30
+Ty France,0.5,+225,0.5,−330,Walks,SEA Mariners,MIN Twins,2024-06-30
+Willi Castro,0.5,+200,0.5,−285,Walks,SEA Mariners,MIN Twins,2024-06-30
+Adley Rutschman,0.5,+475,0.5,−900,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,+245,0.5,−360,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,+265,0.5,−400,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,+450,0.5,−800,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+750,0.5,−2500,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,+475,0.5,−900,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,+750,0.5,−2500,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,+500,0.5,−1100,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+500,0.5,−1000,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,+400,0.5,−700,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+425,0.5,−750,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+550,0.5,−1100,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,+850,0.5,−3000,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,+390,0.5,−650,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,+950,0.5,−5000,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,+550,0.5,−1100,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,+380,0.5,−650,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,+425,0.5,−750,Home Runs,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,1.5,+165,1.5,−230,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,1.5,+175,1.5,−240,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,−240,0.5,+175,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,−235,0.5,+170,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,−145,0.5,+110,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,−170,0.5,+125,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,−245,0.5,+175,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,−225,0.5,+160,Hits,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,−210,0.5,+155,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,−275,0.5,+195,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,−250,0.5,+180,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,−240,0.5,+170,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,−200,0.5,+145,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,1.5,+155,1.5,−210,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,−210,0.5,+150,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,−265,0.5,+185,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,1.5,+145,1.5,−195,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,1.5,+200,1.5,−285,Hits,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,1.5,−105,1.5,−130,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,1.5,−120,1.5,−115,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,1.5,+105,1.5,−140,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,1.5,+125,1.5,−170,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,−145,0.5,+110,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,−170,0.5,+125,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,1.5,+140,1.5,−195,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,−200,0.5,+145,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,1.5,+140,1.5,−190,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,1.5,+105,1.5,−145,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,1.5,+115,1.5,−155,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,1.5,+130,1.5,−180,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,−200,0.5,+145,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,1.5,−125,1.5,−110,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,−210,0.5,+150,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,1.5,+120,1.5,−165,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,1.5,−120,1.5,−115,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,1.5,+100,1.5,−135,Total Bases,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,0.5,+170,0.5,−240,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,+110,0.5,−150,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,+130,0.5,−175,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,+155,0.5,−215,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+245,0.5,−360,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,+185,0.5,−260,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,+210,0.5,−300,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,+170,0.5,−235,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+165,0.5,−230,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,+135,0.5,−185,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+130,0.5,−175,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+185,0.5,−260,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,+225,0.5,−330,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,+155,0.5,−215,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,+230,0.5,−330,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,+195,0.5,−280,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,+135,0.5,−185,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,+155,0.5,−215,RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,0.5,−135,0.5,+100,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,−120,0.5,−110,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,−115,0.5,−120,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,+110,0.5,−150,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+135,0.5,−185,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,+145,0.5,−195,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,+140,0.5,−195,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,+100,0.5,−140,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+140,0.5,−190,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,+120,0.5,−165,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+100,0.5,−135,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+115,0.5,−160,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,+130,0.5,−175,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,−110,0.5,−120,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,+160,0.5,−225,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,+110,0.5,−150,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,−130,0.5,−105,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,−110,0.5,−125,Runs Scored,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,2.5,+125,2.5,−170,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,2.5,+105,2.5,−140,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,1.5,−145,1.5,+105,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,1.5,−130,1.5,−105,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,1.5,+120,1.5,−165,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,1.5,+110,1.5,−150,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,1.5,−115,1.5,−115,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,1.5,−120,1.5,−110,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,1.5,−115,1.5,−120,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,1.5,−145,1.5,+105,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,1.5,−145,1.5,+105,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,1.5,−120,1.5,−115,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,1.5,+100,1.5,−135,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,2.5,+120,2.5,−160,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,1.5,+100,1.5,−135,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,1.5,−130,1.5,−105,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,2.5,+105,2.5,−140,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,1.5,−160,1.5,+120,Hits + Runs + RBIs,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+950,0.5,−4000,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,+800,0.5,−2500,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,+600,0.5,−1400,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+800,0.5,−2500,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+330,0.5,−525,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,+800,0.5,−2500,Stolen Bases,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,0.5,−160,0.5,+120,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,−110,0.5,−120,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,+110,0.5,−150,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,−110,0.5,−125,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+120,0.5,−160,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,+135,0.5,−185,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,−135,0.5,+100,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,−105,0.5,−130,Singles,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+105,0.5,−140,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,−120,0.5,−115,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,−110,0.5,−125,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,−115,0.5,−120,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,−120,0.5,−115,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,−145,0.5,+105,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,−135,0.5,+100,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,−125,0.5,−105,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,−155,0.5,+115,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,−125,0.5,−110,Singles,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,0.5,+310,0.5,−475,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,+310,0.5,−475,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,+340,0.5,−550,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,+370,0.5,−600,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+500,0.5,−1000,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Davis Wendzel,0.5,+425,0.5,−750,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Derek Hill,0.5,+380,0.5,−650,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,+425,0.5,−750,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+370,0.5,−650,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,+310,0.5,−500,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+360,0.5,−575,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+380,0.5,−650,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,+450,0.5,−800,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,+245,0.5,−360,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,+450,0.5,−900,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,+330,0.5,−525,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,+290,0.5,−450,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,+300,0.5,−475,Doubles,BAL Orioles,TEX Rangers,2024-06-30
+Adley Rutschman,0.5,+105,0.5,−145,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Adolis Garcia,0.5,+245,0.5,−360,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Anthony Santander,0.5,+110,0.5,−150,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Austin Hays,0.5,+240,0.5,−350,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Colton Cowser,0.5,+160,0.5,−220,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Gunnar Henderson,0.5,−115,0.5,−120,Walks,BAL Orioles,TEX Rangers,2024-06-30
+James McCann,0.5,+330,0.5,−525,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Jonah Heim,0.5,+350,0.5,−575,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Jordan Westburg,0.5,+225,0.5,−330,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Jorge Mateo,0.5,+280,0.5,−425,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Josh Smith,0.5,+265,0.5,−390,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Marcus Semien,0.5,+240,0.5,−350,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Nathaniel Lowe,0.5,+240,0.5,−350,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Robbie Grossman,0.5,+155,0.5,−210,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Ryan Mountcastle,0.5,+215,0.5,−310,Walks,BAL Orioles,TEX Rangers,2024-06-30
+Wyatt Langford,0.5,+205,0.5,−290,Walks,BAL Orioles,TEX Rangers,2024-06-30
